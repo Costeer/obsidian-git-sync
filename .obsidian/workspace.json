@@ -11,11 +11,9 @@
             "id": "6fdfe5abcdc67029",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md"
               }
             }
           }
@@ -143,11 +141,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "6fdfe5abcdc67029",
+  "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-17 11.31.44.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-17 10.16.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-11 08.29.40.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-20 10.58.32.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-20 10.20.54.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-15 10.52.38.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
+    "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-22 20.28.48.excalidraw.md",
+    "README.md",
     "XXX_Linux/Rofi/launchers/type-2/shared/fonts.rasi.md",
     "XXX_Linux/Rofi/launchers/type-2/shared/colors.rasi.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/xbacklight.ini.md",
@@ -164,16 +176,6 @@
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-left.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-left-dark.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/session.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-space-round.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-red.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-purple.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-darker.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-dark.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-blue.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-black.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-left.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-left-red.ini.md",
     "XXX_Linux/Rofi/launchers/type-2/shared",
     "XXX_Linux/Rofi/powermenu/type-2/shared",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules",
@@ -190,7 +192,6 @@
     "XXX_Linux/Rofi/images/g.png",
     "XXX_Linux/Rofi/images/flowers-3.png",
     "XXX_Linux/Rofi/images/flowers-2.png",
-    "XXX_Linux/Rofi/images/flowers-1.png",
     "XXX_Linux/Rofi/applets/type-1",
     "XXX_Linux/Rofi/applets/shared",
     "XXX_Linux/Rofi/applets/bin"
