@@ -3,5 +3,10 @@
   "table-editor-obsidian",
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "cmdr",
+  "obsidian-hider",
+  "obsidian-minimal-settings",
+  "obsidian-projects",
+  "tag-wrangler"
 ]
