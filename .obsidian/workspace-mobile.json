@@ -120,9 +120,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "bd79e137658cb966",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "/Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md"
+  ]
 }
