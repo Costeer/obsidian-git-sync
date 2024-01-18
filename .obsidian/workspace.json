@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f2a0cb0e9ec04e52",
+        "id": "3bf1d44e623673ac",
         "type": "tabs",
         "children": [
           {
-            "id": "6fdfe5abcdc67029",
+            "id": "de3708fbbd9bf0a3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md"
+                "file": "Geschichte/Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md",
+                "file": "Geschichte/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md",
+                "file": "Geschichte/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md"
+                "file": "Geschichte/Notes.md"
               }
             }
           }
@@ -147,10 +149,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "10bf406a1bc86bff",
+  "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md",
+    "Untitled.md",
     "test.md",
     "README.md",
     "Excalidraw/Drawing 2024-01-17 11.31.44.excalidraw.md",
