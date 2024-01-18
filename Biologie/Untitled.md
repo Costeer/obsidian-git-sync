@@ -1,0 +1,2 @@
+2) Phospholipiden haben zwei teile, ein Kopfteil der rund ist und Hydrophil(Wasserliebend) und ein schwanzteil der aussieht wie schlangen(arme), der Hydrophob(Wassermeidend) ist
+3) Hypothese: Die Kanalproteine lassen bestimmte Proteine durch. Die Proteine verändern ihre Struktur.

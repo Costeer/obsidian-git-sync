@@ -1,0 +1,1 @@
+Zesuren berücksichtigen selten alle Aspekte des Zeitalters und konzentrieren sich auf bestimmte, dass führt dazu das Zesuren dort gesetzt werden wo wissenschaftlich eine neue Epoche beginnt sozialpolitisch sich aber nichts/wenig ändert

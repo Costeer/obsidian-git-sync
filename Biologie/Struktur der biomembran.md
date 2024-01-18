@@ -1,0 +1,3 @@
+### Aufbau
+Die biomembran besteht aus einer aneinanderkettung von [[Glykolproteine]] zwischen welcher [[Peripherie Membran-Proteine]] sind an der Oberfläche der Membran befinden sich [[Integrale Membran-Proteine]] welche wie arm ähnliche Dinger aussehen es gibt aber auch die [[Transmembranproteine]] welche genau so aussehen wie [[Integrale Membran-Proteine]] sie formen aber eine Tunnel artige Struktur durch die Membran
+![[800px-Cell_membrane_detailed_diagram_de_svg.png]]

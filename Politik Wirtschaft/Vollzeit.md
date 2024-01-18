@@ -1,0 +1,3 @@
+Als Vollzeit gilt eine Beschäftigung, in der Personen regelmäßig die nor­maler­weise übliche bzw. ta­rif­ver­trag­lich oder gesetzlich festgelegte Arbeitszeit leisten sollen. Die ta­rif­ver­trag­liche Arbeitszeit kann je nach Be­trieb erheblich von­ein­ander abweichen.
+
+Für die Darstellung von Vollzeit (als auch [[Teil­zeit]] aus den Ergebnissen der Mi­kro­zensus-Haus­halts­stich­probe verwendet das Statistische Bun­des­amt die im ESS ver­ein­barte Definition, d.h. die Selbst­ein­schätz­ung der Be­frag­ten.

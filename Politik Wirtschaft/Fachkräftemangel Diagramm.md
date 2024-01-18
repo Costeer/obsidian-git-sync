@@ -1,0 +1,1 @@
+In dem Diagramm "Fachkräftemangel nach brachen in Deutschland"geht um Fachkräftemangel 

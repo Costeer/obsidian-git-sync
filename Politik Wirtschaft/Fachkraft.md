@@ -1,0 +1,1 @@
+Fachkräfte sind Menschen welche eine Ausbildung absolviert haben

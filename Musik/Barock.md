@@ -1,0 +1,1 @@
+Als Barock wird eine Epoche der Kunstgeschichte und der Kulturgeschichte bezeichnet, die zu Beginn des 17. Jahrhunderts begann

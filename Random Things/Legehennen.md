@@ -1,0 +1,1 @@
+Legehennen legen die ersten paar mahle die sie Eier legen kleine Eier bis sie anfangen größere zu legen

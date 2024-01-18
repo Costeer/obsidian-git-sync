@@ -1,0 +1,1 @@
+**Sauerstoff** und **Kohlenstoffdioxid**  können ungehindert durch die Membran diffundieren 

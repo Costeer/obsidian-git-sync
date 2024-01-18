@@ -1,0 +1,3 @@
+zusammenfassender Begriff für die europäische Musiktradition der Kunstmusik
+
+Die Bezeichnungen Klassik oder klassische Musik können je nach Kontext unterschiedliche Bedeutungen haben. In einem engen musikwissenschaftlichen Sinn werden unter Klassik im deutschen Sprachraum die vorherrschenden europäischen Stile der Kunstmusik von etwa 1730 bis 1830 verstanden. In einem weiteren, umgangssprachlichen Sinn werden Klassik oder klassische Musik als Bezeichnungen für die gesamte Tradition der europäischen Kunstmusik gebraucht. In Zusammensetzungen kann klassische Musik auch weitere, wie etwa außereuropäische oder populäre, Musiktraditionen bezeichnen.

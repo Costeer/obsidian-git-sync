@@ -1,0 +1,1 @@
+Hat eine carbonylgruppe und viele hydroxigruppen 

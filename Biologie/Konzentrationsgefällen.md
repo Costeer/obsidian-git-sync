@@ -1,0 +1,7 @@
+Ein **Konzentrationsgefälle** oder **Konzentrationsgradient** (ungenau auch **Stoffgradient** genannt) zwischen zwei Orten x1 und x2 besteht, wenn sich die dort jeweils herrschenden [Konzentrationen](https://de.wikipedia.org/wiki/Konzentration_(Chemie) "Konzentration (Chemie)") eines Stoffes – c1 und c2 – voneinander unterscheiden.
+
+Nur das Wort Konzentrations**gefälle** kann auch im engeren Sinn für räumliches Abfallen einer Konzentration verwendet werden, als Gegenspieler des Worts Konzentrations**anstieg**.
+
+Die [[Diffusion]] von Stoffen erfolgt aufgrund eines Konzentrationsgradienten. Als elektrochemischen Gradienten bezeichnet man das Konzentrationsgefälle von gelösten [[Ion|ionen]] , dieses hat eine herausragende Bedeutung für biologische Systeme, insbesondere den zellulären Energiestoffwechsel und die Nervenleitung.
+
+Im engeren Sinne bezeichnet der Konzentrationsgradient eine kontinuierliche örtliche Änderung der Konzentration. Der Konzentrationsgradient ist dann das Maß des Unterschieds und damit des [Gradienten](https://de.wikipedia.org/wiki/Gradient_(Mathematik) "Gradient (Mathematik)") einer [Konzentration](https://de.wikipedia.org/wiki/Stoffmengenkonzentration "Stoffmengenkonzentration") eines [chemischen Stoffes](https://de.wikipedia.org/wiki/Chemischer_Stoff "Chemischer Stoff"). Er ist der Quotient (genauer: [Differentialquotient](https://de.wikipedia.org/wiki/Differentialquotient "Differentialquotient")) aus Konzentrationsunterschied und der Distanz zwischen zwei Punkten in diesem Raum.

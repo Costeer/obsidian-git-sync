@@ -1,0 +1,5 @@
+Teilzeit ist jede Arbeitszeit, die weniger Arbeitsstunden als die Arbeitszeit von vergleichbaren Personen in [[Vollzeit]] umfasst.
+
+International gibt es keine einheitliche Definition von Voll- und Teilzeitbeschäftigung. Gebräuchlich sind, je nach Fragestellung und Analysekontext, unterschiedliche Definitionen. Auch die Internationale Arbeitsorganisation verwendet keine feste Stundengrenze, sondern definiert Teilzeit generell als Tätigkeit, deren „Normalarbeitszeit geringer ist als diejenige vergleichbarer Vollzeitarbeitnehmer“ (ILO Konvention 175). Diese Definition muss jedoch für die statistische Erfassung operationalisiert werden. So verwendet beispielsweise die OECD in vielen Veröffentlichungen die Grenze von 30 Stunden Im Europäischen Statistischen System (ESS) wird die Selbsteinschätzung der Befragten zu Grunde gelegt. Betrachtet wird in der Regel die Haupterwerbstätigkeit.
+
+Für die Darstellung von Teilzeit (als auch [[Vollzeit]]) aus den Ergebnissen der Mikrozensus-Haushaltsstichprobe verwendet das Statistische Bundesamt die im ESS vereinbarte Definition, d.h. die Selbsteinschätzung der Befragten.

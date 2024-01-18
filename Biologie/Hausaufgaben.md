@@ -1,0 +1,1 @@
+Es entsteht eine Situation in welcher eine Osmose stadtfindet 

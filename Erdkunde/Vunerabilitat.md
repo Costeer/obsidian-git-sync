@@ -1,0 +1,1 @@
+Die Vulnerabilität beschreibt die Anfälligkeit bzw. Empfindlichkeit oder auch Verletzbarkeit von Mensch, Gesellschaft und Infrastruktur eines Lebens und Wirtschaftsraumes. Man spricht von ökologischer, sozialer und technischer Vulnerabilität. Anfälligkeit gegenüber einem Naturereignis

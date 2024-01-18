@@ -1,0 +1,1 @@
+Die damaligen Portugiesen haben den damaligen 

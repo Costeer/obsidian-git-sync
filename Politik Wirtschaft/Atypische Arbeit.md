@@ -1,0 +1,1 @@
+Zu den atypischen Beschäftigungsformen werden – in Ab­gren­zung vom Nor­mal­ar­beits­ver­hält­nis – [[Teil­zeit]]­be­schäf­ti­gun­gen mit 20 oder weni­ger Ar­beits­stun­den pro Woche, ge­ring­fü­gige Be­schäf­ti­gun­gen, be­fris­tete Be­schäf­ti­gun­gen so­wie Zeit­ar­beits­ver­hält­nisse ge­zählt.

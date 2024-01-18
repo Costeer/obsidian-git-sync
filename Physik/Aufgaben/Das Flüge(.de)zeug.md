@@ -1,0 +1,1 @@
+Ein Versorgungsflugzeug soll in 500m höhe mit einer Horizontalgeschwindigkeit von 360 ms ein Paket abwerfen bestimmten sie den Ort über dem der Pilot den Abwurf auslösen soll, damit das Paket im vereinbarten Zielbereich Auftritt.

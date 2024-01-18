@@ -1,0 +1,1 @@
+Unter einem **Normalarbeitsverhältnis** wird ein Arbeitsverhältnis verstanden, das nach der allgemeinen Verkehrsauffassung als typisch anzusehen ist und dem eine [[Vollzeit]]beschäftigung "Vollzeitäquivalent") aufgrund eines unbefristeten Arbeitsvertrags zugrunde liegt.

@@ -1,0 +1,1 @@
+In der Forschung wird prekäre Beschäftigung häufig mit [[Atypische Arbeit |Atypischer Arbeit]] gleichgesetzt.

@@ -1,0 +1,1 @@
+A person (commonly in film and other media) doing good things while ultimately having a "Villain" like goal

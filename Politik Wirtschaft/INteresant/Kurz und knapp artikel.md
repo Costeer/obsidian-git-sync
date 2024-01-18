@@ -1,0 +1,1 @@
+https://www.bpb.de/kurz-knapp/zahlen-und-fakten/datenreport-2021/arbeitsmarkt-und-verdienste/329837/ursachen-dauerhaft-prekaerer-beschaeftigung-atypische-beschaeftigung/

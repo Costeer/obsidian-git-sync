@@ -1,0 +1,2 @@
+Tcc gga GCC ach tca AAC aaa atg gaa GGG gac TTT ggc tta TTT tat
+AUA AAA UAA GCC AAA GUC CCC UUC CAU UUU GUU UGA HGU GGC UCC GGA
