@@ -1,0 +1,1 @@
+Die Anzahl an Fachkräften welche benötigt werden um bestimmte Sachen zu Vollrichten 
