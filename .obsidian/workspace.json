@@ -11,9 +11,11 @@
             "id": "6fdfe5abcdc67029",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,8 +149,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "10bf406a1bc86bff",
+  "active": "6fdfe5abcdc67029",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md",
     "Excalidraw/Drawing 2024-01-17 11.31.44.excalidraw.md",
     "Excalidraw/Drawing 2024-01-17 10.16.34.excalidraw.md",
     "Excalidraw/Drawing 2024-01-11 08.29.40.excalidraw.md",
@@ -175,7 +178,6 @@
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-right.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-left.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-left-dark.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/session.ini.md",
     "XXX_Linux/Rofi/launchers/type-2/shared",
     "XXX_Linux/Rofi/powermenu/type-2/shared",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules",
