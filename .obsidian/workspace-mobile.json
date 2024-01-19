@@ -11,11 +11,25 @@
             "id": "bd79e137658cb966",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5221535a56ce493f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea8beb432d5fdf34",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "Musik/Johann Sebastian Bach.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md"
               }
             }
           }
@@ -85,7 +99,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Musik/Johann Sebastian Bach.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Musik/Johann Sebastian Bach.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +125,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Musik/Johann Sebastian Bach.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -136,6 +146,12 @@
   },
   "active": "bd79e137658cb966",
   "lastOpenFiles": [
+    "Excalidraw/Kfmflf.excalidraw.md",
+    "Excalidraw/Kfmflf.excalidraw",
+    "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
+    "notationuebung.pdf",
+    "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
+    "Musik/Johann Sebastian Bach.md",
     "Chemie/Fraktionierte Destillation.md",
     "Chemie/Elektron.md",
     "Chemie/Alkane.md",
