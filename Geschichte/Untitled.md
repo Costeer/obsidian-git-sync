@@ -1,6 +1,4 @@
-| Schritt 1: | Das eigene Erkenntnisinteresse bestimmen und als Untersuchungsfrage(n) formulieren. |
-| ---------- | ----------------------------------------------------------------------------------- |
-| Schritt 2: | Die Textsorte bestimmen und charakterisieren.                                       |
+### 1. Shritt
 Bei der vorliegenden Queile handelt es sich um ... (7. 8.: eine Rede/eine offizielle Regierungsbe- kanntmachung/einen Zeitungsortikel/das Protokoll einer Konferenz/einen privaten Brief/eine Urkunde über.../
 Den Autor der Quelle sowie Erscheinungsort und -zeit der Quelle vorstellen.
 Autor/Redner ist..;der Text wurde am. anlässlich von ...geschrieben/veröffentlicht. Der Text. wurde veröffentlicht/erschien om . ni ...Dei Quelle ist entstanden... und wurde verfasst von .. Über den Autor/zu den Autoren ist uz sagen ... Zum Ort/Zeitpunkt der Enklärung ist ouffällig/ bemerkenswert/wichtig, dass...
