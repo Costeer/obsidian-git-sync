@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+                "file": "Chemie/Außenelektronen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+            "file": "Chemie/Außenelektronen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+            "file": "Chemie/Außenelektronen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/Das Sytem der Encomienda und seine usetztung.md"
+            "file": "Chemie/Außenelektronen.md"
           }
         }
       }
@@ -136,8 +136,9 @@
   },
   "active": "bd79e137658cb966",
   "lastOpenFiles": [
-    "Geschichte/Eurozentrisches denken.md",
+    "Erdkunde/Endogene.md",
     "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+    "Geschichte/Eurozentrisches denken.md",
     "README.md",
     "/README.md",
     "/Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md"
