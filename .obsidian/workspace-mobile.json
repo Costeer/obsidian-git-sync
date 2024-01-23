@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Aufgaben/Aufgaben zur H methode.md",
+                "file": "Mathematik/H Methode.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Aufgaben/Aufgaben zur H methode.md",
+            "file": "Mathematik/H Methode.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Aufgaben/Aufgaben zur H methode.md",
+            "file": "Mathematik/H Methode.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Aufgaben/Aufgaben zur H methode.md"
+            "file": "Mathematik/H Methode.md"
           }
         }
       }
@@ -159,8 +159,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "21d8ea9e7a890054",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
+    "Mathematik/Limes.md",
+    "Mathematik/UnGrade Zahlen.md",
+    "Mathematik/Aufgaben/Aufgaben zur H methode.md",
     "Biologie/Wie beeinflusst die Temperatur die Geschwindigkeit enzymatischer Reaktionen?.md",
     "Biologie/Transmembranproteine.md",
     "Biologie/Phospholipide.md",
@@ -186,9 +189,6 @@
     "Musik/Johann Sebastian Bach.md",
     "Chemie/Fraktionierte Destillation.md",
     "Chemie/Elektron.md",
-    "Chemie/Zucker.md",
-    "Chemie/Spektroskopie.md",
-    "Chemie/spektroskopisch.md",
-    "Chemie/Test.md"
+    "Chemie/Zucker.md"
   ]
 }
