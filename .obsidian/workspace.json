@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Notes.md",
+                "file": "Geschichte/Zesuren.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Notes.md",
+                "file": "Geschichte/Zesuren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Notes.md",
+                "file": "Geschichte/Zesuren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Notes.md"
+                "file": "Geschichte/Zesuren.md"
               }
             }
           }
@@ -151,10 +151,15 @@
   },
   "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
+    "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+    "notationuebung.pdf",
+    "Geschichte/Notes.md",
+    "README.md",
+    "Excalidraw/Kfmflf.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md",
     "Untitled.md",
     "test.md",
-    "README.md",
     "Excalidraw/Drawing 2024-01-17 11.31.44.excalidraw.md",
     "Excalidraw/Drawing 2024-01-17 10.16.34.excalidraw.md",
     "Excalidraw/Drawing 2024-01-11 08.29.40.excalidraw.md",
@@ -173,11 +178,6 @@
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/weather.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/wallz.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/title.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/time.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/temperature.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/strich.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/space.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-right.ini.md",
     "XXX_Linux/Rofi/launchers/type-2/shared",
     "XXX_Linux/Rofi/powermenu/type-2/shared",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules",
@@ -195,7 +195,6 @@
     "XXX_Linux/Rofi/images/flowers-3.png",
     "XXX_Linux/Rofi/images/flowers-2.png",
     "XXX_Linux/Rofi/applets/type-1",
-    "XXX_Linux/Rofi/applets/shared",
-    "XXX_Linux/Rofi/applets/bin"
+    "XXX_Linux/Rofi/applets/shared"
   ]
 }
