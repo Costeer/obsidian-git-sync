@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notenzeichen.md",
+                "file": "Deutsch/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notenzeichen.md",
+            "file": "Deutsch/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notenzeichen.md",
+            "file": "Deutsch/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notenzeichen.md"
+            "file": "Deutsch/Untitled.md"
           }
         }
       }
@@ -163,6 +163,10 @@
   },
   "active": "a43009d2b405a320",
   "lastOpenFiles": [
+    "Deutsch/Rollenbiografie Gräfin.md",
+    "Deutsch/Untitled.md",
+    "Deutsch/Präsentation notes.md",
+    "Deutsch/Notes 9 jan.md",
     "Notenzeichen.md",
     "Excalidraw/Kfmflf.excalidraw.md",
     "Excalidraw/Kfmflf.excalidraw",
