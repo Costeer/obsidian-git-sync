@@ -2,7 +2,7 @@ A (5|f(5))
 
 Abstand h (h Methode)
 B (5+5|f(5+h))
-H muss immer in Richtung 0 also limes <mark style="background: #ABF7F7A6;">von</mark> h gegen 0
+H muss immer in Richtung 0 also limes von h gegen 0
 
 ### Schritt 1:
 X = 2+h
