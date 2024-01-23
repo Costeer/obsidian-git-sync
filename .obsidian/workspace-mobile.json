@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
+                "file": "Physik/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
+            "file": "Physik/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
+            "file": "Physik/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md"
+            "file": "Physik/Untitled.md"
           }
         }
       }
@@ -173,8 +173,10 @@
   },
   "active": "1af0be9f39aee0f9",
   "lastOpenFiles": [
-    "Mathematik/H Methode.md",
+    "Physik/Das erste Newtonische Axiom.md",
+    "Physik/Untitled.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
+    "Mathematik/H Methode.md",
     "Mathematik/Limes.md",
     "Mathematik/UnGrade Zahlen.md",
     "Mathematik/Aufgaben/Aufgaben zur H methode.md",
@@ -199,8 +201,6 @@
     "Excalidraw/Kfmflf.excalidraw.md",
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
-    "notationuebung.pdf",
-    "Musik/Johann Sebastian Bach.md",
-    "Chemie/Fraktionierte Destillation.md"
+    "notationuebung.pdf"
   ]
 }
