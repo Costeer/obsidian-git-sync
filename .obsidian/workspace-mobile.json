@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd79e137658cb966",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a43009d2b405a320",
             "type": "leaf",
             "state": {
@@ -26,27 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5221535a56ce493f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ea8beb432d5fdf34",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,10 +136,11 @@
   },
   "active": "a43009d2b405a320",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
+    "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Chemie/Isomere.md",
     "Chemie/1.) Chemie Verzeichnis.md",
     "Chemie/Alkane.md",
-    "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
     "Deutsch/Rollenbiografie Gräfin.md",
     "Deutsch/Präsentation notes.md",
@@ -176,7 +150,6 @@
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "notationuebung.pdf",
-    "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
     "Musik/Johann Sebastian Bach.md",
     "Chemie/Fraktionierte Destillation.md",
     "Chemie/Elektron.md",
