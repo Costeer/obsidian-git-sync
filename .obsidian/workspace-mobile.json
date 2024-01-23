@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "a43009d2b405a320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notenzeichen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5221535a56ce493f",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Notenzeichen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,6 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Notenzeichen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +140,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Notenzeichen.md"
+          }
         }
       }
     ],
@@ -144,8 +161,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "bd79e137658cb966",
+  "active": "a43009d2b405a320",
   "lastOpenFiles": [
+    "Notenzeichen.md",
     "Excalidraw/Kfmflf.excalidraw.md",
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
