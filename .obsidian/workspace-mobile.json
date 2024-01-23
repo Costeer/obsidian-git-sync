@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
+                "file": "Deutsch/Beispiel Klausur Aufgabe 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
+            "file": "Deutsch/Beispiel Klausur Aufgabe 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
+            "file": "Deutsch/Beispiel Klausur Aufgabe 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md"
+            "file": "Deutsch/Beispiel Klausur Aufgabe 1.md"
           }
         }
       }
@@ -163,8 +163,12 @@
   },
   "active": "a43009d2b405a320",
   "lastOpenFiles": [
-    "Deutsch/Rollenbiografie Gräfin.md",
+    "Chemie/Isomere.md",
+    "Chemie/1.) Chemie Verzeichnis.md",
+    "Chemie/Alkane.md",
+    "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
+    "Deutsch/Rollenbiografie Gräfin.md",
     "Deutsch/Präsentation notes.md",
     "Deutsch/Notes 9 jan.md",
     "Notenzeichen.md",
@@ -176,7 +180,6 @@
     "Musik/Johann Sebastian Bach.md",
     "Chemie/Fraktionierte Destillation.md",
     "Chemie/Elektron.md",
-    "Chemie/Alkane.md",
     "Chemie/Zucker.md",
     "Chemie/Spektroskopie.md",
     "Chemie/spektroskopisch.md",
