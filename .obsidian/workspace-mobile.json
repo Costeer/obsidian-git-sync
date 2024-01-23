@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Beispiel Klausur Aufgabe 1.md",
+                "file": "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deutsch/Beispiel Klausur Aufgabe 1.md",
+            "file": "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deutsch/Beispiel Klausur Aufgabe 1.md",
+            "file": "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deutsch/Beispiel Klausur Aufgabe 1.md"
+            "file": "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md"
           }
         }
       }
@@ -134,10 +134,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a43009d2b405a320",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
+    "Biologie/Einfache Diffusion.md",
+    "Chemie/Mol™.md",
+    "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md",
     "Deutsch/Beispiel Klausur Aufgabe 1.md",
+    "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
     "Chemie/Isomere.md",
     "Chemie/1.) Chemie Verzeichnis.md",
     "Chemie/Alkane.md",
@@ -161,9 +164,6 @@
     "Chemie/Außenelektronen.md",
     "Erdkunde/Endogene.md",
     "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
-    "Geschichte/Eurozentrisches denken.md",
-    "README.md",
-    "/README.md",
-    "/Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md"
+    "Geschichte/Eurozentrisches denken.md"
   ]
 }
