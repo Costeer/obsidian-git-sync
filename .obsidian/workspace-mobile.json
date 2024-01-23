@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md",
+            "file": "Physik/Das Wechselwirkungsprinzip.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md",
+            "file": "Physik/Das Wechselwirkungsprinzip.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md"
+            "file": "Physik/Das Wechselwirkungsprinzip.md"
           }
         }
       }
@@ -181,10 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4d5b28bc7be0bc4",
+  "active": "1af0be9f39aee0f9",
   "lastOpenFiles": [
-    "Physik/Das Wechselwirkungsprinzip.md",
     "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md",
+    "Physik/Das Wechselwirkungsprinzip.md",
     "Physik/Das erste Newtonische Axiom.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
     "Mathematik/H Methode.md",
