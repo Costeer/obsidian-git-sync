@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Chemie/Primäre, sekundäre und tertiäre Alkohole.md"
+            "file": "README.md"
           }
         }
       }
@@ -149,8 +149,9 @@
   },
   "active": "21db006e0e97f392",
   "lastOpenFiles": [
-    "Chemie/Chemie.md",
     "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
+    "Pictures/IMG_0110.jpeg",
+    "Chemie/Chemie.md",
     "Deutsch/Strichpunkte Marinelli.md",
     "Untitled.md",
     "Deutsch/Präsentation notes.md",
@@ -174,7 +175,6 @@
     "Chemie/Mol™.md",
     "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
     "Chemie/Isomere.md",
-    "Chemie/1.) Chemie Verzeichnis.md",
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "notationuebung.pdf"
