@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Strichpunkte Marinelli.md",
+                "file": "Chemie/Chemi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deutsch/Strichpunkte Marinelli.md",
+            "file": "Chemie/Chemi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deutsch/Strichpunkte Marinelli.md",
+            "file": "Chemie/Chemi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deutsch/Strichpunkte Marinelli.md"
+            "file": "Chemie/Chemi.md"
           }
         }
       }
@@ -136,8 +136,9 @@
   },
   "active": "a43009d2b405a320",
   "lastOpenFiles": [
-    "Untitled.md",
     "Deutsch/Strichpunkte Marinelli.md",
+    "Chemie/Chemi.md",
+    "Untitled.md",
     "Deutsch/Präsentation notes.md",
     "Deutsch/Rollenbiografie Gräfin.md",
     "Deutsch/Beispiel Klausur Aufgabe 1.md",
@@ -161,7 +162,6 @@
     "Chemie/Isomere.md",
     "Chemie/1.) Chemie Verzeichnis.md",
     "Chemie/Alkane.md",
-    "Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "notationuebung.pdf"
