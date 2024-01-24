@@ -130,14 +130,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "a43009d2b405a320",
   "lastOpenFiles": [
-    "Deutsch/Beispiel Klausur Aufgabe 1.md",
+    "Untitled.md",
     "Deutsch/Strichpunkte Marinelli.md",
+    "Deutsch/Präsentation notes.md",
+    "Deutsch/Rollenbiografie Gräfin.md",
+    "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md",
     "Biologie/Codon Triplet.md",
     "/README.md",
@@ -152,7 +155,6 @@
     "Biologie/Wie beeinflusst die Temperatur die Geschwindigkeit enzymatischer Reaktionen?.md",
     "Biologie/Transmembranproteine.md",
     "Biologie/Phospholipide.md",
-    "Untitled.md",
     "Biologie/Einfache Diffusion.md",
     "Chemie/Mol™.md",
     "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
@@ -160,8 +162,6 @@
     "Chemie/1.) Chemie Verzeichnis.md",
     "Chemie/Alkane.md",
     "Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
-    "Deutsch/Rollenbiografie Gräfin.md",
-    "Deutsch/Präsentation notes.md",
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "notationuebung.pdf"
