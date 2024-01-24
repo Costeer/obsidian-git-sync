@@ -7,6 +7,7 @@
 - Betrachte Frauen als objekte
 - smarti
 - party
+- Naaa pulled der das 
 
 
 ### Text:
