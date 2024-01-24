@@ -6,7 +6,7 @@
 - Machtgierig
 - Betrachte Frauen als objekte
 - smarti
-- 
+- party
 
 
 ### Text:
