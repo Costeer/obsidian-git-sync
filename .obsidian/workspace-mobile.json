@@ -13,60 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md",
+                "file": "Deutsch/Strichpunkte Marinelli.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e16a1b19a4484074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologie/Codon Triplet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21d8ea9e7a890054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/H Methode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1af0be9f39aee0f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physik/Das Wechselwirkungsprinzip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4d5b28bc7be0bc4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Das Wechselwirkungsprinzip.md",
+            "file": "Deutsch/Strichpunkte Marinelli.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Das Wechselwirkungsprinzip.md",
+            "file": "Deutsch/Strichpunkte Marinelli.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Das Wechselwirkungsprinzip.md"
+            "file": "Deutsch/Strichpunkte Marinelli.md"
           }
         }
       }
@@ -181,25 +134,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1af0be9f39aee0f9",
+  "active": "a43009d2b405a320",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md",
+    "Deutsch/Beispiel Klausur Aufgabe 1.md",
+    "Deutsch/Strichpunkte Marinelli.md",
+    "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md",
+    "Biologie/Codon Triplet.md",
+    "/README.md",
+    "Mathematik/H Methode.md",
     "Physik/Das Wechselwirkungsprinzip.md",
+    "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md",
     "Physik/Das erste Newtonische Axiom.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
-    "Mathematik/H Methode.md",
     "Mathematik/Limes.md",
     "Mathematik/UnGrade Zahlen.md",
     "Mathematik/Aufgaben/Aufgaben zur H methode.md",
     "Biologie/Wie beeinflusst die Temperatur die Geschwindigkeit enzymatischer Reaktionen?.md",
     "Biologie/Transmembranproteine.md",
     "Biologie/Phospholipide.md",
-    "Biologie/Codon Triplet.md",
     "Untitled.md",
-    "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md",
     "Biologie/Einfache Diffusion.md",
     "Chemie/Mol™.md",
-    "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
     "Chemie/Isomere.md",
     "Chemie/1.) Chemie Verzeichnis.md",
@@ -207,8 +162,6 @@
     "Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
     "Deutsch/Rollenbiografie Gräfin.md",
     "Deutsch/Präsentation notes.md",
-    "Deutsch/Notes 9 jan.md",
-    "Notenzeichen.md",
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "notationuebung.pdf"
