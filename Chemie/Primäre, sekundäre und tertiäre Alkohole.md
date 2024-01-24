@@ -1,0 +1,1 @@
+Unterscheiden kannst du zwischen **primären**, **sekundären** und **tertiären****Alkoholen**. Bei einem primären Alkohol R-CH2-OH besitzt das Kohlenstoffatom mit der Hydroxygruppe zwei Wasserstoffatome, beim sekundären R2-CH-OH besitzt es eins und beim tertiären R3-COH kein Wasserstoffatom als Bindungspartner.
