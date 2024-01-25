@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Media literacy of German teenagers.md",
+                "file": "Chemie/Alkane.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Englisch/Media literacy of German teenagers.md",
+            "file": "Chemie/Alkane.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Englisch/Media literacy of German teenagers.md",
+            "file": "Chemie/Alkane.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Englisch/Media literacy of German teenagers.md"
+            "file": "Chemie/Alkane.md"
           }
         }
       }
@@ -134,10 +134,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1447ff7d5e3e9de4",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
-    "Politik Wirtschaft/Gefangenendilemma.md",
+    "Chemie/1.) Chemie Verzeichnis.md",
     "Englisch/Media literacy of German teenagers.md",
+    "Politik Wirtschaft/Gefangenendilemma.md",
     "Englisch",
     "Politik Wirtschaft/1.) Wirtschaftssektoren.md",
     "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
@@ -164,7 +165,6 @@
     "Biologie/Wie beeinflusst die Temperatur die Geschwindigkeit enzymatischer Reaktionen?.md",
     "Biologie/Transmembranproteine.md",
     "Biologie/Phospholipide.md",
-    "Biologie/Einfache Diffusion.md",
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "notationuebung.pdf"
