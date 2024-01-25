@@ -1,0 +1,1 @@
+The Reason why teenagers in Germany tend to find false information instead of news when search for them is that German teenagers tend to seek for news on the internet where the relevant news are things that are new and not older or important news. Also only a few people then to also use 
