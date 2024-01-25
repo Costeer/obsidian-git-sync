@@ -1,1 +1,1 @@
-Begriff Erklärung: 
+Das Gefangenendilemma beschreibt eine situation in welcher 
