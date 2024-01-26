@@ -1,1 +1,10 @@
-{}
+{
+  "graph:animate": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "="
+    }
+  ]
+}

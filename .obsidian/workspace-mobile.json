@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47e7a94ee867fbfa",
+        "id": "51ee94115cda9e0a",
         "type": "tabs",
         "children": [
           {
-            "id": "1447ff7d5e3e9de4",
+            "id": "75e58eb0683b4f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -117,9 +117,17 @@
             "file": "Geschichte/Vortrag Analyse M1-M6.md"
           }
         }
+      },
+      {
+        "id": "907d16f957426aa4",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -129,27 +137,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
-    "Chemie/Alkane.md",
     "Geschichte/Vortrag Analyse M1-M6.md",
+    "Untitled.md",
+    "Geschichte/Notes.md",
+    "Geschichte/Quellen M1-M6.md",
+    "Geschichte/Wirtschaftlicher wandel.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "Musik/Notenzeichen.md",
+    "Pictures/IMG_0111.jpeg",
+    "Geschichte/Zesuren.md",
+    "XXX_Linux/kitty/kitty.conf.md",
+    "Chemie/Alkane.md",
     "Chemie/1.) Chemie Verzeichnis.md",
     "Englisch/Media literacy of German teenagers.md",
     "Politik Wirtschaft/Gefangenendilemma.md",
     "Englisch",
     "Politik Wirtschaft/1.) Wirtschaftssektoren.md",
     "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
-    "IMG_0111.jpeg",
-    "README.md",
     "Pictures/IMG_0110.jpeg",
     "Chemie/Chemie.md",
     "Deutsch/Strichpunkte Marinelli.md",
-    "Untitled.md",
     "Deutsch/Präsentation notes.md",
     "Deutsch/Rollenbiografie Gräfin.md",
     "Deutsch/Beispiel Klausur Aufgabe 1.md",
@@ -158,13 +173,6 @@
     "/README.md",
     "Mathematik/H Methode.md",
     "Physik/Das Wechselwirkungsprinzip.md",
-    "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md",
-    "Physik/Das erste Newtonische Axiom.md",
-    "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
-    "Mathematik/Limes.md",
-    "Mathematik/UnGrade Zahlen.md",
-    "Mathematik/Aufgaben/Aufgaben zur H methode.md",
-    "Biologie/Wie beeinflusst die Temperatur die Geschwindigkeit enzymatischer Reaktionen?.md",
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "notationuebung.pdf"

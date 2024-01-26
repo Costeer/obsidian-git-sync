@@ -1,6 +1,18 @@
 ## M1
 *Text Analyse*
-
+(V1)
+Bei der vorliegenden Quelle handelt es sich um eine Gesetz Bekanntgabe der Königen Isabella und den König Ferdinand damit die Indianer vernünftig von den Spanien behandelt wird und das die Indianer zu christen werden sollen um so zu leben wie vernünftige Menschen.
+(V2) 
+- Bei der vorliegenden Quelle handelt es sich um eine offizielle Regierungsbekanntmachung des Königtums Spaniens.
+- Dieser Text wurde von der Königen Isabella am 30.10.1503 geschrieben 
+- War gerichtet an die Bürger Spaniens und die Indianer.
+- Im der Quelle wird das Thema der Freiheit und Christianisierung der Indios.
+- Diese Verfügung wurde erstellt durch die Versklavung der India durch die Spanische Bevölkerung und das die India nicht dem Christentum folgen wie dieSpanier.
+- Das Zeile dieser Verfügung ist die Umwandlung der Indios zu Spanischen Untertanen und die Verbreitung des Christlichen Glaubens.
+- A) Die Zentrale Aussage des authors ist die bessere Behandlung der Indios und die Verbreitung des Christlichen Glaubens durch die Indios. 
+   B)Bessere Behandlung der Indios und deren Umwandlung zu Untertanen Spaniens, Den Christlichen glauben den Indios übergeben.
+   C) Blank
+-  
 *Zweck der Eroberung*
 Zweck der Eroberung war das verbreiten der heiligen katholischen Glaubens und die Erhaltung von neuen Untertanen.
 *Verhalten des königlichen Vertreter*
