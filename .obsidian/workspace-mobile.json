@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a43009d2b405a320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemie/Chemie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21db006e0e97f392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politik Wirtschaft/1.) Wirtschaftssektoren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1447ff7d5e3e9de4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Alkane.md",
+                "file": "Politik Wirtschaft/Gefangenendilemma.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chemie/Alkane.md",
+            "file": "Politik Wirtschaft/Gefangenendilemma.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Chemie/Alkane.md",
+            "file": "Politik Wirtschaft/Gefangenendilemma.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Chemie/Alkane.md"
+            "file": "Politik Wirtschaft/Gefangenendilemma.md"
           }
         }
       }
@@ -136,11 +161,12 @@
   },
   "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
-    "Chemie/1.) Chemie Verzeichnis.md",
     "Englisch/Media literacy of German teenagers.md",
-    "Politik Wirtschaft/Gefangenendilemma.md",
     "Englisch",
+    "/Englisch/Media literacy of German teenagers.md",
+    "/Englisch",
     "Politik Wirtschaft/1.) Wirtschaftssektoren.md",
+    "Politik Wirtschaft/Gefangenendilemma.md",
     "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
     "IMG_0111.jpeg",
     "README.md",
