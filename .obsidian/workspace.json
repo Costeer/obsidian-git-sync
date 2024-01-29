@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musik/Notenzeichen.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Musik/Notenzeichen.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Musik/Notenzeichen.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Musik/Notenzeichen.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,9 +149,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "10bf406a1bc86bff",
+  "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
     "IMG_0111.jpeg",
+    "README.md",
+    "Musik/Notenzeichen.md",
     "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
@@ -177,19 +179,16 @@
     "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "Pictures/Aktiver passiver Transport Grafik.jpg",
     "Pictures/800px-Cell_membrane_detailed_diagram_de_svg.png",
-    "Pictures/Emilia Galotti-22.jpg",
     "Geschichte/Zesuren.md",
     "Untitled.md",
     "Politik Wirtschaft/Gefangenendilemma.md",
     "Physik/Das Wechselwirkungsprinzip.md",
-    "Musik/Notenzeichen.md",
     "Niederländisch/Vokabeltest.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
     "Englisch/Untitled.md",
     "Englisch/Media literacy of German teenagers.md",
     "Englisch",
     "Deutsch/Strichpunkte Marinelli.md",
-    "Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
     "notationuebung.pdf",
     "XXX_Linux/Rofi/launchers/type-2/shared",
     "XXX_Linux/Rofi/powermenu/type-2/shared",
