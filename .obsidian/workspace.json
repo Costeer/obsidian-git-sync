@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "XXX_Linux/polybar-collection/themes/gruvbox/modules/cpu.ini.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "XXX_Linux/polybar-collection/themes/gruvbox/modules/cpu.ini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "XXX_Linux/polybar-collection/themes/gruvbox/modules/cpu.ini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "XXX_Linux/polybar-collection/themes/gruvbox/modules/cpu.ini.md"
               }
             }
           }
@@ -151,11 +151,25 @@
   },
   "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
-    "gdm icon lol (copy).png",
+    "XXX_Linux/polybar-collection/themes/gruvbox/modules/corner-left-dim.ini.md",
+    "XXX_Linux/polybar-collection/themes/gruvbox/modules/corner-left-darker.ini.md",
+    "XXX_Linux/polybar-collection/themes/gruvbox/modules/corner-left-black.ini.md",
+    "XXX_Linux/polybar-collection/themes/gruvbox/modules/bspwm.ini.md",
+    "XXX_Linux/polybar-collection/themes/gruvbox/modules/battery.ini.md",
+    "XXX_Linux/polybar-collection/themes/gruvbox/include-modules.ini.md",
+    "XXX_Linux/polybar-collection/themes/gruvbox/gruvbox-colors.txt.md",
+    "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md",
+    "XXX_Linux/polybar-collection/themes/gruvbox/colors.ini.md",
+    "XXX_Linux/polybar-collection/fonts.ini.md",
+    "XXX_Linux/polybar-collection/launch.sh.md",
+    "XXX_Linux/polybar-collection/modules.ini.md",
+    "XXX_Linux/picom/picom-allusive.md",
+    "XXX_Linux/kitty/kitty.conf.md",
+    "README.md",
+    "Pictures/gdm icon lol (copy).png",
     "gdm icon lol.png",
     "Pictures/gdm icon lol.png",
     "Excalidraw/Drawing 2024-01-29 20.57.48.excalidraw.md",
-    "README.md",
     "Pictures/IMG_0111.jpeg",
     "Untitled.md",
     "Musik/Notenzeichen.md",
@@ -172,23 +186,9 @@
     "Excalidraw/Drawing 2023-12-20 10.38.35.excalidraw.md",
     "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md",
     "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md",
-    "Excalidraw/Kfmflf.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-22 20.28.48.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-20 23.20.45.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-15 10.52.38.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-08 21.17.26.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "Pictures/9k=(1).jpg",
     "Pictures/Biokatalyse.jpeg",
-    "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
-    "Geschichte/Zesuren.md",
-    "Politik Wirtschaft/Gefangenendilemma.md",
-    "Physik/Das Wechselwirkungsprinzip.md",
-    "Niederländisch/Vokabeltest.md",
-    "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
-    "Englisch/Untitled.md",
-    "Englisch/Media literacy of German teenagers.md",
     "Englisch",
     "notationuebung.pdf",
     "XXX_Linux/Rofi/launchers/type-2/shared",
