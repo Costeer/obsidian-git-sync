@@ -47,8 +47,12 @@
             "id": "d21ff6929126008d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,6 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +150,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "README.md"
+          }
         }
       }
     ],
@@ -163,7 +171,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d21ff6929126008d",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
     "Niederländisch/Vokabeltest.md",
     "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md",
