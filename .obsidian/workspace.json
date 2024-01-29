@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-08 21.17.26.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-08 21.17.26.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-08 21.17.26.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-08 21.17.26.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md"
               }
             }
           }
@@ -147,8 +147,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "10bf406a1bc86bff",
+  "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-15 10.52.38.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-08 21.17.26.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.md",
     "Pictures/9k=(1).jpg",
@@ -185,7 +187,6 @@
     "Geschichte/Notes.md",
     "README.md",
     "Excalidraw/Kfmflf.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
     "XXX_Linux/Rofi/launchers/type-2/shared",
     "XXX_Linux/Rofi/powermenu/type-2/shared",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules",
