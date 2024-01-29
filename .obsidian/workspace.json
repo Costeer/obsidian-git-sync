@@ -11,11 +11,9 @@
             "id": "de3708fbbd9bf0a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Pictures/IMG_0111.jpeg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Pictures/IMG_0111.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Pictures/IMG_0111.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Pictures/IMG_0111.jpeg"
               }
             }
           }
@@ -149,10 +147,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "de3708fbbd9bf0a3",
+  "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
-    "IMG_0111.jpeg",
     "README.md",
+    "Untitled.md",
+    "Pictures/IMG_0111.jpeg",
     "Musik/Notenzeichen.md",
     "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
@@ -180,7 +179,6 @@
     "Pictures/Aktiver passiver Transport Grafik.jpg",
     "Pictures/800px-Cell_membrane_detailed_diagram_de_svg.png",
     "Geschichte/Zesuren.md",
-    "Untitled.md",
     "Politik Wirtschaft/Gefangenendilemma.md",
     "Physik/Das Wechselwirkungsprinzip.md",
     "Niederländisch/Vokabeltest.md",
