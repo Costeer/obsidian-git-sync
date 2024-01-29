@@ -1,3 +1,4 @@
+```
 [module/memory]
 type = internal/memory
 interval = 1

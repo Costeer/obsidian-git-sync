@@ -1,3 +1,4 @@
+```
 [module/space]
 type = internal/xwindow
 

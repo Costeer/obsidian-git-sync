@@ -1,3 +1,4 @@
+```
 [module/corner-left-bg]
 type = custom/text
 

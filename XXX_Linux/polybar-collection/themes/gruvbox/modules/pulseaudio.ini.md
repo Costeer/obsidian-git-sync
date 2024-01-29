@@ -1,3 +1,4 @@
+```
 [module/pulseaudio]
 type = internal/pulseaudio
 use-ui-max = false

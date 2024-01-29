@@ -1,3 +1,4 @@
+```
 [module/margin]
 type = custom/text
 

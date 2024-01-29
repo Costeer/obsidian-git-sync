@@ -1,3 +1,4 @@
+```
 [module/temperature]
 type = internal/temperature
 thermal-zone = 0

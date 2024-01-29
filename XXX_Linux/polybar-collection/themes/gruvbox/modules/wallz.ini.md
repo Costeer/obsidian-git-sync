@@ -1,3 +1,4 @@
+```
 [module/wallz]
 type = custom/script
 
