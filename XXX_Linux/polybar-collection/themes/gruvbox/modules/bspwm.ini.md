@@ -1,3 +1,4 @@
+```
 [module/bspwm]
 type = internal/bspwm
 

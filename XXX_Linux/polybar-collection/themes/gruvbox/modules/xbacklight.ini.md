@@ -1,3 +1,4 @@
+```
 [module/xbacklight]
 type = internal/xbacklight
 

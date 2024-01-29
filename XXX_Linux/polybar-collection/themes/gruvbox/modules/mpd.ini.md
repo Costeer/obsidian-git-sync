@@ -1,3 +1,4 @@
+```
 [module/mpd]
 type = internal/mpd
 interval = 1

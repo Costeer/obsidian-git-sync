@@ -1,3 +1,4 @@
+```
 [module/ewmh]
 type = internal/xworkspaces
 background = ${colors.red}

@@ -1,3 +1,4 @@
+```
 [module/wlan]
 type = internal/network
 interface = wlp38s0

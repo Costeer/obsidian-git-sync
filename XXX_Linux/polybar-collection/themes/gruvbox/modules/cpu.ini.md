@@ -1,3 +1,4 @@
+```
 [module/cpu]
 type = internal/cpu
 interval = 1

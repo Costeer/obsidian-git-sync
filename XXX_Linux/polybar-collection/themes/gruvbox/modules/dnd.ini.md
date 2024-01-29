@@ -1,3 +1,4 @@
+```
 [module/dnd]
 type = custom/ipc
 initial = 1

@@ -1,3 +1,4 @@
+```
 [module/wired]
 type = internal/network
 interface = enp34s0

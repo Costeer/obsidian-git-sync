@@ -1,3 +1,4 @@
+```
 [module/session]
 type = custom/text
 

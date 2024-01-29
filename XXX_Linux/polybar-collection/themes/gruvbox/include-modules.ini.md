@@ -1,3 +1,4 @@
+```
 include-file = $HOME/polybar-collection/themes/gruvbox/colors.ini
 
 include-file = $HOME/polybar-collection/themes/gruvbox/modules/margin.ini

@@ -1,3 +1,4 @@
+```
 font-0 = "JetBrainsMono Nerd Font:style=Normal:size=9;3"
 font-1 = "JetBrainsMono Nerd Font:style=Medium:size=9;3"
 font-2 = "JetBrainsMono Nerd Font:style=Bold:size=9;3"

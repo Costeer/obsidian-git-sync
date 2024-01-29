@@ -1,3 +1,4 @@
+```
 [module/battery]
 type = internal/battery
 battery = BAT1
