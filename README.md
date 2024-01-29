@@ -1,4 +1,4 @@
-https://github.com/Costeer/obsidian-git-sync/blob/main/Pictures/gdm%20icon%20lol%20(copy).png?raw=true
+![image](https://github.com/Costeer/obsidian-git-sync/assets/142180709/019dbf11-693a-408e-98ea-13a7b6c8a0fc)
 ![[gdm icon lol (copy).png]]
 #### um das repo zu clonen diesen comand ins Terminal eingeben
 
