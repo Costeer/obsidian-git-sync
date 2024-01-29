@@ -1,3 +1,4 @@
+```
 [module/date]
 type = internal/date
 interval = 1
