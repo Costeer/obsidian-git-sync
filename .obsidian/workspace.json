@@ -11,9 +11,11 @@
             "id": "de3708fbbd9bf0a3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pictures/IMG_0111.jpeg"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pictures/IMG_0111.jpeg",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pictures/IMG_0111.jpeg",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pictures/IMG_0111.jpeg"
+                "file": "README.md"
               }
             }
           }
@@ -147,11 +149,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "10bf406a1bc86bff",
+  "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
+    "Pictures/IMG_0111.jpeg",
     "README.md",
     "Untitled.md",
-    "Pictures/IMG_0111.jpeg",
     "Musik/Notenzeichen.md",
     "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
