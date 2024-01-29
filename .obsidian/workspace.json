@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notenzeichen.md",
+                "file": "Musik/Notenzeichen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notenzeichen.md",
+                "file": "Musik/Notenzeichen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notenzeichen.md",
+                "file": "Musik/Notenzeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notenzeichen.md"
+                "file": "Musik/Notenzeichen.md"
               }
             }
           }
@@ -149,7 +149,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "de3708fbbd9bf0a3",
+  "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
     "IMG_0111.jpeg",
     "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
@@ -182,7 +182,7 @@
     "Untitled.md",
     "Politik Wirtschaft/Gefangenendilemma.md",
     "Physik/Das Wechselwirkungsprinzip.md",
-    "Notenzeichen.md",
+    "Musik/Notenzeichen.md",
     "Niederländisch/Vokabeltest.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
     "Englisch/Untitled.md",
