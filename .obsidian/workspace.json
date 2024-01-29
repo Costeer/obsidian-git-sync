@@ -11,9 +11,11 @@
             "id": "de3708fbbd9bf0a3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg"
+                "file": "README.md"
               }
             }
           }
@@ -149,6 +151,7 @@
   },
   "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
+    "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
     "Catppuccin/Icons-catppuccin-pinterest-gay.jpg",
     "Catppuccin/Icons-catppuccin-Freeform-v2.jpg",
     "Catppuccin/Icons-catppuccin-fresco-gay.jpg",
@@ -159,7 +162,6 @@
     "Catppuccin/Icons-catppuccin-Guilded.jpg",
     "Catppuccin/Icons-catppuccin-guilded-lilac.jpg",
     "Catppuccin/Icons-catppuccin-nobara.jpg",
-    "Catppuccin/Icons-catppuccin-nobara-gay.jpg",
     "XXX_Linux/polybar-collection/launch.sh.md",
     "Catppuccin",
     "XXX_Linux/polybar-collection/fonts.ini.md",
