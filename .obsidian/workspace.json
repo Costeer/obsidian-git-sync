@@ -11,11 +11,9 @@
             "id": "de3708fbbd9bf0a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg"
               }
             }
           }
@@ -151,12 +149,26 @@
   },
   "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
+    "Catppuccin/Icons-catppuccin-pinterest-gay.jpg",
+    "Catppuccin/Icons-catppuccin-Freeform-v2.jpg",
+    "Catppuccin/Icons-catppuccin-fresco-gay.jpg",
+    "Catppuccin/Icons-catppuccin-github.jpg",
+    "Catppuccin/Icons-catppuccin-gallery-2.jpg",
+    "Catppuccin/Icons-catppuccin-gallery-gay.jpg",
+    "Catppuccin/Icons-catppuccin-github-gay.jpg",
+    "Catppuccin/Icons-catppuccin-Guilded.jpg",
+    "Catppuccin/Icons-catppuccin-guilded-lilac.jpg",
+    "Catppuccin/Icons-catppuccin-nobara.jpg",
+    "Catppuccin/Icons-catppuccin-nobara-gay.jpg",
+    "XXX_Linux/polybar-collection/launch.sh.md",
+    "Catppuccin",
+    "XXX_Linux/polybar-collection/fonts.ini.md",
+    "XXX_Linux/kitty/kitty.conf.md",
+    "README.md",
     "XXX_Linux/starship.toml.md",
     "XXX_Linux/polybar-collection/scripts/weather/weather.sh.md",
     "XXX_Linux/polybar-collection/scripts/weather/main.py.md",
     "XXX_Linux/polybar-collection/modules.ini.md",
-    "XXX_Linux/polybar-collection/launch.sh.md",
-    "XXX_Linux/polybar-collection/fonts.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/include-modules.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/gruvbox-colors.txt.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md",
@@ -174,28 +186,14 @@
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/space.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-right.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-left.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-left-dark.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/session.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/round-space-round.ini.md",
-    "Pictures/gdm icon lol (copy).png",
-    "gdm icon lol.png",
-    "Pictures/gdm icon lol.png",
-    "Pictures/IMG_0111.jpeg",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
-    "Pictures/9k=(1).jpg",
-    "Pictures/Biokatalyse.jpeg",
     "Englisch",
     "notationuebung.pdf",
     "XXX_Linux/Rofi/launchers/type-2/shared",
     "XXX_Linux/Rofi/powermenu/type-2/shared",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules",
     "XXX_Linux/polybar-collection/scripts/weather",
-    "XXX_Linux/Rofi/launchers/type-2",
-    "XXX_Linux/Rofi/powermenu/type-2"
+    "XXX_Linux/Rofi/launchers/type-2"
   ]
 }
