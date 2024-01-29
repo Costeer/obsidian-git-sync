@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d21ff6929126008d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Niederländisch/Vokabeltest.md",
+            "file": "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Niederländisch/Vokabeltest.md",
+            "file": "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Niederländisch/Vokabeltest.md"
+            "file": "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md"
           }
         }
       }
@@ -159,10 +169,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "63e94e8beea84e82",
+  "active": "d21ff6929126008d",
   "lastOpenFiles": [
-    "Niederländisch/ISW Hoogeland.md",
     "Niederländisch/Vokabeltest.md",
+    "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md",
+    "Niederländisch/ISW Hoogeland.md",
     "Englisch/Untitled.md",
     "Englisch/Media literacy of German teenagers.md",
     "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
@@ -190,7 +201,6 @@
     "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md",
     "Physik/Das erste Newtonische Axiom.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
-    "Mathematik/Limes.md",
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "notationuebung.pdf"
