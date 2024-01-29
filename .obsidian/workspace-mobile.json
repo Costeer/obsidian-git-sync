@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+                "file": "Englisch/Media literacy of German teenagers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+            "file": "Englisch/Media literacy of German teenagers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+            "file": "Englisch/Media literacy of German teenagers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/Das Sytem der Encomienda und seine usetztung.md"
+            "file": "Englisch/Media literacy of German teenagers.md"
           }
         }
       }
@@ -134,8 +134,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "1447ff7d5e3e9de4",
   "lastOpenFiles": [
+    "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
     "Geschichte/Eurozentrisches denken.md",
     "Politik Wirtschaft/Gefangenendilemma.md",
     "Englisch/Media literacy of German teenagers.md",
@@ -165,7 +166,6 @@
     "Mathematik/UnGrade Zahlen.md",
     "Mathematik/Aufgaben/Aufgaben zur H methode.md",
     "Biologie/Wie beeinflusst die Temperatur die Geschwindigkeit enzymatischer Reaktionen?.md",
-    "Biologie/Transmembranproteine.md",
     "Excalidraw/Kfmflf.excalidraw",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "notationuebung.pdf"
