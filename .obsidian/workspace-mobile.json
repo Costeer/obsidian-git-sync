@@ -8,32 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd79e137658cb966",
+            "id": "1447ff7d5e3e9de4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/Media literacy of German teenagers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "5221535a56ce493f",
+            "id": "4356383a48a232d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Niederländisch/ISW Hoogeland.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "ea8beb432d5fdf34",
+            "id": "63e94e8beea84e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Niederländisch/Vokabeltest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d21ff6929126008d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,6 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,6 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +148,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md"
+          }
         }
       }
     ],
@@ -144,28 +169,40 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "bd79e137658cb966",
+  "active": "d21ff6929126008d",
   "lastOpenFiles": [
-    "Excalidraw/Kfmflf.excalidraw.md",
-    "Excalidraw/Kfmflf.excalidraw",
-    "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
-    "notationuebung.pdf",
-    "Excalidraw/Drawing 2024-01-19 12.50.50.excalidraw.md",
-    "Musik/Johann Sebastian Bach.md",
-    "Chemie/Fraktionierte Destillation.md",
-    "Chemie/Elektron.md",
-    "Chemie/Alkane.md",
-    "Chemie/Zucker.md",
-    "Chemie/Spektroskopie.md",
-    "Chemie/spektroskopisch.md",
-    "Chemie/Test.md",
-    "Chemie/∆EN.md",
-    "Chemie/Außenelektronen.md",
-    "Erdkunde/Endogene.md",
+    "Niederländisch/Vokabeltest.md",
+    "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md",
+    "Niederländisch/ISW Hoogeland.md",
+    "Englisch/Untitled.md",
+    "Englisch/Media literacy of German teenagers.md",
     "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
     "Geschichte/Eurozentrisches denken.md",
+    "Politik Wirtschaft/Gefangenendilemma.md",
+    "Englisch",
+    "/Englisch/Media literacy of German teenagers.md",
+    "/Englisch",
+    "Politik Wirtschaft/1.) Wirtschaftssektoren.md",
+    "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
+    "IMG_0111.jpeg",
     "README.md",
+    "Pictures/IMG_0110.jpeg",
+    "Chemie/Chemie.md",
+    "Deutsch/Strichpunkte Marinelli.md",
+    "Untitled.md",
+    "Deutsch/Präsentation notes.md",
+    "Deutsch/Rollenbiografie Gräfin.md",
+    "Deutsch/Beispiel Klausur Aufgabe 1.md",
+    "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md",
+    "Biologie/Codon Triplet.md",
     "/README.md",
-    "/Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md"
+    "Mathematik/H Methode.md",
+    "Physik/Das Wechselwirkungsprinzip.md",
+    "Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md",
+    "Physik/Das erste Newtonische Axiom.md",
+    "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
+    "Excalidraw/Kfmflf.excalidraw",
+    "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
+    "notationuebung.pdf"
   ]
 }
