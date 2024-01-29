@@ -11,9 +11,11 @@
             "id": "de3708fbbd9bf0a3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md"
+                "file": "Notenzeichen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
+                "file": "Notenzeichen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
+                "file": "Notenzeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md"
+                "file": "Notenzeichen.md"
               }
             }
           }
@@ -149,6 +151,8 @@
   },
   "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
+    "IMG_0111.jpeg",
+    "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
@@ -165,7 +169,6 @@
     "Excalidraw/Drawing 2023-08-22 20.28.48.excalidraw.md",
     "Excalidraw/Drawing 2023-09-20 23.20.45.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
     "Excalidraw/Drawing 2023-11-15 10.52.38.excalidraw.md",
     "Excalidraw/Drawing 2023-10-08 21.17.26.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.png",
@@ -175,7 +178,6 @@
     "Pictures/Aktiver passiver Transport Grafik.jpg",
     "Pictures/800px-Cell_membrane_detailed_diagram_de_svg.png",
     "Pictures/Emilia Galotti-22.jpg",
-    "Pictures/Emilia Galotti-28.jpg",
     "Geschichte/Zesuren.md",
     "Untitled.md",
     "Politik Wirtschaft/Gefangenendilemma.md",
