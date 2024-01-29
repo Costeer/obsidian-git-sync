@@ -1,5 +1,5 @@
 
-
+![[gdm icon lol.png]]
 #### um das repo zu clonen diesen comand ins Terminal eingeben
 
 ```
