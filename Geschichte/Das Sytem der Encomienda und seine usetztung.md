@@ -1,6 +1,6 @@
 ## 1. Schritt
 ###### Das eigene Erkenntnisinteresse bestimmen und als Untersuchungsfrage(n) formulieren.
-## 2. Schritt 
+## 2. Schritt
 ###### Die Textsorte bestimmen und charakterisieren
 Bei der vorliegenden Queile handelt es sich um ... (7. 8.: eine Rede/eine offizielle Regierungsbe- kanntmachung/einen Zeitungsortikel/das Protokoll einer Konferenz/einen privaten Brief/eine Urkunde über.../
 
