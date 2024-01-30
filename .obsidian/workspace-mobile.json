@@ -11,9 +11,11 @@
             "id": "d21ff6929126008d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pictures/Emilia Galotti-27.jpg"
+                "file": "Biologie/Hausaufgabe/Enzymaktivität.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pictures/Emilia Galotti-27.jpg",
+            "file": "Biologie/Hausaufgabe/Enzymaktivität.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pictures/Emilia Galotti-27.jpg",
+            "file": "Biologie/Hausaufgabe/Enzymaktivität.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Pictures/Emilia Galotti-27.jpg"
+            "file": "Biologie/Hausaufgabe/Enzymaktivität.md"
           }
         }
       }
@@ -134,12 +136,16 @@
   },
   "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
+    "Biologie/Hausaufgabe/DNA in mrna.md",
+    "Biologie/Hausaufgabe/Bio korektur.md",
+    "Biologie/Hausaufgabe/Enzymaktivität.md",
+    "Biologie/Hausaufgabe/Osmose im Körper im fall salzwasser.md",
+    "README.md",
+    "Pictures/Emilia Galotti-27.jpg",
     "Pictures/Emilia Galotti-28.jpg",
     "Pictures/Emilia Galotti-28.pdf",
-    "Pictures/Emilia Galotti-27.jpg",
     "Pictures/Emilia Galotti-23.jpg",
     "Pictures/Emilia Galotti-22.jpg",
-    "README.md",
     "Pictures/IMG_0162.png",
     "Pictures/Homogene Kohlenstoffketten.png",
     "Pictures/gdm icon lol.png",
@@ -167,9 +173,6 @@
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/strich.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-right.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-left.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-left-dark.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/session.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-space-round.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
