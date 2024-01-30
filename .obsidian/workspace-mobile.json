@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "752c4eab48c9d111",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "5a0ba5e27566ba5f",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Pepsin zerlegt Proteine.md",
+            "file": "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Pepsin zerlegt Proteine.md",
+            "file": "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Pepsin zerlegt Proteine.md"
+            "file": "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md"
           }
         }
       }
@@ -144,12 +155,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "752c4eab48c9d111",
   "lastOpenFiles": [
+    "Biologie/Pepsin zerlegt Proteine.md",
+    "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
     "Biologie/Hausaufgabe/Enzymaktivität.md",
     "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
     "Biologie/Aktiver Transport Zellbiologie.md",
-    "Biologie/Pepsin zerlegt Proteine.md",
     "Pasted Image 20240130105112_446.jpg",
     "IMG_0166.jpeg",
     "/README.md",
@@ -182,7 +194,6 @@
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/wired.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/weather.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/wallz.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/title.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
