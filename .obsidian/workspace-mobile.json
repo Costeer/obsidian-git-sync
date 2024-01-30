@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Untitled.md",
+                "file": "Biologie/Pepsin zerlegt Proteine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Untitled.md",
+            "file": "Biologie/Pepsin zerlegt Proteine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Untitled.md",
+            "file": "Biologie/Pepsin zerlegt Proteine.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Untitled.md"
+            "file": "Biologie/Pepsin zerlegt Proteine.md"
           }
         }
       }
@@ -136,8 +136,9 @@
   },
   "active": "d21ff6929126008d",
   "lastOpenFiles": [
+    "IMG_0166.jpeg",
     "Biologie/Hausaufgabe/Enzymaktivität.md",
-    "Biologie/Untitled.md",
+    "Biologie/Pepsin zerlegt Proteine.md",
     "/README.md",
     "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
     "Biologie/Hausaufgabe/DNA in mrna.md",
@@ -172,7 +173,6 @@
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/wallz.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/title.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/time.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/temperature.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
