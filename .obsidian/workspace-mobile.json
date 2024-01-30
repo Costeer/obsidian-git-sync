@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pictures/Emilia Galotti-28.jpg"
+                "file": "Pictures/Emilia Galotti-27.jpg"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pictures/Emilia Galotti-28.jpg",
+            "file": "Pictures/Emilia Galotti-27.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pictures/Emilia Galotti-28.jpg",
+            "file": "Pictures/Emilia Galotti-27.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Pictures/Emilia Galotti-28.jpg"
+            "file": "Pictures/Emilia Galotti-27.jpg"
           }
         }
       }
@@ -132,11 +132,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d21ff6929126008d",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
+    "Pictures/Emilia Galotti-28.jpg",
     "Pictures/Emilia Galotti-28.pdf",
     "Pictures/Emilia Galotti-27.jpg",
-    "Pictures/Emilia Galotti-28.jpg",
     "Pictures/Emilia Galotti-23.jpg",
     "Pictures/Emilia Galotti-22.jpg",
     "README.md",
