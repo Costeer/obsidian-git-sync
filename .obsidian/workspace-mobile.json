@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6765420e556616a0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Hausaufgabe/Enzymaktivität.md",
+            "file": "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Hausaufgabe/Enzymaktivität.md",
+            "file": "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Hausaufgabe/Enzymaktivität.md"
+            "file": "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md"
           }
         }
       }
@@ -134,11 +145,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "6765420e556616a0",
   "lastOpenFiles": [
+    "Biologie/Hausaufgabe/Enzymaktivität.md",
+    "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
     "Biologie/Hausaufgabe/DNA in mrna.md",
     "Biologie/Hausaufgabe/Bio korektur.md",
-    "Biologie/Hausaufgabe/Enzymaktivität.md",
     "Biologie/Hausaufgabe/Osmose im Körper im fall salzwasser.md",
     "README.md",
     "Pictures/Emilia Galotti-27.jpg",
@@ -172,7 +184,6 @@
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/temperature.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/strich.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-right.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-left.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
