@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a0ba5e27566ba5f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Pepsin zerlegt Proteine.md",
+            "file": "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Pepsin zerlegt Proteine.md",
+            "file": "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Pepsin zerlegt Proteine.md"
+            "file": "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md"
           }
         }
       }
@@ -134,11 +145,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d21ff6929126008d",
+  "active": "5a0ba5e27566ba5f",
   "lastOpenFiles": [
+    "Biologie/Pepsin zerlegt Proteine.md",
+    "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
     "IMG_0166.jpeg",
     "Biologie/Hausaufgabe/Enzymaktivität.md",
-    "Biologie/Pepsin zerlegt Proteine.md",
     "/README.md",
     "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
     "Biologie/Hausaufgabe/DNA in mrna.md",
@@ -155,7 +167,6 @@
     "Pictures/gdm icon lol.png",
     "Pictures/Fourastie.png",
     "Pictures/gdm icon lol (copy).png",
-    "Pictures/Plattentektonik Transformstörung.jpg",
     "XXX_Linux/polybar-collection/fonts.ini.md",
     "XXX_Linux/kitty/kitty.conf.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/xbacklight.ini.md",

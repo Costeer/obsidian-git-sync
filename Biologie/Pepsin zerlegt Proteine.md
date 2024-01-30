@@ -4,3 +4,10 @@ Die Reaktion wird von den Restgruppen spezifischer Aminosäuren des Pepsins (Asp
 
 ![[IMG_0166.jpeg]]
 
+### Aufgaben
+
+1. ﻿﻿﻿Beschreiben Sie den Ablauf der Hydrolyse bei der Peptidspaltung (Abb. 3a-c).
+
+
+
+2. ﻿﻿﻿Die folgende Tabelle zeigt die Abhängigkeit dreier Enzyme vom pH-Wert. Für die Enzyme ist jeweils die Aktivität (Substratumsatz/ Zeiteinheit) in Prozent (%) des Maximalwertes in gerundeten Werten angegeben. Übertragen Sie die Werte in ein geeignet eingeteiltes Koordinatensystem und erläutern Sie den Kurvenverlauf.
