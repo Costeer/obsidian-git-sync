@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
+            "file": "Biologie/Pepsin zerlegt Proteine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
+            "file": "Biologie/Pepsin zerlegt Proteine.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md"
+            "file": "Biologie/Pepsin zerlegt Proteine.md"
           }
         }
       }
@@ -155,12 +154,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "752c4eab48c9d111",
+  "active": "d21ff6929126008d",
   "lastOpenFiles": [
-    "Biologie/Pepsin zerlegt Proteine.md",
     "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
-    "Biologie/Hausaufgabe/Enzymaktivität.md",
+    "Biologie/Pepsin zerlegt Proteine.md",
     "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
+    "Biologie/Hausaufgabe/Enzymaktivität.md",
     "Biologie/Aktiver Transport Zellbiologie.md",
     "Pasted Image 20240130105112_446.jpg",
     "IMG_0166.jpeg",
