@@ -30,3 +30,4 @@ $$
 
 Schritt 1:
 f(x)x^2+3x
+f(x)a^2 + 3a
