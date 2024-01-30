@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Hausaufgabe/Enzymaktivität.md",
+                "file": "Biologie/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Hausaufgabe/Enzymaktivität.md",
+            "file": "Biologie/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Hausaufgabe/Enzymaktivität.md",
+            "file": "Biologie/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Hausaufgabe/Enzymaktivität.md"
+            "file": "Biologie/Untitled.md"
           }
         }
       }
@@ -136,8 +136,10 @@
   },
   "active": "d21ff6929126008d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
     "Biologie/Hausaufgabe/Enzymaktivität.md",
+    "Biologie/Untitled.md",
+    "/README.md",
+    "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
     "Biologie/Hausaufgabe/DNA in mrna.md",
     "Biologie/Hausaufgabe/Bio korektur.md",
     "Biologie/Hausaufgabe/Osmose im Körper im fall salzwasser.md",
@@ -171,8 +173,6 @@
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/title.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/time.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/temperature.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/strich.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-right.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
