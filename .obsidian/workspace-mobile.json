@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25c74bf2ca6a9f58",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -147,11 +157,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "7f9c4d703fef7dba",
   "lastOpenFiles": [
     "Mathematik/H Methode.md",
-    "Mathematik/Aufgaben/Aufgaben zur H methode.md",
+    "Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
+    "Mathematik/Aufgaben/Aufgaben zur H methode.md",
     "README.md",
     "Biologie/Pepsin zerlegt Proteine.md",
     "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
@@ -185,7 +196,6 @@
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-left-purple.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/corner-left-dim.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/corner-left-black.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/wlan.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
