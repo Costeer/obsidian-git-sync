@@ -11,11 +11,9 @@
             "id": "d21ff6929126008d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Pictures/Emilia Galotti-28.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Pictures/Emilia Galotti-28.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Pictures/Emilia Galotti-28.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Pictures/Emilia Galotti-28.jpg"
           }
         }
       }
@@ -134,14 +132,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "d21ff6929126008d",
   "lastOpenFiles": [
+    "Pictures/Emilia Galotti-27.jpg",
+    "Pictures/Emilia Galotti-28.jpg",
+    "Pictures/Emilia Galotti-23.jpg",
+    "Pictures/Emilia Galotti-22.jpg",
+    "README.md",
+    "Pictures/IMG_0162.png",
     "Pictures/Homogene Kohlenstoffketten.png",
     "Pictures/gdm icon lol.png",
     "Pictures/Fourastie.png",
     "Pictures/gdm icon lol (copy).png",
     "Pictures/Plattentektonik Transformstörung.jpg",
-    "README.md",
     "XXX_Linux/polybar-collection/fonts.ini.md",
     "XXX_Linux/kitty/kitty.conf.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/xbacklight.ini.md",
@@ -167,11 +170,6 @@
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/session.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-space-round.ini.md",
     "/Pictures/gdm icon lol (copy).png",
-    "Catppuccin/Icons-catppuccin-settings.jpg",
-    "Catppuccin/Icons-catppuccin-obsidian.jpg",
-    "Catppuccin/Icons-catppuccin-obsidian.png",
-    "Catppuccin/Icons-catppuccin-Freeform.jpg",
-    "Catppuccin/Icons-catppuccin-calc.jpg",
     "Catppuccin",
     "Englisch",
     "/Englisch",
