@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6765420e556616a0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
+            "file": "Biologie/Hausaufgabe/Enzymaktivität.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
+            "file": "Biologie/Hausaufgabe/Enzymaktivität.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md"
+            "file": "Biologie/Hausaufgabe/Enzymaktivität.md"
           }
         }
       }
@@ -145,10 +134,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6765420e556616a0",
+  "active": "d21ff6929126008d",
   "lastOpenFiles": [
-    "Biologie/Hausaufgabe/Enzymaktivität.md",
     "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
+    "Biologie/Hausaufgabe/Enzymaktivität.md",
     "Biologie/Hausaufgabe/DNA in mrna.md",
     "Biologie/Hausaufgabe/Bio korektur.md",
     "Biologie/Hausaufgabe/Osmose im Körper im fall salzwasser.md",
