@@ -13,33 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Mathematik/H Methode.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "752c4eab48c9d111",
+            "id": "7f9c4d703fef7dba",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5a0ba5e27566ba5f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md"
+                "file": "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md"
           }
         }
       }
@@ -154,8 +147,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "7f9c4d703fef7dba",
   "lastOpenFiles": [
+    "Mathematik/H Methode.md",
+    "README.md",
     "Biologie/Pepsin zerlegt Proteine.md",
     "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
     "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
@@ -168,7 +163,6 @@
     "Biologie/Hausaufgabe/DNA in mrna.md",
     "Biologie/Hausaufgabe/Bio korektur.md",
     "Biologie/Hausaufgabe/Osmose im Körper im fall salzwasser.md",
-    "README.md",
     "Pictures/Emilia Galotti-27.jpg",
     "Pictures/Emilia Galotti-28.jpg",
     "Pictures/Emilia Galotti-28.pdf",
@@ -192,7 +186,6 @@
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/wlan.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/wired.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/weather.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/wallz.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
