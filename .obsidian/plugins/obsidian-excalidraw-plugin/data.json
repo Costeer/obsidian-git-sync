@@ -5,7 +5,7 @@
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "autosave": true,
-  "autosaveInterval": 15000,
+  "autosaveInterval": 10000,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
   "drawingFilenamePrefix": "Drawing ",
@@ -20,12 +20,12 @@
   "width": "400",
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
-  "iframeMatchExcalidrawTheme": true,
-  "matchTheme": true,
-  "matchThemeAlways": true,
+  "iframeMatchExcalidrawTheme": false,
+  "matchTheme": false,
+  "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "mobile",
   "allowPinchZoom": false,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
@@ -82,7 +82,15 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Box Selected Elements": {
+      "Prompt for padding?": true,
+      "Default padding": {
+        "value": 10,
+        "description": "Padding between the bounding box of the selected elements, and the box the script creates"
+      }
+    }
+  },
   "defaultTrayMode": true,
   "previousRelease": "2.0.18",
   "showReleaseNotes": true,

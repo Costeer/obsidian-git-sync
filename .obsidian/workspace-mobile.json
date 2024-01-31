@@ -13,13 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Mathematik/H Methode.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f9c4d703fef7dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/H Methode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1692b844f0b8857c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0223f66348d77116",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "25c74bf2ca6a9f58",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md"
           }
         }
       }
@@ -134,46 +177,48 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d21ff6929126008d",
+  "active": "1692b844f0b8857c",
   "lastOpenFiles": [
-    "Niederländisch/Vokabeltest.md",
-    "Niederländisch/ISW Hoogeland.md",
-    "README.md",
-    "Catppuccin/Icons-catppuccin-settings.jpg",
-    "Catppuccin/Icons-catppuccin-obsidian.jpg",
-    "Catppuccin/Icons-catppuccin-obsidian.png",
-    "Catppuccin/Icons-catppuccin-Freeform.jpg",
-    "Catppuccin/Icons-catppuccin-calc.jpg",
-    "Catppuccin/Icons-catppuccin-settings-gay.jpg",
-    "Catppuccin/Icons-catppuccin-fresco-gay.jpg",
-    "Catppuccin/Icons-catppuccin-nobara-gay.jpg",
-    "Catppuccin/Icons-catppuccin-cat.jpg",
-    "Catppuccin/Icons-catppuccin-fresco.jpg",
-    "Catppuccin",
-    "/README.md",
-    "Excalidraw/Drawing 2024-01-29 20.57.48.excalidraw.md",
-    "/Excalidraw/Drawing 2024-01-29 20.57.48.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-29 10.55.34.excalidraw.md",
-    "Englisch/Untitled.md",
-    "Englisch/Media literacy of German teenagers.md",
-    "Geschichte/Das Sytem der Encomienda und seine usetztung.md",
-    "Geschichte/Eurozentrisches denken.md",
-    "Politik Wirtschaft/Gefangenendilemma.md",
-    "Englisch",
-    "/Englisch/Media literacy of German teenagers.md",
-    "/Englisch",
-    "Politik Wirtschaft/1.) Wirtschaftssektoren.md",
-    "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
-    "Chemie/Chemie.md",
-    "Deutsch/Strichpunkte Marinelli.md",
-    "Untitled.md",
-    "Deutsch/Präsentation notes.md",
-    "Deutsch/Rollenbiografie Gräfin.md",
-    "Deutsch/Beispiel Klausur Aufgabe 1.md",
-    "Biologie/Geschwindigkeit enzymkatalysirter Reaktionen.md",
-    "Biologie/Codon Triplet.md",
     "Mathematik/H Methode.md",
-    "Physik/Das Wechselwirkungsprinzip.md",
+    "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md",
+    "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
+    "Mathematik/Aufgaben/Aufgaben zur H methode.md",
+    "README.md",
+    "Biologie/Pepsin zerlegt Proteine.md",
+    "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
+    "Biologie/Hausaufgabe/Enzymaktivität.md",
+    "Biologie/Aktiver Transport Zellbiologie.md",
+    "Pasted Image 20240130105112_446.jpg",
+    "IMG_0166.jpeg",
+    "/README.md",
+    "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
+    "Biologie/Hausaufgabe/DNA in mrna.md",
+    "Biologie/Hausaufgabe/Bio korektur.md",
+    "Biologie/Hausaufgabe/Osmose im Körper im fall salzwasser.md",
+    "Pictures/Emilia Galotti-27.jpg",
+    "Pictures/Emilia Galotti-28.jpg",
+    "Pictures/Emilia Galotti-28.pdf",
+    "Pictures/Emilia Galotti-23.jpg",
+    "Pictures/Emilia Galotti-22.jpg",
+    "Pictures/IMG_0162.png",
+    "Pictures/Homogene Kohlenstoffketten.png",
+    "Pictures/gdm icon lol.png",
+    "Pictures/Fourastie.png",
+    "XXX_Linux/polybar-collection/fonts.ini.md",
+    "XXX_Linux/kitty/kitty.conf.md",
+    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/xbacklight.ini.md",
+    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/space.ini.md",
+    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-red.ini.md",
+    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-darker.ini.md",
+    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-blue.ini.md",
+    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-left-red.ini.md",
+    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-left-purple.ini.md",
+    "Catppuccin",
+    "Englisch",
+    "/Englisch",
     "Excalidraw/Kfmflf.excalidraw",
     "notationuebung.pdf"
   ]
