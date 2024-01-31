@@ -5,7 +5,7 @@ B (5+5|f(5+h))
 H muss immer in Richtung 0 also limes von h gegen 0
 
 # Falls du y nicht hast
-Ind die Formel einsetzen und ausrechnen
+In die Formel einsetzen und ausrechnen
 
 ### Schritt 1:
 X = 2+h
