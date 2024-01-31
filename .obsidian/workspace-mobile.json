@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "0223f66348d77116",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "25c74bf2ca6a9f58",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/H Methode.md",
+            "file": "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/H Methode.md",
+            "file": "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/H Methode.md"
+            "file": "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md"
           }
         }
       }
@@ -157,11 +167,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "0223f66348d77116",
   "lastOpenFiles": [
+    "Mathematik/H Methode.md",
+    "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
     "Mathematik/Aufgaben/Aufgaben zur H methode.md",
-    "Mathematik/H Methode.md",
     "Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md",
     "README.md",
     "Biologie/Pepsin zerlegt Proteine.md",
@@ -195,7 +206,6 @@
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-left-red.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-left-purple.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/corner-left-dim.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/corner-left-black.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
