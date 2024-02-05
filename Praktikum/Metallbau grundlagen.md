@@ -11,3 +11,9 @@ Bei Holz, Leder, KunstoffE, Stein
 ### Gefräste Zähne
 Bei weichen Werkstoffen Kunststoffe Aluminium
 
+
+
+# Bohrer 10.
+
+Kegelmantelschliff Spitzenwinkel 0 = 118°
+Bohrer müssen hinterschliffen sein dieser hinterschliff ermöglicht erst das
