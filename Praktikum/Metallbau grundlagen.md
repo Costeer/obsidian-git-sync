@@ -22,4 +22,8 @@ ist abhängig von **Bohrdurchmesser** und der **Härte** des Werkstoffes
 Mit zunemen des Bohrerdurchmessers wird der Seitenwinkel geringer Jedoch nie kleiner als 8°
 
 ##### Richtiges schleifen
-Durch **richtiges schleifen** der Schneiden wird die Standzeit der Spiralbohrer erhöht und die Qualität der Bohrung 
+Durch **richtiges schleifen** der Schneiden wird die Standzeit der Spiralbohrer erhöht und die Qualität der Bohrung verbessert
+### Sonderausführungen vonbohrer
+
+**Zentrierbohrer**
+Für 
