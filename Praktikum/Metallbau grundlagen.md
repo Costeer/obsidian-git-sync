@@ -35,6 +35,6 @@ Durch **richtiges schleifen** der Schneiden wird die Standzeit der Spiralbohrer 
 ##### Schnitbandgeschwindigkeit
 
 *v = d * pi * n
-* v = Schnitgeschwindigkeit in m
+* v = Schnitgeschwindigkeit in mpm
 - d = Durchmesser in mm
 - n = Drehzahl in pm
