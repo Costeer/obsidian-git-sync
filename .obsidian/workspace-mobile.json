@@ -11,8 +11,22 @@
             "id": "104d513fc4d7c922",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/Metallbau grundlagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cec32d4cadf150d9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md"
+              }
             }
           },
           {
@@ -26,14 +40,6 @@
             }
           },
           {
-            "id": "bebac98100ee1bcf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9872ac41e7786f2c",
             "type": "leaf",
             "state": {
@@ -42,9 +48,17 @@
                 "file": "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "4017a633e4b77675",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
+            "file": "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
+            "file": "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md"
+            "file": "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md"
           }
         }
       }
@@ -159,13 +173,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9872ac41e7786f2c",
+  "active": "a3c4143b116881fa",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md",
+    "Praktikum/Metallbau grundlagen.md",
     "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Excalidraw/Scripts/Downloaded/Palette loader.md",
-    "Praktikum/Metallbau grundlagen.md",
     "Pictures/IMG_0166.jpeg",
     "Pictures/Pasted Image 20240130105112_446.jpg",
     "/README.md",
@@ -198,7 +213,6 @@
     "XXX_Linux/polybar-collection/fonts.ini.md",
     "XXX_Linux/kitty/kitty.conf.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/xbacklight.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/space.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",

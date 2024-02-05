@@ -7,9 +7,11 @@
 Für weiche Stoffe
 
 ### Raspelzähne
+![[Drawing 2024-02-05 13.35.48.excalidraw]]
 Bei Holz, Leder, KunstoffE, Stein
 
 ### Gefräste Zähne
+![[Drawing 2024-02-05 13.38.39.excalidraw]]
 Bei weichen Werkstoffen Kunststoffe Aluminium
 
 
