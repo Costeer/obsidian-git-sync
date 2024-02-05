@@ -24,9 +24,27 @@
                 "file": "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "bebac98100ee1bcf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9872ac41e7786f2c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
+            "file": "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
+            "file": "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md"
+            "file": "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md"
           }
         }
       }
@@ -141,12 +159,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a3c4143b116881fa",
+  "active": "9872ac41e7786f2c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Excalidraw/Scripts/Downloaded/Palette loader.md",
     "Praktikum/Metallbau grundlagen.md",
-    "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
     "Pictures/IMG_0166.jpeg",
     "Pictures/Pasted Image 20240130105112_446.jpg",
     "/README.md",
@@ -176,7 +195,6 @@
     "Pictures/Emilia Galotti-27.jpg",
     "Pictures/Emilia Galotti-28.jpg",
     "Pictures/Emilia Galotti-28.pdf",
-    "Pictures/Emilia Galotti-23.jpg",
     "XXX_Linux/polybar-collection/fonts.ini.md",
     "XXX_Linux/kitty/kitty.conf.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/xbacklight.ini.md",
