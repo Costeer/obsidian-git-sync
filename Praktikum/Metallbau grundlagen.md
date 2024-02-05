@@ -3,6 +3,7 @@
 ## Zahn Arten:
 
 ### Gehauene Zähne
+
 Für weiche Stoffe
 
 ### Raspelzähne
