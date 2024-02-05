@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "XXX_Linux/starship.toml.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "XXX_Linux/starship.toml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "XXX_Linux/starship.toml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "XXX_Linux/starship.toml.md"
               }
             }
           }
@@ -151,6 +151,18 @@
   },
   "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
+    "Pictures/IMG_0166.jpeg",
+    "Pictures/Pasted Image 20240130105112_446.jpg",
+    "README.md",
+    "Pictures/IMG_0162.png",
+    "Pictures/Emilia Galotti-28.pdf",
+    "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
+    "Biologie/Pepsin zerlegt Proteine.md",
     "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
     "Catppuccin/Icons-catppuccin-pinterest-gay.jpg",
     "Catppuccin/Icons-catppuccin-Freeform-v2.jpg",
@@ -158,15 +170,10 @@
     "Catppuccin/Icons-catppuccin-github.jpg",
     "Catppuccin/Icons-catppuccin-gallery-2.jpg",
     "Catppuccin/Icons-catppuccin-gallery-gay.jpg",
-    "Catppuccin/Icons-catppuccin-github-gay.jpg",
-    "Catppuccin/Icons-catppuccin-Guilded.jpg",
-    "Catppuccin/Icons-catppuccin-guilded-lilac.jpg",
-    "Catppuccin/Icons-catppuccin-nobara.jpg",
     "XXX_Linux/polybar-collection/launch.sh.md",
     "Catppuccin",
     "XXX_Linux/polybar-collection/fonts.ini.md",
     "XXX_Linux/kitty/kitty.conf.md",
-    "README.md",
     "XXX_Linux/starship.toml.md",
     "XXX_Linux/polybar-collection/scripts/weather/weather.sh.md",
     "XXX_Linux/polybar-collection/scripts/weather/main.py.md",
@@ -181,13 +188,6 @@
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/wired.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/weather.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules/wallz.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/title.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/time.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/temperature.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/strich.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/space.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-right.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/modules/space-round-left.ini.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Englisch",
@@ -195,7 +195,6 @@
     "XXX_Linux/Rofi/launchers/type-2/shared",
     "XXX_Linux/Rofi/powermenu/type-2/shared",
     "XXX_Linux/polybar-collection/themes/gruvbox/modules",
-    "XXX_Linux/polybar-collection/scripts/weather",
-    "XXX_Linux/Rofi/launchers/type-2"
+    "XXX_Linux/polybar-collection/scripts/weather"
   ]
 }
