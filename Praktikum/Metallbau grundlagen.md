@@ -31,3 +31,5 @@ Durch **richtiges schleifen** der Schneiden wird die Standzeit der Spiralbohrer 
 - ***Stiftlochbohrer**
 - ***Spitzenbohrer**
 - ***Hartmetallbohrer**
+
+##### Schnit
