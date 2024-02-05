@@ -16,4 +16,8 @@ Bei weichen Werkstoffen Kunststoffe Aluminium
 # Bohrer 10.
 
 Kegelmantelschliff Spitzenwinkel 0 = 118°
-Bohrer müssen hinterschliffen sein dieser hinterschliff ermöglicht erst das
+Bohrer müssen hinterschliffen sein dieser hinterschliff ermöglicht erst das eindringen in den Werkstoff. 
+###### Größe des Seitenwinkels 
+ist abhängig von **Bohrdurchmesser** und der **Härte** des Werkstoffes 
+
+Mit zunemendem Bohrerdurchmesser wird der seitenwinkel geringer Jedoch nie kleiner als 8°
