@@ -32,4 +32,9 @@ Durch **richtiges schleifen** der Schneiden wird die Standzeit der Spiralbohrer 
 - ***Spitzenbohrer**
 - ***Hartmetallbohrer**
 
-##### Schnit
+##### Schnitbandgeschwindigkeit
+
+*v = d * pi * n
+* v = Schnitgeschwindigkeit in m
+- d = Durchmesser in mm
+- n = Drehzahl in pm
