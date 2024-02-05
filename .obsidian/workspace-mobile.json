@@ -4,65 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "47e7a94ee867fbfa",
+        "id": "0b70824c0b6d13e8",
         "type": "tabs",
         "children": [
           {
-            "id": "d21ff6929126008d",
+            "id": "104d513fc4d7c922",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3c4143b116881fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/H Methode.md",
+                "file": "Praktikum/Metallbau grundlagen.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7f9c4d703fef7dba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/H Methode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1692b844f0b8857c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0223f66348d77116",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "25c74bf2ca6a9f58",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md",
+            "file": "Praktikum/Metallbau grundlagen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md",
+            "file": "Praktikum/Metallbau grundlagen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md"
+            "file": "Praktikum/Metallbau grundlagen.md"
           }
         }
       }
@@ -177,14 +143,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "a3c4143b116881fa",
   "lastOpenFiles": [
-    "Untitled",
-    "Pasted Image 20240131110300_484.jpg",
+    "Praktikum/Metallbau grundlagen.md",
     "Mathematik/H Methode.md",
     "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md",
+    "Excalidraw/Untitled.md",
     "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md",
+    "Praktikum",
+    "Pasted Image 20240131110300_484.jpg",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
     "Mathematik/Aufgaben/Aufgaben zur H methode.md",
     "README.md",
@@ -215,7 +183,6 @@
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-red.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-darker.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-blue.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-left-red.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
