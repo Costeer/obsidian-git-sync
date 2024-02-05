@@ -24,11 +24,10 @@ Mit zunemen des Bohrerdurchmessers wird der Seitenwinkel geringer Jedoch nie kle
 ##### Richtiges schleifen
 Durch **richtiges schleifen** der Schneiden wird die Standzeit der Spiralbohrer erhöht und die Qualität der Bohrung verbessert
 ### Sonderausführungen vonbohrer
-
-**Zentrierbohrer**
+- ***Zentrierbohrer**
 Für das drehen und schleifen zwischen spitzen 
-**Stufenbohrer**
-**Kanonenbohrer**
-**Stiftlochbohrer**
-**Spitzenbohrer**
-**Hartmetall
+- ***Stufenbohrer**
+- ***Kanonenbohrer**
+- ***Stiftlochbohrer**
+- ***Spitzenbohrer**
+- ***Hartmetallbohrer**
