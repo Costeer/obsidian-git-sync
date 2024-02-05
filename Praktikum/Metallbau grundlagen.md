@@ -2,5 +2,12 @@
 
 ## Zahn Arten:
 
-### Gehauene zähne
-Für 
+### Gehauene Zähne
+Für weiche Stoffe
+
+### Raspelzähne
+Bei Holz, Leder, KunstoffE, Stein
+
+### Gefräste Zähne
+Bei weichen Werkstoffen Kunststoffe Aluminium
+
