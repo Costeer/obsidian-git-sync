@@ -23,7 +23,7 @@ Mit zunemen des Bohrerdurchmessers wird der Seitenwinkel geringer Jedoch nie kle
 
 ##### Richtiges schleifen
 Durch **richtiges schleifen** der Schneiden wird die Standzeit der Spiralbohrer erhöht und die Qualität der Bohrung verbessert
-### Sonderausführungen vonbohrer
+### Sonderausführungen von Bohrern
 - ***Zentrierbohrer**
 	Für das drehen und schleifen zwischen spitzen 
 - ***Stufenbohrer**
@@ -38,3 +38,14 @@ Durch **richtiges schleifen** der Schneiden wird die Standzeit der Spiralbohrer 
 * v = Schnitgeschwindigkeit in mpm
 - d = Durchmesser in mm
 - n = Drehzahl in pm
+
+# Senken 12.
+*senker sind bohrwerkzeuge die in verschiedenen Ausführungen hergestellt werden*
+
+Man unterscheidet zwischen folgenden Senkerarten:
+- Stirnsenker
+- Aufstecksenker
+- Kegelsenker
+- Flachsenker
+- Spiralsenker
+
