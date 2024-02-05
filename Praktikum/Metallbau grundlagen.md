@@ -26,4 +26,9 @@ Durch **richtiges schleifen** der Schneiden wird die Standzeit der Spiralbohrer 
 ### Sonderausführungen vonbohrer
 
 **Zentrierbohrer**
-Für 
+Für das drehen und schleifen zwischen spitzen 
+**Stufenbohrer**
+**Kanonenbohrer**
+**Stiftlochbohrer**
+**Spitzenbohrer**
+**Hartmetall
