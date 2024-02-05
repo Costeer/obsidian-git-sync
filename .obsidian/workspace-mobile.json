@@ -19,18 +19,6 @@
             "id": "a3c4143b116881fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum/Metallbau grundlagen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9021016bd4fbb4fb",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md"
@@ -38,7 +26,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,8 +141,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9021016bd4fbb4fb",
+  "active": "a3c4143b116881fa",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
     "Praktikum/Metallbau grundlagen.md",
     "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
     "Pictures/IMG_0166.jpeg",
@@ -191,8 +181,6 @@
     "XXX_Linux/kitty/kitty.conf.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/xbacklight.ini.md",
     "/XXX_Linux/polybar-collection/themes/gruvbox/modules/space.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-red.ini.md",
-    "/XXX_Linux/polybar-collection/themes/gruvbox/modules/round-right-darker.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",

@@ -3,7 +3,7 @@
 ## Zahn Arten:
 
 ### Gehauene Zähne
-
+![[Drawing 2024-02-05 13.23.45.excalidraw]]
 Für weiche Stoffe
 
 ### Raspelzähne
