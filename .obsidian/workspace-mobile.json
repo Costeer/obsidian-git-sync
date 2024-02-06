@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "104d513fc4d7c922",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum/Metallbau grundlagen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51f2aab33e0a6ae2",
             "type": "leaf",
             "state": {
@@ -30,47 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cec32d4cadf150d9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a3c4143b116881fa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9872ac41e7786f2c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4017a633e4b77675",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,17 +129,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
-    "Praktikum/Metallbau grundlagen.md",
-    "Praktikum/Aussagen  für Facharbeit dings da.md",
-    "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md",
+    "Praktikum/Aussagen  für Facharbeit dings da.md",
+    "Praktikum/Metallbau grundlagen.md",
+    "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Excalidraw/Scripts/Downloaded/Palette loader.md",
