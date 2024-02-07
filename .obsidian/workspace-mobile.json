@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Praktikum/Metallbau grundlagen.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6da25f1599a7d619",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md"
           }
         }
       }
@@ -134,11 +145,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "6da25f1599a7d619",
   "lastOpenFiles": [
-    "Praktikum/Aussagen  für Facharbeit dings da.md",
-    "Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md",
     "Praktikum/Metallbau grundlagen.md",
+    "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md",
+    "Praktikum/Aussagen  für Facharbeit dings da.md",
+    "README.md",
+    "Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
@@ -157,7 +170,6 @@
     "Pasted Image 20240131110300_484.jpg",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
     "Mathematik/Aufgaben/Aufgaben zur H methode.md",
-    "README.md",
     "Biologie/Pepsin zerlegt Proteine.md",
     "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
     "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
@@ -173,7 +185,6 @@
     "Pictures/Emilia Galotti-28.jpg",
     "Pictures/Emilia Galotti-28.pdf",
     "XXX_Linux/polybar-collection/fonts.ini.md",
-    "XXX_Linux/kitty/kitty.conf.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
