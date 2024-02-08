@@ -6,6 +6,6 @@
 ### Persohn 2.
 - Auswirkungen von Fachkräfte mangel auf t-pool gering
 - Azubis und Praktikanten die hier herkommen wissen nichts/wenig über den beruf
-- sinkende anforder
+- sinkende Anforderungen für das bestehen der Prüfunge <— weil weniger Stoff im Unterricht durchgenommen wird 
 ### Persohn 3. / Persohn 4.
 - Consens über aussagen von vorherige befragten Personen 
