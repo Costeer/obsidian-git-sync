@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/Aussagen  für Facharbeit dings da.md",
+                "file": "Praktikum/Metallbau grundlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,13 +23,14 @@
             "id": "6da25f1599a7d619",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md"
+                "file": "Pictures/Zzzzzzz.jpg"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Praktikum/Aussagen  für Facharbeit dings da.md",
+            "file": "Pictures/Zzzzzzz.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Praktikum/Aussagen  für Facharbeit dings da.md",
+            "file": "Pictures/Zzzzzzz.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Praktikum/Aussagen  für Facharbeit dings da.md"
+            "file": "Pictures/Zzzzzzz.jpg"
           }
         }
       }
@@ -144,11 +145,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51f2aab33e0a6ae2",
+  "active": "6da25f1599a7d619",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md",
     "Praktikum/Metallbau grundlagen.md",
     "Praktikum/Aussagen  für Facharbeit dings da.md",
-    "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md",
     "README.md",
     "Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
