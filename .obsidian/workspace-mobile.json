@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/Metallbau grundlagen.md",
+                "file": "Praktikum/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pictures/Zzzzzzz.jpg",
+            "file": "Praktikum/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pictures/Zzzzzzz.jpg",
+            "file": "Praktikum/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Pictures/Zzzzzzz.jpg"
+            "file": "Praktikum/Untitled.md"
           }
         }
       }
@@ -145,10 +144,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6da25f1599a7d619",
+  "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md",
     "Praktikum/Metallbau grundlagen.md",
+    "Praktikum/Untitled.md",
+    "Pictures/Zzzzzzz.jpg",
+    "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md",
     "Praktikum/Aussagen  für Facharbeit dings da.md",
     "README.md",
     "Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md",
@@ -182,9 +183,7 @@
     "Biologie/Hausaufgabe/Bio korektur.md",
     "Biologie/Hausaufgabe/Osmose im Körper im fall salzwasser.md",
     "Pictures/Emilia Galotti-27.jpg",
-    "Pictures/Emilia Galotti-28.jpg",
     "Pictures/Emilia Galotti-28.pdf",
-    "XXX_Linux/polybar-collection/fonts.ini.md",
     "Catppuccin",
     "Englisch",
     "/Englisch",
