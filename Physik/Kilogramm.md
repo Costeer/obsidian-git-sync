@@ -1,0 +1,1 @@
+Das Kilogramm, Einheitenzeichen kg, ist die SI-Einheit der Masse. Es ist definiert, indem für die Planck-Konstante _h_ der Zahlenwert 6,626 070 15 × 10–34 festgelegt wird, ausgedrückt in der Einheit J s, die gleich kg m2 s–1 ist, wobei der Meter und die Sekunde mittels _c_ und Δ_ν_Cs definiert sind
