@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Der Meter.md",
+            "file": "Physik/Kilogramm.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Der Meter.md",
+            "file": "Physik/Kilogramm.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Der Meter.md"
+            "file": "Physik/Kilogramm.md"
           }
         }
       }
@@ -157,10 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a51ba7a5807a1505",
+  "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
-    "Physik/Kilogramm.md",
     "Physik/Der Meter.md",
+    "Physik/Kilogramm.md",
     "Praktikum/Industrie-Mechanik-Prüfen.md",
     "Praktikum/Metallbau grundlagen.md",
     "Pictures/Zzzzzzz.jpg",
