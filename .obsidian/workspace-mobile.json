@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Die Newtontische Axiome.md",
+                "file": "Chemie/Mol™.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Die Newtontische Axiome.md",
+            "file": "Chemie/Mol™.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Die Newtontische Axiome.md",
+            "file": "Chemie/Mol™.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Die Newtontische Axiome.md"
+            "file": "Chemie/Mol™.md"
           }
         }
       }
@@ -134,8 +134,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
+    "Erdkunde/Endogene.md",
+    "Physik/Steigung in Graphen berechnen.md",
+    "Physik/Das erste Newtonische Axiom.md",
+    "Physik/Erdanziehungskraft.md",
+    "Physik/Merksatz Gravitation.md",
+    "Physik/Die Newtontische Axiome.md",
     "Physik/Der Meter.md",
     "Physik/Kilogramm.md",
     "Pictures/Zzzzzzz.jpg",
@@ -164,13 +170,8 @@
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
     "Mathematik/Aufgaben/Aufgaben zur H methode.md",
     "Biologie/Pepsin zerlegt Proteine.md",
-    "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
-    "Biologie/Hausaufgabe/Enzymaktivität.md",
-    "Biologie/Aktiver Transport Zellbiologie.md",
     "Pasted Image 20240130105112_446.jpg",
     "IMG_0166.jpeg",
-    "Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
     "Pictures/Emilia Galotti-27.jpg",
     "Pictures/Emilia Galotti-28.pdf",
     "Catppuccin",
