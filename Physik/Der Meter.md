@@ -1,1 +1,1 @@
-Das Meter ist seit 1983 (durch die 17. CGPM) definiert als die Strecke, die das Licht im Vakuum in einer Zeit von 1 : 299792458 Sekunden zurücklegt
+Der Meter ist seit 1983 (durch die 17. CGPM) definiert als die Strecke, die das Licht im Vakuum in einer Zeit von 1 : 299792458 Sekunden zurücklegt
