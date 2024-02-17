@@ -15,6 +15,8 @@ Bei Holz, Leder, KunstoffE, Stein
 Bei weichen Werkstoffen Kunststoffe Aluminium
 
 
+## Feil Arten
+![[Drawing 2024-02-07 11.39.31.excalidraw]]
 
 # Bohrer 10.
 
