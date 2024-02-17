@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XXX_Linux/starship.toml.md",
+                "file": "Praktikum/Metallbau grundlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XXX_Linux/starship.toml.md",
+                "file": "Praktikum/Metallbau grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XXX_Linux/starship.toml.md",
+                "file": "Praktikum/Metallbau grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XXX_Linux/starship.toml.md"
+                "file": "Praktikum/Metallbau grundlagen.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
-    "Praktikum/Metallbau grundlagen.md",
     "Praktikum/Aussagen  für Facharbeit dings da.md",
+    "XXX_Linux/starship.toml.md",
+    "Praktikum/Metallbau grundlagen.md",
     "Praktikum",
     "Pasted Image 20240131110300_484.jpg",
     "Excalidraw/Untitled.md",
@@ -182,7 +183,6 @@
     "Catppuccin",
     "XXX_Linux/polybar-collection/fonts.ini.md",
     "XXX_Linux/kitty/kitty.conf.md",
-    "XXX_Linux/starship.toml.md",
     "XXX_Linux/polybar-collection/scripts/weather/weather.sh.md",
     "XXX_Linux/polybar-collection/scripts/weather/main.py.md",
     "XXX_Linux/polybar-collection/modules.ini.md",
