@@ -10,7 +10,6 @@ Vorhallen die Arbeit der Techniker welche das verschachtel und die Planung der H
 4. Welche Erfahrungen habe ich gemacht?
 Ich habe die Erfahrung gemacht das ich definitiv nicht in diesem beruf Arbeiten möchte auch wenn die Arbeit interessant und herausfordernd ist. 
 
-
 5. Was hat mir spaß gemacht?
 Die Arbeit als techniker
 
