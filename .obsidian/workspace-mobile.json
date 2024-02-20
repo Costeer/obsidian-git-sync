@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musik/Fuge Musik.md",
+                "file": "Biologie/Immunsystem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Musik/Fuge Musik.md",
+            "file": "Biologie/Immunsystem.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Musik/Fuge Musik.md",
+            "file": "Biologie/Immunsystem.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Musik/Fuge Musik.md"
+            "file": "Biologie/Immunsystem.md"
           }
         }
       }
@@ -134,19 +134,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
+    "Biologie/Aminosäure Bestimmen.md",
+    "Biologie/Immunsystem.md",
+    "Musik/Wolfgang Amadeus Mozart.md",
+    "README.md",
+    "Pictures/Pasted Image 20240131110300_484.jpg",
+    "Musik/Fuge Musik.md",
     "Musik/Barock.md",
     "Musik/Klassik.md",
     "Musik/Imitationen Musik.md",
     "Musik/Ludwig van Beethoven.md",
     "Musik/Johann Sebastian Bach.md",
     "Musik/Renaissance.md",
-    "Musik/Wolfgang Amadeus Mozart.md",
     "Musik/Notenzeichen.md",
     "Musik/Musik Stiele.md",
     "Musik/Joseph Haydn.md",
-    "Musik/Fuge Musik.md",
     "Chemie/Atom.md",
     "Musik/Aufgaben",
     "Random Things/Untitled",
@@ -161,9 +165,6 @@
     "Physik/Steigung in Graphen berechnen.md",
     "Physik/Das erste Newtonische Axiom.md",
     "Physik/Erdanziehungskraft.md",
-    "Physik/Merksatz Gravitation.md",
-    "Physik/Die Newtontische Axiome.md",
-    "Physik/Der Meter.md",
     "Pictures/Zzzzzzz.jpg",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Pictures/IMG_0166.jpeg",
@@ -171,7 +172,6 @@
     "/Pictures/Pasted Image 20240130105112_446.jpg",
     "/Pictures/IMG_0166.jpeg",
     "Praktikum",
-    "Pasted Image 20240131110300_484.jpg",
     "Pasted Image 20240130105112_446.jpg",
     "IMG_0166.jpeg",
     "Pictures/Emilia Galotti-27.jpg",
