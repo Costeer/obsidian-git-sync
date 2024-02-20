@@ -66,3 +66,5 @@ herausgeschwemmt.
 
 Die Körperreaktionen die wir als Krankheit wahrnehmen, haben also durchaus ihren
 Nutzen für das Immunsystem, wenn auch nicht in direktem Zusammenhang.
+
+### [[Immunantwort]]
