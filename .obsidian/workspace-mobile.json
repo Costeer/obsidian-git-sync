@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "5a43f107da7643ab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "5142750ba6fb4681",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Untitled.md",
+            "file": "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Untitled.md",
+            "file": "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Untitled.md"
+            "file": "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md"
           }
         }
       }
@@ -144,11 +155,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51f2aab33e0a6ae2",
+  "active": "5a43f107da7643ab",
   "lastOpenFiles": [
+    "Mathematik/Untitled.md",
+    "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
     "IMG_0182.jpeg",
     "Mathematik/Die erste Ableitung.md",
-    "Mathematik/Untitled.md",
     "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
     "Mathematik/Binomische formeln.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
@@ -184,7 +196,6 @@
     "Praktikum",
     "Pasted Image 20240130105112_446.jpg",
     "IMG_0166.jpeg",
-    "Pictures/Emilia Galotti-27.jpg",
     "Pictures/Emilia Galotti-28.pdf",
     "Catppuccin",
     "Englisch",
