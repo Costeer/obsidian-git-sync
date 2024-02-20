@@ -22,4 +22,4 @@ Text heraus.
 
 3.  Der Unterschied von Spezifischer und unspezifischer Immunantworten ist, dass Unspezifische Immunabwer angeboren, unspezifisch und unflexibel ist dafür aber schnell und unmittelbar reagiert. Spezifische immunabwer ist hoch adaptiv und spezifisch dafür aber langsam in der Reaktion 
 
-4. ja gibt es 
+4. ja gibt es Gegen wenige Virusinfektionen, wie zum Beispiel die Grippe, Hepatitisviren, HIV, gibt es antivirale Medikamente aber generell grillt das die beste Behandlung gegen Viren die vorsorge durch impfungen
