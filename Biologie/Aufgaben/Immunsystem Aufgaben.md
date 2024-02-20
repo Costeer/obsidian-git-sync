@@ -10,6 +10,7 @@ Text heraus.
 4. Gibt es eine Behandlung gegen Viruserkrankungen? Recherchiere.
 
 #### Antworten:
+
 2. Die im Blut and der immunabwer beteiligten Bestandteile sind:
 - T-Helfer Zellen (können sich je nach bedarf in andere Zellen „umwandeln“ und sind so für die adaptive immunabwer zuständig)
 - Makrophagen (fressen potenziell schädliche Zellen)
@@ -17,6 +18,6 @@ Text heraus.
 - Antikörper (bilden antigene)
 - Zytotoxische T-Zellen (töten potenziell schädliche Zellen durch das freisetzen von für Zellen toxische stoffe)
 - NK-Zelle (regt bei Zellen den Zelltod an)
-- T-Gedächnis Zellen (Speicher eine erworbene immunantwort auf einen Erreger welche beim aufeinandertreffen der Gedächtnis Zelle und des Erregers freigesetzt wird und eine schnelle immunantwort ausgelöst wird)
+- T-Gedächnis Zellen (Speicher eine erworbene immunantwort auf einen Erreger welche beim aufeinandertreffen der Gedächtnis Zelle und des Erregers freigesetzt wird und eine schnelle immunantwort auslöst)
 
-3. 
+3.  Der Unterschied von Spezifischer und unspezifischer Immunantworten ist, dass 
