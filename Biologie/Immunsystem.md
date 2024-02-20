@@ -18,3 +18,27 @@ Mal über die Abwehrfähigkeit verfügte, wie folgt kategorisiert:
 -> Angeborene Immunabwehr (unspezifische Immunreaktion)
 -> Erworbene Immunabwehr (spezifische Immunreaktion)
 
+#### Komponenten des Immunsystems:
+Das Immunsystem besteht aus einzelnen Teilkomponenten, die lediglich in der
+Summe eine wirkungsvolle Barriere bilden. Einzeln isolierte Komponenten bieten nur
+wenig Schutz. Erst das Zusammenspiel aller drei Barrieren (siehe nachfolgend) führt
+zu einem hocheffektiven Immunsystem.
+
+##### Barriere = Allgemeine Abwehr:
+- Haut: physikalische Barriere nach außen.
+- Flimmerepithel: dienen der Reinigung der Atemwege.
+- Magensäure: der Magensaft (pH-Wert = ca. 1) tötet Mikroorganismen ab.
+- Darmflora: Kolonisationsresistenz gegen fremde Bakterientypen.
+Lysozym: Enzym zur Zersetzung von Mikroorganismen.
+
+2. Barriere = Zelluläre Abwehr (Zellen in Blutkreislauf und Lymphe):
+Granulozyten: gehören zu den Leukozyten und bekämpfen fremde Zellen.
+Lysozym: Zersetzungsenzym, das sich in den Körpersekreten befindet.
+NK-Zelle: regen den programmierten Zelltod (Apoptose) an.
+Makrophagen: fressen mögliche Krankheitserreger mittels Phagozytose.
+T. Lymphozyt: fungieren teilweise als Gedächtniszellen.
+
+3. Barriere = Humorale Abwehr (Plasmaproteine):
+Antikörper: binden an den Antigenen und machen sie unschädlich.
+Lysozym: Zersetzungsenzyme
+Interferone: regulieren das Zellwachstum
