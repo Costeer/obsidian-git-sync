@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musik/Klassik.md",
+                "file": "Musik/Barock.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Musik/Klassik.md",
+            "file": "Musik/Barock.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Musik/Klassik.md",
+            "file": "Musik/Barock.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Musik/Klassik.md"
+            "file": "Musik/Barock.md"
           }
         }
       }
@@ -136,17 +136,17 @@
   },
   "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
+    "Musik/Klassik.md",
+    "Musik/Imitationen Musik.md",
     "Musik/Ludwig van Beethoven.md",
+    "Musik/Johann Sebastian Bach.md",
+    "Musik/Barock.md",
     "Musik/Renaissance.md",
     "Musik/Wolfgang Amadeus Mozart.md",
     "Musik/Notenzeichen.md",
     "Musik/Musik Stiele.md",
-    "Musik/Klassik.md",
     "Musik/Joseph Haydn.md",
-    "Musik/Johann Sebastian Bach.md",
     "Musik/Fuge Musik.md",
-    "Musik/Barock.md",
-    "Musik/Imitationen Musik.md",
     "Chemie/Atom.md",
     "Musik/Aufgaben",
     "Random Things/Untitled",
