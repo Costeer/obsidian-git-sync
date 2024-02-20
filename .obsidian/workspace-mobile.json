@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Die erste Ableitung.md",
+                "file": "Mathematik/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
+            "file": "Mathematik/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
+            "file": "Mathematik/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md"
+            "file": "Mathematik/Untitled.md"
           }
         }
       }
@@ -145,9 +144,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5142750ba6fb4681",
+  "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
+    "IMG_0182.jpeg",
     "Mathematik/Die erste Ableitung.md",
+    "Mathematik/Untitled.md",
     "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
     "Mathematik/Binomische formeln.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
@@ -174,8 +175,6 @@
     "Musik/Aufgaben",
     "Random Things/Untitled",
     "Politik Wirtschaft/Praktikum Meine eigene Reflektion.md",
-    "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
-    "Chemie/Proton.md",
     "Pictures/Zzzzzzz.jpg",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Pictures/IMG_0166.jpeg",
