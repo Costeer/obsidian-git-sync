@@ -47,8 +47,22 @@ zu einem hocheffektiven Immunsystem.
 - Blinddarm: an der Produktion von Abwehrzellen beteiligt.
 - Darm: Hauptstandort des Immunsystems
 - Haut: physikalische Barriere gegen Erreger jeglicher Art
-Knochenmark: Synthese von Lymphozyten, Granulozyten & Monozyten.
-Lymphknoten: Filtration von Antikörpern aus der Lymphflüssigkeit.
-Mandeln: dient der Früherkennung von schädlichen Organismen.
-Milz: Filtration des Blutes und Freisetzung von Leukozyten
-Thymus: Umwandlung von Thymozyten in T-Lymphozyten.
+- Knochenmark: Synthese von Lymphozyten, Granulozyten & Monozyten.
+- Lymphknoten: Filtration von Antikörpern aus der Lymphflüssigkeit.
+- Mandeln: dient der Früherkennung von schädlichen Organismen.
+- Milz: Filtration des Blutes und Freisetzung von Leukozyten
+- Thymus: Umwandlung von Thymozyten in T-Lymphozyten.
+
+Darüber hinaus schützt der Körper sich auch durch andere Reaktionen, die wir selbst
+nicht bewusst steuern können. Bei **Fieber** erhöht der Körper die Körperkerntemperatur und verschlechtert somit die Bedingungen für die Krankheitserreger. Diese haben
+meist nur einen geringen Toleranzbereich und denaturieren (Strukturveränderung der
+Zellproteine) bei erhöhter Temperatur.
+
+Auch Durchfall und Erbrechen haben ihren Nutzen: Der Körper entledigt sich so
+den Parasiten, ehe sie in den Blutkreislauf gelangen können. Zuletzt erfüllt auch
+eine Blutungsreaktion, z.B. infolge eines Schnitts in den Finger, eine wichtige Funk-
+tion. Mögliche Verunreinigungen und Bakterien werden mit dem austretenden Blut
+herausgeschwemmt.
+
+Die Körperreaktionen die wir als Krankheit wahrnehmen, haben also durchaus ihren
+Nutzen für das Immunsystem, wenn auch nicht in direktem Zusammenhang.
