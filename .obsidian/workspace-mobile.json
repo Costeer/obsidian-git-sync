@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Binomische formeln.md",
+                "file": "Mathematik/Die erste Ableitung.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5142750ba6fb4681",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Binomische formeln.md",
+            "file": "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Binomische formeln.md",
+            "file": "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Binomische formeln.md"
+            "file": "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md"
           }
         }
       }
@@ -134,8 +145,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51f2aab33e0a6ae2",
+  "active": "5142750ba6fb4681",
   "lastOpenFiles": [
+    "Mathematik/Die erste Ableitung.md",
+    "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
+    "Mathematik/Binomische formeln.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
     "Mathematik/Gebrochen rationale Funktionen.md",
     "Biologie/Aufgaben/Immunsystem Aufgaben.md",
@@ -162,9 +176,6 @@
     "Politik Wirtschaft/Praktikum Meine eigene Reflektion.md",
     "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
     "Chemie/Proton.md",
-    "Chemie/Reduktion.md",
-    "Chemie/Oxidation.md",
-    "Chemie/Strahlung.md",
     "Pictures/Zzzzzzz.jpg",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Pictures/IMG_0166.jpeg",
