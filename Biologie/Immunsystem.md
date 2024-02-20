@@ -29,16 +29,26 @@ zu einem hocheffektiven Immunsystem.
 - Flimmerepithel: dienen der Reinigung der Atemwege.
 - Magensäure: der Magensaft (pH-Wert = ca. 1) tötet Mikroorganismen ab.
 - Darmflora: Kolonisationsresistenz gegen fremde Bakterientypen.
-Lysozym: Enzym zur Zersetzung von Mikroorganismen.
+- Lysozym: Enzym zur Zersetzung von Mikroorganismen.
 
-2. Barriere = Zelluläre Abwehr (Zellen in Blutkreislauf und Lymphe):
-Granulozyten: gehören zu den Leukozyten und bekämpfen fremde Zellen.
-Lysozym: Zersetzungsenzym, das sich in den Körpersekreten befindet.
-NK-Zelle: regen den programmierten Zelltod (Apoptose) an.
-Makrophagen: fressen mögliche Krankheitserreger mittels Phagozytose.
-T. Lymphozyt: fungieren teilweise als Gedächtniszellen.
+##### Barriere = Zelluläre Abwehr (Zellen in Blutkreislauf und Lymphe):
+- Granulozyten: gehören zu den Leukozyten und bekämpfen fremde Zellen.
+- Lysozym: Zersetzungsenzym, das sich in den Körpersekreten befindet.
+- NK-Zelle: regen den programmierten Zelltod (Apoptose) an.
+- Makrophagen: fressen mögliche Krankheitserreger mittels Phagozytose.
+- T. Lymphozyt: fungieren teilweise als Gedächtniszellen.
 
-3. Barriere = Humorale Abwehr (Plasmaproteine):
-Antikörper: binden an den Antigenen und machen sie unschädlich.
-Lysozym: Zersetzungsenzyme
-Interferone: regulieren das Zellwachstum
+##### Barriere = Humorale Abwehr (Plasmaproteine):
+- Antikörper: binden an den Antigenen und machen sie unschädlich.
+- Lysozym: Zersetzungsenzyme
+- Interferone: regulieren das Zellwachstum
+##### Beteiligte Organe:
+*Am Immunsystem sind folgende Organe direkt, oder indirekt beteiligt:*
+- Blinddarm: an der Produktion von Abwehrzellen beteiligt.
+- Darm: Hauptstandort des Immunsystems
+- Haut: physikalische Barriere gegen Erreger jeglicher Art
+Knochenmark: Synthese von Lymphozyten, Granulozyten & Monozyten.
+Lymphknoten: Filtration von Antikörpern aus der Lymphflüssigkeit.
+Mandeln: dient der Früherkennung von schädlichen Organismen.
+Milz: Filtration des Blutes und Freisetzung von Leukozyten
+Thymus: Umwandlung von Thymozyten in T-Lymphozyten.
