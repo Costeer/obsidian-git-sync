@@ -1,4 +1,4 @@
-#### [[Immunsystem]]
+#### Vorheriger Text: [[Immunsystem]]
 
 Die Immunreaktion (auch Immunantwort) beschreibt die Reaktion des Immunsys-
 tems auf fremde Zellen oder Substanzen. Dazu zählen Allergene, Bakterien, Parasi-
@@ -16,7 +16,7 @@ morale Abwehr (lat. umor = Flüssigkeit) mittels spezieller Proteine (!). Auf de
 den Tabelle sind die einzelnen Komponenten entsprechend ihrer Zugehörigkeit ein-
 geordnet.
 
-Angeborene und erworbene Immunreaktion:
+##### Angeborene und erworbene Immunreaktion:
 Die Kombination aus angeborener (unspezifische Reaktion) und erworbener (spezifi-
 sche Reaktion) Immunreaktion ist enorm effektiv bei der Abwehr und Bekämpfung
 von Krankheitserregern. Während die angeborene Immunantwort im Erbgut des Indi-
