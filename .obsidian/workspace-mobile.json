@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Immunantwort.md",
+                "file": "Biologie/Aufgaben/Immunsystem Aufgaben.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Immunantwort.md",
+            "file": "Biologie/Aufgaben/Immunsystem Aufgaben.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Immunantwort.md",
+            "file": "Biologie/Aufgaben/Immunsystem Aufgaben.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Immunantwort.md"
+            "file": "Biologie/Aufgaben/Immunsystem Aufgaben.md"
           }
         }
       }
@@ -134,12 +134,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51f2aab33e0a6ae2",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
+    "Biologie/Immunantwort.md",
     "Biologie/Immunsystem.md",
     "Biologie/Aufgaben/Enzymaktivität.md",
     "Biologie/Aufgaben/Immunsystem Aufgaben.md",
-    "Biologie/Immunantwort.md",
     "Biologie/Aminosäure Bestimmen.md",
     "Musik/Wolfgang Amadeus Mozart.md",
     "README.md",
