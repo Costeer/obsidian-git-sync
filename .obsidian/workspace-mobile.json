@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politik Wirtschaft/Praktikum Meine eigene Reflektion.md",
+                "file": "Musik/Musikalische Fuge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Politik Wirtschaft/Praktikum Meine eigene Reflektion.md",
+            "file": "Musik/Musikalische Fuge.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Politik Wirtschaft/Praktikum Meine eigene Reflektion.md",
+            "file": "Musik/Musikalische Fuge.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Politik Wirtschaft/Praktikum Meine eigene Reflektion.md"
+            "file": "Musik/Musikalische Fuge.md"
           }
         }
       }
@@ -134,10 +134,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51f2aab33e0a6ae2",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
-    "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
+    "Musik/Johann Sebastian Bach.md",
+    "Musik/Musikalische Fuge.md",
+    "Musik/Joseph Haydn.md",
+    "Musik/Aufgaben",
+    "Random Things/Untitled",
+    "Musik/Barock.md",
     "Politik Wirtschaft/Praktikum Meine eigene Reflektion.md",
+    "Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
     "Chemie/Proton.md",
     "Chemie/Reduktion.md",
     "Chemie/Oxidation.md",
@@ -159,15 +165,11 @@
     "README.md",
     "Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
-    "Excalidraw/Scripts/Downloaded/Palette loader.md",
     "Pictures/IMG_0166.jpeg",
     "Pictures/Pasted Image 20240130105112_446.jpg",
-    "/README.md",
     "/Pictures/Pasted Image 20240130105112_446.jpg",
     "/Pictures/IMG_0166.jpeg",
-    "Mathematik/H Methode.md",
     "Praktikum",
     "Pasted Image 20240131110300_484.jpg",
     "Pasted Image 20240130105112_446.jpg",

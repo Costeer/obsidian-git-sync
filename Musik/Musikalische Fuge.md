@@ -1,0 +1,1 @@
+Kennzeichnend für die Fuge ist eine besondere Anordnung von zu Beginn der Komposition: Ein musikalisches Thema wird in verschiedenen Stimmen zeitlich versetzt wiederholt, wobei es jeweils auf unterschiedlichen Tonhöhen einsetzt 
