@@ -16,4 +16,4 @@ Text heraus.
 - Antikörper (bilden antigene)
 - Zytotoxische T-Zellen (töten potenziell schädliche Zellen durch das freisetzen von für Zellen toxische stoffe)
 - NK-Zelle (regt bei Zellen den Zelltod an)
-- T-Gedächnis z
+- T-Gedächnis Zellen (Speicher eine erworbene immunantwort auf einen Erreger welche beim aufeinander )
