@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musik/Barock.md",
+                "file": "Musik/Klassik.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Musik/Barock.md",
+            "file": "Musik/Klassik.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Musik/Barock.md",
+            "file": "Musik/Klassik.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Musik/Barock.md"
+            "file": "Musik/Klassik.md"
           }
         }
       }
@@ -136,13 +136,18 @@
   },
   "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
+    "Musik/Ludwig van Beethoven.md",
+    "Musik/Renaissance.md",
+    "Musik/Wolfgang Amadeus Mozart.md",
+    "Musik/Notenzeichen.md",
+    "Musik/Musik Stiele.md",
+    "Musik/Klassik.md",
+    "Musik/Joseph Haydn.md",
+    "Musik/Johann Sebastian Bach.md",
     "Musik/Fuge Musik.md",
+    "Musik/Barock.md",
     "Musik/Imitationen Musik.md",
     "Chemie/Atom.md",
-    "Musik/Barock.md",
-    "Musik/Musik Stiele.md",
-    "Musik/Johann Sebastian Bach.md",
-    "Musik/Joseph Haydn.md",
     "Musik/Aufgaben",
     "Random Things/Untitled",
     "Politik Wirtschaft/Praktikum Meine eigene Reflektion.md",
@@ -159,12 +164,7 @@
     "Physik/Merksatz Gravitation.md",
     "Physik/Die Newtontische Axiome.md",
     "Physik/Der Meter.md",
-    "Physik/Kilogramm.md",
     "Pictures/Zzzzzzz.jpg",
-    "Praktikum/Industrie-Mechanik-Prüfen.md",
-    "Praktikum/Metallbau grundlagen.md",
-    "Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md",
-    "Praktikum/Aussagen  für Facharbeit dings da.md",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Pictures/IMG_0166.jpeg",
     "Pictures/Pasted Image 20240130105112_446.jpg",
