@@ -14,4 +14,6 @@ Text heraus.
 - Makrophagen (fressen potenziell schädliche Zellen)
 - Garanulozyten (bekämpfen fremde Zellen)
 - Antikörper (bilden antigene)
-- Zytotoxische T-Zellen (töten potenziell schädliche Zellen durch das freisetzen von für ze)
+- Zytotoxische T-Zellen (töten potenziell schädliche Zellen durch das freisetzen von für Zellen toxische stoffe)
+- NK-Zelle (regt bei Zellen den Zelltod an)
+- T-Gedächnis z
