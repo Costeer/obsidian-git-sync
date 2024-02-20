@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musik/Barock.md",
+                "file": "Musik/Fuge Musik.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Musik/Barock.md",
+            "file": "Musik/Fuge Musik.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Musik/Barock.md",
+            "file": "Musik/Fuge Musik.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Musik/Barock.md"
+            "file": "Musik/Fuge Musik.md"
           }
         }
       }
@@ -134,13 +134,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51f2aab33e0a6ae2",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
+    "Musik/Barock.md",
     "Musik/Klassik.md",
     "Musik/Imitationen Musik.md",
     "Musik/Ludwig van Beethoven.md",
     "Musik/Johann Sebastian Bach.md",
-    "Musik/Barock.md",
     "Musik/Renaissance.md",
     "Musik/Wolfgang Amadeus Mozart.md",
     "Musik/Notenzeichen.md",
