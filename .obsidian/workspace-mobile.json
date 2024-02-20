@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Aufgaben/Immunsystem Aufgaben.md",
+                "file": "Mathematik/Binomische formeln.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Aufgaben/Immunsystem Aufgaben.md",
+            "file": "Mathematik/Binomische formeln.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Aufgaben/Immunsystem Aufgaben.md",
+            "file": "Mathematik/Binomische formeln.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Aufgaben/Immunsystem Aufgaben.md"
+            "file": "Mathematik/Binomische formeln.md"
           }
         }
       }
@@ -134,12 +134,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
+    "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
+    "Mathematik/Gebrochen rationale Funktionen.md",
+    "Biologie/Aufgaben/Immunsystem Aufgaben.md",
     "Biologie/Immunantwort.md",
     "Biologie/Immunsystem.md",
     "Biologie/Aufgaben/Enzymaktivität.md",
-    "Biologie/Aufgaben/Immunsystem Aufgaben.md",
     "Biologie/Aminosäure Bestimmen.md",
     "Musik/Wolfgang Amadeus Mozart.md",
     "README.md",
@@ -163,8 +165,6 @@
     "Chemie/Reduktion.md",
     "Chemie/Oxidation.md",
     "Chemie/Strahlung.md",
-    "Chemie/Mol™.md",
-    "Erdkunde/Endogene.md",
     "Pictures/Zzzzzzz.jpg",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Pictures/IMG_0166.jpeg",
