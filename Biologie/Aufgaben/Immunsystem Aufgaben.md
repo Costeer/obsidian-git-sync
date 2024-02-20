@@ -20,4 +20,4 @@ Text heraus.
 - NK-Zelle (regt bei Zellen den Zelltod an)
 - T-Gedächnis Zellen (Speicher eine erworbene immunantwort auf einen Erreger welche beim aufeinandertreffen der Gedächtnis Zelle und des Erregers freigesetzt wird und eine schnelle immunantwort auslöst)
 
-3.  Der Unterschied von Spezifischer und unspezifischer Immunantworten ist, dass 
+3.  Der Unterschied von Spezifischer und unspezifischer Immunantworten ist, dass Unspezifische Immunabwer angeboren  sie unspezifisch und unflexibel ist 
