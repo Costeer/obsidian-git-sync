@@ -1,1 +1,0 @@
-Mit **Imitation**, der Nachahmung einer Tonfolge, wird in der Musik das Auftreten einer prägnanten musikalischer Gestallt oder [Motivs](https://de.wikipedia.org/wiki/Motiv_(Musik) "Motiv (Musik)") in einem Musikstück nacheinander in verschiedenen Stimmen bezeichnet.
