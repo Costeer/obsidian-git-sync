@@ -10,6 +10,8 @@ Text heraus.
 4. Gibt es eine Behandlung gegen Viruserkrankungen? Recherchiere.
 
 2. Die im Blut and der immunabwer beteiligten Bestandteile sind:
-- T-Helfer Zellen (können sich je nach bedarf in and)
-- Makrophagen
+- T-Helfer Zellen (können sich je nach bedarf in andere Zellen „umwandeln“ und sind so )
+- Makrophagen (fressen potenziell schädliche Zellen)
 - Garanulozyten (bekämpfen fremde Zellen)
+- Antikörper (bilden antigene)
+- 
