@@ -23,9 +23,11 @@
             "id": "5a43f107da7643ab",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md"
+                "file": "Deutsch/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -106,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
+            "file": "Deutsch/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
+            "file": "Deutsch/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md"
+            "file": "Deutsch/Untitled.md"
           }
         }
       }
@@ -157,8 +159,10 @@
   },
   "active": "5a43f107da7643ab",
   "lastOpenFiles": [
-    "Mathematik/Untitled.md",
+    "Mathematik/Definitionsbereich.md",
+    "Deutsch/Untitled.md",
     "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
+    "Mathematik/Untitled.md",
     "IMG_0182.jpeg",
     "Mathematik/Die erste Ableitung.md",
     "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
@@ -183,10 +187,8 @@
     "Musik/Notenzeichen.md",
     "Musik/Musik Stiele.md",
     "Musik/Joseph Haydn.md",
-    "Chemie/Atom.md",
     "Musik/Aufgaben",
     "Random Things/Untitled",
-    "Politik Wirtschaft/Praktikum Meine eigene Reflektion.md",
     "Pictures/Zzzzzzz.jpg",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Pictures/IMG_0166.jpeg",
