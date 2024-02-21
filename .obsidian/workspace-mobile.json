@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Aufgaben/Alkohole zeichnen.md",
+                "file": "Chemie/Reduktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
+            "file": "Chemie/Reduktion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
+            "file": "Chemie/Reduktion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md"
+            "file": "Chemie/Reduktion.md"
           }
         }
       }
@@ -169,15 +168,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8620c4f83d10a004",
+  "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
-    "Chemie/Carbonylgruppe.md",
+    "Chemie/Oxidation.md",
+    "Chemie/Reduktion.md",
     "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
+    "Chemie/Aufgaben/Alkohole zeichnen.md",
+    "Chemie/Carbonylgruppe.md",
     "Chemie/Elektronenhülle.md",
     "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
     "Deutsch/Online sein.md",
     "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
-    "Chemie/Aufgaben/Alkohole zeichnen.md",
     "Mathematik/Untitled.md",
     "Mathematik/Definitionsbereich.md",
     "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
@@ -197,8 +198,6 @@
     "Musik/Fuge Musik.md",
     "Musik/Barock.md",
     "Musik/Klassik.md",
-    "Musik/Imitationen Musik.md",
-    "Musik/Ludwig van Beethoven.md",
     "Musik/Aufgaben",
     "Random Things/Untitled",
     "Pictures/Zzzzzzz.jpg",
