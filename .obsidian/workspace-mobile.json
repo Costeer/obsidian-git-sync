@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Reduktion.md",
+                "file": "Chemie/Oxidation.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chemie/Reduktion.md",
+            "file": "Chemie/Oxidation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Chemie/Reduktion.md",
+            "file": "Chemie/Oxidation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Chemie/Reduktion.md"
+            "file": "Chemie/Oxidation.md"
           }
         }
       }
@@ -170,8 +170,8 @@
   },
   "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
-    "Chemie/Oxidation.md",
     "Chemie/Reduktion.md",
+    "Chemie/Oxidation.md",
     "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
     "Chemie/Aufgaben/Alkohole zeichnen.md",
     "Chemie/Carbonylgruppe.md",
