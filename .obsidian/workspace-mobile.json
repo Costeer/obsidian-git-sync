@@ -23,14 +23,28 @@
             "id": "385a31972dd8fcf4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md"
+                "file": "Chemie/Elektronenhülle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c62cf450bf84646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemie/Untitled 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
+            "file": "Chemie/Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
+            "file": "Chemie/Untitled 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md"
+            "file": "Chemie/Untitled 1.md"
           }
         }
       }
@@ -145,12 +159,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "385a31972dd8fcf4",
+  "active": "6c62cf450bf84646",
   "lastOpenFiles": [
+    "Chemie/Elektronenhülle.md",
+    "Chemie/Untitled 1.md",
+    "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
     "Deutsch/Online sein.md",
     "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
     "Chemie/Aufgaben/Alkohole zeichnen.md",
-    "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
     "Mathematik/Untitled.md",
     "Mathematik/Definitionsbereich.md",
     "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
@@ -173,8 +189,6 @@
     "Musik/Imitationen Musik.md",
     "Musik/Ludwig van Beethoven.md",
     "Musik/Johann Sebastian Bach.md",
-    "Musik/Renaissance.md",
-    "Musik/Notenzeichen.md",
     "Musik/Aufgaben",
     "Random Things/Untitled",
     "Pictures/Zzzzzzz.jpg",
