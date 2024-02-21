@@ -37,14 +37,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Untitled 1.md",
+                "file": "Chemie/Carbonylgruppe.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8620c4f83d10a004",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chemie/Untitled 1.md",
+            "file": "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Chemie/Untitled 1.md",
+            "file": "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Chemie/Untitled 1.md"
+            "file": "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md"
           }
         }
       }
@@ -159,10 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c62cf450bf84646",
+  "active": "8620c4f83d10a004",
   "lastOpenFiles": [
+    "Chemie/Carbonylgruppe.md",
+    "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
     "Chemie/Elektronenhülle.md",
-    "Chemie/Untitled 1.md",
     "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
     "Deutsch/Online sein.md",
     "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
@@ -188,7 +199,6 @@
     "Musik/Klassik.md",
     "Musik/Imitationen Musik.md",
     "Musik/Ludwig van Beethoven.md",
-    "Musik/Johann Sebastian Bach.md",
     "Musik/Aufgaben",
     "Random Things/Untitled",
     "Pictures/Zzzzzzz.jpg",
