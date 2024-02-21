@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Untitled.md",
+                "file": "Chemie/Aufgaben/Alkohole zeichnen.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "385a31972dd8fcf4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md"
               }
             }
           },
@@ -108,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deutsch/Online sein.md",
+            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deutsch/Online sein.md",
+            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deutsch/Online sein.md"
+            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md"
           }
         }
       }
@@ -157,12 +167,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a43f107da7643ab",
+  "active": "385a31972dd8fcf4",
   "lastOpenFiles": [
-    "Mathematik/Definitionsbereich.md",
-    "Deutsch/Online sein.md",
-    "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
+    "Chemie/Aufgaben/Alkohole zeichnen.md",
+    "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
     "Mathematik/Untitled.md",
+    "Deutsch/Online sein.md",
+    "Mathematik/Definitionsbereich.md",
+    "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
     "IMG_0182.jpeg",
     "Mathematik/Die erste Ableitung.md",
     "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
@@ -185,8 +197,6 @@
     "Musik/Johann Sebastian Bach.md",
     "Musik/Renaissance.md",
     "Musik/Notenzeichen.md",
-    "Musik/Musik Stiele.md",
-    "Musik/Joseph Haydn.md",
     "Musik/Aufgaben",
     "Random Things/Untitled",
     "Pictures/Zzzzzzz.jpg",
