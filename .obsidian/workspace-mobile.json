@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
+            "file": "Chemie/Aufgaben/Alkohole zeichnen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
+            "file": "Chemie/Aufgaben/Alkohole zeichnen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md"
+            "file": "Chemie/Aufgaben/Alkohole zeichnen.md"
           }
         }
       }
@@ -167,17 +166,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "385a31972dd8fcf4",
+  "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
-    "Chemie/Aufgaben/Alkohole zeichnen.md",
     "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
+    "Chemie/Aufgaben/Alkohole zeichnen.md",
     "Mathematik/Untitled.md",
     "Deutsch/Online sein.md",
     "Mathematik/Definitionsbereich.md",
     "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
     "IMG_0182.jpeg",
     "Mathematik/Die erste Ableitung.md",
-    "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
     "Mathematik/Binomische formeln.md",
     "Mathematik/Aufgaben/Mehr aufgaben zur h methode.md",
     "Mathematik/Gebrochen rationale Funktionen.md",
