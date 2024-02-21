@@ -91,6 +91,20 @@
         "value": 10,
         "description": "Padding between the bounding box of the selected elements, and the box the script creates"
       }
+    },
+    "Downloaded/Palette loader": {
+      "Palette folder": {
+        "value": "Excalidraw/Palettes",
+        "description": "The path to the folder where you store the Excalidraw Palettes"
+      },
+      "Light-gray": {
+        "value": "#505050",
+        "description": "Base light-gray used for mixing with the accent color to generate the palette light-gray"
+      },
+      "Dark-gray": {
+        "value": "#e0e0e0",
+        "description": "Base dark-gray used for mixing with the accent color to generate the palette dark-gray"
+      }
     }
   },
   "defaultTrayMode": true,
