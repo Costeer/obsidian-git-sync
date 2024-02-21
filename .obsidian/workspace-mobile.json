@@ -28,30 +28,9 @@
                 "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "5a43f107da7643ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Online sein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5142750ba6fb4681",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chemie/Aufgaben/Alkohole zeichnen.md",
+            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Chemie/Aufgaben/Alkohole zeichnen.md",
+            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -146,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Chemie/Aufgaben/Alkohole zeichnen.md"
+            "file": "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md"
           }
         }
       }
@@ -166,13 +145,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51f2aab33e0a6ae2",
+  "active": "385a31972dd8fcf4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
+    "Deutsch/Online sein.md",
     "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
     "Chemie/Aufgaben/Alkohole zeichnen.md",
+    "Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
     "Mathematik/Untitled.md",
-    "Deutsch/Online sein.md",
     "Mathematik/Definitionsbereich.md",
     "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
     "IMG_0182.jpeg",
