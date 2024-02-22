@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
+                "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
+            "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
+            "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "XXX_Linux/Rofi/applets/bin/appasroot.sh.md"
+            "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md"
           }
         }
       }
@@ -171,8 +171,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8620c4f83d10a004",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
+    "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
     "README.md",
     "Pictures/IMG_0182.jpeg",
     "XXX_Linux/Rofi/config.rasi.md",
@@ -200,7 +201,6 @@
     "Geschichte/Wirtschaftlicher wandel.md",
     "Geschichte/Eurozentrisches denken.md",
     "Chemie/Oxidation.md",
-    "Niederländisch/Arbeit.md",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
     "Random Things/Untitled",
