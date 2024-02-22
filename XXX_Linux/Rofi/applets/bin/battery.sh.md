@@ -1,3 +1,4 @@
+```
 #!/usr/bin/env bash
 
 ## Author  : Aditya Shakya (adi1090x)
