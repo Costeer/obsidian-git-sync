@@ -14,7 +14,7 @@ type="type-6"
 style="style-2"
 
 # Theme Elements
-prompt='GruvBox = best Box'
+prompt='Catppuccin Moca'
 mesg="Installed Packages : at least 3 (dnf)"
 
 if [[ ( "$theme" == *'type-1'* ) || ( "$theme" == *'type-3'* ) || ( "$theme" == *'type-5'* ) ]]; then
@@ -28,7 +28,7 @@ fi
 # CMDs (add your apps here)
 term_cmd='kitty'
 file_cmd='thunar'
-text_cmd='gedit'
+text_cmd='nvim'
 web_cmd='firefox'
 
 # Options
