@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Wirtschaftlicher wandel.md",
+                "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geschichte/Wirtschaftlicher wandel.md",
+            "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geschichte/Wirtschaftlicher wandel.md",
+            "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/Wirtschaftlicher wandel.md"
+            "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md"
           }
         }
       }
@@ -171,8 +171,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "8620c4f83d10a004",
   "lastOpenFiles": [
+    "XXX_Linux/Rofi/applets/shared/theme.bash.md",
+    "XXX_Linux/Rofi/applets/shared/fonts.rasi.md",
+    "XXX_Linux/Rofi/applets/shared/colors.rasi.md",
+    "XXX_Linux/Rofi/colors/gruvbox.rasi.md",
+    "XXX_Linux/Rofi/images/c.png",
+    "Geschichte/Wirtschaftlicher wandel.md",
     "Geschichte/Eurozentrisches denken.md",
     "Chemie/Oxidation.md",
     "Niederländisch/Arbeit.md",
@@ -195,11 +201,6 @@
     "Mathematik/Gebrochen rationale Funktionen.md",
     "Biologie/Aufgaben/Immunsystem Aufgaben.md",
     "Biologie/Immunantwort.md",
-    "Biologie/Immunsystem.md",
-    "Biologie/Aufgaben/Enzymaktivität.md",
-    "Biologie/Aminosäure Bestimmen.md",
-    "Musik/Wolfgang Amadeus Mozart.md",
-    "README.md",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
     "Random Things/Untitled",
@@ -211,7 +212,6 @@
     "/Pictures/IMG_0166.jpeg",
     "Praktikum",
     "Pasted Image 20240130105112_446.jpg",
-    "IMG_0166.jpeg",
     "Pictures/Emilia Galotti-28.pdf",
     "Catppuccin",
     "Englisch",
