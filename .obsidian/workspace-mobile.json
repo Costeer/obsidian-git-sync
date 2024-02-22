@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XXX_Linux/Rofi/powermenu/type-2/style-1.rasi.md",
+                "file": "XXX_Linux/Rofi/powermenu/type-2/shared/fonts.rasi.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "XXX_Linux/Rofi/powermenu/type-2/style-1.rasi.md",
+            "file": "XXX_Linux/Rofi/powermenu/type-2/shared/fonts.rasi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "XXX_Linux/Rofi/powermenu/type-2/style-1.rasi.md",
+            "file": "XXX_Linux/Rofi/powermenu/type-2/shared/fonts.rasi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "XXX_Linux/Rofi/powermenu/type-2/style-1.rasi.md"
+            "file": "XXX_Linux/Rofi/powermenu/type-2/shared/fonts.rasi.md"
           }
         }
       }
@@ -171,8 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8620c4f83d10a004",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
+    "XXX_Linux/Rofi/powermenu/type-2/shared/colors.rasi.md",
+    "XXX_Linux/Rofi/powermenu/type-2/style-1.rasi.md",
     "XXX_Linux/picom/picom-allusive.md",
     "XXX_Linux/Rofi/applets/bin/battery.sh.md",
     "Praktikum/Metallbau grundlagen.md",
@@ -198,9 +200,7 @@
     "Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
     "Mathematik/Untitled.md",
     "Mathematik/Definitionsbereich.md",
-    "Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
     "IMG_0182.jpeg",
-    "Mathematik/Die erste Ableitung.md",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
     "Random Things/Untitled",
