@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Altes medium.md",
+                "file": "Geschichte/Wirtschaftlicher wandel.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deutsch/Altes medium.md",
+            "file": "Geschichte/Wirtschaftlicher wandel.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deutsch/Altes medium.md",
+            "file": "Geschichte/Wirtschaftlicher wandel.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deutsch/Altes medium.md"
+            "file": "Geschichte/Wirtschaftlicher wandel.md"
           }
         }
       }
@@ -171,11 +171,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8620c4f83d10a004",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
-    "Deutsch/Altes medium.md",
+    "Geschichte/Eurozentrisches denken.md",
     "Chemie/Oxidation.md",
+    "Niederländisch/Arbeit.md",
+    "Deutsch/Altes medium.md",
+    "Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
     "Chemie/Reduktion.md",
     "Chemie/Aufgaben/Alkohole zeichnen.md",
     "Chemie/Carbonylgruppe.md",
@@ -199,8 +201,6 @@
     "Musik/Wolfgang Amadeus Mozart.md",
     "README.md",
     "Pictures/Pasted Image 20240131110300_484.jpg",
-    "Musik/Fuge Musik.md",
-    "Musik/Barock.md",
     "Musik/Aufgaben",
     "Random Things/Untitled",
     "Pictures/Zzzzzzz.jpg",
