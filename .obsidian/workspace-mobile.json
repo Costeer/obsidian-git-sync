@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md",
+                "file": "Geschichte/Imperialismus.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chemie/Oxidation.md",
+            "file": "Geschichte/Imperialismus.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Chemie/Oxidation.md",
+            "file": "Geschichte/Imperialismus.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Chemie/Oxidation.md"
+            "file": "Geschichte/Imperialismus.md"
           }
         }
       }
@@ -171,8 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "8620c4f83d10a004",
   "lastOpenFiles": [
+    "Chemie/Oxidation.md",
+    "Geschichte/Imperialismus.md",
     "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
     "README.md",
     "Pictures/IMG_0182.jpeg",
@@ -199,8 +201,6 @@
     "XXX_Linux/Rofi/colors/gruvbox.rasi.md",
     "XXX_Linux/Rofi/images/c.png",
     "Geschichte/Wirtschaftlicher wandel.md",
-    "Geschichte/Eurozentrisches denken.md",
-    "Chemie/Oxidation.md",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
     "Random Things/Untitled",
