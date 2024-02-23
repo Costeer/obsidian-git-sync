@@ -10,4 +10,6 @@ Dieses aus dem Lateinischen stammende Wort bezeichnet das Streben von Staaten, i
 - Ausdehnungsdrang von Staaten
 - Politisch sowie wirtschaftlich, kulturell oder durch Kriegsführung möglich
 - Klassisches Zeitalter des Imperialismus ist 1880-1918
-- 
+
+*Auch Interessant*
+[[Hegemonie]]

@@ -9,3 +9,6 @@ Im Griechischen heißt das Wort „Führung". In der Politik ist damit die Vor- 
 - Stärkerer Staat: Hegemonialmacht
 - Ohne bewaffnete
 - Auseinandersetzung
+
+*Auch Interessant*
+[[Imperialismus]]
