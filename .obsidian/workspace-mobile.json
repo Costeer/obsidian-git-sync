@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d5ccbb3a52b916f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Gleichförmige Kreisbewegung.md",
+            "file": "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Gleichförmige Kreisbewegung.md",
+            "file": "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +173,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Gleichförmige Kreisbewegung.md"
+            "file": "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md"
           }
         }
       }
@@ -183,10 +193,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8369841fe243d5ea",
+  "active": "6d5ccbb3a52b916f",
   "lastOpenFiles": [
-    "Geschichte/Hegemonie.md",
     "Physik/Gleichförmige Kreisbewegung.md",
+    "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md",
+    "Geschichte/Hegemonie.md",
     "Geschichte/Imperialismus.md",
     "Chemie/Oxidation.md",
     "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
@@ -211,7 +222,6 @@
     "XXX_Linux/Rofi/applets/bin/apps.sh.md",
     "XXX_Linux/Rofi/applets/shared/theme.bash.md",
     "XXX_Linux/Rofi/applets/shared/fonts.rasi.md",
-    "XXX_Linux/Rofi/applets/shared/colors.rasi.md",
     "XXX_Linux/Rofi/images/c.png",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
