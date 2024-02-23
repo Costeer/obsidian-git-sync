@@ -4,4 +4,8 @@ Im Griechischen heißt das Wort „Führung". In der Politik ist damit die Vor- 
 
 #### Stichpunkte
 - Griechisch führung
-- 
+- Vorherrschaft durch Überlegenheit
+- 3 Faktoren kulturell, Wirtschaftlich, militärisch
+- Stärkerer Staat: Hegemonialmacht
+- Ohne bewaffnete
+- Auseinandersetzung
