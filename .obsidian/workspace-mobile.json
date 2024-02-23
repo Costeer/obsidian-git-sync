@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md",
+            "file": "Chemie/Oxidation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md",
+            "file": "Chemie/Oxidation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "XXX_Linux/Rofi/applets/bin/apps.sh.md"
+            "file": "Chemie/Oxidation.md"
           }
         }
       }
