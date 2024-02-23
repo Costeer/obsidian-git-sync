@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geschichte/Hegemonie.md",
+            "file": "Geschichte/Imperialismus.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geschichte/Hegemonie.md",
+            "file": "Geschichte/Imperialismus.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/Hegemonie.md"
+            "file": "Geschichte/Imperialismus.md"
           }
         }
       }
@@ -183,10 +183,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8369841fe243d5ea",
+  "active": "8620c4f83d10a004",
   "lastOpenFiles": [
-    "Geschichte/Imperialismus.md",
     "Geschichte/Hegemonie.md",
+    "Geschichte/Imperialismus.md",
     "Chemie/Oxidation.md",
     "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
     "README.md",
