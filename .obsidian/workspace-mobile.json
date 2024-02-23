@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "c0cb1230a30c9713",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-23 11.38.33.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "6d5ccbb3a52b916f",
             "type": "leaf",
             "state": {
@@ -144,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md",
+            "file": "Excalidraw/Drawing 2024-02-23 11.38.33.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,7 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md",
+            "file": "Excalidraw/Drawing 2024-02-23 11.38.33.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -173,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md"
+            "file": "Excalidraw/Drawing 2024-02-23 11.38.33.excalidraw.md"
           }
         }
       }
@@ -193,9 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d5ccbb3a52b916f",
+  "active": "c0cb1230a30c9713",
   "lastOpenFiles": [
     "Physik/Gleichförmige Kreisbewegung.md",
+    "Excalidraw/Drawing 2024-02-23 11.38.33.excalidraw.md",
     "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md",
     "Geschichte/Hegemonie.md",
     "Geschichte/Imperialismus.md",
@@ -221,7 +232,6 @@
     "XXX_Linux/polybar-collection/scripts/weather/main.py.md",
     "XXX_Linux/Rofi/applets/bin/apps.sh.md",
     "XXX_Linux/Rofi/applets/shared/theme.bash.md",
-    "XXX_Linux/Rofi/applets/shared/fonts.rasi.md",
     "XXX_Linux/Rofi/images/c.png",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
