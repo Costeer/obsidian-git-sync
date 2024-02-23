@@ -11,5 +11,5 @@ Dieses aus dem Lateinischen stammende Wort bezeichnet das Streben von Staaten, i
 - Politisch sowie wirtschaftlich, kulturell oder durch Kriegsführung möglich
 - Klassisches Zeitalter des Imperialismus ist 1880-1918
 
-*Auch Interessant*
+*Auch Interessant:*
 [[Hegemonie]]
