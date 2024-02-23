@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Hegemonie.md",
+                "file": "Physik/Gleichförmige Kreisbewegung.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geschichte/Hegemonie.md",
+            "file": "Physik/Gleichförmige Kreisbewegung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geschichte/Hegemonie.md",
+            "file": "Physik/Gleichförmige Kreisbewegung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/Hegemonie.md"
+            "file": "Physik/Gleichförmige Kreisbewegung.md"
           }
         }
       }
@@ -185,8 +185,9 @@
   },
   "active": "8369841fe243d5ea",
   "lastOpenFiles": [
-    "Geschichte/Imperialismus.md",
     "Geschichte/Hegemonie.md",
+    "Physik/Gleichförmige Kreisbewegung.md",
+    "Geschichte/Imperialismus.md",
     "Chemie/Oxidation.md",
     "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
     "README.md",
@@ -211,7 +212,6 @@
     "XXX_Linux/Rofi/applets/shared/theme.bash.md",
     "XXX_Linux/Rofi/applets/shared/fonts.rasi.md",
     "XXX_Linux/Rofi/applets/shared/colors.rasi.md",
-    "XXX_Linux/Rofi/colors/gruvbox.rasi.md",
     "XXX_Linux/Rofi/images/c.png",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
