@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8369841fe243d5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Hegemonie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geschichte/Imperialismus.md",
+            "file": "Geschichte/Hegemonie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geschichte/Imperialismus.md",
+            "file": "Geschichte/Hegemonie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/Imperialismus.md"
+            "file": "Geschichte/Hegemonie.md"
           }
         }
       }
@@ -171,10 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8620c4f83d10a004",
+  "active": "8369841fe243d5ea",
   "lastOpenFiles": [
-    "Chemie/Oxidation.md",
     "Geschichte/Imperialismus.md",
+    "Geschichte/Hegemonie.md",
+    "Chemie/Oxidation.md",
     "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
     "README.md",
     "Pictures/IMG_0182.jpeg",
@@ -200,7 +213,6 @@
     "XXX_Linux/Rofi/applets/shared/colors.rasi.md",
     "XXX_Linux/Rofi/colors/gruvbox.rasi.md",
     "XXX_Linux/Rofi/images/c.png",
-    "Geschichte/Wirtschaftlicher wandel.md",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
     "Random Things/Untitled",
