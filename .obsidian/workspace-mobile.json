@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "385a31972dd8fcf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemie/Elektronenhülle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c62cf450bf84646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemie/Carbonylgruppe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chemie/Carbonylgruppe.md",
+            "file": "Chemie/Oxidation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Chemie/Carbonylgruppe.md",
+            "file": "Chemie/Oxidation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Chemie/Carbonylgruppe.md"
+            "file": "Chemie/Oxidation.md"
           }
         }
       }
@@ -159,8 +134,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c62cf450bf84646",
+  "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
+    "Chemie/Elektronenhülle.md",
+    "Chemie/Carbonylgruppe.md",
     "Geschichte/Imperialismus.md",
     "Physik/Gleichförmige Kreisbewegung.md",
     "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md",
@@ -186,8 +163,6 @@
     "XXX_Linux/Rofi/applets/bin/battery.sh.md",
     "Praktikum/Metallbau grundlagen.md",
     "XXX_Linux/polybar-collection/scripts/weather/main.py.md",
-    "XXX_Linux/Rofi/applets/bin/apps.sh.md",
-    "XXX_Linux/Rofi/applets/shared/theme.bash.md",
     "XXX_Linux/Rofi/images/c.png",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
