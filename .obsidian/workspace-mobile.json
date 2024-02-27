@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "612db290de63a72b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologie/Salmonellose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Verlauf einer Infektionskrankheit.md",
+            "file": "Biologie/Salmonellose.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Verlauf einer Infektionskrankheit.md",
+            "file": "Biologie/Salmonellose.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Verlauf einer Infektionskrankheit.md"
+            "file": "Biologie/Salmonellose.md"
           }
         }
       }
@@ -134,11 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "612db290de63a72b",
   "lastOpenFiles": [
+    "Biologie/Verlauf einer Infektionskrankheit.md",
+    "Biologie/Salmonellose.md",
     "Pictures/IMG_0205.jpeg",
     "Biologie/Aktiver Transport Zellbiologie.md",
-    "Biologie/Verlauf einer Infektionskrankheit.md",
     "Biologie/Basen in DNA.md",
     "Biologie/Aufgaben/Bio korektur.md",
     "Biologie/Aufgaben/Osmose im Körper im fall salzwasser.md",
@@ -177,7 +191,6 @@
     "/Pictures/Pasted Image 20240130105112_446.jpg",
     "/Pictures/IMG_0166.jpeg",
     "Praktikum",
-    "Pasted Image 20240130105112_446.jpg",
     "Pictures/Emilia Galotti-28.pdf",
     "Catppuccin",
     "Englisch",

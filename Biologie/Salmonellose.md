@@ -1,0 +1,8 @@
+Die Salmonellose ist eine typische Lebensmittelinfektion, die zu einer Darmentzündung führt. Auslöser sind Salmonella-Bakterien. Besonders gut vermehren sich die Bakterien ni Eiern, Milch, Fleisch und Ge- flügelprodukten. Mti verunreinigter Nahrung gelangen die Salmonellen ni den Magen-Darm-Trakt.
+Je nach Bakterien-Art und ihrer Anzahl können fünf Stunden bis drei Tage vergehen, bis die ersten Symp- tome der Salmonellose auftreten. Typisch sind Bauchschmerzen, Durchfal, Fieber, Übelkeit und manch- mal auch Erbrechen. Die Erkrankung dauert zwei bis mehrere Tage. Infizierte Menschen können noch ein bis zwei Monate nach dem Verschwinden der Symptome Bakterien über den Stuhl ausscheiden und andere Menschen anstecken.
+
+Da es über 2500 verschiedene Arten von Salmonel- len-Bakterien gibt, sti eine Impfung nicht möglich. Auch nach überstandener Salmonellose kann man sich immer wieder infizieren.
+
+Salmonellen werden vor allem durch mangelnde Hy- giene verbreitet. So werden .z B. Lebensmittel oft nicht kühl genug gelagert oder vor dem Verzehr nicht
+genügend erhitzt, um die Bakterien abzutöten. Außer- dem muss sich jeder unbedingt nach der Toiletten- benutzung gründlich die Hände tmi Seife waschen. Sonst übertragen infizierte Personen die Keime auf Speisen, die andere essen und dann ebenfalls krank
+werden.
