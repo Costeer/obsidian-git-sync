@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "04b4a143586a3548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologie/Viren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "90c79e5fbc81f71d",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Bakterien.md",
+            "file": "Biologie/Viren.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Bakterien.md",
+            "file": "Biologie/Viren.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Bakterien.md"
+            "file": "Biologie/Viren.md"
           }
         }
       }
@@ -171,10 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7226b2a1e78b564a",
+  "active": "04b4a143586a3548",
   "lastOpenFiles": [
-    "Biologie/Aufgaben/Bakterien vermehrung.md",
     "Biologie/Bakterien.md",
+    "Biologie/Viren.md",
+    "Biologie/Aufgaben/Bakterien vermehrung.md",
     "Biologie/Aufgaben/DNA in mrna.md",
     "Biologie/Salmonellose.md",
     "Biologie/Tetanus.md",
@@ -202,7 +215,6 @@
     "Catppuccin/Praktikum.odt",
     "Chemie/Elektronenhülle.md",
     "Chemie/Carbonylgruppe.md",
-    "Geschichte/Imperialismus.md",
     "Pictures/IMG_0182.jpeg",
     "XXX_Linux/Rofi/images/c.png",
     "Pictures/Pasted Image 20240131110300_484.jpg",
