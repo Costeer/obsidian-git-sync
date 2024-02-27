@@ -7,7 +7,7 @@ werden.
 
 | Frage               | Antwort                                                                                              |
 | ------------------- | ---------------------------------------------------------------------------------------------------- |
-| Ereger              | Bakterien                                                                                            |
+| Ereger              | Salmonella-Bakterien                                                                                 |
 | Übertragungsweg     | durch essen                                                                                          |
 | Inkubationszeit     | 5h - 3d                                                                                              |
 | Symptome            | Bauchschmerzen, Durchfal, Fieber, Übelkeit und Erbrechen                                             |

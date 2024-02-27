@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Tetanus.md",
+                "file": "Biologie/Salmonellose.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Tetanus.md",
+            "file": "Biologie/Salmonellose.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Tetanus.md",
+            "file": "Biologie/Salmonellose.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Tetanus.md"
+            "file": "Biologie/Salmonellose.md"
           }
         }
       }
@@ -161,8 +161,8 @@
   },
   "active": "612db290de63a72b",
   "lastOpenFiles": [
-    "Biologie/Windpocken.md",
     "Biologie/Tetanus.md",
+    "Biologie/Windpocken.md",
     "Biologie/Salmonellose.md",
     "Biologie/Verlauf einer Infektionskrankheit.md",
     "Pictures/IMG_0205.jpeg",
