@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Aktiver Transport Zellbiologie.md",
+                "file": "Biologie/Verlauf einer Infektionskrankheit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Aktiver Transport Zellbiologie.md",
+            "file": "Biologie/Verlauf einer Infektionskrankheit.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Aktiver Transport Zellbiologie.md",
+            "file": "Biologie/Verlauf einer Infektionskrankheit.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Aktiver Transport Zellbiologie.md"
+            "file": "Biologie/Verlauf einer Infektionskrankheit.md"
           }
         }
       }
@@ -136,6 +136,8 @@
   },
   "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
+    "Biologie/Aktiver Transport Zellbiologie.md",
+    "Biologie/Verlauf einer Infektionskrankheit.md",
     "Biologie/Basen in DNA.md",
     "Biologie/Aufgaben/Bio korektur.md",
     "Biologie/Aufgaben/Osmose im Körper im fall salzwasser.md",
@@ -164,8 +166,6 @@
     "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
     "README.md",
     "Pictures/IMG_0182.jpeg",
-    "XXX_Linux/Rofi/config.rasi.md",
-    "XXX_Linux/kitty/kitty.conf.md",
     "XXX_Linux/Rofi/images/c.png",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
