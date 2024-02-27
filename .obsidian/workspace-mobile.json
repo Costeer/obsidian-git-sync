@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Tetanus.md",
+                "file": "Mathematik/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
+            "file": "Mathematik/Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
+            "file": "Mathematik/Untitled 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md"
+            "file": "Mathematik/Untitled 1.md"
           }
         }
       }
@@ -205,16 +205,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70d126ecfb78a3a0",
+  "active": "90c79e5fbc81f71d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Biologie/Tetanus.md",
+    "Mathematik/Untitled 1.md",
     "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
+    "Untitled.md",
     "Biologie/Viren.md",
     "Biologie/Bakterien.md",
     "Biologie/Aufgaben/Bakterien vermehrung.md",
     "Biologie/Aufgaben/DNA in mrna.md",
     "Biologie/Salmonellose.md",
-    "Biologie/Tetanus.md",
     "Biologie/Windpocken.md",
     "Biologie/Verlauf einer Infektionskrankheit.md",
     "Pictures/IMG_0205.jpeg",
@@ -235,7 +236,6 @@
     "/Politik Wirtschaft/Praktikum/Industrie-Mechanik-Prüfen.md",
     "/Politik Wirtschaft/Praktikum/Aussagen  für Facharbeit dings da.md",
     "/Politik Wirtschaft/Praktikum",
-    "Chemie/Oxidation.md",
     "Catppuccin/Praktikum.odt",
     "Pictures/IMG_0182.jpeg",
     "XXX_Linux/Rofi/images/c.png",
