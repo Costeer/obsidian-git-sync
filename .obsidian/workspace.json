@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/Metallbau grundlagen.md",
+                "file": "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/Metallbau grundlagen.md",
+                "file": "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/Metallbau grundlagen.md",
+                "file": "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/Metallbau grundlagen.md"
+                "file": "Politik Wirtschaft/Praktikum/Praktikum Fragen.md"
               }
             }
           }
@@ -151,10 +151,11 @@
   },
   "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
-    "Praktikum/Aussagen  für Facharbeit dings da.md",
+    "Politik Wirtschaft/Praktikum/Metallbau grundlagen.md",
+    "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
+    "Politik Wirtschaft/Praktikum/Aussagen  für Facharbeit dings da.md",
     "XXX_Linux/starship.toml.md",
-    "Praktikum/Metallbau grundlagen.md",
-    "Praktikum",
+    "Politik Wirtschaft/Praktikum",
     "Pasted Image 20240131110300_484.jpg",
     "Excalidraw/Untitled.md",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
@@ -189,7 +190,6 @@
     "XXX_Linux/polybar-collection/themes/gruvbox/include-modules.ini.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/gruvbox-colors.txt.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md",
-    "XXX_Linux/polybar-collection/themes/gruvbox/colors.ini.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Englisch",
