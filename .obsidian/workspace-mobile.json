@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Die erste Ableitung.md",
+                "file": "Biologie/Aktiver Transport Zellbiologie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Die erste Ableitung.md",
+            "file": "Biologie/Aktiver Transport Zellbiologie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Die erste Ableitung.md",
+            "file": "Biologie/Aktiver Transport Zellbiologie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Die erste Ableitung.md"
+            "file": "Biologie/Aktiver Transport Zellbiologie.md"
           }
         }
       }
@@ -136,6 +136,22 @@
   },
   "active": "51f2aab33e0a6ae2",
   "lastOpenFiles": [
+    "Biologie/Basen in DNA.md",
+    "Biologie/Aufgaben/Bio korektur.md",
+    "Biologie/Aufgaben/Osmose im Körper im fall salzwasser.md",
+    "Biologie/Aufgaben/Immunsystem Aufgaben.md",
+    "Biologie/Aufgaben/Kirsche.md",
+    "Mathematik/Die 1 und 2 Ableitung.md",
+    "Politik Wirtschaft/Praktikum/Industrie-Mechanik-Prüfen.md",
+    "Politik Wirtschaft/Praktikum/Metallbau grundlagen.md",
+    "Politik Wirtschaft/Praktikum/Aussagen  für Facharbeit dings da.md",
+    "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
+    "Politik Wirtschaft/Praktikum",
+    "/Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
+    "/Politik Wirtschaft/Praktikum/Metallbau grundlagen.md",
+    "/Politik Wirtschaft/Praktikum/Industrie-Mechanik-Prüfen.md",
+    "/Politik Wirtschaft/Praktikum/Aussagen  für Facharbeit dings da.md",
+    "/Politik Wirtschaft/Praktikum",
     "Chemie/Oxidation.md",
     "Catppuccin/Praktikum.odt",
     "Chemie/Elektronenhülle.md",
@@ -150,19 +166,6 @@
     "Pictures/IMG_0182.jpeg",
     "XXX_Linux/Rofi/config.rasi.md",
     "XXX_Linux/kitty/kitty.conf.md",
-    "XXX_Linux/polybar-collection/fonts.ini.md",
-    "XXX_Linux/polybar-collection/modules.ini.md",
-    "XXX_Linux/polybar-collection/launch.sh.md",
-    "XXX_Linux/starship.toml.md",
-    "XXX_Linux/Rofi/powermenu/type-2/style-2.rasi.md",
-    "XXX_Linux/Rofi/powermenu/type-2/style-3.rasi.md",
-    "XXX_Linux/Rofi/powermenu/type-2/style-1.rasi.md",
-    "XXX_Linux/Rofi/powermenu/type-2/powermenu.sh.md",
-    "XXX_Linux/Rofi/powermenu/type-2/shared/fonts.rasi.md",
-    "XXX_Linux/Rofi/powermenu/type-2/shared/colors.rasi.md",
-    "XXX_Linux/picom/picom-allusive.md",
-    "XXX_Linux/Rofi/applets/bin/battery.sh.md",
-    "Praktikum/Metallbau grundlagen.md",
     "XXX_Linux/Rofi/images/c.png",
     "Pictures/Pasted Image 20240131110300_484.jpg",
     "Musik/Aufgaben",
@@ -178,8 +181,6 @@
     "Pictures/Emilia Galotti-28.pdf",
     "Catppuccin",
     "Englisch",
-    "/Englisch",
-    "Excalidraw/Kfmflf.excalidraw",
-    "notationuebung.pdf"
+    "/Englisch"
   ]
 }
