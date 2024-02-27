@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Aufgaben/Bakterien vermehrung.md",
+                "file": "Biologie/Bakterien.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Aufgaben/Bakterien vermehrung.md",
+            "file": "Biologie/Bakterien.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Aufgaben/Bakterien vermehrung.md",
+            "file": "Biologie/Bakterien.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Aufgaben/Bakterien vermehrung.md"
+            "file": "Biologie/Bakterien.md"
           }
         }
       }
@@ -173,8 +173,9 @@
   },
   "active": "7226b2a1e78b564a",
   "lastOpenFiles": [
-    "Biologie/Aufgaben/DNA in mrna.md",
     "Biologie/Aufgaben/Bakterien vermehrung.md",
+    "Biologie/Bakterien.md",
+    "Biologie/Aufgaben/DNA in mrna.md",
     "Biologie/Salmonellose.md",
     "Biologie/Tetanus.md",
     "Biologie/Windpocken.md",
@@ -202,7 +203,6 @@
     "Chemie/Elektronenhülle.md",
     "Chemie/Carbonylgruppe.md",
     "Geschichte/Imperialismus.md",
-    "Physik/Gleichförmige Kreisbewegung.md",
     "Pictures/IMG_0182.jpeg",
     "XXX_Linux/Rofi/images/c.png",
     "Pictures/Pasted Image 20240131110300_484.jpg",
