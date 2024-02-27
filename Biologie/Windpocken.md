@@ -5,6 +5,9 @@ Die Inkubationszeit beträgt acht bis 28 Tage. Nach leichtem Fieber, Kopf- und G
 Nach einer überstandenen Windpocken-Infektion ist man dagegen immun: Man erkrankt kein zweites Mal an Windpocken. Da die Varizella-Zoster-Viren aber lebenslang im Körper verbleiben, können sie nach Jahren eine andere Krankheit, die Gürtelrose, auslösen.
 
 
-| Ereger  | Virus |
-| ------- | ----- |
-| Übertra |       |
+| Ereger              | Virus                             |
+| ------------------- | --------------------------------- |
+| Übertragungsweg     | Tröpfcheninfektion                |
+| Inkubationszeit     | 8-28 tage                         |
+| Symptome            | Fieber, Kopf und Gliederschmerzen |
+| Dauer der krankheit |                                   |
