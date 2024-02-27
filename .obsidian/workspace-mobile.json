@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Windpocken.md",
+                "file": "Biologie/Tetanus.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90c79e5fbc81f71d",
+  "active": "612db290de63a72b",
   "lastOpenFiles": [
     "Biologie/Windpocken.md",
     "Biologie/Tetanus.md",
