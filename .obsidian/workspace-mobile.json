@@ -61,36 +61,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Untitled 1.md",
+                "file": "Mathematik/Bestimmen von steigungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d8000e765b36d59b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70d126ecfb78a3a0",
+            "id": "c2f3c93507843b97",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Untitled 1.md",
+            "file": "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Untitled 1.md",
+            "file": "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +173,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Untitled 1.md"
+            "file": "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md"
           }
         }
       }
@@ -205,10 +193,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90c79e5fbc81f71d",
+  "active": "c2f3c93507843b97",
   "lastOpenFiles": [
+    "Mathematik/Bestimmen von steigungen.md",
+    "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
     "Biologie/Tetanus.md",
-    "Mathematik/Untitled 1.md",
     "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
     "Untitled.md",
     "Biologie/Viren.md",
@@ -234,7 +223,6 @@
     "/Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
     "/Politik Wirtschaft/Praktikum/Metallbau grundlagen.md",
     "/Politik Wirtschaft/Praktikum/Industrie-Mechanik-Prüfen.md",
-    "/Politik Wirtschaft/Praktikum/Aussagen  für Facharbeit dings da.md",
     "/Politik Wirtschaft/Praktikum",
     "Catppuccin/Praktikum.odt",
     "Pictures/IMG_0182.jpeg",
