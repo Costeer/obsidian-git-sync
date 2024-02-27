@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Salmonellose.md",
+                "file": "Biologie/Windpocken.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Salmonellose.md",
+            "file": "Biologie/Windpocken.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Salmonellose.md",
+            "file": "Biologie/Windpocken.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Biologie/Salmonellose.md"
+            "file": "Biologie/Windpocken.md"
           }
         }
       }
@@ -149,8 +149,9 @@
   },
   "active": "612db290de63a72b",
   "lastOpenFiles": [
-    "Biologie/Verlauf einer Infektionskrankheit.md",
     "Biologie/Salmonellose.md",
+    "Biologie/Windpocken.md",
+    "Biologie/Verlauf einer Infektionskrankheit.md",
     "Pictures/IMG_0205.jpeg",
     "Biologie/Aktiver Transport Zellbiologie.md",
     "Biologie/Basen in DNA.md",
@@ -178,7 +179,6 @@
     "Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md",
     "Excalidraw/Drawing 2024-02-23 11.38.33.excalidraw.md",
     "Geschichte/Hegemonie.md",
-    "XXX_Linux/Rofi/applets/bin/appasroot.sh.md",
     "Pictures/IMG_0182.jpeg",
     "XXX_Linux/Rofi/images/c.png",
     "Pictures/Pasted Image 20240131110300_484.jpg",
