@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70d126ecfb78a3a0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md"
           }
         }
       }
@@ -195,9 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8000e765b36d59b",
+  "active": "70d126ecfb78a3a0",
   "lastOpenFiles": [
     "Untitled.md",
+    "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
     "Biologie/Viren.md",
     "Biologie/Bakterien.md",
     "Biologie/Aufgaben/Bakterien vermehrung.md",
@@ -226,7 +237,6 @@
     "/Politik Wirtschaft/Praktikum",
     "Chemie/Oxidation.md",
     "Catppuccin/Praktikum.odt",
-    "Chemie/Elektronenhülle.md",
     "Pictures/IMG_0182.jpeg",
     "XXX_Linux/Rofi/images/c.png",
     "Pictures/Pasted Image 20240131110300_484.jpg",
