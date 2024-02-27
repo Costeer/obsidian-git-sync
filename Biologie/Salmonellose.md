@@ -5,8 +5,11 @@ Da es über 2500 verschiedene Arten von Salmonellen-Bakterien gibt, ist eine Imp
 Salmonellen werden vor allem durch mangelnde Hygiene verbreitet. So werden .z B. Lebensmittel oft nicht kühl genug gelagert oder vor dem Verzehr nicht genügend erhitzt, um die Bakterien abzutöten. Außerdem muss sich jeder unbedingt nach der Toilettenbenutzung gründlich die Hände mit Seife waschen. Sonst übertragen infizierte Personen die Keime auf Speisen, die andere essen und dann ebenfalls krank
 werden.
 
-| Ereger          | Bakterien                                                              |
-| --------------- | ---------------------------------------------------------------------- |
-| Übertragungsweg | durch essen                                                            |
-| Inkubationszeit | 5h - 3d                                                                |
-| Symptome        | Bauchschmerzen, Durchfal, Fieber, Übelkeit und manchmal auch Erbrechen |
+| Frage               | Antwort                                                  |
+| ------------------- | -------------------------------------------------------- |
+| Ereger              | Bakterien                                                |
+| Übertragungsweg     | durch essen                                              |
+| Inkubationszeit     | 5h - 3d                                                  |
+| Symptome            | Bauchschmerzen, Durchfal, Fieber, Übelkeit und Erbrechen |
+| Dauer der Krankheit | Zwei bis mehrere tage                                    |
+| Besonderheiten      | Da es mehr als 2500 verschiedene                         |
