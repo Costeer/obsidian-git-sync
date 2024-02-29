@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
+            "file": "Mathematik/Bestimmen von steigungen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
+            "file": "Mathematik/Bestimmen von steigungen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -173,7 +173,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md"
+            "file": "Mathematik/Bestimmen von steigungen.md"
           }
         }
       }
@@ -193,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2f3c93507843b97",
+  "active": "90c79e5fbc81f71d",
   "lastOpenFiles": [
-    "Mathematik/Bestimmen von steigungen.md",
     "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
+    "Mathematik/Bestimmen von steigungen.md",
     "Biologie/Tetanus.md",
     "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
     "Untitled.md",
