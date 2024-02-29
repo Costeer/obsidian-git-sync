@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "77070bde5fe883c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "c2f3c93507843b97",
             "type": "leaf",
             "state": {
@@ -78,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematik/Bestimmen von steigungen.md",
+            "file": "Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,7 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematik/Bestimmen von steigungen.md",
+            "file": "Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -173,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematik/Bestimmen von steigungen.md"
+            "file": "Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md"
           }
         }
       }
@@ -193,10 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90c79e5fbc81f71d",
+  "active": "77070bde5fe883c0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
     "Mathematik/Bestimmen von steigungen.md",
+    "Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
     "Biologie/Tetanus.md",
     "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
     "Untitled.md",
@@ -222,7 +233,6 @@
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
     "/Politik Wirtschaft/Praktikum/Metallbau grundlagen.md",
-    "/Politik Wirtschaft/Praktikum/Industrie-Mechanik-Prüfen.md",
     "/Politik Wirtschaft/Praktikum",
     "Catppuccin/Praktikum.odt",
     "Pictures/IMG_0182.jpeg",
