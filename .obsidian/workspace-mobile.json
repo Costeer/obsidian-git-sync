@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Niederländisch/S74-Nr3.md",
+                "file": "Englisch/Media literacy of German teenagers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30662ccb09a1407c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/Comment in inglisch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Niederländisch/S74-Nr3.md",
+            "file": "Englisch/Comment in inglisch.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Niederländisch/S74-Nr3.md",
+            "file": "Englisch/Comment in inglisch.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Niederländisch/S74-Nr3.md"
+            "file": "Englisch/Comment in inglisch.md"
           }
         }
       }
@@ -147,10 +159,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c412366565b786c",
+  "active": "30662ccb09a1407c",
   "lastOpenFiles": [
-    "Niederländisch/Arbeit.md",
+    "Englisch/Media literacy of German teenagers.md",
+    "Englisch/Comment in inglisch.md",
     "Niederländisch/S74-Nr3.md",
+    "Niederländisch/Arbeit.md",
     "Biologie/Verlauf einer Infektionskrankheit.md",
     "Biologie/Viren.md",
     "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
@@ -174,8 +188,6 @@
     "Mathematik/Die 1 und 2 Ableitung.md",
     "Politik Wirtschaft/Praktikum/Industrie-Mechanik-Prüfen.md",
     "Politik Wirtschaft/Praktikum/Metallbau grundlagen.md",
-    "Politik Wirtschaft/Praktikum/Aussagen  für Facharbeit dings da.md",
-    "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
     "Catppuccin/Praktikum.odt",
