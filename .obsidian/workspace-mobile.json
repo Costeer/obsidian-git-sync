@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Das Wechselwirkungsprinzip.md",
+                "file": "Physik/Das erste Newtonische Axiom.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Das Wechselwirkungsprinzip.md",
+            "file": "Physik/Das erste Newtonische Axiom.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Das Wechselwirkungsprinzip.md",
+            "file": "Physik/Das erste Newtonische Axiom.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Das Wechselwirkungsprinzip.md"
+            "file": "Physik/Das erste Newtonische Axiom.md"
           }
         }
       }
@@ -187,6 +187,7 @@
   },
   "active": "760a698bdf4fff06",
   "lastOpenFiles": [
+    "Physik/Das Wechselwirkungsprinzip.md",
     "Physik/Aufgaben/Physik stationsarbeit.md",
     "Physik/Aufgaben/Das Flüge(.de)zeug.md",
     "Geschichte/Wendepunkt.md",
@@ -213,7 +214,6 @@
     "Biologie/Aktiver Transport Zellbiologie.md",
     "Biologie/Basen in DNA.md",
     "Biologie/Aufgaben/Bio korektur.md",
-    "Biologie/Aufgaben/Osmose im Körper im fall salzwasser.md",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
     "Catppuccin/Praktikum.odt",
