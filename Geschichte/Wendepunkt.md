@@ -5,4 +5,8 @@
 - Dramatisch erscheinender einschnitt
 
 #### Aufgabe 4
+**Pro**
 Endgültiges Ende Weltkrieg (z.13)
+dutschland wird Wiedervereinigung (vgl z 12)
+
+**kontra**
