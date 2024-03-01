@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Das erste Newtonische Axiom.md",
+                "file": "Physik/Gleichförmige Kreisbewegung.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Das erste Newtonische Axiom.md",
+            "file": "Physik/Gleichförmige Kreisbewegung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Das erste Newtonische Axiom.md",
+            "file": "Physik/Gleichförmige Kreisbewegung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Das erste Newtonische Axiom.md"
+            "file": "Physik/Gleichförmige Kreisbewegung.md"
           }
         }
       }
@@ -187,6 +187,7 @@
   },
   "active": "760a698bdf4fff06",
   "lastOpenFiles": [
+    "Physik/Das erste Newtonische Axiom.md",
     "Physik/Das Wechselwirkungsprinzip.md",
     "Physik/Aufgaben/Physik stationsarbeit.md",
     "Physik/Aufgaben/Das Flüge(.de)zeug.md",
@@ -213,7 +214,6 @@
     "Pictures/IMG_0205.jpeg",
     "Biologie/Aktiver Transport Zellbiologie.md",
     "Biologie/Basen in DNA.md",
-    "Biologie/Aufgaben/Bio korektur.md",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
     "Catppuccin/Praktikum.odt",
