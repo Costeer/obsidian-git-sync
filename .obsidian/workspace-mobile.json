@@ -44,20 +44,6 @@
             }
           },
           {
-            "id": "bd4eee2bc85ab242",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Wendepunkt.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "760a698bdf4fff06",
             "type": "leaf",
             "state": {
@@ -70,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,12 +173,13 @@
   },
   "active": "760a698bdf4fff06",
   "lastOpenFiles": [
+    "Geschichte/Imperialismus.md",
+    "Geschichte/Wendepunkt.md",
+    "Physik/Gleichförmige Kreisbewegung.md",
     "Physik/Das erste Newtonische Axiom.md",
     "Physik/Das Wechselwirkungsprinzip.md",
     "Physik/Aufgaben/Physik stationsarbeit.md",
     "Physik/Aufgaben/Das Flüge(.de)zeug.md",
-    "Geschichte/Wendepunkt.md",
-    "Geschichte/Imperialismus.md",
     "Geschichte/Hegemonie.md",
     "Englisch/Comment in inglisch.md",
     "Englisch/Media literacy of German teenagers.md",
@@ -213,7 +200,6 @@
     "Biologie/Windpocken.md",
     "Pictures/IMG_0205.jpeg",
     "Biologie/Aktiver Transport Zellbiologie.md",
-    "Biologie/Basen in DNA.md",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
     "Catppuccin/Praktikum.odt",
