@@ -46,13 +46,15 @@
           {
             "id": "bd4eee2bc85ab242",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Untitled.md",
+                "file": "Geschichte/Wendepunkt.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -122,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geschichte/Untitled.md",
+            "file": "Geschichte/Wendepunkt.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geschichte/Untitled.md",
+            "file": "Geschichte/Wendepunkt.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/Untitled.md"
+            "file": "Geschichte/Wendepunkt.md"
           }
         }
       }
@@ -174,7 +176,7 @@
   "active": "bd4eee2bc85ab242",
   "lastOpenFiles": [
     "Geschichte/Imperialismus.md",
-    "Geschichte/Untitled.md",
+    "Geschichte/Wendepunkt.md",
     "Geschichte/Hegemonie.md",
     "Englisch/Comment in inglisch.md",
     "Englisch/Media literacy of German teenagers.md",
