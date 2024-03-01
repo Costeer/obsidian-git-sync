@@ -56,9 +56,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "760a698bdf4fff06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Das Wechselwirkungsprinzip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geschichte/Wendepunkt.md",
+            "file": "Physik/Das Wechselwirkungsprinzip.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geschichte/Wendepunkt.md",
+            "file": "Physik/Das Wechselwirkungsprinzip.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/Wendepunkt.md"
+            "file": "Physik/Das Wechselwirkungsprinzip.md"
           }
         }
       }
@@ -173,10 +185,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd4eee2bc85ab242",
+  "active": "760a698bdf4fff06",
   "lastOpenFiles": [
-    "Geschichte/Imperialismus.md",
+    "Physik/Aufgaben/Physik stationsarbeit.md",
+    "Physik/Aufgaben/Das Flüge(.de)zeug.md",
     "Geschichte/Wendepunkt.md",
+    "Geschichte/Imperialismus.md",
     "Geschichte/Hegemonie.md",
     "Englisch/Comment in inglisch.md",
     "Englisch/Media literacy of German teenagers.md",
@@ -200,8 +214,6 @@
     "Biologie/Basen in DNA.md",
     "Biologie/Aufgaben/Bio korektur.md",
     "Biologie/Aufgaben/Osmose im Körper im fall salzwasser.md",
-    "Biologie/Aufgaben/Immunsystem Aufgaben.md",
-    "Biologie/Aufgaben/Kirsche.md",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
     "Catppuccin/Praktikum.odt",
