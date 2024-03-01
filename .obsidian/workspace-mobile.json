@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72b7fe852a9867a7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-01 10.58.39.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Gleichförmige Kreisbewegung.md",
+            "file": "Excalidraw/Drawing 2024-03-01 10.58.39.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Gleichförmige Kreisbewegung.md",
+            "file": "Excalidraw/Drawing 2024-03-01 10.58.39.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Gleichförmige Kreisbewegung.md"
+            "file": "Excalidraw/Drawing 2024-03-01 10.58.39.excalidraw.md"
           }
         }
       }
@@ -171,11 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "760a698bdf4fff06",
+  "active": "72b7fe852a9867a7",
   "lastOpenFiles": [
+    "Physik/Gleichförmige Kreisbewegung.md",
+    "Excalidraw/Drawing 2024-03-01 10.58.39.excalidraw.md",
     "Geschichte/Imperialismus.md",
     "Geschichte/Wendepunkt.md",
-    "Physik/Gleichförmige Kreisbewegung.md",
     "Physik/Das erste Newtonische Axiom.md",
     "Physik/Das Wechselwirkungsprinzip.md",
     "Physik/Aufgaben/Physik stationsarbeit.md",
@@ -199,7 +210,6 @@
     "Biologie/Salmonellose.md",
     "Biologie/Windpocken.md",
     "Pictures/IMG_0205.jpeg",
-    "Biologie/Aktiver Transport Zellbiologie.md",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
     "Catppuccin/Praktikum.odt",
