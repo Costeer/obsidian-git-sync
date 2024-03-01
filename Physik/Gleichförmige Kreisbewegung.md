@@ -3,4 +3,3 @@ Bei einer gleichförmigen Kreisbewegung bewegt sich ein Körper mit einer konsta
 sind für diese Bewegung ebenfalls konstant 
 Für die bewegungs geschwindigkeit kilt die Formel:
 ![[Drawing 2024-02-23 11.36.26.excalidraw]]
-t
