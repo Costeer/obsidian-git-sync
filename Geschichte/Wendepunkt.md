@@ -8,5 +8,5 @@
 **Pro**
 Endgültiges Ende Weltkrieg (z.13)
 dutschland wird Wiedervereinigung (vgl z 12)
-	Ende des ost West Konflikts (Vgl. z. 18)
+Ende des ost West Konflikts (Vgl. z. 18)
 **kontra**
