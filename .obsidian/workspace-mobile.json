@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Comment in inglisch.md",
+                "file": "Geschichte/Imperialismus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd4eee2bc85ab242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Englisch/Comment in inglisch.md",
+            "file": "Geschichte/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Englisch/Comment in inglisch.md",
+            "file": "Geschichte/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Englisch/Comment in inglisch.md"
+            "file": "Geschichte/Untitled.md"
           }
         }
       }
@@ -159,10 +171,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30662ccb09a1407c",
+  "active": "bd4eee2bc85ab242",
   "lastOpenFiles": [
-    "Englisch/Media literacy of German teenagers.md",
+    "Geschichte/Imperialismus.md",
+    "Geschichte/Untitled.md",
+    "Geschichte/Hegemonie.md",
     "Englisch/Comment in inglisch.md",
+    "Englisch/Media literacy of German teenagers.md",
     "Niederländisch/S74-Nr3.md",
     "Niederländisch/Arbeit.md",
     "Biologie/Verlauf einer Infektionskrankheit.md",
@@ -185,9 +200,6 @@
     "Biologie/Aufgaben/Osmose im Körper im fall salzwasser.md",
     "Biologie/Aufgaben/Immunsystem Aufgaben.md",
     "Biologie/Aufgaben/Kirsche.md",
-    "Mathematik/Die 1 und 2 Ableitung.md",
-    "Politik Wirtschaft/Praktikum/Industrie-Mechanik-Prüfen.md",
-    "Politik Wirtschaft/Praktikum/Metallbau grundlagen.md",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
     "Catppuccin/Praktikum.odt",
