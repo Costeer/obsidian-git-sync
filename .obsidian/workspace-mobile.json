@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "1727d5bb2135cf91",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "9c7ec21ff812a57b",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
+            "file": "Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
+            "file": "Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Aufgaben/Aufgaben zur kreisbewegung.md"
+            "file": "Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md"
           }
         }
       }
@@ -157,11 +167,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b858fc93d65b9cbb",
+  "active": "1727d5bb2135cf91",
   "lastOpenFiles": [
+    "Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
+    "Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md",
     "Excalidraw/Drawing 2024-03-01 11.04.06.excalidraw.md",
     "Physik/Gleichförmige Kreisbewegung.md",
-    "Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
     "Excalidraw/Drawing 2024-03-01 10.58.39.excalidraw.md",
     "Physik/Formel Merksatz.md",
     "Physik/Das erste Newtonische Axiom.md",
@@ -184,7 +195,6 @@
     "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
     "Untitled.md",
     "Biologie/Bakterien.md",
-    "Biologie/Aufgaben/Bakterien vermehrung.md",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
