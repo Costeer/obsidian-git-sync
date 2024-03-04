@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md",
+                "file": "Niederländisch/Das Atomium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75f350502ecd1ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Niederländisch/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md",
+            "file": "Niederländisch/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md",
+            "file": "Niederländisch/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md"
+            "file": "Niederländisch/Untitled.md"
           }
         }
       }
@@ -134,8 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "760a698bdf4fff06",
+  "active": "75f350502ecd1ca0",
   "lastOpenFiles": [
+    "Niederländisch/Das Atomium.md",
+    "Niederländisch/Untitled.md",
+    "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md",
     "XXX_Linux/polybar-collection/modules.ini.md",
     "XXX_Linux/polybar-collection/launch.sh.md",
     "XXX_Linux/starship.toml.md",
@@ -159,9 +175,6 @@
     "Niederländisch/Arbeit.md",
     "Biologie/Verlauf einer Infektionskrankheit.md",
     "Biologie/Viren.md",
-    "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md",
-    "Mathematik/Bestimmen von steigungen.md",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
