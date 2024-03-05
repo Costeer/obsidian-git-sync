@@ -44,17 +44,17 @@
             }
           },
           {
-            "id": "2c659b4fbc940449",
+            "id": "38ae3c9dafe5860c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Aufgaben/Hausaufgaben physik.md",
+            "file": "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Aufgaben/Hausaufgaben physik.md",
+            "file": "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Aufgaben/Hausaufgaben physik.md"
+            "file": "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md"
           }
         }
       }
@@ -169,11 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11996d6c35f13b5c",
+  "active": "38ae3c9dafe5860c",
   "lastOpenFiles": [
+    "Physik/Aufgaben/Hausaufgaben physik.md",
+    "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
     "Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
     "Physik/Gleichförmige Kreisbewegung.md",
-    "Physik/Aufgaben/Hausaufgaben physik.md",
     "Niederländisch/Das Atomium.md",
     "Physik/Aufgaben/Das Flüge(.de)zeug.md",
     "Niederländisch/Untitled.md",
@@ -196,7 +197,6 @@
     "Englisch/Comment in inglisch.md",
     "Englisch/Media literacy of German teenagers.md",
     "Niederländisch/S74-Nr3.md",
-    "Niederländisch/Arbeit.md",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
