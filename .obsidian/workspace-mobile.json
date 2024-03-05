@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
+            "file": "Physik/Gleichförmige Kreisbewegung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
+            "file": "Physik/Gleichförmige Kreisbewegung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md"
+            "file": "Physik/Gleichförmige Kreisbewegung.md"
           }
         }
       }
@@ -169,10 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38ae3c9dafe5860c",
+  "active": "75f350502ecd1ca0",
   "lastOpenFiles": [
-    "Physik/Aufgaben/Hausaufgaben physik.md",
     "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
+    "Physik/Aufgaben/Hausaufgaben physik.md",
     "Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
     "Physik/Gleichförmige Kreisbewegung.md",
     "Niederländisch/Das Atomium.md",
