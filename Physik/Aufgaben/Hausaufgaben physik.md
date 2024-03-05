@@ -1,3 +1,4 @@
 Gegeben
 R= 7cm
-drefrequenz = 
+f = 230s
+Bestimme umlaufdauer und bahngeschwindigkeit 
