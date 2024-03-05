@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Niederländisch/Untitled.md",
+                "file": "Physik/Gleichförmige Kreisbewegung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11996d6c35f13b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Aufgaben/Hausaufgaben physik.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Niederländisch/Untitled.md",
+            "file": "Physik/Aufgaben/Hausaufgaben physik.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Niederländisch/Untitled.md",
+            "file": "Physik/Aufgaben/Hausaufgaben physik.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Niederländisch/Untitled.md"
+            "file": "Physik/Aufgaben/Hausaufgaben physik.md"
           }
         }
       }
@@ -147,16 +159,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75f350502ecd1ca0",
+  "active": "11996d6c35f13b5c",
   "lastOpenFiles": [
-    "Niederländisch/Das Atomium.md",
+    "Physik/Gleichförmige Kreisbewegung.md",
+    "Physik/Aufgaben/Das Flüge(.de)zeug.md",
+    "Physik/Aufgaben/Hausaufgaben physik.md",
     "Niederländisch/Untitled.md",
+    "Niederländisch/Das Atomium.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md",
     "XXX_Linux/polybar-collection/modules.ini.md",
     "XXX_Linux/polybar-collection/launch.sh.md",
     "XXX_Linux/starship.toml.md",
     "XXX_Linux/picom/picom-allusive.md",
-    "Physik/Gleichförmige Kreisbewegung.md",
     "Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
     "Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md",
     "Excalidraw/Drawing 2024-03-01 11.04.06.excalidraw.md",
@@ -164,7 +178,6 @@
     "Physik/Formel Merksatz.md",
     "Physik/Das erste Newtonische Axiom.md",
     "Physik/Das Wechselwirkungsprinzip.md",
-    "Physik/Aufgaben/Das Flüge(.de)zeug.md",
     "Geschichte/Imperialismus.md",
     "Geschichte/Wendepunkt.md",
     "Physik/Aufgaben/Physik stationsarbeit.md",
@@ -174,7 +187,6 @@
     "Niederländisch/S74-Nr3.md",
     "Niederländisch/Arbeit.md",
     "Biologie/Verlauf einer Infektionskrankheit.md",
-    "Biologie/Viren.md",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
