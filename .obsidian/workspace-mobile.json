@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "c4fc4fbba1eb9fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Werte und Normen/Darf ich meine eigene religion gründen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "71a2189f20b04f9b",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deutsch/Keine.md",
+            "file": "Werte und Normen/Darf ich meine eigene religion gründen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deutsch/Keine.md",
+            "file": "Werte und Normen/Darf ich meine eigene religion gründen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deutsch/Keine.md"
+            "file": "Werte und Normen/Darf ich meine eigene religion gründen.md"
           }
         }
       }
@@ -191,10 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d09c24cc0cea5d83",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
-    "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Deutsch/Keine.md",
+    "Werte und Normen/Darf ich meine eigene religion gründen.md",
+    "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Physik/Gleichförmige Kreisbewegung.md",
     "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
     "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
@@ -218,7 +231,6 @@
     "Geschichte/Imperialismus.md",
     "Geschichte/Wendepunkt.md",
     "Physik/Aufgaben/Physik stationsarbeit.md",
-    "Geschichte/Hegemonie.md",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
