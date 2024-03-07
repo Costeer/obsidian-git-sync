@@ -78,6 +78,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69b880da01846dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch/Beispiel Klausur Aufgabe 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -205,6 +217,8 @@
   },
   "active": "709945285becdfa8",
   "lastOpenFiles": [
+    "Deutsch/Beispiel Klausur Aufgabe 1.md",
+    "README.md",
     "XX_Templates/Default Template Aufgabe.md",
     "XX_Templates/Default Template.md",
     "XX_Templates/Default Template Table.md",
@@ -222,7 +236,6 @@
     "Deutsch/Aufgaben/Register sprache.md",
     "Deutsch/Aufgaben/Sprachdebatte.md",
     "Niederländisch/Das Atomium.md",
-    "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Deutsch/Erörterung.md",
     "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
     "Deutsch/Aufgaben",
@@ -232,7 +245,6 @@
     "Physik/Aufgaben/Hausaufgaben physik.md",
     "Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
     "Physik/Aufgaben/Das Flüge(.de)zeug.md",
-    "Niederländisch/Untitled.md",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",

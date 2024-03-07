@@ -3,7 +3,10 @@
 ##### *Ein Obsidian repo mit vorgefertigten templates und einfachem sync über git*
 
 ### Inhalt
+- Installieren
+- How to Templates
 
+## Installieren
 Um alle nötigen Einstellungen für obsidian und git zu übernehmen diesen command in den terminal emulator deiner Wahl einfügen.
 *Empfohlene Terminal Emulatoren:*
 Linux
@@ -21,5 +24,10 @@ git clone https://<Username>:<token>@github.com/Costeer/obsidian-git-sync
 <token> mit dem access token von deinem GitHub Account tauschen 
 <username> mit deinem Benutzernamen tauschen
 ```
-um den access token von deinem GitHub zu bekommen einfach googeln wie das geht lol
+um den access token von deinem GitHub zu bekommen einfach googeln wie das geht.
+
+## How to Templates
+
+
+
 
