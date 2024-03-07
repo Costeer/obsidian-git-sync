@@ -5,3 +5,6 @@
 | Gendern durch sprechpause                                               | Schüler kommen damit nicht klar      |
 |                                                                         | Unterbricht Sprachkurs im mündlichen |
 |                                                                         |                                      |
+
+*Tags*
+#tabelle #deutsch
