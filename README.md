@@ -30,6 +30,10 @@ um den access token von deinem GitHub zu bekommen einfach googeln wie das geht.
 ###### Was sind Templates?
 Templates sind ein einfacher weg schnell und einfach alle wichtigen Informationen wie Titel, Verlinkungen und Tags in eine neue Note einzufügen ohne immer wieder das gleiche tippen zu müssen
 ###### Was für Templates gibt es?
-Momentan sind standardmäßig *3* templates in diesem repo dabei (du kannst natürlich auch eigene erstellen :3)
+Momentan sind standardmäßig *3* templates in diesem repo dabei (du kannst natürlich auch eigene erstellen :D)
 - [[Default Template]]
-- 
+- [[Default Template Table]]
+- [[Default Template Aufgabe]]
+
+###### Wie benutze ich Templates?
+Um Templates
