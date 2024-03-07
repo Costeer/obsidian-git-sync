@@ -43,5 +43,5 @@ Das machst du mit
 - Win + P auf Linux oder Windows
 Dann sollte dieses Feld aufgehen
 ![[Drawing 2024-03-07 11.18.53.excalidraw]]
-Und dann Templates eingipst 
+In diesem felt gipst du jetzt template ein und drückst enter
 Danach wählst du die template aus welche du einfügen möchtest und fertig
