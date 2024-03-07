@@ -36,4 +36,4 @@ Momentan sind standardmäßig *3* templates in diesem repo dabei (du kannst nat�
 - [[Default Template Aufgabe]]
 
 ###### Wie benutze ich Templates?
-Um Templates
+Um Templates zu benutzen musst du lediglich eine Notiz im template folder (XX_Templates) haben
