@@ -37,10 +37,11 @@ Momentan sind standardmäßig *3* templates in diesem repo dabei (du kannst nat�
 
 ###### Wie benutze ich Templates?
 Um Templates zu benutzen musst du lediglich eine Notiz im template folder (hier XX_Templates) haben da in diesem repo schon welche dabei sind musst du keine eigenen erstellen 
-Um **templates in eine Notiz einzufügen** Musst du das commandfelt öffnen 
+Um **templates in eine Notiz einzufügen** Musst du das command feld öffnen 
 Das machst du mit
 - cmd + P auf Mac/Ipad OS
 - Win + P auf Linux oder Windows
+Dann sollte dieses Feld aufgehen
 ![[Drawing 2024-03-07 11.18.53.excalidraw]]
 Und dann Templates eingipst 
 Danach wählst du die template aus welche du einfügen möchtest und fertig
