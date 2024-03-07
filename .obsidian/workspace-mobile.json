@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Niederländisch/ISW Hoogeland.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed5e93c5c4a487e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "XX_Templates/Default Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c45259a2e0293c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XX_Templates/Default Template Table.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "XX_Templates/Default Template.md",
+            "file": "XX_Templates/Default Template Table.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "XX_Templates/Default Template.md",
+            "file": "XX_Templates/Default Template Table.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "XX_Templates/Default Template.md"
+            "file": "XX_Templates/Default Template Table.md"
           }
         }
       },
@@ -167,10 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "291f54ee75eece09",
+  "active": "c45259a2e0293c35",
   "lastOpenFiles": [
-    "Deutsch/Aufgaben/Pro-Kontra Tabelle Gendern.md",
     "XX_Templates/Default Template.md",
+    "XX_Templates/Default Template Table.md",
+    "Niederländisch/Eokeokd.md",
+    "Niederländisch/ISW Hoogeland.md",
+    "Deutsch/Aufgaben/Pro-Kontra Tabelle Gendern.md",
     "XX_Templates",
     "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
     "Deutsch/Aufgaben/Sprachwandel.md",
@@ -194,9 +221,6 @@
     "Physik/Aufgaben/Das Flüge(.de)zeug.md",
     "Niederländisch/Untitled.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md",
-    "XXX_Linux/polybar-collection/modules.ini.md",
-    "XXX_Linux/polybar-collection/launch.sh.md",
-    "XXX_Linux/starship.toml.md",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
