@@ -13,84 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Niederländisch/Das Atomium.md",
+                "file": "Deutsch/Aufgaben/Sprachdebatte.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "75f350502ecd1ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Beispiel Klausur Aufgabe 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d09c24cc0cea5d83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Erörterung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4fc4fbba1eb9fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71a2189f20b04f9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11996d6c35f13b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physik/Aufgaben/Hausaufgaben physik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38ae3c9dafe5860c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
+            "file": "Deutsch/Aufgaben/Sprachdebatte.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
+            "file": "Deutsch/Aufgaben/Sprachdebatte.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md"
+            "file": "Deutsch/Aufgaben/Sprachdebatte.md"
           }
         }
       }
@@ -205,19 +134,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71a2189f20b04f9b",
+  "active": "760a698bdf4fff06",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
     "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
-    "Deutsch/Erörterung.md",
-    "Deutsch/Aufgaben",
+    "Deutsch/Aufgaben/Diversität.md",
+    "Deutsch/Aufgaben/Sprachwahl.md",
+    "Deutsch/Aufgaben/generisches Maskulinum.md",
+    "Deutsch/Aufgaben/Kategorisierung.md",
+    "Deutsch/Aufgaben/Usus.md",
+    "Deutsch/Aufgaben/Framing.md",
+    "Deutsch/Aufgaben/Register sprache.md",
+    "Niederländisch/Das Atomium.md",
     "Deutsch/Beispiel Klausur Aufgabe 1.md",
+    "Deutsch/Erörterung.md",
+    "Deutsch/Aufgaben/Sprachdebatte.md",
+    "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
+    "Deutsch/Aufgaben",
     "Werte und Normen/Darf ich meine eigene religion gründen?.md",
     "Physik/Gleichförmige Kreisbewegung.md",
     "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
     "Physik/Aufgaben/Hausaufgaben physik.md",
     "Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
-    "Niederländisch/Das Atomium.md",
     "Physik/Aufgaben/Das Flüge(.de)zeug.md",
     "Niederländisch/Untitled.md",
     "XXX_Linux/polybar-collection/themes/gruvbox/config.ini.md",
@@ -226,14 +163,6 @@
     "XXX_Linux/starship.toml.md",
     "XXX_Linux/picom/picom-allusive.md",
     "Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
-    "Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-01 11.04.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-01 10.58.39.excalidraw.md",
-    "Physik/Formel Merksatz.md",
-    "Physik/Das erste Newtonische Axiom.md",
-    "Physik/Das Wechselwirkungsprinzip.md",
-    "Geschichte/Imperialismus.md",
-    "Geschichte/Wendepunkt.md",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
