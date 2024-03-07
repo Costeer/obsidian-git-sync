@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XX_Templates/Default Template Aufgabe.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "XX_Templates/Default Template Aufgabe.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "XX_Templates/Default Template Aufgabe.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "XX_Templates/Default Template Aufgabe.md"
+            "file": "README.md"
           }
         }
       },
@@ -205,8 +205,8 @@
   },
   "active": "709945285becdfa8",
   "lastOpenFiles": [
-    "XX_Templates/Default Template.md",
     "XX_Templates/Default Template Aufgabe.md",
+    "XX_Templates/Default Template.md",
     "XX_Templates/Default Template Table.md",
     "Niederländisch/Eokeokd.md",
     "Niederländisch/ISW Hoogeland.md",
