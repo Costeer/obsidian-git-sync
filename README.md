@@ -27,7 +27,7 @@ git clone https://<Username>:<token>@github.com/Costeer/obsidian-git-sync
 um den access token von deinem GitHub zu bekommen einfach googeln wie das geht.
 
 ## How to Templates
-
+Templates sind ein einfacher weg schnell und einfach alle wichtigen Informationen wie Titel, verlinku
 
 
 
