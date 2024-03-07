@@ -3,7 +3,9 @@ Ob die Sprache der Neuen Medien ein Ausdruck von Sprachverfall oder von Sprachli
 
 ##### Pro
 - kreativer
+- Interkultureller Austausch
 - 
 
 ##### Kontra
+- nicht einfach im internet anzukommen
 - 
