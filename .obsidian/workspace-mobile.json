@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Erörterung.md",
+                "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deutsch/Erörterung.md",
+            "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deutsch/Erörterung.md",
+            "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deutsch/Erörterung.md"
+            "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md"
           }
         }
       }
@@ -205,9 +205,11 @@
   },
   "active": "c4fc4fbba1eb9fd2",
   "lastOpenFiles": [
+    "Deutsch/Erörterung.md",
+    "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
+    "Deutsch/Aufgaben",
     "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Werte und Normen/Darf ich meine eigene religion gründen?.md",
-    "Deutsch/Erörterung.md",
     "Physik/Gleichförmige Kreisbewegung.md",
     "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
     "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
@@ -230,7 +232,6 @@
     "Physik/Das Wechselwirkungsprinzip.md",
     "Geschichte/Imperialismus.md",
     "Geschichte/Wendepunkt.md",
-    "Physik/Aufgaben/Physik stationsarbeit.md",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
@@ -249,7 +250,6 @@
     "Praktikum",
     "Pictures/Emilia Galotti-28.pdf",
     "Catppuccin",
-    "Englisch",
-    "/Englisch"
+    "Englisch"
   ]
 }
