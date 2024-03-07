@@ -130,9 +130,17 @@
             "file": "Deutsch/Aufgaben/Pro-Kontra Tabelle Gendern.md"
           }
         }
+      },
+      {
+        "id": "67167774bc4b174f",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
