@@ -1,2 +1,2 @@
 #### Was ist das „generische“ Maskulinum?
-das „generische“ Maskulinum soll aus dem Alt-deutschen entschwanden sein und sagt
+das „generische“ Maskulinum soll aus dem Alt-deutschen entschwanden sein und sagt aus das im deutschen ein maskulines wort wie Radfahrer auch führ die weibliche Radfahrerin steht
