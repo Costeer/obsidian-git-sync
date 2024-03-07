@@ -1,2 +1,2 @@
 #### Was ist das „generische“ Maskulinum?
-das „generische“ Maskulinum entstammt aus dem Alt-deutschen
+das „generische“ Maskulinum soll aus dem Alt-deutschen entschwanden sein und sagt
