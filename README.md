@@ -41,5 +41,6 @@ Um **templates in eine Notiz einzufügen** Musst du das commandfelt öffnen
 Das machst du mit
 - cmd + P auf Mac/Ipad OS
 - Win + P auf Linux oder Windows
+![[Drawing 2024-03-07 11.18.53.excalidraw]]
 Und dann Templates eingipst 
 Danach wählst du die template aus welche du einfügen möchtest und fertig
