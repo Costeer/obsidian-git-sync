@@ -1,2 +1,2 @@
 #### Was ist framing?
-politische begriffe in einen bestimmten 
+Begriffe durch bestimmten Kontext verändern um eine gekünstelte Reaktion zu erzeugen
