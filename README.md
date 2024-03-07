@@ -28,5 +28,6 @@ um den access token von deinem GitHub zu bekommen einfach googeln wie das geht.
 
 ## How to Templates
 ###### Was sind Templates?
-Templates sind ein einfacher weg schnell und einfach alle wichtigen Informationen wie Titel, Verlinkungen und Tags
-
+Templates sind ein einfacher weg schnell und einfach alle wichtigen Informationen wie Titel, Verlinkungen und Tags in eine neue Note einzufügen ohne immer wieder das gleiche tippen zu müssen
+###### Was für Templates gibt es?
+Momentan sind standardmäßig *3* templates in diesem repo dabei (du kannst )
