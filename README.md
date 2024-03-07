@@ -42,4 +42,4 @@ Das machst du mit
 - cmd + P auf Mac/Ipad OS
 - Win + P auf Linux oder Windows
 Und dann Templates eingipst 
-Danach wählst
+Danach wählst du die template aus welche du einfügen möchtest und fertig
