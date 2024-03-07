@@ -4,7 +4,14 @@
 Um alle nötigen Einstellungen für obsidian und git zu übernehmen diesen command in den terminal emulator deiner Wahl einfügen.
 *Empfohlene Terminal Emulatoren:*
 Linux
-- env
+- DE default
+- Kitty
+- Alle anderen
+Windows
+- cmd
+- Powershell
+Ipad OS
+- a-shell (git muss installiert werden %)
 ```
 git clone https://<Username>:<token>@github.com/Costeer/obsidian-git-sync
 
