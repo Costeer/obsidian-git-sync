@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XX_Templates/Default Template Table.md",
+                "file": "XX_Templates/Default Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "XX_Templates/Default Template Table.md",
+            "file": "XX_Templates/Default Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "XX_Templates/Default Template Table.md",
+            "file": "XX_Templates/Default Template.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "XX_Templates/Default Template Table.md"
+            "file": "XX_Templates/Default Template.md"
           }
         }
       },
@@ -193,8 +193,8 @@
   },
   "active": "c45259a2e0293c35",
   "lastOpenFiles": [
-    "XX_Templates/Default Template.md",
     "XX_Templates/Default Template Table.md",
+    "XX_Templates/Default Template.md",
     "Niederländisch/Eokeokd.md",
     "Niederländisch/ISW Hoogeland.md",
     "Deutsch/Aufgaben/Pro-Kontra Tabelle Gendern.md",

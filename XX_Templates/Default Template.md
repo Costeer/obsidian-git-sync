@@ -1,8 +1,6 @@
 #### Title 1
 
 
-**Auch Interessant**
+*Auch Interessant | Tags*
 [[]] [[]]
-
-*Tags*
 #none 
