@@ -37,4 +37,9 @@ Momentan sind standardmäßig *3* templates in diesem repo dabei (du kannst nat�
 
 ###### Wie benutze ich Templates?
 Um Templates zu benutzen musst du lediglich eine Notiz im template folder (hier XX_Templates) haben da in diesem repo schon welche dabei sind musst du keine eigenen erstellen 
-Um **templates in eine Notiz einzufügen** Musst du das command 
+Um **templates in eine Notiz einzufügen** Musst du das commandfelt öffnen 
+Das machst du mit
+- cmd + P auf Mac/Ipad OS
+- Win + P auf Linux oder Windows
+Und dann Templates eingipst 
+Danach wählst
