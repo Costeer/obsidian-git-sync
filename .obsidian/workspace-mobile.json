@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Aufgaben/Sprachwahl.md",
+                "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deutsch/Aufgaben/Sprachwahl.md",
+            "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deutsch/Aufgaben/Sprachwahl.md",
+            "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deutsch/Aufgaben/Sprachwahl.md"
+            "file": "Deutsch/Aufgaben/Fachbegriffe Erklären.md"
           }
         }
       }
@@ -136,9 +136,9 @@
   },
   "active": "760a698bdf4fff06",
   "lastOpenFiles": [
+    "Deutsch/Aufgaben/Sprachwandel.md",
     "Deutsch/Aufgaben/Fachbegriffe Erklären.md",
     "Deutsch/Aufgaben/Diversität.md",
-    "Deutsch/Aufgaben/Sprachwahl.md",
     "Deutsch/Aufgaben/generisches Maskulinum.md",
     "Deutsch/Aufgaben/Kategorisierung.md",
     "Deutsch/Aufgaben/Usus.md",

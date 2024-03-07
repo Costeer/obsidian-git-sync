@@ -5,5 +5,5 @@ In dem Interviewausschnitt befinden sich viele Fachbegriffe, die dort auch erkl√
 [[Usus]]
 [[Kategorisierung]]
 [[generisches Maskulinum]]
-[[Sprachwahl]]
+[[Sprachwandel]]
 [[Diversit√§t]]
