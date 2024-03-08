@@ -1,3 +1,4 @@
-![[Körpereigene*Auch Interessant | Tags*
+![[IMG_0224.png]]
+*Auch Interessant | Tags*
 [[]] [[]]
 #none 
