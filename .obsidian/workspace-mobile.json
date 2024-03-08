@@ -13,44 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Eurozentrisches denken.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "45dd9b48d0d6f80d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Stasi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1e17e6dfac7673a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "17b0f42a80df9df6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geschichte/Stasi.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geschichte/Stasi.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/Stasi.md"
+            "file": "README.md"
           }
         }
       },
@@ -173,8 +142,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45dd9b48d0d6f80d",
+  "active": "709945285becdfa8",
   "lastOpenFiles": [
+    "XX_Stuff/Gruvbox Read Me v2.md",
+    "XX_Stuff/Gruvbox read me.md",
+    "XX_Stuff/Colours.md",
     "Geschichte/Eurozentrisches denken.md",
     "Geschichte/Stasi.md",
     "README.md",
@@ -200,9 +172,6 @@
     "Deutsch/Erörterung.md",
     "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
     "Deutsch/Aufgaben",
-    "Werte und Normen/Darf ich meine eigene religion gründen?.md",
-    "Physik/Gleichförmige Kreisbewegung.md",
-    "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
