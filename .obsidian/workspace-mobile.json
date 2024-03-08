@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62aafb8ab688891d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologie/Körpereigenes Abwehrsystem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7bc6a219b1128e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biologie/Viren.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +122,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Biologie/Viren.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +132,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Biologie/Viren.md"
-          }
+          "state": {}
         }
       },
       {
@@ -142,8 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "709945285becdfa8",
+  "active": "a7bc6a219b1128e5",
   "lastOpenFiles": [
+    "Biologie/Körpereigenes Abwehrsystem.md",
+    "Biologie/Viren.md",
     "Pictures/Körpereigenes immunsystem.jpg",
     "Biologie/Aufgaben/Bakterien vermehrung.md",
     "README.md",
@@ -170,7 +189,6 @@
     "Deutsch/Aufgaben/Framing.md",
     "Deutsch/Aufgaben/Register sprache.md",
     "Deutsch/Aufgaben/Sprachdebatte.md",
-    "Niederländisch/Das Atomium.md",
     "Deutsch/Aufgaben",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
@@ -186,7 +204,6 @@
     "Pictures/IMG_0166.jpeg",
     "Pictures/Pasted Image 20240130105112_446.jpg",
     "/Pictures/Pasted Image 20240130105112_446.jpg",
-    "/Pictures/IMG_0166.jpeg",
     "Praktikum",
     "Pictures/Emilia Galotti-28.pdf",
     "Catppuccin"
