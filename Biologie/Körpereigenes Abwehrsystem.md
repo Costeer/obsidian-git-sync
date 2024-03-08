@@ -6,7 +6,7 @@
 - 5 Lunge Schleim husten flimmerhärchen c d 
 - 6 Niere pipi a g b g h I j 
 - 7 Darm Magen Darm Säure natürliche Bakterien Besiedlung Darmperistaltik 
-- 8 Geschlechtsteil
+- 8 Scheide milchseurebakterien 
 - 9 Haut
 
 *Auch Interessant | Tags*
