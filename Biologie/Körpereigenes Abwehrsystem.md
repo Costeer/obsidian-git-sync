@@ -4,9 +4,9 @@
 - 3 Nase
 - 4 Mund
 - 5 Lunge
-- 6 
-- 7
-- 8
+- 6 Niere
+- 7 Darm
+- 8 Geschlechtstei
 - 9
 
 *Auch Interessant | Tags*
