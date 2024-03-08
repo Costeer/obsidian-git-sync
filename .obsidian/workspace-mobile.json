@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md"
           }
         }
       },
@@ -152,10 +153,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "709945285becdfa8",
+  "active": "d1e17e6dfac7673a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
     "README.md",
+    "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
     "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Niederländisch/ISW Hoogeland.md",
     "XX_Templates/Default Template.md",
