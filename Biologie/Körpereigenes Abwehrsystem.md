@@ -3,8 +3,8 @@
 - 2 Ohr
 - 3 Nase
 - 4 Mund
-- 5 lunge
-- 6
+- 5 Lunge
+- 6 
 - 7
 - 8
 - 9
