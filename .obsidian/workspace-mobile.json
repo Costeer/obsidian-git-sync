@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Biologie/Körpereigenes Abwehrsystem.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Biologie/Körpereigenes Abwehrsystem.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +134,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Biologie/Körpereigenes Abwehrsystem.md"
+          }
         }
       },
       {
@@ -159,8 +163,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7bc6a219b1128e5",
+  "active": "62aafb8ab688891d",
   "lastOpenFiles": [
+    "IMG_0224.png",
     "Biologie/Körpereigenes Abwehrsystem.md",
     "Biologie/Viren.md",
     "Pictures/Körpereigenes immunsystem.jpg",
@@ -188,7 +193,6 @@
     "Deutsch/Aufgaben/Usus.md",
     "Deutsch/Aufgaben/Framing.md",
     "Deutsch/Aufgaben/Register sprache.md",
-    "Deutsch/Aufgaben/Sprachdebatte.md",
     "Deutsch/Aufgaben",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
