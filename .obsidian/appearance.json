@@ -2,7 +2,5 @@
   "accentColor": "",
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "enabledCssSnippets": [
-    "Iterative Rainbow Folder Titles"
-  ]
+  "enabledCssSnippets": []
 }

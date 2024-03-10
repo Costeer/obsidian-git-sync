@@ -191,7 +191,7 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
 /*----file explorer smaller fonts & line height----*/
 .nav-file-title,
 .nav-folder-title {
-  line-height: 1.2;
+  line-height: 1.62;
   cursor: pointer;
   position: relative;
   border-width: 1px;
