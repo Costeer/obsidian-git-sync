@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Stuff/Dev/Colours.md",
+                "file": "Templates/Default Template Aufgabe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Stuff/Dev/Colours.md",
+                "file": "Templates/Default Template Aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Stuff/Dev/Colours.md",
+                "file": "Templates/Default Template Aufgabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Stuff/Dev/Colours.md"
+                "file": "Templates/Default Template Aufgabe.md"
               }
             }
           }
@@ -152,14 +152,14 @@
   },
   "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
+    "Templates/Default Template.md",
+    "2-Stuff/Dev/Colours.md",
     "2-Stuff/Dev",
     "2-Stuff/Dev/Gruvbox Read Me v2.md",
     "2-Stuff/Dev/Gruvbox read me.md",
-    "2-Stuff/Dev/Colours.md",
     "README.md",
     "2-Stuff/Obsidian Plugins",
     "Untitled/Untitled.md",
-    "Templates/Default Template.md",
     "0-Schule",
     "0-Schule/Pictures/IMG_0224.png",
     "Untitled.md",
@@ -196,7 +196,6 @@
     "0-Schule/Pictures/Emilia Galotti-28.pdf",
     "2-Stuff/Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
     "2-Stuff/Catppuccin",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts"
+    "Excalidraw/Scripts/Downloaded"
   ]
 }

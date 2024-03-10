@@ -23,5 +23,8 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Excalidraw": "FasPenNib"
+  "Excalidraw": {
+    "iconName": "FasPenNib",
+    "iconColor": "#c81414"
+  }
 }
