@@ -26,32 +26,8 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
     --FoldF: #eb9fc9;
     --FoldText: #000000;
     /* line styles for nesting indicators */
-
+	}	
 }
-
-
-/* Set up explorer container margins */
-.nav-files-container{margin: 0px 5px;}
-
-
-/* collapse arrow for folders */
-.nav-folder.mod-root>.nav-folder-children>.nav-folder>.nav-folder-title>.nav-folder-collapse-indicator{
-	position: absolute;
-
-}
-
-
-.nav-file-title{
-    padding-left: 0px;
-}
-
-/* active file increase font size and removes normal highlight marker */
-    .nav-file-title.is-active{ 
-        color: #000000;
-        font-weight: normal;}
-		
-
-
 /* Folder Title Colors */      
 
 .nav-folder-children .nav-folder:nth-child(9n+2) .nav-folder-title,
@@ -190,7 +166,6 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
 /*----file explorer smaller fonts & line height----*/
 .nav-file-title,
 .nav-folder-title {
-  line-height: 1;
   cursor: pointer;
   position: relative;
   border-width: 1px;
