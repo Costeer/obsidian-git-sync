@@ -15,11 +15,21 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0daf4a737f3cb542",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,13 +159,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "de3708fbbd9bf0a3",
+  "active": "0daf4a737f3cb542",
   "lastOpenFiles": [
+    "README.md",
     "Pictures/IMG_0224.png",
     "Untitled.md",
     "Geschichte/Eurozentrisches denken.md",
     "Geschichte/Notes.md",
-    "README.md",
     "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
     "XX_Templates/Default Template.md",
     "XX_Templates/Default Template Table.md",
