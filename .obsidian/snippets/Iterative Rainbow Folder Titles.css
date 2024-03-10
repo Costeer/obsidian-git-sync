@@ -37,8 +37,8 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
 /* collapse arrow for folders */
 .nav-folder.mod-root>.nav-folder-children>.nav-folder>.nav-folder-title>.nav-folder-collapse-indicator{
 	position: absolute;
-    left: 21px;
-    top: 5px;
+    left: 5px;
+    top: 0px;
 }
 
 
