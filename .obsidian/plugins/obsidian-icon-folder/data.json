@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiMusic",
+      "FasMusic",
+      "TiMath",
       "LiHistory",
-      "IbEarth",
-      "FasFaceSadCry",
-      "FasBook",
-      "BoBxsVial"
+      "IbEarth"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,7 @@
   "0-Schule/Deutsch": "FasBook",
   "0-Schule/Englisch": "FasFaceSadCry",
   "0-Schule/Erdkunde": "IbEarth",
-  "0-Schule/Geschichte": "LiHistory"
+  "0-Schule/Geschichte": "LiHistory",
+  "0-Schule/Mathematik": "TiMath",
+  "0-Schule/Musik": "FiMusic"
 }
