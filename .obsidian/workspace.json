@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Default Template Aufgabe.md",
+                "file": "2-Stuff/Catppuccin/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Default Template Aufgabe.md",
+                "file": "2-Stuff/Catppuccin/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Default Template Aufgabe.md",
+                "file": "2-Stuff/Catppuccin/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Default Template Aufgabe.md"
+                "file": "2-Stuff/Catppuccin/Untitled.md"
               }
             }
           }
@@ -150,8 +150,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "10bf406a1bc86bff",
+  "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
+    "Templates/Default Template Aufgabe.md",
+    "2-Stuff/Catppuccin/Untitled.md",
     "Templates/Default Template.md",
     "2-Stuff/Dev/Colours.md",
     "2-Stuff/Dev",
@@ -167,7 +169,6 @@
     "0-Schule/Geschichte/Notes.md",
     "0-Schule/Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
     "Templates/Default Template Table.md",
-    "Templates/Default Template Aufgabe.md",
     "Templates",
     "0-Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
     "0-Schule/Pictures/Körpereigenes immunsystem.jpg",
