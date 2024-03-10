@@ -11,13 +11,8 @@
             "id": "de3708fbbd9bf0a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Schule/Deutsch/Rollenbiografie Gräfin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Deutsch/Rollenbiografie Gräfin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Deutsch/Rollenbiografie Gräfin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0-Schule/Deutsch/Rollenbiografie Gräfin.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,6 +143,11 @@
   },
   "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
+    "0-Schule/Deutsch/Usus.md",
+    "0-Schule/Deutsch/Aufgaben/Strichpunkte Marinelli.md",
+    "0-Schule/Deutsch/Sprachwandel.md",
+    "0-Schule/Deutsch/Sprachdebatte.md",
+    "0-Schule/Deutsch/Rollenbiografie Gräfin.md",
     "0-Schule/Deutsch/Register sprache.md",
     "0-Schule/Deutsch/Pro-Kontra Tabelle Gendern.md",
     "0-Schule/Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
@@ -174,12 +170,7 @@
     "2-Stuff/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
     "2-Stuff/Catppuccin/1-colours.md",
     "Templates/Default Template Aufgabe.md",
-    "Templates/Default Template.md",
-    "2-Stuff/Dev/Colours.md",
     "2-Stuff/Dev",
-    "2-Stuff/Dev/Gruvbox Read Me v2.md",
-    "2-Stuff/Dev/Gruvbox read me.md",
-    "README.md",
     "2-Stuff/Obsidian Plugins",
     "0-Schule",
     "0-Schule/Pictures/IMG_0224.png",
