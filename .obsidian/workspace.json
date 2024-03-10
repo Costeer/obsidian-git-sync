@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Stuff/Catppuccin/1-colours.md",
+                "file": "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Stuff/Catppuccin/1-colours.md",
+                "file": "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Stuff/Catppuccin/1-colours.md",
+                "file": "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Stuff/Catppuccin/1-colours.md"
+                "file": "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md"
               }
             }
           }
@@ -150,10 +150,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "de3708fbbd9bf0a3",
+  "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
-    "Templates/Default Template Aufgabe.md",
+    "0-Schule/Deutsch/Aufgaben/Altes medium.md",
+    "0-Schule/Deutsch/Präsentation notes.md",
+    "0-Schule/Deutsch/Notes 9 jan.md",
+    "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
+    "0-Schule/Erdkunde/Vunerabilitat.md",
+    "0-Schule/Erdkunde/Endogene.md",
+    "0-Schule/Erdkunde/Bewegung Kontinentalplatten.md",
+    "0-Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+    "2-Stuff/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
     "2-Stuff/Catppuccin/1-colours.md",
+    "Templates/Default Template Aufgabe.md",
     "Templates/Default Template.md",
     "2-Stuff/Dev/Colours.md",
     "2-Stuff/Dev",
@@ -176,14 +185,6 @@
     "0-Schule/Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
     "0-Schule/Niederländisch/Untitled.md",
     "0-Schule/Niederländisch/S74-Nr3.md",
-    "0-Schule/Niederländisch/Eokeokd.md",
-    "0-Schule/Geschichte/Wendepunkt.md",
-    "0-Schule/Geschichte/Stasi.md",
-    "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md",
     "0-Schule/Deutsch/Aufgaben",
     "0-Schule/Pictures/IMG_0205.jpeg",
     "2-Stuff/Catppuccin/Praktikum.odt",
@@ -195,7 +196,6 @@
     "0-Schule/Pictures/Pasted Image 20240130105112_446.jpg",
     "0-Schule/Pictures/IMG_0162.png",
     "0-Schule/Pictures/Emilia Galotti-28.pdf",
-    "2-Stuff/Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
     "2-Stuff/Catppuccin",
     "Excalidraw/Scripts/Downloaded"
   ]
