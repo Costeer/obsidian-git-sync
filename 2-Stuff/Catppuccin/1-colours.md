@@ -2,10 +2,6 @@
 
 **Catppuccin** consists of 4 beautiful pastel color palettes, named **flavors**. All the details can be found below.<br>
 If you want to use them for your own project, refer to our [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md) for general use cases and guidelines. Additionally, you can find integrations with popular frameworks and tools in [catppuccin/palette](https://github.com/catppuccin/palette).
-
-Already have a project making use of our palette? Don't forget to add it to
-our [showcase](#-showcase) section below!
-<br><img src="assets/misc/transparent.png" height="10" width="0" />
 *Current*
 <details>
 <summary>🌺 Macchiato</summary>
@@ -18,7 +14,7 @@ our [showcase](#-showcase) section below!
 		<th>HSL</th>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/macchiato_rosewater.png" width="23"/></td>
+		<td><img src="https://github.com/catppuccin/catppuccin/blob/main/assets/palette/circles/frappe_rosewater.png" width="23"/></td>
 		<td>Rosewater</td>
 		<td><code>#f4dbd6</code></td>
 		<td><code>rgb(244, 219, 214)</code></td>
@@ -202,6 +198,7 @@ our [showcase](#-showcase) section below!
 </table>
 </details>
 
+*Other
 <details>
 <summary>🌻 Latte</summary>
 <table>
@@ -590,7 +587,6 @@ our [showcase](#-showcase) section below!
 	</tr>
 </table>
 </details>
-
 <details>
 <summary>🌿 Mocha</summary>
 <table>
