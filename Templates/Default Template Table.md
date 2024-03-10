@@ -5,6 +5,6 @@
 |     |     |
 
 
-*Auch Interessant | Tags*
+*Auch Interessant | tags*
 [[]] [[]]
 #none 

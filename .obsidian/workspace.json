@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
+                "file": "0-Schule/Deutsch/Rollenbiografie Gräfin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
+                "file": "0-Schule/Deutsch/Rollenbiografie Gräfin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
+                "file": "0-Schule/Deutsch/Rollenbiografie Gräfin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md"
+                "file": "0-Schule/Deutsch/Rollenbiografie Gräfin.md"
               }
             }
           }
@@ -150,12 +150,23 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "10bf406a1bc86bff",
+  "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
-    "0-Schule/Deutsch/Aufgaben/Altes medium.md",
-    "0-Schule/Deutsch/Präsentation notes.md",
-    "0-Schule/Deutsch/Notes 9 jan.md",
+    "0-Schule/Deutsch/Register sprache.md",
+    "0-Schule/Deutsch/Pro-Kontra Tabelle Gendern.md",
+    "0-Schule/Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
+    "0-Schule/Deutsch/Kategorisierung.md",
+    "0-Schule/Deutsch/generisches Maskulinum.md",
+    "0-Schule/Deutsch/Framing.md",
+    "0-Schule/Deutsch/Erörterung.md",
+    "0-Schule/Deutsch/Diversität.md",
+    "Templates/Default Template Table.md",
+    "0-Schule/Deutsch/Aufgaben/Präsentation notes.md",
+    "0-Schule/Deutsch/Online sein.md",
+    "0-Schule/Deutsch/Aufgaben/Notes 9 jan.md",
+    "0-Schule/Deutsch/Aufgaben/Fachbegriffe Erklären.md",
     "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
+    "0-Schule/Deutsch/Aufgaben/Altes medium.md",
     "0-Schule/Erdkunde/Vunerabilitat.md",
     "0-Schule/Erdkunde/Endogene.md",
     "0-Schule/Erdkunde/Bewegung Kontinentalplatten.md",
@@ -170,21 +181,10 @@
     "2-Stuff/Dev/Gruvbox read me.md",
     "README.md",
     "2-Stuff/Obsidian Plugins",
-    "Untitled/Untitled.md",
     "0-Schule",
     "0-Schule/Pictures/IMG_0224.png",
-    "Untitled.md",
-    "0-Schule/Geschichte/Eurozentrisches denken.md",
-    "0-Schule/Geschichte/Notes.md",
-    "0-Schule/Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
-    "Templates/Default Template Table.md",
     "Templates",
-    "0-Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
     "0-Schule/Pictures/Körpereigenes immunsystem.jpg",
-    "0-Schule/Physik/Aufgaben/Hausaufgaben physik.md",
-    "0-Schule/Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
-    "0-Schule/Niederländisch/Untitled.md",
-    "0-Schule/Niederländisch/S74-Nr3.md",
     "0-Schule/Deutsch/Aufgaben",
     "0-Schule/Pictures/IMG_0205.jpeg",
     "2-Stuff/Catppuccin/Praktikum.odt",
