@@ -22,5 +22,7 @@
     "editor:redo",
     "highlightr-plugin:highlighter-plugin-menu"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "trashOption": "none"
 }
