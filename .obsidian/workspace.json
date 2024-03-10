@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0daf4a737f3cb542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XX_Templates/Default Template.md",
+                "file": "2-Stuff/Colours.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XX_Templates/Default Template.md",
+                "file": "2-Stuff/Colours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XX_Templates/Default Template.md",
+                "file": "2-Stuff/Colours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XX_Templates/Default Template.md"
+                "file": "2-Stuff/Colours.md"
               }
             }
           }
@@ -166,51 +152,51 @@
   },
   "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
-    "Untitled",
-    "AA-Schule",
+    "2-Stuff/Dev",
+    "2-Stuff/Gruvbox Read Me v2.md",
+    "2-Stuff/Gruvbox read me.md",
+    "2-Stuff/Colours.md",
     "README.md",
-    "AA-Schule/Pictures/IMG_0224.png",
+    "2-Stuff/Obsidian Plugins",
+    "Untitled/Untitled.md",
+    "Templates/Default Template.md",
+    "0-Schule",
+    "0-Schule/Pictures/IMG_0224.png",
     "Untitled.md",
-    "AA-Schule/Geschichte/Eurozentrisches denken.md",
-    "AA-Schule/Geschichte/Notes.md",
-    "AA-Schule/Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
-    "XX_Templates/Default Template.md",
-    "XX_Templates/Default Template Table.md",
-    "XX_Templates/Default Template Aufgabe.md",
-    "XX_Templates",
-    "AA-Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
-    "AA-Schule/Pictures/Körpereigenes immunsystem.jpg",
-    "AA-Schule/Physik/Aufgaben/Hausaufgaben physik.md",
-    "AA-Schule/Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
-    "AA-Schule/Niederländisch/Untitled.md",
-    "AA-Schule/Niederländisch/S74-Nr3.md",
-    "AA-Schule/Niederländisch/Eokeokd.md",
-    "AA-Schule/Geschichte/Wendepunkt.md",
-    "AA-Schule/Geschichte/Stasi.md",
+    "0-Schule/Geschichte/Eurozentrisches denken.md",
+    "0-Schule/Geschichte/Notes.md",
+    "0-Schule/Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
+    "Templates/Default Template Table.md",
+    "Templates/Default Template Aufgabe.md",
+    "Templates",
+    "0-Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
+    "0-Schule/Pictures/Körpereigenes immunsystem.jpg",
+    "0-Schule/Physik/Aufgaben/Hausaufgaben physik.md",
+    "0-Schule/Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
+    "0-Schule/Niederländisch/Untitled.md",
+    "0-Schule/Niederländisch/S74-Nr3.md",
+    "0-Schule/Niederländisch/Eokeokd.md",
+    "0-Schule/Geschichte/Wendepunkt.md",
+    "0-Schule/Geschichte/Stasi.md",
     "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
     "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
     "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
     "Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
     "Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-01 11.04.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-01 10.58.39.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md",
-    "AA-Schule/Englisch/Comment in inglisch.md",
-    "AA-Schule/Deutsch/Aufgaben",
-    "AA-Schule/Pictures/IMG_0205.jpeg",
-    "XX_Stuff/Catppuccin/Praktikum.odt",
-    "XX_Stuff/Catppuccin/Aufbau-eines-virus-catppucchin.jpg",
-    "AA-Schule/Politik Wirtschaft/Praktikum",
+    "0-Schule/Deutsch/Aufgaben",
+    "0-Schule/Pictures/IMG_0205.jpeg",
+    "2-Stuff/Catppuccin/Praktikum.odt",
+    "2-Stuff/Catppuccin/Aufbau-eines-virus-catppucchin.jpg",
+    "0-Schule/Politik Wirtschaft/Praktikum",
     "Pasted Image 20240131110300_484.jpg",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
-    "AA-Schule/Pictures/IMG_0166.jpeg",
-    "AA-Schule/Pictures/Pasted Image 20240130105112_446.jpg",
-    "AA-Schule/Pictures/IMG_0162.png",
-    "AA-Schule/Pictures/Emilia Galotti-28.pdf",
-    "XX_Stuff/Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
-    "XX_Stuff/Catppuccin",
+    "0-Schule/Pictures/IMG_0166.jpeg",
+    "0-Schule/Pictures/Pasted Image 20240130105112_446.jpg",
+    "0-Schule/Pictures/IMG_0162.png",
+    "0-Schule/Pictures/Emilia Galotti-28.pdf",
+    "2-Stuff/Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
+    "2-Stuff/Catppuccin",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "AA-Schule/Englisch"
+    "Excalidraw/Scripts"
   ]
 }
