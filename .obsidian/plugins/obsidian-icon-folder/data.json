@@ -6,6 +6,8 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCat",
+      "FiBox",
       "FasPenNib"
     ],
     "recentlyUsedIconsSize": 5,
@@ -25,6 +27,8 @@
   },
   "Excalidraw": {
     "iconName": "FasPenNib",
-    "iconColor": "#c81414"
-  }
+    "iconColor": "#c6a0f6"
+  },
+  "2-Stuff": "FiBox",
+  "2-Stuff/Catppuccin": "FasCat"
 }
