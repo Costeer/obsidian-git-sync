@@ -1,3 +1,3 @@
-- [[Musik/Renaissance]] (1500-1600)
+- [[Renaissance]] (1500-1600)
 - [[Barock]] (1700-1800)
 - [[Klassik]] (1730-1830)
