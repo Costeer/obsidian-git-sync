@@ -3,7 +3,6 @@
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "Notebook Backgrounds",
     "Iterative Rainbow Folder Titles"
   ]
 }
