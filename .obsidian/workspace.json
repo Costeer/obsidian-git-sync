@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik Wirtschaft/Praktikum/Praktikum Fragen.md"
+                "file": "README.md"
               }
             }
           }
@@ -151,51 +151,50 @@
   },
   "active": "de3708fbbd9bf0a3",
   "lastOpenFiles": [
+    "Pictures/IMG_0224.png",
     "Untitled.md",
+    "Geschichte/Eurozentrisches denken.md",
+    "Geschichte/Notes.md",
+    "README.md",
+    "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
+    "XX_Templates/Default Template.md",
+    "XX_Templates/Default Template Table.md",
+    "XX_Templates/Default Template Aufgabe.md",
+    "XX_Templates",
+    "Werte und Normen/Darf ich meine eigene religion gründen?.md",
+    "Pictures/Körpereigenes immunsystem.jpg",
+    "Physik/Aufgaben/Hausaufgaben physik.md",
+    "Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
+    "Niederländisch/Untitled.md",
+    "Niederländisch/S74-Nr3.md",
+    "Niederländisch/Eokeokd.md",
+    "Geschichte/Wendepunkt.md",
+    "Geschichte/Stasi.md",
+    "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-01 11.04.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-01 10.58.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md",
+    "Englisch/Comment in inglisch.md",
+    "Deutsch/Aufgaben",
     "Pictures/IMG_0205.jpeg",
-    "Mathematik/Die 1 und 2 Ableitung.md",
-    "Mathematik/Bestimmen von steigungen.md",
-    "Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
     "Catppuccin/Praktikum.odt",
     "Catppuccin/Aufbau-eines-virus-catppucchin.jpg",
-    "Biologie/Windpocken.md",
-    "Biologie/Viren.md",
-    "Biologie/Verlauf einer Infektionskrankheit.md",
-    "Biologie/Tetanus.md",
-    "Biologie/Salmonellose.md",
-    "Biologie/Bakterien.md",
-    "Biologie/Aufgaben/Bakterien vermehrung.md",
-    "Politik Wirtschaft/Praktikum/Metallbau grundlagen.md",
-    "Politik Wirtschaft/Praktikum/Praktikum Fragen.md",
-    "Politik Wirtschaft/Praktikum/Aussagen  für Facharbeit dings da.md",
-    "XXX_Linux/starship.toml.md",
     "Politik Wirtschaft/Praktikum",
     "Pasted Image 20240131110300_484.jpg",
-    "Excalidraw/Untitled.md",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
-    "Excalidraw/Scripts/Downloaded/Palette loader.md",
-    "Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
     "Pictures/IMG_0166.jpeg",
     "Pictures/Pasted Image 20240130105112_446.jpg",
-    "README.md",
     "Pictures/IMG_0162.png",
     "Pictures/Emilia Galotti-28.pdf",
-    "Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
     "Catppuccin/Icons-catppuccin-catpuccino-Toni_ver.jpg",
-    "Catppuccin/Icons-catppuccin-pinterest-gay.jpg",
-    "Catppuccin/Icons-catppuccin-Freeform-v2.jpg",
     "Catppuccin",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Englisch",
-    "notationuebung.pdf",
-    "XXX_Linux/Rofi/launchers/type-2/shared",
-    "XXX_Linux/Rofi/powermenu/type-2/shared"
+    "notationuebung.pdf"
   ]
 }
