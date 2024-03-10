@@ -1,6 +1,0 @@
-```
-[module/round-left]
-type = custom/text
-
-content = %{T6}%{T-}
-content-foreground = ${colors.bg}

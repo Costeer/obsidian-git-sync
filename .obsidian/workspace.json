@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Stuff/Colours.md",
+                "file": "2-Stuff/Dev/Colours.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Stuff/Colours.md",
+                "file": "2-Stuff/Dev/Colours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Stuff/Colours.md",
+                "file": "2-Stuff/Dev/Colours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Stuff/Colours.md"
+                "file": "2-Stuff/Dev/Colours.md"
               }
             }
           }
@@ -153,9 +153,9 @@
   "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
     "2-Stuff/Dev",
-    "2-Stuff/Gruvbox Read Me v2.md",
-    "2-Stuff/Gruvbox read me.md",
-    "2-Stuff/Colours.md",
+    "2-Stuff/Dev/Gruvbox Read Me v2.md",
+    "2-Stuff/Dev/Gruvbox read me.md",
+    "2-Stuff/Dev/Colours.md",
     "README.md",
     "2-Stuff/Obsidian Plugins",
     "Untitled/Untitled.md",

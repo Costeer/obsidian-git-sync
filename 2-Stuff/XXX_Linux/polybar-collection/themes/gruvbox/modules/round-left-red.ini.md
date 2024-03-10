@@ -1,6 +1,0 @@
-```
-[module/round-left-red]
-type = custom/text
-
-content = %{T6}%{T-}
-content-foreground = ${colors.red}
