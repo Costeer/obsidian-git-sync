@@ -6,9 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasCat",
-      "FiBox",
-      "FasPenNib"
+      "TiArrowsRandom",
+      "TiPlug",
+      "SiMonkeytype",
+      "OcCommandPalette16",
+      "FasCat"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +32,9 @@
     "iconColor": "#c6a0f6"
   },
   "2-Stuff": "FiBox",
-  "2-Stuff/Catppuccin": "FasCat"
+  "2-Stuff/Catppuccin": "FasCat",
+  "2-Stuff/Dev": "OcCommandPalette16",
+  "2-Stuff/Mokey See": "SiMonkeytype",
+  "2-Stuff/Obsidian Plugins": "TiPlug",
+  "2-Stuff/Random Things": "TiArrowsRandom"
 }
