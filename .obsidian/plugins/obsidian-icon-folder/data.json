@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiArrowsRandom",
-      "TiPlug",
-      "SiMonkeytype",
-      "OcCommandPalette16",
-      "FasCat"
+      "LiBiohazard",
+      "TiSchool",
+      "TiTemplate",
+      "FabLinux",
+      "TiArrowsRandom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,14 +27,15 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Excalidraw": {
-    "iconName": "FasPenNib",
-    "iconColor": "#c6a0f6"
-  },
+  "Excalidraw": "FasPenNib",
   "2-Stuff": "FiBox",
   "2-Stuff/Catppuccin": "FasCat",
   "2-Stuff/Dev": "OcCommandPalette16",
   "2-Stuff/Mokey See": "SiMonkeytype",
   "2-Stuff/Obsidian Plugins": "TiPlug",
-  "2-Stuff/Random Things": "TiArrowsRandom"
+  "2-Stuff/Random Things": "TiArrowsRandom",
+  "2-Stuff/Dev/XXX_Linux": "FabLinux",
+  "Templates": "TiTemplate",
+  "0-Schule": "TiSchool",
+  "0-Schule/Biologie": "LiBiohazard"
 }
