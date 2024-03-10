@@ -2,6 +2,7 @@
 
 **Catppuccin** consists of 4 beautiful pastel color palettes, named **flavors**. All the details can be found below.<br>
 If you want to use them for your own project, refer to our [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md) for general use cases and guidelines. Additionally, you can find integrations with popular frameworks and tools in [catppuccin/palette](https://github.com/catppuccin/palette).
+![[https://github.com/catppuccin/catppuccin/blob/main/assets/palette/circles/frappe_rosewater.png]]
 *Current*
 <details>
 <summary>🌺 Macchiato</summary>
@@ -14,7 +15,7 @@ If you want to use them for your own project, refer to our [style guide](https:/
 		<th>HSL</th>
 	</tr>
 	<tr>
-		<td><img src="https://github.com/catppuccin/catppuccin/blob/main/assets/palette/circles/frappe_rosewater.png" width="23"/></td>
+		<td><img = https://github.com/catppuccin/catppuccin/blob/main/assets/palette/circles/frappe_rosewater.png width="23"/></td>
 		<td>Rosewater</td>
 		<td><code>#f4dbd6</code></td>
 		<td><code>rgb(244, 219, 214)</code></td>
