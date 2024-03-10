@@ -647,7 +647,7 @@ settings:
         label: Lavender
         value: ctp-accent-lavender
 */
-/* @settings
+@settings
 name: Icon Styles
 id: catppuccin-icon-styles
 settings:
@@ -656,7 +656,7 @@ settings:
     title: Hide icons
     description: Hide icons styled or created by the theme. May solve compatibility issues between the theme and other third party plugins. Currently applies to folder icons in the file sidebar.
     type: class-toggle
-*/
+
 /* @settings
 name: Interface Styles
 id: catppuccin-interface-styles
