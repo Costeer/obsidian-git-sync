@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBiohazard",
-      "TiSchool",
-      "TiTemplate",
-      "FabLinux",
-      "TiArrowsRandom"
+      "LiHistory",
+      "IbEarth",
+      "FasFaceSadCry",
+      "FasBook",
+      "BoBxsVial"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,10 @@
   "2-Stuff/Dev/XXX_Linux": "FabLinux",
   "Templates": "TiTemplate",
   "0-Schule": "TiSchool",
-  "0-Schule/Biologie": "LiBiohazard"
+  "0-Schule/Biologie": "LiBiohazard",
+  "0-Schule/Chemie": "BoBxsVial",
+  "0-Schule/Deutsch": "FasBook",
+  "0-Schule/Englisch": "FasFaceSadCry",
+  "0-Schule/Erdkunde": "IbEarth",
+  "0-Schule/Geschichte": "LiHistory"
 }
