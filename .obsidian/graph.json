@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "file:excalidraw",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16777215
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.3331493145288473,
+  "scale": 0.26333813620322905,
   "close": false
 }
