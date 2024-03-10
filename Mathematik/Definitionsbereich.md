@@ -15,4 +15,4 @@ Der Df Gibt an, welche Zahlen ich für x einsetzen darf.
 Df -> WF
 X  -> y
 
-![[Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png]]
+![[Drawing 2023-09-26 08.34.01.excalidraw.png]]
