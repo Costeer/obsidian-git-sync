@@ -24,12 +24,9 @@
             "id": "53737d5395917bc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "css-editor-view",
               "state": {
-                "file": "1-Stuff/Catppuccin/1-colours.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "filename": "Notebook Backgrounds.css"
               }
             }
           }
@@ -100,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Stuff/Catppuccin/1-colours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Stuff/Catppuccin/1-colours.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-Stuff/Catppuccin/1-colours.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,6 +170,7 @@
   },
   "active": "53737d5395917bc8",
   "lastOpenFiles": [
+    "1-Stuff/Catppuccin/1-colours.md",
     "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
     "README.md",
     "1-Stuff/Dev/Colours.md",
@@ -203,7 +197,6 @@
     "0-Schule/Deutsch/Diversität.md",
     "0-Schule/Deutsch/Aufgaben/Präsentation notes.md",
     "0-Schule/Deutsch/Online sein.md",
-    "0-Schule/Deutsch/Aufgaben/Notes 9 jan.md",
     "1-Stuff/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
     "1-Stuff/Dev",
     "1-Stuff/Obsidian Plugins",
