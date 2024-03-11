@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Alkane.md",
+                "file": "0-Schule/Politik Wirtschaft/Atypische Arbeit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Chemie/Alkane.md",
+            "file": "0-Schule/Politik Wirtschaft/Atypische Arbeit.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Chemie/Alkane.md",
+            "file": "0-Schule/Politik Wirtschaft/Atypische Arbeit.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Chemie/Alkane.md"
+            "file": "0-Schule/Politik Wirtschaft/Atypische Arbeit.md"
           }
         }
       },
@@ -145,6 +145,8 @@
   },
   "active": "709945285becdfa8",
   "lastOpenFiles": [
+    "2024-03-11.md",
+    "0-Schule/Chemie/Alkane.md",
     "IMG_0224.png",
     "Biologie/Körpereigenes Abwehrsystem.md",
     "Biologie/Viren.md",
@@ -172,7 +174,6 @@
     "Deutsch/Aufgaben/Kategorisierung.md",
     "Deutsch/Aufgaben/Usus.md",
     "Deutsch/Aufgaben/Framing.md",
-    "Deutsch/Aufgaben/Register sprache.md",
     "Deutsch/Aufgaben",
     "Pictures/IMG_0205.jpeg",
     "Politik Wirtschaft/Praktikum",
@@ -187,7 +188,6 @@
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Pictures/IMG_0166.jpeg",
     "Pictures/Pasted Image 20240130105112_446.jpg",
-    "/Pictures/Pasted Image 20240130105112_446.jpg",
     "Praktikum",
     "Pictures/Emilia Galotti-28.pdf",
     "Catppuccin"
