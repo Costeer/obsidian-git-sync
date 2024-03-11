@@ -75,3 +75,4 @@ Or if you want to add a background image from the internet, you can use this sni
 [[Colours]] [[README]]
 #dev 
 
+SOURCE: https://www.reddit.com/r/ObsidianMD/comments/11evlt0/easy_ways_to_change_the_background_color_on_a/
