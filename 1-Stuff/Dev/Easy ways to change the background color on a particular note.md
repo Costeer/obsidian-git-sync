@@ -1,6 +1,5 @@
 ---
-cssclasses: 
-page-color:
+cssclasses: []
 ---
 
 If you want to change the background color of a particular note, as OneNote does, use this simple snippet:
@@ -75,3 +74,4 @@ Or if you want to add a background image from the internet, you can use this sni
 *Auch Interessant | Tags*
 [[Colours]] [[README]]
 #dev 
+

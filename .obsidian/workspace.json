@@ -28,6 +28,19 @@
             }
           },
           {
+            "id": "6eb063f1b08f5dfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "76ccc7ddffba782e",
             "type": "leaf",
             "state": {
@@ -54,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,10 +208,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "42bcaf55c2c3e587",
+  "active": "6eb063f1b08f5dfc",
   "lastOpenFiles": [
-    "1-Stuff/Catppuccin/1-colours.md",
     "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
+    "1-Stuff/Catppuccin/1-colours.md",
     "1-Stuff/Dev/Gruvbox read me.md",
     "1-Stuff/Dev/Colours.md",
     "1-Stuff/Dev/banner tests.md",
