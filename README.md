@@ -5,11 +5,7 @@
 ##### *Ein Obsidian repo mit Theme, vorgefertigten templates und  voreingestelltem einfachem sync über git*
 
 ### Inhalt
-- Installieren
-- How to Templates
-	- Was sind Templates?
-	- Was führ Templates gibt es?
-	- Wie Benutze ich Templates?
+
 ## Installieren
 Um alle nötigen Einstellungen für obsidian und git zu übernehmen diesen command in den terminal emulator deiner Wahl einfügen.
 *Empfohlene Terminal Emulatoren:*
