@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Default Template Banner.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -169,8 +169,9 @@
   },
   "active": "468caeab223fc5ed",
   "lastOpenFiles": [
-    "Templates/Default Template Table.md",
+    "Templates/Default Template Aufgabe.md",
     "Templates/Default Template Banner.md",
+    "Templates/Default Template Table.md",
     "README.md",
     "Pictures/Obsidian-Overall-Banner-Main.jpg",
     "Templates/Default Template.md",
