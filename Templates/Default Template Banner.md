@@ -1,7 +1,7 @@
 ---
-banner: "![[Obsidian-Overall-Banner-Main.jpg]]"
+banner: 
 banner_y: 1
-excalidraw-plugin:
+excalidraw-plugin: 
 banner_icon: 🗻
 ---
 #### Title 1
