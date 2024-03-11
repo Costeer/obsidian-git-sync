@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Stuff/Dev/Easy ways to change the background color on a particular note.md"
+                "file": "README.md"
               }
             }
           },
@@ -163,8 +163,10 @@
   },
   "active": "416bc08c598cc340",
   "lastOpenFiles": [
-    "1-Stuff/Dev/banner tests.md",
     "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
+    "1-Stuff/Dev/Colours.md",
+    "1-Stuff/Dev/Gruvbox read me.md",
+    "1-Stuff/Dev/banner tests.md",
     "README.md",
     "Templates/Default Template Aufgabe.md",
     "Templates/Default Template Table.md",
@@ -188,8 +190,6 @@
     "0-Schule/Deutsch/Aufgaben/Präsentation notes.md",
     "0-Schule/Deutsch/Online sein.md",
     "0-Schule/Deutsch/Aufgaben/Notes 9 jan.md",
-    "0-Schule/Deutsch/Aufgaben/Fachbegriffe Erklären.md",
-    "0-Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
     "1-Stuff/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
     "1-Stuff/Dev",
     "1-Stuff/Obsidian Plugins",

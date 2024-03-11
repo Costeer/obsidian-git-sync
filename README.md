@@ -46,5 +46,5 @@ Dann sollte dieses Feld aufgehen
 ![[Drawing 2024-03-07 11.18.53.excalidraw]]
 
 In diesem felt gipst du jetzt template ein und drückst enter
-Danach wählst du die template aus welche du einfügen möchtest und fertig
+Danach wählst du die template aus welche du einfügen möchtest und fertig.
 

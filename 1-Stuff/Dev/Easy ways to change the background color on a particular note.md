@@ -53,3 +53,20 @@ Or if you want to add a background image from the internet, you can use this sni
 	background-repeat: no-repeat;
 }
 ```
+
+(For using a background image from the internet, you must have only the image on the screen to get his URL address. The best way to get the URL is to open the image in a new tab and copy-paste the URL)
+
+→ If you want to add a local image as a background , you can do it by adding **app://local/** before the path to the image:
+
+```
+.image2 {
+	background-image: url("app://local/c:/path/to/my/file/image.png");
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+```
+
+*Auch Interessant | Tags*
+[[Colours]] [[README]]
+#dev 
