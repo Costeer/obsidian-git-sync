@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OcLaw16",
+      "IbPhoto",
       "SiProtondb",
       "SiNeutralinojs",
-      "FiMusic",
-      "FasMusic",
-      "TiMath"
+      "FiMusic"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,7 @@
   "0-Schule/Geschichte": "LiHistory",
   "0-Schule/Mathematik": "TiMath",
   "0-Schule/Musik": "FiMusic",
-  "0-Schule/Physik": "SiProtondb"
+  "0-Schule/Physik": "SiProtondb",
+  "Pictures": "IbPhoto",
+  "0-Schule/Politik Wirtschaft": "OcLaw16"
 }
