@@ -50,5 +50,7 @@ In diesem felt gipst du jetzt template ein und drückst enter
 Danach wählst du die template aus welche du einfügen möchtest und fertig.
 
 ## Hintergrund in Notiz ändern
+**Achtung das ist n bissl schwieriger**
 
+![[Easy ways to change the background color on a particular note]]
 
