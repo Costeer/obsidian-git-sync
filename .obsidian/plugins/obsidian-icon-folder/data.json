@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxHash",
       "TiBook",
       "FasPersonRays",
       "FasPerson",
-      "OcLaw16",
-      "IbPhoto"
+      "OcLaw16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,6 @@
   "1-Stuff/Obsidian Plugins": "TiPlug",
   "1-Stuff/Dev": "OcCommandPalette16",
   "1-Stuff/Dev/XXX_Linux": "FabLinux",
-  "0-Schule/Niederländisch": "TiBook"
+  "0-Schule/Niederländisch": "TiBook",
+  "Excalidraw/Scripts": "BoBxHash"
 }
