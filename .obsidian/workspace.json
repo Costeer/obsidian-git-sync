@@ -11,6 +11,29 @@
             "id": "416bc08c598cc340",
             "type": "leaf",
             "state": {
+              "type": "css-editor-view",
+              "state": {
+                "filename": "css-snipet-color-values.css"
+              }
+            }
+          },
+          {
+            "id": "76ccc7ddffba782e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Stuff/Catppuccin/1-colours.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42bcaf55c2c3e587",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
@@ -19,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "53737d5395917bc8",
-            "type": "leaf",
-            "state": {
-              "type": "css-editor-view",
-              "state": {
-                "filename": "Notebook Backgrounds.css"
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-Stuff/Dev/Easy ways to change the background color on a particular note.md"
+              }
             }
           },
           {
@@ -168,14 +185,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "53737d5395917bc8",
+  "active": "42bcaf55c2c3e587",
   "lastOpenFiles": [
-    "1-Stuff/Catppuccin/1-colours.md",
-    "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
-    "README.md",
-    "1-Stuff/Dev/Colours.md",
     "1-Stuff/Dev/Gruvbox read me.md",
+    "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
+    "1-Stuff/Dev/Colours.md",
     "1-Stuff/Dev/banner tests.md",
+    "1-Stuff/Catppuccin/1-colours.md",
+    "README.md",
     "Templates/Default Template Aufgabe.md",
     "Templates/Default Template Table.md",
     "Pictures/Obsidian-Overall-Banner-Main.jpg",
