@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPersonRays",
+      "FasPerson",
       "OcLaw16",
       "IbPhoto",
-      "SiProtondb",
-      "SiNeutralinojs",
-      "FiMusic"
+      "SiProtondb"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,13 +28,6 @@
     "iconIdentifier": ":"
   },
   "Excalidraw": "FasPenNib",
-  "2-Stuff": "FiBox",
-  "2-Stuff/Catppuccin": "FasCat",
-  "2-Stuff/Dev": "OcCommandPalette16",
-  "2-Stuff/Mokey See": "SiMonkeytype",
-  "2-Stuff/Obsidian Plugins": "TiPlug",
-  "2-Stuff/Random Things": "TiArrowsRandom",
-  "2-Stuff/Dev/XXX_Linux": "FabLinux",
   "Templates": "TiTemplate",
   "0-Schule": "TiSchool",
   "0-Schule/Biologie": "LiBiohazard",
@@ -47,5 +40,13 @@
   "0-Schule/Musik": "FiMusic",
   "0-Schule/Physik": "SiProtondb",
   "Pictures": "IbPhoto",
-  "0-Schule/Politik Wirtschaft": "OcLaw16"
+  "0-Schule/Politik Wirtschaft": "OcLaw16",
+  "0-Schule/Werte und Normen": "FasPersonRays",
+  "1-Stuff": "FiBox",
+  "1-Stuff/Mokey See": "SiMonkeytype",
+  "1-Stuff/Catppuccin": "FasCat",
+  "1-Stuff/Random Things": "TiArrowsRandom",
+  "1-Stuff/Obsidian Plugins": "TiPlug",
+  "1-Stuff/Dev": "OcCommandPalette16",
+  "1-Stuff/Dev/XXX_Linux": "FabLinux"
 }
