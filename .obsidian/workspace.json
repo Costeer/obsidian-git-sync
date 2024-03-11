@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Stuff/Dev/Someones stolen colors.md",
+                "file": "1-Stuff/Dev/Colours.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Stuff/Dev/Someones stolen colors.md",
+                "file": "1-Stuff/Dev/Colours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Stuff/Dev/Someones stolen colors.md",
+                "file": "1-Stuff/Dev/Colours.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Stuff/Dev/Someones stolen colors.md"
+                "file": "1-Stuff/Dev/Colours.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "6eb063f1b08f5dfc",
   "lastOpenFiles": [
-    "1-Stuff/Dev/Colours.md",
     "1-Stuff/Dev/Someones stolen colors.md",
+    "1-Stuff/Dev/Colours.md",
     "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
     "1-Stuff/Catppuccin/1-colours.md",
     "1-Stuff/Dev/Gruvbox read me.md",
