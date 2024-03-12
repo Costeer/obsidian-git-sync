@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Molekül.md",
+                "file": "0-Schule/Chemie/Zucker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Molekül.md",
+                "file": "0-Schule/Chemie/Zucker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Molekül.md",
+                "file": "0-Schule/Chemie/Zucker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Molekül.md"
+                "file": "0-Schule/Chemie/Zucker.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Molekül.md",
+                "file": "0-Schule/Chemie/Zucker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,8 +206,14 @@
   },
   "active": "a7fc6d0a00595b11",
   "lastOpenFiles": [
-    "0-Schule/Chemie/spektroskopisch.md",
+    "0-Schule/Chemie/Van der Waals kräfte.md",
+    "0-Schule/Chemie/Unpolare Moleküle.md",
+    "0-Schule/Chemie/Untitled.md",
+    "0-Schule/Chemie/Temporäre Dipole.md",
+    "0-Schule/Chemie/Strahlung.md",
     "0-Schule/Chemie/Spektroskopie.md",
+    "0-Schule/Chemie/spektroskopisch.md",
+    "0-Schule/Chemie/Molekül.md",
     "0-Schule/Chemie/Sauerstoffverbindungen RedoxReaktionen.md",
     "0-Schule/Chemie/Sauerstoff Verbindungen oder Kohlenwasserstoffe.md",
     "0-Schule/Chemie/Reduktion.md",
@@ -221,17 +227,11 @@
     "0-Schule/Chemie/Oxidation.md",
     "0-Schule/Chemie/Neutron.md",
     "0-Schule/Chemie/Mol™.md",
-    "0-Schule/Chemie/Molekül.md",
     "0-Schule/Chemie/Kohlenwasserstoffe.md",
     "0-Schule/Chemie/Isomere.md",
     "0-Schule/Chemie/Ion.md",
     "0-Schule/Chemie/Homogene reie.md",
     "0-Schule/Chemie/Fraktionierte Destillation.md",
-    "0-Schule/Chemie/Elektronenhülle.md",
-    "0-Schule/Chemie/Elektronegativität.md",
-    "0-Schule/Chemie/Elektron.md",
-    "0-Schule/Chemie/Dipolar.md",
-    "0-Schule/Chemie/Carbonylgruppe.md",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
