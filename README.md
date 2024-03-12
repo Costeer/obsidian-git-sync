@@ -28,8 +28,9 @@ git clone https://<Username>:<token>@github.com/Costeer/obsidian-git-sync
 um den access token von deinem GitHub zu bekommen einfach googeln wie das geht.
 
 ## How to Templates
-##### Was sind Templates?
-Templates sind ein einfacher weg schnell und einfach alle wichtigen Informationen wie Titel, Verlinkungen und Tags in eine neue Note einzufügen ohne immer wieder das gleiche tippen zu müssen
+
+> [!question] Was sind Templates?
+> Templates sind ein einfacher weg schnell und einfach alle wichtigen Informationen wie Titel, Verlinkungen und Tags in eine neue Note einzufügen ohne immer wieder das gleiche tippen zu müssen
 
 ##### Was für Templates gibt es?
 Momentan sind standardmäßig *3* templates in diesem repo dabei (du kannst natürlich auch eigene erstellen :D)
@@ -51,7 +52,11 @@ In diesem felt gipst du jetzt template ein und drückst enter
 Danach wählst du die template aus welche du einfügen möchtest und fertig.
 
 ## Hintergrund in Notiz ändern
-**Achtung das ist n bissl schwieriger**
+
+
+> [!NOTE] Achtung
+> Nur für 
+
 
 ![[Easy ways to change the background color on a particular note]]
 
