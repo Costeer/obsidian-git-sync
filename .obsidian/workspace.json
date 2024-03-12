@@ -11,12 +11,9 @@
             "id": "ea111902391e7cd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md"
               }
             }
           }
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md"
               }
             }
           },
@@ -153,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,8 +204,12 @@
   "active": "ea111902391e7cd7",
   "lastOpenFiles": [
     "1-Stuff/Dev/Callouts.md",
-    "1-Stuff/Dev/Colours.md",
+    "1-Stuff/Dev/banner tests.md",
+    "1-Stuff/Dev/Someones stolen colors.md",
+    "Templates/Default Template Aufgabe.md",
+    "Templates/Default Template.md",
     "README.md",
+    "1-Stuff/Dev/Colours.md",
     "Templates/Other",
     "0-Schule/Chemie/Zucker.md",
     "0-Schule/Chemie/Van der Waals kräfte.md",
@@ -229,10 +230,6 @@
     "0-Schule/Chemie/Periodensystem.md",
     "0-Schule/Chemie/Oxidationszahlen.md",
     "0-Schule/Chemie/Oxidation.md",
-    "0-Schule/Chemie/Neutron.md",
-    "0-Schule/Chemie/Mol™.md",
-    "0-Schule/Chemie/Kohlenwasserstoffe.md",
-    "0-Schule/Chemie/Isomere.md",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
