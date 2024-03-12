@@ -18,11 +18,13 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
     --Fold7: #d399cf;
     --Fold8: #cda485;
     --Fold10: #b9c0c7;
+    
     --Fold11: #b9c0c7;
     --Fold12: #b9c0c7;
     --Fold13: #b9c0c7;
     --Fold14: #b9c0c7;
     --Fold15: #b9c0c7;
+    
     --FoldA: #f0aaaa;
     --FoldB: #f1b86f;
     --FoldC: #7acc93;
@@ -114,13 +116,15 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
     border-radius: 5px; margin-top: 2px;
 }
 
+
 /* Folder Icon Colors */
 /* NOT NEEDED IF YOU DON'T USE ICONS */
 
-.nav-folder-children .nav-folder:nth-child(9n+11) .nav-folder-title,
-.nav-folder-children .nav-folder .nav-folder:nth-child(9n+11) .nav-folder-title,
-.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+11) .nav-folder-title,
-.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+11) .nav-folder-title {
+
+.nav-folder-children .nav-folder:nth-child(9n+11) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+11) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+11) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+11) .nav-folder-collapse-indicator, {
     color: var(--Fold10);
     border-radius: 5px; margin-top: 2px;
 }
