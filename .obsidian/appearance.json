@@ -4,6 +4,7 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "Notebook Backgrounds",
-    "css-snipet-color-values"
+    "css-snipet-color-values",
+    "Iterative Rainbow Folder Titles"
   ]
 }
