@@ -19,12 +19,12 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
     --Fold8: #9d6acf;
     --Fold9: #7d6acf;
     --Fold10: #6a85cf;
-    --Fold11: #b9c0c7;
+    --Fold11: #78b8bb;
     
-    --Fold12: #b9c0c7;
-    --Fold13: #b9c0c7;
-    --Fold14: #b9c0c7;
-    --Fold15: #b9c0c7;
+    --Fold12: #6acf9e;
+    --Fold13: #6acf6d;
+    --Fold14: #91cf6a;
+    --Fold15: #cfcd6a;
     
     --FoldA: #f0aaaa;
     --FoldB: #f1b86f;
@@ -116,7 +116,20 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
     color: var(--Fold10);
     border-radius: 5px; margin-top: 2px;
 }
-
+.nav-folder-children .nav-folder:nth-child(9n+12) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+12) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+12) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+12) .nav-folder-title {
+    color: var(--Fold11);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+13) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+13) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+13) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+13) .nav-folder-title {
+    color: var(--Fold12);
+    border-radius: 5px; margin-top: 2px;
+}
 
 /* Folder Icon Colors */
 /* NOT NEEDED IF YOU DON'T USE ICONS */
