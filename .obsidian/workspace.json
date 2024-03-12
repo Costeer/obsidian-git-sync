@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3bf1d44e623673ac",
+        "id": "43bbfeec8bec850b",
         "type": "tabs",
         "children": [
           {
-            "id": "6eb063f1b08f5dfc",
+            "id": "1162cf92fab1fa2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76ccc7ddffba782e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Stuff/Catppuccin/1-colours.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42bcaf55c2c3e587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -187,7 +161,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6eb063f1b08f5dfc",
+  "active": "1162cf92fab1fa2c",
   "lastOpenFiles": [
     "1-Stuff/Dev/Colours.md",
     "1-Stuff/Catppuccin/1-colours.md",
