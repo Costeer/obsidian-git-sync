@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Außenelektronen.md",
+                "file": "0-Schule/Chemie/Elektronenhülle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2fcdd7d61aa6272",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-12 17.01.48.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Außenelektronen.md",
+                "file": "Excalidraw/Drawing 2024-03-12 17.01.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Außenelektronen.md",
+                "file": "Excalidraw/Drawing 2024-03-12 17.01.48.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Außenelektronen.md"
+                "file": "Excalidraw/Drawing 2024-03-12 17.01.48.excalidraw.md"
               }
             }
           },
@@ -153,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Außenelektronen.md",
+                "file": "Excalidraw/Drawing 2024-03-12 17.01.48.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,8 +215,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b67d59f9a7efb626",
+  "active": "a2fcdd7d61aa6272",
   "lastOpenFiles": [
+    "0-Schule/Chemie/Elektronenhülle.md",
+    "Excalidraw/Drawing 2024-03-12 17.01.48.excalidraw.md",
+    "0-Schule/Chemie/Außenelektronen.md",
     "0-Schule/Chemie/Ion.md",
     "0-Schule/Chemie/Proton.md",
     "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
@@ -238,9 +252,6 @@
     "0-Schule/Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
     "2-Stuff/Random Things/Untitled.md",
     "0-Schule/Deutsch/Usus.md",
-    "0-Schule/Deutsch/Aufgaben/Strichpunkte Marinelli.md",
-    "0-Schule/Deutsch/Sprachwandel.md",
-    "0-Schule/Deutsch/Sprachdebatte.md",
     "1-Stuff/Dev",
     "1-Stuff/Obsidian Plugins",
     "0-Schule",
