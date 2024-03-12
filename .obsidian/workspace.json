@@ -11,9 +11,12 @@
             "id": "b67d59f9a7efb626",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg"
+                "file": "0-Schule/Chemie/Außenelektronen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
+                "file": "0-Schule/Chemie/Außenelektronen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
+                "file": "0-Schule/Chemie/Außenelektronen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg"
+                "file": "0-Schule/Chemie/Außenelektronen.md"
               }
             }
           },
@@ -150,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
+                "file": "0-Schule/Chemie/Außenelektronen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +206,16 @@
   },
   "active": "b67d59f9a7efb626",
   "lastOpenFiles": [
+    "0-Schule/Chemie/Ion.md",
+    "0-Schule/Chemie/Proton.md",
+    "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
+    "0-Schule/Chemie/∆EN.md",
+    "Templates/Default Template.md",
+    "Templates/Default Template Aufgabe.md",
+    "Templates/Default Template Table.md",
+    "README.md",
+    "Pictures/Emilia Galotti-26.jpg",
+    "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-[wallpaper]-l.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
@@ -215,26 +228,19 @@
     "Excalidraw/Drawing 2024-03-12 16.49.48.excalidraw.md",
     "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
     "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
-    "README.md",
-    "0-Schule/Chemie/∆EN.md",
     "1-Stuff/Catppuccin/1-colours.md",
     "1-Stuff/Mokey See/Monkeytype.md",
-    "Templates/Default Template Table.md",
     "1-Stuff/Dev/Colours.md",
     "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
     "1-Stuff/Dev/Someones stolen colors.md",
     "1-Stuff/Dev/Gruvbox read me.md",
-    "Templates/Default Template Aufgabe.md",
     "Pictures/Obsidian-Overall-Banner-Main.jpg",
-    "Templates/Default Template.md",
     "0-Schule/Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
     "2-Stuff/Random Things/Untitled.md",
     "0-Schule/Deutsch/Usus.md",
     "0-Schule/Deutsch/Aufgaben/Strichpunkte Marinelli.md",
     "0-Schule/Deutsch/Sprachwandel.md",
     "0-Schule/Deutsch/Sprachdebatte.md",
-    "0-Schule/Deutsch/Rollenbiografie Gräfin.md",
-    "0-Schule/Deutsch/Register sprache.md",
     "1-Stuff/Dev",
     "1-Stuff/Obsidian Plugins",
     "0-Schule",
@@ -245,9 +251,6 @@
     "Pictures/IMG_0205.jpeg",
     "1-Stuff/Catppuccin/Praktikum.odt",
     "0-Schule/Politik Wirtschaft/Praktikum",
-    "Pasted Image 20240131110300_484.jpg",
-    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
-    "Pictures/IMG_0166.jpeg",
     "Pictures/Emilia Galotti-28.pdf"
   ]
 }
