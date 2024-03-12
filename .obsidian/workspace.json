@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Proton.md",
+                "file": "0-Schule/Chemie/Molekül.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Proton.md",
+                "file": "0-Schule/Chemie/Molekül.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Proton.md",
+                "file": "0-Schule/Chemie/Molekül.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Proton.md"
+                "file": "0-Schule/Chemie/Molekül.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Proton.md",
+                "file": "0-Schule/Chemie/Molekül.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,11 +204,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4a78b4f555a3410b",
+  "active": "a7fc6d0a00595b11",
   "lastOpenFiles": [
+    "0-Schule/Chemie/spektroskopisch.md",
+    "0-Schule/Chemie/Spektroskopie.md",
+    "0-Schule/Chemie/Sauerstoffverbindungen RedoxReaktionen.md",
+    "0-Schule/Chemie/Sauerstoff Verbindungen oder Kohlenwasserstoffe.md",
+    "0-Schule/Chemie/Reduktion.md",
+    "0-Schule/Chemie/Proton.md",
     "README.md",
     "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
-    "0-Schule/Chemie/Proton.md",
     "0-Schule/Chemie/Hadron.md",
     "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
     "0-Schule/Chemie/Periodensystem.md",
@@ -227,11 +232,6 @@
     "0-Schule/Chemie/Elektron.md",
     "0-Schule/Chemie/Dipolar.md",
     "0-Schule/Chemie/Carbonylgruppe.md",
-    "0-Schule/Chemie/Außenelektronen.md",
-    "0-Schule/Chemie/Atom.md",
-    "Excalidraw/carbonylgruppe.excalidraw.md",
-    "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
-    "0-Schule/Chemie/Chemie.md",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
