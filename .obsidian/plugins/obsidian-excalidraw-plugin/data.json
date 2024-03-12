@@ -147,7 +147,7 @@
             "containerId": null,
             "originalText": "Button",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "ALin5JlrOlSdAvz0SVhP-",
@@ -222,7 +222,7 @@
             "containerId": null,
             "originalText": "One",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -290,7 +290,7 @@
             "containerId": null,
             "originalText": "Two",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -358,7 +358,7 @@
             "containerId": null,
             "originalText": "Three",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "cMv-WoYpLsD6gcSz5m55j",
@@ -433,7 +433,7 @@
             "containerId": null,
             "originalText": "ComboBox",
             "lineHeight": 1.2500000000000018,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -590,7 +590,7 @@
             "containerId": null,
             "originalText": "/",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "text",
@@ -629,7 +629,7 @@
             "containerId": null,
             "originalText": "/",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -1041,7 +1041,7 @@
             "containerId": null,
             "originalText": "42",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -1353,7 +1353,7 @@
             "containerId": null,
             "originalText": "Button",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -1481,7 +1481,7 @@
             "containerId": null,
             "originalText": "Button",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -1604,7 +1604,7 @@
             "containerId": null,
             "originalText": "Button",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -1727,7 +1727,7 @@
             "containerId": null,
             "originalText": "+",
             "lineHeight": 1.25,
-            "baseline": 24
+            "baseline": 25
           }
         ],
         "id": "TsPX6QDqzIEO4reOg1jCP",
@@ -1891,7 +1891,7 @@
             "containerId": null,
             "originalText": "?",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "lut-it9U9kLFhxrC5yCCj",
@@ -2323,7 +2323,7 @@
             "containerId": null,
             "originalText": "Checkbox",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "nGHxyUnwKpSp3RnC3zZu2",
@@ -2398,7 +2398,7 @@
             "containerId": null,
             "originalText": "Selected",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -2521,7 +2521,7 @@
             "containerId": null,
             "originalText": "Indeterminate",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -2640,7 +2640,7 @@
             "containerId": null,
             "originalText": "Disabled",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "ypuuu49SiVYwY_bsn6BJN",
@@ -2715,7 +2715,7 @@
             "containerId": null,
             "originalText": "Disabled selected",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -2838,7 +2838,7 @@
             "containerId": null,
             "originalText": "Disabled indeterminate",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -2957,7 +2957,7 @@
             "containerId": null,
             "originalText": "Radio",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "8mbVLbS5AfLzB7TzzfEfx",
@@ -3032,7 +3032,7 @@
             "containerId": null,
             "originalText": "Selected",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "ellipse",
@@ -3136,7 +3136,7 @@
             "containerId": null,
             "originalText": "Indeterminate",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -3257,7 +3257,7 @@
             "containerId": null,
             "originalText": "Disabled",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "mrZMCO-bg4Tyy36cAxv2g",
@@ -3332,7 +3332,7 @@
             "containerId": null,
             "originalText": "Disabled selected",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "ellipse",
@@ -3436,7 +3436,7 @@
             "containerId": null,
             "originalText": "Disabled indeterminate",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",

@@ -11,12 +11,9 @@
             "id": "1162cf92fab1fa2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md"
               }
             }
           }
@@ -79,6 +76,7 @@
       {
         "id": "3a25ed67f19b1d39",
         "type": "tabs",
+        "dimension": 61.015325670498086,
         "children": [
           {
             "id": "c67d5e3c970ecf7c",
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md"
               }
             }
           },
@@ -140,10 +138,52 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "bc1dc135101224ef",
+        "type": "tabs",
+        "dimension": 38.984674329501914,
+        "children": [
+          {
+            "id": "4a78b4f555a3410b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4444444444444444,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 455
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,15 +203,15 @@
   },
   "active": "1162cf92fab1fa2c",
   "lastOpenFiles": [
+    "README.md",
+    "Templates/Default Template Table.md",
     "1-Stuff/Dev/Colours.md",
     "1-Stuff/Catppuccin/1-colours.md",
     "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
     "1-Stuff/Dev/Someones stolen colors.md",
     "1-Stuff/Dev/Gruvbox read me.md",
     "1-Stuff/Dev/banner tests.md",
-    "README.md",
     "Templates/Default Template Aufgabe.md",
-    "Templates/Default Template Table.md",
     "Pictures/Obsidian-Overall-Banner-Main.jpg",
     "Templates/Default Template.md",
     "0-Schule/Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
