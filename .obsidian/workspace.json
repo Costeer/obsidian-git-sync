@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Carbonylgruppe.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f703b1a9264b8bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Schule/Chemie/Carbonylgruppe.md",
+                "file": "0-Schule/Chemie/Elektron.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Carbonylgruppe.md",
+                "file": "0-Schule/Chemie/Elektron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Carbonylgruppe.md",
+                "file": "0-Schule/Chemie/Elektron.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Carbonylgruppe.md"
+                "file": "0-Schule/Chemie/Elektron.md"
               }
             }
           },
@@ -167,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Carbonylgruppe.md",
+                "file": "0-Schule/Chemie/Elektron.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,15 +204,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f703b1a9264b8bb",
+  "active": "b67d59f9a7efb626",
   "lastOpenFiles": [
-    "Excalidraw/carbonylgruppe.excalidraw.md",
-    "0-Schule/Chemie/Carbonylgruppe.md",
-    "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
     "0-Schule/Chemie/Dipolar.md",
-    "0-Schule/Chemie/Chemie.md",
+    "0-Schule/Chemie/Carbonylgruppe.md",
     "0-Schule/Chemie/Außenelektronen.md",
     "0-Schule/Chemie/Atom.md",
+    "Excalidraw/carbonylgruppe.excalidraw.md",
+    "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
+    "0-Schule/Chemie/Chemie.md",
     "0-Schule/Chemie/Proton.md",
     "0-Schule/Chemie/Atome.md",
     "0-Schule/Chemie/Periodensystem.md",
