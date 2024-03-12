@@ -1,9 +1,7 @@
-Ein Ion ist nichts anderes als ein geladenes Atom oder Molekül ob positiv oder negativ ist egal 
+Ein Ion ist nichts anderes als ein geladenes Atom oder Molekül
 
 Kation
 Anion
-
-
 
 Auch wichtig
 [[Proton]]; [[Elektron]] 
