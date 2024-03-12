@@ -11,9 +11,12 @@
             "id": "ff8915484f3f43d6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md"
+                "file": "0-Schule/Mathematik/Binomische formeln.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
+                "file": "0-Schule/Mathematik/Binomische formeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
+                "file": "0-Schule/Mathematik/Binomische formeln.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md"
+                "file": "0-Schule/Mathematik/Binomische formeln.md"
               }
             }
           },
@@ -150,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
+                "file": "0-Schule/Mathematik/Binomische formeln.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,23 +198,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
       "markdown-importer:Open format converter": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ff8915484f3f43d6",
   "lastOpenFiles": [
-    "1-Stuff/Random Things/Anti Villain.md",
+    "0-Schule/Mathematik/Beweise.md",
+    "0-Schule/Mathematik/Binomische formeln.md",
+    "0-Schule/Mathematik/Bestimmen von steigungen.md",
+    "0-Schule/Mathematik/Achsensymmetrie.md",
+    "README.md",
     "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
+    "1-Stuff/Random Things/Anti Villain.md",
     "1-Stuff/Dev/Callouts.md",
     "1-Stuff/Dev/banner tests.md",
     "1-Stuff/Dev/Someones stolen colors.md",
     "Templates/Default Template Aufgabe.md",
     "Templates/Default Template.md",
-    "README.md",
     "1-Stuff/Dev/Colours.md",
     "Templates/Other",
     "0-Schule/Chemie/Zucker.md",
@@ -227,10 +234,6 @@
     "0-Schule/Chemie/Sauerstoff Verbindungen oder Kohlenwasserstoffe.md",
     "0-Schule/Chemie/Reduktion.md",
     "0-Schule/Chemie/Proton.md",
-    "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
-    "0-Schule/Chemie/Hadron.md",
-    "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
-    "0-Schule/Chemie/Periodensystem.md",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
