@@ -1,4 +1,5 @@
-Ein Mol ist eine Einheit der Stoffmenge "n" 
+#### Was ist ein Mol™?
+Ein Mol™ ist eine Einheit der Stoffmenge "n" 
 6.02214076 × 10^23 = x (in gramm)
 
 1mol ist die **Atommasse** im "g" einer Verbindung Dabei handelt es sich immer um 6,022 × 10^23 Teilchen, wenn 1mol vorhanden ist

@@ -1,2 +1,2 @@
-**Moleküle** sind im weiten Sinn zwei- oder mehr[[Atome]]ige
-Teilchen, die durch [chemische Bindungen](https://de.wikipedia.org/wiki/Chemische_Bindung "Chemische Bindung") zusammengehalten werden und wenigstens so lange stabil sind, dass sie z. B. [[spektroskopisch]] beobachtet werden können.
+#### Was sind Molekühle
+**Moleküle** sind im weiten Sinn zwei- oder mehr [[Atom]]are Teilchen, die durch [chemische Bindungen](https://de.wikipedia.org/wiki/Chemische_Bindung "Chemische Bindung") zusammengehalten werden und wenigstens so lange stabil sind, dass sie [[spektroskopisch]] beobachtet werden können.
