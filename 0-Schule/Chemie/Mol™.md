@@ -9,8 +9,5 @@ Die **Molmasse** M ist die Masse von 1mol Elements oder einer verbindung
 #### Einmolare lösung
 Wenn ein Liter Salzwasser genau ein Mol Salz enthält, haben wir eine **Einmolare Lösung**. Das entspricht einer Lösung mit einer Stoffmengenkonzentration von 1 mol/l.
 
-**Beispiele**
-O2  15.99 × 2 = 31.98u × 6.022 × 10^23 = 31.98g 
-
-###### Gase
+#### Einmolare Gase
 Bei einem gaß ohne Anziehungskraft unter den Teilchen nimmt **1mol 22.4 lieter** ein
