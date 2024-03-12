@@ -53,8 +53,7 @@ Danach wählst du die template aus welche du einfügen möchtest und fertig.
 
 ## Hintergrund in Notiz ändern
 
-> [!warning] Achtung
-> Nur für Fortgeschritene 
+> [!warning] Achtung Nur für Fortgeschritene 
 
 ![[Easy ways to change the background color on a particular note]]
 
