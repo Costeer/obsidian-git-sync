@@ -2,8 +2,8 @@
 Atome sind die "Bausteine", aus denen alle festen, flüssigen und gasförmigen Stoffe bestehen. Alle Materialeigenschaften dieser Stoffe sowie ihr Verhalten in chemischen Reaktionen werden durch die Eigenschaften und die räumliche Anordnung ihrer Atome festgelegt.
 
 #### Bild
-
-![[Argon-Elekronenkonfiguration.excalidraw]]
+![[Silber-Elekronenkonfiguration.excalidraw]]
+*Silber Atom*
 #### Beispiele
 - C Kohlenstoff
 - H Wasserstoff

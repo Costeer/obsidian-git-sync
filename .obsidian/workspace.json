@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Atom.md",
+                "file": "0-Schule/Chemie/Außenelektronen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Argon-Elekronenkonfiguration.excalidraw.md"
+                "file": "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md"
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Atom.md",
+                "file": "0-Schule/Chemie/Außenelektronen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Atom.md",
+                "file": "0-Schule/Chemie/Außenelektronen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Atom.md"
+                "file": "0-Schule/Chemie/Außenelektronen.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Atom.md",
+                "file": "0-Schule/Chemie/Außenelektronen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,8 @@
   "active": "b67d59f9a7efb626",
   "lastOpenFiles": [
     "0-Schule/Chemie/Elektronenhülle.md",
-    "Excalidraw/Argon-Elekronenkonfiguration.excalidraw.md",
+    "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
+    "0-Schule/Chemie/Atom.md",
     "0-Schule/Chemie/Außenelektronen.md",
     "0-Schule/Chemie/Ion.md",
     "0-Schule/Chemie/Proton.md",
@@ -250,7 +251,6 @@
     "Pictures/Obsidian-Overall-Banner-Main.jpg",
     "0-Schule/Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
     "2-Stuff/Random Things/Untitled.md",
-    "0-Schule/Deutsch/Usus.md",
     "1-Stuff/Dev",
     "1-Stuff/Obsidian Plugins",
     "0-Schule",
