@@ -11,9 +11,9 @@
             "id": "b67d59f9a7efb626",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md"
+                "file": "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
+                "file": "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
+                "file": "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md"
+                "file": "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
+                "file": "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,8 +203,13 @@
   },
   "active": "b67d59f9a7efb626",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-12 16.52.51.excalidraw.md",
+    "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
+    "1-Stuff/Catppuccin/Icons-catppuccin-[wallpaper]-l.jpg",
+    "1-Stuff/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
+    "1-Stuff/Catppuccin/Aufbau-eines-virus-catppucchin.jpg",
+    "1-Stuff/Dev/banner tests.md",
     "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
+    "Excalidraw/Drawing 2024-03-12 16.52.51.excalidraw.md",
     "1-Stuff/Obsidian Plugins/Settings/obsidian:--open?.txt",
     "1-Stuff/Obsidian Plugins/Settings",
     "Excalidraw/Drawing 2024-03-12 16.49.48.excalidraw.md",
@@ -219,7 +224,6 @@
     "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
     "1-Stuff/Dev/Someones stolen colors.md",
     "1-Stuff/Dev/Gruvbox read me.md",
-    "1-Stuff/Dev/banner tests.md",
     "Templates/Default Template Aufgabe.md",
     "Pictures/Obsidian-Overall-Banner-Main.jpg",
     "Templates/Default Template.md",
@@ -231,8 +235,6 @@
     "0-Schule/Deutsch/Sprachdebatte.md",
     "0-Schule/Deutsch/Rollenbiografie Gräfin.md",
     "0-Schule/Deutsch/Register sprache.md",
-    "0-Schule/Deutsch/Pro-Kontra Tabelle Gendern.md",
-    "1-Stuff/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
     "1-Stuff/Dev",
     "1-Stuff/Obsidian Plugins",
     "0-Schule",
@@ -242,12 +244,10 @@
     "0-Schule/Deutsch/Aufgaben",
     "Pictures/IMG_0205.jpeg",
     "1-Stuff/Catppuccin/Praktikum.odt",
-    "1-Stuff/Catppuccin/Aufbau-eines-virus-catppucchin.jpg",
     "0-Schule/Politik Wirtschaft/Praktikum",
     "Pasted Image 20240131110300_484.jpg",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Pictures/IMG_0166.jpeg",
-    "Pictures/Pasted Image 20240130105112_446.jpg",
     "Pictures/Emilia Galotti-28.pdf"
   ]
 }
