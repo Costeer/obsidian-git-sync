@@ -7,7 +7,8 @@
 
 ### Inhalt
 
-## Installieren
+
+# Installieren
 Um alle nötigen Einstellungen für obsidian und git zu übernehmen diesen command in den terminal emulator deiner Wahl einfügen.
 *Empfohlene Terminal Emulatoren:*
 Linux
@@ -53,10 +54,8 @@ Danach wählst du die template aus welche du einfügen möchtest und fertig.
 
 ## Hintergrund in Notiz ändern
 
-
-> [!NOTE] Achtung
-> Nur für 
-
+> [!warning] Achtung
+> Nur für Fortgeschritene 
 
 ![[Easy ways to change the background color on a particular note]]
 
