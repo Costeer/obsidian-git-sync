@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Other/Callouts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Other/Callouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Other/Callouts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Other/Callouts.md"
               }
             }
           },
@@ -139,7 +139,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "bc1dc135101224ef",
@@ -152,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Other/Callouts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,8 +204,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c67d5e3c970ecf7c",
+  "active": "ea111902391e7cd7",
   "lastOpenFiles": [
+    "README.md",
+    "Templates/Other/Callouts.md",
+    "Templates/Other",
     "0-Schule/Chemie/Zucker.md",
     "0-Schule/Chemie/Van der Waals kräfte.md",
     "0-Schule/Chemie/Unpolare Moleküle.md",
@@ -218,7 +222,6 @@
     "0-Schule/Chemie/Sauerstoff Verbindungen oder Kohlenwasserstoffe.md",
     "0-Schule/Chemie/Reduktion.md",
     "0-Schule/Chemie/Proton.md",
-    "README.md",
     "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
     "0-Schule/Chemie/Hadron.md",
     "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
@@ -230,7 +233,6 @@
     "0-Schule/Chemie/Kohlenwasserstoffe.md",
     "0-Schule/Chemie/Isomere.md",
     "0-Schule/Chemie/Ion.md",
-    "0-Schule/Chemie/Homogene reie.md",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
@@ -249,7 +251,6 @@
     "0-Schule/Deutsch/Aufgaben",
     "Pictures/IMG_0205.jpeg",
     "1-Stuff/Catppuccin/Praktikum.odt",
-    "0-Schule/Politik Wirtschaft/Praktikum",
-    "Pictures/Emilia Galotti-28.pdf"
+    "0-Schule/Politik Wirtschaft/Praktikum"
   ]
 }
