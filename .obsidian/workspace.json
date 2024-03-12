@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Mathematik/Definitionsbereich.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Mathematik/Definitionsbereich.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Mathematik/Definitionsbereich.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Mathematik/Definitionsbereich.md"
+                "file": "README.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Mathematik/Definitionsbereich.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,8 +206,12 @@
   },
   "active": "ff8915484f3f43d6",
   "lastOpenFiles": [
-    "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
+    "0-Schule/Physik/Das erste Newtonische Axiom.md",
+    "0-Schule/Politik Wirtschaft/Arbeitsverhältnisse.md",
+    "0-Schule/Politik Wirtschaft/Praktikum/Industrie-Mechanik-Prüfen.md",
+    "0-Schule/Politik Wirtschaft/INteresant/Kurz und knapp artikel.md",
     "0-Schule/Mathematik/Definitionsbereich.md",
+    "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "0-Schule/Mathematik/Funktionen.md",
     "0-Schule/Mathematik/Die 1 und 2 Ableitung.md",
     "0-Schule/Mathematik/Binomische formeln.md",
@@ -230,9 +234,6 @@
     "0-Schule/Chemie/Untitled.md",
     "0-Schule/Chemie/Temporäre Dipole.md",
     "0-Schule/Chemie/Strahlung.md",
-    "0-Schule/Chemie/Spektroskopie.md",
-    "0-Schule/Chemie/spektroskopisch.md",
-    "0-Schule/Chemie/Molekül.md",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
