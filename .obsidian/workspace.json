@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Periodensystem.md",
+                "file": "0-Schule/Chemie/Carbonylgruppe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,16 +21,17 @@
             }
           },
           {
-            "id": "a2fcdd7d61aa6272",
+            "id": "8f703b1a9264b8bb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Periodensystem.md",
+                "file": "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Periodensystem.md",
+                "file": "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Periodensystem.md"
+                "file": "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md"
               }
             }
           },
@@ -163,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Periodensystem.md",
+                "file": "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,19 +215,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b67d59f9a7efb626",
+  "active": "8f703b1a9264b8bb",
   "lastOpenFiles": [
-    "0-Schule/Chemie/Atome.md",
+    "0-Schule/Chemie/Carbonylgruppe.md",
+    "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md",
+    "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
+    "0-Schule/Chemie/Dipolar.md",
+    "0-Schule/Chemie/Chemie.md",
+    "0-Schule/Chemie/Außenelektronen.md",
     "0-Schule/Chemie/Atom.md",
+    "0-Schule/Chemie/Proton.md",
+    "0-Schule/Chemie/Atome.md",
+    "0-Schule/Chemie/Periodensystem.md",
     "0-Schule/Chemie/Allgemeine Geundlagen.md",
     "0-Schule/Chemie/Alkane.md",
     "0-Schule/Chemie/Aldehyde.md",
     "Excalidraw/Drawing 2024-01-17 11.31.44.excalidraw.md",
-    "0-Schule/Chemie/Außenelektronen.md",
-    "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
     "0-Schule/Chemie/Elektronenhülle.md",
     "0-Schule/Chemie/Ion.md",
-    "0-Schule/Chemie/Proton.md",
     "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
     "0-Schule/Chemie/∆EN.md",
     "Templates/Default Template.md",
@@ -245,11 +251,6 @@
     "1-Stuff/Obsidian Plugins/Settings/obsidian:--open?.txt",
     "1-Stuff/Obsidian Plugins/Settings",
     "Excalidraw/Drawing 2024-03-12 16.49.48.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
-    "1-Stuff/Catppuccin/1-colours.md",
-    "1-Stuff/Mokey See/Monkeytype.md",
-    "1-Stuff/Dev/Colours.md",
     "Pictures/Obsidian-Overall-Banner-Main.jpg",
     "1-Stuff/Dev",
     "1-Stuff/Obsidian Plugins",
