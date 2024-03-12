@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c91a53c13adf1eb2",
+        "id": "c5d6946b5ce50ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "a7fc6d0a00595b11",
+            "id": "ea111902391e7cd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Zucker.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Zucker.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Zucker.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Zucker.md"
+                "file": "README.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Zucker.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,8 +204,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a7fc6d0a00595b11",
+  "active": "ea111902391e7cd7",
   "lastOpenFiles": [
+    "0-Schule/Chemie/Zucker.md",
     "0-Schule/Chemie/Van der Waals kräfte.md",
     "0-Schule/Chemie/Unpolare Moleküle.md",
     "0-Schule/Chemie/Untitled.md",
@@ -231,7 +232,6 @@
     "0-Schule/Chemie/Isomere.md",
     "0-Schule/Chemie/Ion.md",
     "0-Schule/Chemie/Homogene reie.md",
-    "0-Schule/Chemie/Fraktionierte Destillation.md",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
