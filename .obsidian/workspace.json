@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Neutron.md",
+                "file": "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Neutron.md",
+                "file": "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Neutron.md",
+                "file": "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Neutron.md"
+                "file": "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Neutron.md",
+                "file": "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,6 +206,10 @@
   },
   "active": "b67d59f9a7efb626",
   "lastOpenFiles": [
+    "0-Schule/Chemie/Periodensystem.md",
+    "0-Schule/Chemie/Oxidationszahlen.md",
+    "0-Schule/Chemie/Oxidation.md",
+    "0-Schule/Chemie/Neutron.md",
     "0-Schule/Chemie/Mol™.md",
     "0-Schule/Chemie/Molekül.md",
     "0-Schule/Chemie/Kohlenwasserstoffe.md",
@@ -226,12 +230,8 @@
     "0-Schule/Chemie/Chemie.md",
     "0-Schule/Chemie/Proton.md",
     "0-Schule/Chemie/Atome.md",
-    "0-Schule/Chemie/Periodensystem.md",
     "0-Schule/Chemie/Allgemeine Geundlagen.md",
     "0-Schule/Chemie/Alkane.md",
-    "0-Schule/Chemie/Aldehyde.md",
-    "Excalidraw/Drawing 2024-01-17 11.31.44.excalidraw.md",
-    "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
