@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Stuff/Catppuccin/1-colours.md",
+                "file": "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Stuff/Catppuccin/1-colours.md",
+                "file": "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Stuff/Catppuccin/1-colours.md",
+                "file": "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Stuff/Catppuccin/1-colours.md"
+                "file": "0-Schule/Chemie/1.) Chemie Verzeichnis.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Stuff/Catppuccin/1-colours.md",
+                "file": "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,14 +204,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1162cf92fab1fa2c",
+  "active": "4a78b4f555a3410b",
   "lastOpenFiles": [
+    "0-Schule/Chemie/∆EN.md",
+    "1-Stuff/Catppuccin/1-colours.md",
     "1-Stuff/Mokey See/Monkeytype.md",
     "README.md",
     "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
     "Templates/Default Template Table.md",
     "1-Stuff/Dev/Colours.md",
-    "1-Stuff/Catppuccin/1-colours.md",
     "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
     "1-Stuff/Dev/Someones stolen colors.md",
     "1-Stuff/Dev/Gruvbox read me.md",
@@ -232,7 +233,6 @@
     "0-Schule/Deutsch/Kategorisierung.md",
     "0-Schule/Deutsch/generisches Maskulinum.md",
     "0-Schule/Deutsch/Framing.md",
-    "0-Schule/Deutsch/Erörterung.md",
     "1-Stuff/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
     "1-Stuff/Dev",
     "1-Stuff/Obsidian Plugins",
