@@ -985,8 +985,8 @@ Ag ^n4gKM69w
 		},
 		{
 			"type": "ellipse",
-			"version": 799,
-			"versionNonce": 1287080612,
+			"version": 801,
+			"versionNonce": 718963100,
 			"isDeleted": false,
 			"id": "9P5THUxCsR00_ESz_dIfn",
 			"fillStyle": "hachure",
@@ -997,8 +997,8 @@ Ag ^n4gKM69w
 			"angle": 2.9871059363572883,
 			"x": 385.80503471274193,
 			"y": 17.094293755546744,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "#4dabf7",
+			"strokeColor": "#9c36b5",
+			"backgroundColor": "#da77f2",
 			"width": 45.602523396602585,
 			"height": 45.602523396602585,
 			"seed": 1365458596,
@@ -1008,7 +1008,7 @@ Ag ^n4gKM69w
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710261366050,
+			"updated": 1710261835550,
 			"link": null,
 			"locked": false
 		}
@@ -1016,8 +1016,8 @@ Ag ^n4gKM69w
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#281a1b",
-		"currentItemStrokeColor": "#ffffff",
-		"currentItemBackgroundColor": "#4dabf7",
+		"currentItemStrokeColor": "#9c36b5",
+		"currentItemBackgroundColor": "#da77f2",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "dashed",

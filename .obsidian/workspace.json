@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Außenelektronen.md",
+                "file": "0-Schule/Chemie/Periodensystem.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Außenelektronen.md",
+                "file": "0-Schule/Chemie/Periodensystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Außenelektronen.md",
+                "file": "0-Schule/Chemie/Periodensystem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Außenelektronen.md"
+                "file": "0-Schule/Chemie/Periodensystem.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Außenelektronen.md",
+                "file": "0-Schule/Chemie/Periodensystem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,10 +216,15 @@
   },
   "active": "b67d59f9a7efb626",
   "lastOpenFiles": [
-    "0-Schule/Chemie/Elektronenhülle.md",
-    "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
+    "0-Schule/Chemie/Atome.md",
     "0-Schule/Chemie/Atom.md",
+    "0-Schule/Chemie/Allgemeine Geundlagen.md",
+    "0-Schule/Chemie/Alkane.md",
+    "0-Schule/Chemie/Aldehyde.md",
+    "Excalidraw/Drawing 2024-01-17 11.31.44.excalidraw.md",
     "0-Schule/Chemie/Außenelektronen.md",
+    "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
+    "0-Schule/Chemie/Elektronenhülle.md",
     "0-Schule/Chemie/Ion.md",
     "0-Schule/Chemie/Proton.md",
     "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
@@ -245,12 +250,7 @@
     "1-Stuff/Catppuccin/1-colours.md",
     "1-Stuff/Mokey See/Monkeytype.md",
     "1-Stuff/Dev/Colours.md",
-    "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
-    "1-Stuff/Dev/Someones stolen colors.md",
-    "1-Stuff/Dev/Gruvbox read me.md",
     "Pictures/Obsidian-Overall-Banner-Main.jpg",
-    "0-Schule/Physik/Aufgaben/Aufgaben zur kreisbewegung.md",
-    "2-Stuff/Random Things/Untitled.md",
     "1-Stuff/Dev",
     "1-Stuff/Obsidian Plugins",
     "0-Schule",
