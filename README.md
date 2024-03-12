@@ -5,11 +5,8 @@
 ![[IMG_0162.png]]
 ##### *Ein Obsidian repo mit Theme, vorgefertigten templates und  voreingestelltem einfachem sync über git*
 
-### Inhalt
-
-
-# Installieren
-Um alle nötigen Einstellungen für obsidian und git zu übernehmen diesen command in den terminal emulator deiner Wahl einfügen.
+## Installieren
+Um alle nötigen Einstellungen für obsidian und git zu übernehmen und dier viel arbeit zu sparen diesen command in den terminal emulator deiner Wahl einfügen.
 *Empfohlene Terminal Emulatoren:*
 Linux
 - DE default
@@ -20,6 +17,11 @@ Windows
 - Powershell
 Ipad OS
 - a-shell (git muss installiert werden [pkg install git])
+
+
+> [!quote] Niemals einfach so commands aus dem Internet kopieren
+
+
 ```
 git clone https://<Username>:<token>@github.com/Costeer/obsidian-git-sync
 
