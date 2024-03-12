@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43bbfeec8bec850b",
+        "id": "c516801418050125",
         "type": "tabs",
         "children": [
           {
-            "id": "1162cf92fab1fa2c",
+            "id": "b67d59f9a7efb626",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/1.) Chemie Verzeichnis.md"
+                "file": "README.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +204,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4a78b4f555a3410b",
+  "active": "b67d59f9a7efb626",
   "lastOpenFiles": [
     "0-Schule/Chemie/∆EN.md",
     "1-Stuff/Catppuccin/1-colours.md",
