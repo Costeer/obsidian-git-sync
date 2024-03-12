@@ -24,9 +24,12 @@
             "id": "8f703b1a9264b8bb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md"
+                "file": "0-Schule/Chemie/Carbonylgruppe.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md",
+                "file": "0-Schule/Chemie/Carbonylgruppe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md",
+                "file": "0-Schule/Chemie/Carbonylgruppe.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md"
+                "file": "0-Schule/Chemie/Carbonylgruppe.md"
               }
             }
           },
@@ -164,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md",
+                "file": "0-Schule/Chemie/Carbonylgruppe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,8 +220,8 @@
   },
   "active": "8f703b1a9264b8bb",
   "lastOpenFiles": [
+    "Excalidraw/carbonylgruppe.excalidraw.md",
     "0-Schule/Chemie/Carbonylgruppe.md",
-    "Excalidraw/Drawing 2024-03-12 17.46.44.excalidraw.md",
     "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
     "0-Schule/Chemie/Dipolar.md",
     "0-Schule/Chemie/Chemie.md",
