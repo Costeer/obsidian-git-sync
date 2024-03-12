@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Things",
+  "accentColor": "#e40707",
+  "cssTheme": "Border",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "Notebook Backgrounds",
