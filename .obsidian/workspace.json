@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c516801418050125",
+        "id": "c91a53c13adf1eb2",
         "type": "tabs",
         "children": [
           {
-            "id": "b67d59f9a7efb626",
+            "id": "a7fc6d0a00595b11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,8 +204,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b67d59f9a7efb626",
+  "active": "4a78b4f555a3410b",
   "lastOpenFiles": [
+    "README.md",
+    "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
+    "0-Schule/Chemie/Proton.md",
+    "0-Schule/Chemie/Hadron.md",
     "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
     "0-Schule/Chemie/Periodensystem.md",
     "0-Schule/Chemie/Oxidationszahlen.md",
@@ -217,7 +221,6 @@
     "0-Schule/Chemie/Isomere.md",
     "0-Schule/Chemie/Ion.md",
     "0-Schule/Chemie/Homogene reie.md",
-    "0-Schule/Chemie/Hadron.md",
     "0-Schule/Chemie/Fraktionierte Destillation.md",
     "0-Schule/Chemie/Elektronenhülle.md",
     "0-Schule/Chemie/Elektronegativität.md",
@@ -229,9 +232,6 @@
     "Excalidraw/carbonylgruppe.excalidraw.md",
     "Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
     "0-Schule/Chemie/Chemie.md",
-    "0-Schule/Chemie/Proton.md",
-    "0-Schule/Chemie/Atome.md",
-    "0-Schule/Chemie/Allgemeine Geundlagen.md",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
