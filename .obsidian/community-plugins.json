@@ -17,5 +17,6 @@
   "homepage",
   "obsidian-banners",
   "obsidian-plugin-toc",
-  "css-editor"
+  "css-editor",
+  "obsidian-list-callouts"
 ]
