@@ -1,5 +1,5 @@
 #### Was ist ein Mol™?
-Ein Mol™ ist eine Einheit der Stoffmenge "n" 
+Ein Mol™ ist eine Einheit der Stoffmenge "n" und wird zur messungen welche eine extrem hohe präzision erfordert benutzt weil im gegensatzt zu konventionellen gewichtseinheiten wie kg etc Messungen in Mol das gewicht des [[Atom]]s 
 6.02214076 × 10^23 = x (in gramm)
 
 1mol ist die **Atommasse** im "g" einer Verbindung Dabei handelt es sich immer um 6,022 × 10^23 Teilchen, wenn 1mol vorhanden ist
