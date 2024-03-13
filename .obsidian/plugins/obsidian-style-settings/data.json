@@ -6,5 +6,7 @@
   "Components@@CTA-BTN-enable": false,
   "Components@@folder-font-bold": true,
   "Components@@vault-name-display-select": "vault-name-hide",
-  "Components@@colorful-folder": true
+  "Components@@colorful-folder": true,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Mobile@@card-layout-pad-open": false
 }
