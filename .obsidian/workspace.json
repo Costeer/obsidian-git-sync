@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
+                "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
     "id": "82bb07f880effeed",
@@ -79,7 +79,7 @@
       {
         "id": "3a25ed67f19b1d39",
         "type": "tabs",
-        "dimension": 61.015325670498086,
+        "dimension": 67.94117647058823,
         "children": [
           {
             "id": "c67d5e3c970ecf7c",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
+                "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
+                "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md"
+                "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md"
               }
             }
           },
@@ -144,7 +144,7 @@
       {
         "id": "bc1dc135101224ef",
         "type": "tabs",
-        "dimension": 38.984674329501914,
+        "dimension": 32.05882352941177,
         "children": [
           {
             "id": "4a78b4f555a3410b",
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
+                "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +203,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a88f98ea5327211c",
+  "active": "4a78b4f555a3410b",
   "lastOpenFiles": [
+    "0-Schule/Deutsch/generisches Maskulinum.md",
+    "0-Schule/Chemie/Carbonylgruppe.md",
+    "Excalidraw/Drawing 2024-03-13 18.06.31.excalidraw.md",
+    "0-Schule/Chemie/Alkane.md",
+    "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
+    "0-Schule/Chemie/∆EN.md",
+    "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
     "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
     "README.md",
     "Pictures/Wn-6.jpeg",
@@ -215,7 +221,6 @@
     "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
     "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
     "0-Schule/Chemie/Silberspiegelprobe.md",
-    "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
     "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
     "0-Schule/Physik/Das erste Newtonische Axiom.md",
     "0-Schule/Politik Wirtschaft/Arbeitsverhältnisse.md",
@@ -228,11 +233,6 @@
     "0-Schule/Mathematik/Binomische formeln.md",
     "0-Schule/Mathematik/Beweise.md",
     "0-Schule/Mathematik/Bestimmen von steigungen.md",
-    "0-Schule/Mathematik/Achsensymmetrie.md",
-    "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
-    "1-Stuff/Random Things/Anti Villain.md",
-    "1-Stuff/Dev/Callouts.md",
-    "1-Stuff/Dev/banner tests.md",
     "Templates/Other",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",

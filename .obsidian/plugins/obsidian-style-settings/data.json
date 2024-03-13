@@ -3,7 +3,8 @@
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-mauve",
   "catppuccin-icon-styles@@ctp-icon-hide": true,
   "catppuccin-interface-styles@@ctp-bold-folder-title": false,
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
-  "Appearance-dark@@accent-dark": "#0022FF",
-  "Appearance-dark@@accent-color-override-dark": false
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Appearance-dark@@accent-dark": "#8400FF",
+  "Appearance-dark@@accent-color-override-dark": false,
+  "Appearance-dark@@card-layout-open-dark": true
 }
