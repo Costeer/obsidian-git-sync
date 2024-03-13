@@ -26,15 +26,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
+                "file": "0-Schule/Chemie/Aldehyde.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b6e1c83db931d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f9eea8525b80644",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
+            "file": "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +140,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
+            "file": "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +152,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md"
+            "file": "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md"
           }
         }
       },
@@ -159,10 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2719d0fd8683403",
+  "active": "0f9eea8525b80644",
   "lastOpenFiles": [
-    "0-Schule/Deutsch/Aufgaben/Altes medium.md",
+    "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
+    "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
+    "0-Schule/Chemie/Aldehyde.md",
     "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
+    "0-Schule/Deutsch/Aufgaben/Altes medium.md",
     "README.md",
     "Excalidraw/Drawing 2024-03-12 23.56.18.excalidraw.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
@@ -187,9 +213,6 @@
     "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
     "Deutsch/Beispiel Klausur Aufgabe 1.md",
     "Niederländisch/ISW Hoogeland.md",
-    "XX_Templates/Default Template.md",
-    "XX_Templates/Default Template Aufgabe.md",
-    "XX_Templates/Default Template Table.md",
     "XX_Templates",
     "Deutsch/Aufgaben",
     "Pictures/IMG_0205.jpeg",
