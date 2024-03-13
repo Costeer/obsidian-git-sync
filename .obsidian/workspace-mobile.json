@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Silberspiegelprobe.md",
+                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Chemie/Silberspiegelprobe.md",
+            "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Chemie/Silberspiegelprobe.md",
+            "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Chemie/Silberspiegelprobe.md"
+            "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md"
           }
         }
       },
@@ -160,8 +160,9 @@
   },
   "active": "da4f03dea64008ee",
   "lastOpenFiles": [
-    "0-Schule/Chemie/Spektroskopie.md",
+    "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
     "0-Schule/Chemie/Silberspiegelprobe.md",
+    "0-Schule/Chemie/Spektroskopie.md",
     "README.md",
     "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
     "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
@@ -176,7 +177,6 @@
     "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
     "0-Schule/Chemie/Reduktion.md",
     "0-Schule/Chemie/Periodensystem.md",
-    "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
     "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
     "0-Schule/Chemie/∆EN.md",
     "0-Schule/Chemie/Aldehyde.md",
