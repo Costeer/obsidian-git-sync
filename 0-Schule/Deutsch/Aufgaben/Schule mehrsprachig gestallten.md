@@ -7,7 +7,10 @@ Die Ablehnung Sprachlicher Varietäten ist unsachlich und realitätsfern weil sp
 
 2) Wie können Schüler mit unterschiedlichen sprach Repertoires dabei unterstützt werden, ein positives Selbstbild zu entwickeln?
 
-Indem ihnen gezeigt wird das es normal ist mehr als eine Sprache zu sprechen und 
+Indem ihnen gezeigt wird das es normal ist mehr als eine Sprache zu sprechen und sie trotz ihrer anderen sprachen dazu gehören.
+
+3) Wie können sprachliche Ressourcen die in mehrsprachigen Familien entwickeln, in der Schuhle genutzt werden?
+
 
 *Auch Interessant | Tags*
 [[]] [[]]
