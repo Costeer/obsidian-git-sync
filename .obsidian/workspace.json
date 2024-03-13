@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "247710055cd979ea",
+        "id": "a7660a93f15c4007",
         "type": "tabs",
         "children": [
           {
-            "id": "ff8915484f3f43d6",
+            "id": "a88f98ea5327211c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,10 +204,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff8915484f3f43d6",
+  "active": "a88f98ea5327211c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
+    "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
     "README.md",
+    "Pictures/Wn-6.jpeg",
+    "Excalidraw/Drawing 2024-03-13 10.26.16.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-12 23.56.18.excalidraw.md",
+    "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
+    "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
+    "0-Schule/Chemie/Silberspiegelprobe.md",
+    "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
+    "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
     "0-Schule/Physik/Das erste Newtonische Axiom.md",
     "0-Schule/Politik Wirtschaft/Arbeitsverhältnisse.md",
     "0-Schule/Politik Wirtschaft/Praktikum/Industrie-Mechanik-Prüfen.md",
@@ -224,16 +233,7 @@
     "1-Stuff/Random Things/Anti Villain.md",
     "1-Stuff/Dev/Callouts.md",
     "1-Stuff/Dev/banner tests.md",
-    "1-Stuff/Dev/Someones stolen colors.md",
-    "Templates/Default Template Aufgabe.md",
-    "Templates/Default Template.md",
-    "1-Stuff/Dev/Colours.md",
     "Templates/Other",
-    "0-Schule/Chemie/Zucker.md",
-    "0-Schule/Chemie/Van der Waals kräfte.md",
-    "0-Schule/Chemie/Unpolare Moleküle.md",
-    "0-Schule/Chemie/Untitled.md",
-    "0-Schule/Chemie/Temporäre Dipole.md",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
@@ -248,7 +248,6 @@
     "0-Schule",
     "Pictures/IMG_0224.png",
     "Templates",
-    "Pictures/Körpereigenes immunsystem.jpg",
     "0-Schule/Deutsch/Aufgaben",
     "1-Stuff/Catppuccin/Praktikum.odt",
     "0-Schule/Politik Wirtschaft/Praktikum"
