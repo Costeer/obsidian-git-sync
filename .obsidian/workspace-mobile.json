@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0-Schule/Deutsch/Aufgaben/Altes medium.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2719d0fd8683403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md"
           }
         }
       },
@@ -145,10 +159,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "b2719d0fd8683403",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-12 23.56.18.excalidraw.md",
+    "0-Schule/Deutsch/Aufgaben/Altes medium.md",
+    "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
     "README.md",
+    "Excalidraw/Drawing 2024-03-12 23.56.18.excalidraw.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
@@ -174,8 +190,6 @@
     "XX_Templates/Default Template.md",
     "XX_Templates/Default Template Aufgabe.md",
     "XX_Templates/Default Template Table.md",
-    "Niederländisch/Eokeokd.md",
-    "Deutsch/Aufgaben/Pro-Kontra Tabelle Gendern.md",
     "XX_Templates",
     "Deutsch/Aufgaben",
     "Pictures/IMG_0205.jpeg",
