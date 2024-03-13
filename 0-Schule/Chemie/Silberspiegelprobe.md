@@ -2,7 +2,7 @@
 Zur Unterscheidung von Glucose und Fructosen.
 
 #### Was Passiert?
-Glucose wird oxidiert zur Gluconsäure und gibt dabei Elektronen ab.
+Glucose wird oxidiert zur Gluconsäure und gibt dabei [[Elektron|Elektronen]] ab.
 
 **Fructose -> keine oxidation**
 **Glucose -> Oxidation**
