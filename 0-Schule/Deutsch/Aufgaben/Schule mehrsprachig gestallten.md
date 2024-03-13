@@ -13,5 +13,5 @@ Indem ihnen gezeigt wird das es normal ist mehr als eine Sprache zu sprechen und
 
 
 *Auch Interessant | Tags*
-[[Diversität]] [[]]
+[[Diversität]] [[Sprachwandel]]
 #deutsch 
