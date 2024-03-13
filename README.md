@@ -1,4 +1,6 @@
 ---
+cssclasses:
+  - notebook1
 ---
 
 ![image](https://github.com/Costeer/obsidian-git-sync/assets/142180709/019dbf11-693a-408e-98ea-13a7b6c8a0fc)
