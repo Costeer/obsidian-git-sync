@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Aldehyde.md",
+                "file": "0-Schule/Chemie/Kohlenwasserstoffe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Chemie/Aldehyde.md",
+            "file": "0-Schule/Chemie/Kohlenwasserstoffe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Chemie/Aldehyde.md",
+            "file": "0-Schule/Chemie/Kohlenwasserstoffe.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Chemie/Aldehyde.md"
+            "file": "0-Schule/Chemie/Kohlenwasserstoffe.md"
           }
         }
       },
@@ -192,11 +192,13 @@
   },
   "active": "b2719d0fd8683403",
   "lastOpenFiles": [
+    "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
+    "0-Schule/Chemie/Kohlenwasserstoffe.md",
+    "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
+    "0-Schule/Chemie/Aldehyde.md",
     "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
     "Excalidraw/Drawing 2024-03-13 10.26.16.excalidraw.md",
-    "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
     "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
-    "0-Schule/Chemie/Aldehyde.md",
     "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
     "0-Schule/Deutsch/Aufgaben/Altes medium.md",
     "README.md",
@@ -219,8 +221,6 @@
     "XX_Stuff/Gruvbox read me.md",
     "XX_Stuff/Colours.md",
     "Geschichte/Eurozentrisches denken.md",
-    "Geschichte/Stasi.md",
-    "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
     "XX_Templates",
     "Deutsch/Aufgaben",
     "Pictures/IMG_0205.jpeg",
