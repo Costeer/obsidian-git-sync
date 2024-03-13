@@ -1,5 +1,9 @@
-Unterscheiden kannst du zwischen **primären**, **sekundären** und **tertiären*** [[Alkohol]]en. 
-
+---
+cssclasses:
+  - crust
+---
+#### Unterscheiden wird zwischen **primären**, **sekundären** und **tertiären*** [[Alkohol]]en. 
+ 
 Bei einem primären [[Alkohol]] R-CH2-OH besitzt das Kohlenstoffatom mit der [[Hydroxygruppe]] zwei Wasserstoffatome, 
 beim sekundären R2-CH-OH besitzt es eins und 
 beim tertiären R3-COH kein Wasserstoffatom als Bindungspartner.
