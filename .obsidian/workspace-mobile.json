@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
+            "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
+            "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md"
+            "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md"
           }
         }
       },
@@ -205,12 +205,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b6e1c83db931d1c",
+  "active": "13ae710609ff19dd",
   "lastOpenFiles": [
+    "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
     "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
     "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
     "Excalidraw/Drawing 2024-03-13 10.26.16.excalidraw.md",
-    "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
     "0-Schule/Chemie/Aldehyde.md",
     "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
     "0-Schule/Deutsch/Aufgaben/Altes medium.md",
