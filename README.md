@@ -3,9 +3,9 @@
 
 ![image](https://github.com/Costeer/obsidian-git-sync/assets/142180709/019dbf11-693a-408e-98ea-13a7b6c8a0fc)
 ![[IMG_0162.png]]
-### *Ein Obsidian repo mit Theme, vorgefertigten templates und  voreingestelltem einfachem sync über git*
+## *Ein Obsidian repo mit Theme, vorgefertigten templates und  voreingestellten einfachem sync über git*
 
-## Installieren
+### Installieren
 Um alle nötigen Einstellungen für obsidian und git zu übernehmen und dier viel arbeit zu sparen diesen command in den terminal emulator deiner Wahl einfügen.
 *Empfohlene Terminal Emulatoren:*
 Linux
@@ -28,7 +28,7 @@ git clone https://<Username>:<token>@github.com/Costeer/obsidian-git-sync
 ```
 um den access token von deinem GitHub zu bekommen einfach googeln wie das geht.
 
-## How to Templates
+### How to Templates
 
 > [!example] Was sind Templates?
 > Templates sind ein einfacher weg schnell und einfach alle wichtigen Informationen wie Titel, Verlinkungen und Tags in eine neue Note einzufügen ohne immer wieder das gleiche tippen zu müssen
