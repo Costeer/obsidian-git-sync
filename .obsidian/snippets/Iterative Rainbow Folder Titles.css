@@ -227,6 +227,7 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
     color: var(--Fold12);
     border-radius: 5px; margin-top: 2px;
 }
+
 /* the following is modified from the Blue Topaz Themme */
 
 /*----file explorer smaller fonts & line height----*/
@@ -238,6 +239,7 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
   font-weight: 500;
   color: var(--text-normal);
   opacity: 0.8;
+  
 }
 
 /*rename*/

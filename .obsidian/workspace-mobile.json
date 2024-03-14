@@ -11,40 +11,13 @@
             "id": "39248a36819f56d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "css-editor-view",
               "state": {
-                "file": "0-Schule/Mathematik/Binomische formeln.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "035d1d220d36b5f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Schule/Mathematik/Gleichungen lösen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b081cecf76e3c57a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md"
+                "filename": "Iterative Rainbow Folder Titles.css"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +83,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Mathematik/Gleichungen lösen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +99,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Mathematik/Gleichungen lösen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,9 +109,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "0-Schule/Mathematik/Gleichungen lösen.md"
-          }
+          "state": {}
         }
       },
       {
@@ -168,11 +137,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "035d1d220d36b5f5",
+  "active": "39248a36819f56d4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
-    "0-Schule/Mathematik/Gleichungen lösen.md",
     "0-Schule/Mathematik/Binomische formeln.md",
+    "0-Schule/Mathematik/Gleichungen lösen.md",
+    "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
     "0-Schule/Mathematik/Beweise.md",
     "0-Schule/Mathematik/Punktsymmetrie.md",
     "0-Schule/Mathematik/Limes.md",
