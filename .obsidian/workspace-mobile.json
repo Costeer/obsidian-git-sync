@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Mathematik/Limes.md",
+                "file": "0-Schule/Mathematik/Punktsymmetrie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Mathematik/Limes.md",
+            "file": "0-Schule/Mathematik/Punktsymmetrie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Mathematik/Limes.md",
+            "file": "0-Schule/Mathematik/Punktsymmetrie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Mathematik/Limes.md"
+            "file": "0-Schule/Mathematik/Punktsymmetrie.md"
           }
         }
       },
@@ -146,6 +146,8 @@
   },
   "active": "39248a36819f56d4",
   "lastOpenFiles": [
+    "0-Schule/Mathematik/Limes.md",
+    "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
     "0-Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
     "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
     "Pictures/Wn-6.jpeg",
@@ -171,7 +173,6 @@
     "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
     "0-Schule/Chemie/∆EN.md",
     "0-Schule/Chemie/Aldehyde.md",
-    "Excalidraw/Drawing 2024-03-13 10.26.16.excalidraw.md",
     "Projects - Demo Project",
     "IMG_0224.png",
     "Pictures/Körpereigenes immunsystem.jpg",
