@@ -16,8 +16,17 @@
                 "filename": "Iterative Rainbow Folder Titles.css"
               }
             }
+          },
+          {
+            "id": "25d2c02f6bcd9fbf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39248a36819f56d4",
+  "active": "25d2c02f6bcd9fbf",
   "lastOpenFiles": [
     "0-Schule/Mathematik/Binomische formeln.md",
     "0-Schule/Mathematik/Gleichungen lösen.md",

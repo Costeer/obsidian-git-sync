@@ -236,9 +236,9 @@ The colours are rainbow coloured and 16 in number by default. They are shades su
 
 }
 .nav-folder-title {
-  font-weight: 500;
+  font-weight: 600;
   color: var(--text-normal);
-  opacity: 0.8;
+  opacity: 1;
   
 }
 
