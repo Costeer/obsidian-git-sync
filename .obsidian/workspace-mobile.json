@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
+            "file": "0-Schule/Mathematik/Gleichungen lösen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
+            "file": "0-Schule/Mathematik/Gleichungen lösen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md"
+            "file": "0-Schule/Mathematik/Gleichungen lösen.md"
           }
         }
       },
@@ -168,10 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b081cecf76e3c57a",
+  "active": "035d1d220d36b5f5",
   "lastOpenFiles": [
-    "0-Schule/Mathematik/Gleichungen lösen.md",
     "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
+    "0-Schule/Mathematik/Gleichungen lösen.md",
     "0-Schule/Mathematik/Binomische formeln.md",
     "0-Schule/Mathematik/Beweise.md",
     "0-Schule/Mathematik/Punktsymmetrie.md",
