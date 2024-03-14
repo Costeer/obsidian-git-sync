@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Biologie/Adenosintriphosphat (ATP).md",
+                "file": "0-Schule/Biologie/Konzentrationsgefällen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Biologie/Adenosintriphosphat (ATP).md",
+            "file": "0-Schule/Biologie/Konzentrationsgefällen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Biologie/Adenosintriphosphat (ATP).md",
+            "file": "0-Schule/Biologie/Konzentrationsgefällen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Biologie/Adenosintriphosphat (ATP).md"
+            "file": "0-Schule/Biologie/Konzentrationsgefällen.md"
           }
         }
       },
@@ -157,6 +157,11 @@
   },
   "active": "25d2c02f6bcd9fbf",
   "lastOpenFiles": [
+    "0-Schule/Biologie/Osmose.md",
+    "0-Schule/Biologie/Struktur der biomembran.md",
+    "0-Schule/Biologie/Transmembranproteine.md",
+    "0-Schule/Biologie/Viren.md",
+    "0-Schule/Biologie/Adenosintriphosphat (ATP).md",
     "0-Schule/Biologie/Aktiver Transport Zellbiologie.md",
     "0-Schule/Mathematik/Binomische formeln.md",
     "0-Schule/Mathematik/Gleichungen lösen.md",
@@ -179,11 +184,6 @@
     "0-Schule/Chemie/Spektroskopie.md",
     "0-Schule/Chemie/Silberspiegelprobe.md",
     "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
-    "1-Stuff/Dev/Colours.md",
-    "1-Stuff/Dev/Callouts.md",
-    "1-Stuff/Dev/banner tests.md",
-    "0-Schule/Chemie/Mol™.md",
-    "0-Schule/Chemie/Molekül.md",
     "Projects - Demo Project",
     "IMG_0224.png",
     "Pictures/Körpereigenes immunsystem.jpg",
