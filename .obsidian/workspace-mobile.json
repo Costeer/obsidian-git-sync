@@ -21,11 +21,17 @@
             "id": "25d2c02f6bcd9fbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0-Schule/Biologie/ATP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "0-Schule/Biologie/ATP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "0-Schule/Biologie/ATP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "0-Schule/Biologie/ATP.md"
+          }
         }
       },
       {
@@ -145,8 +155,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39248a36819f56d4",
+  "active": "25d2c02f6bcd9fbf",
   "lastOpenFiles": [
+    "0-Schule/Biologie/Aktiver Transport Zellbiologie.md",
     "0-Schule/Mathematik/Binomische formeln.md",
     "0-Schule/Mathematik/Gleichungen lösen.md",
     "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
@@ -173,7 +184,6 @@
     "1-Stuff/Dev/banner tests.md",
     "0-Schule/Chemie/Mol™.md",
     "0-Schule/Chemie/Molekül.md",
-    "0-Schule/Chemie/Oxidationszahlen.md",
     "Projects - Demo Project",
     "IMG_0224.png",
     "Pictures/Körpereigenes immunsystem.jpg",
