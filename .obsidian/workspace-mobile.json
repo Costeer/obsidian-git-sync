@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Biologie/Konzentrationsgefällen.md",
+                "file": "0-Schule/Physik/Die Newtontische Axiome.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Biologie/Konzentrationsgefällen.md",
+            "file": "0-Schule/Physik/Die Newtontische Axiome.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Biologie/Konzentrationsgefällen.md",
+            "file": "0-Schule/Physik/Die Newtontische Axiome.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Biologie/Konzentrationsgefällen.md"
+            "file": "0-Schule/Physik/Die Newtontische Axiome.md"
           }
         }
       },
@@ -157,6 +157,7 @@
   },
   "active": "25d2c02f6bcd9fbf",
   "lastOpenFiles": [
+    "0-Schule/Biologie/Konzentrationsgefällen.md",
     "0-Schule/Biologie/Osmose.md",
     "0-Schule/Biologie/Struktur der biomembran.md",
     "0-Schule/Biologie/Transmembranproteine.md",
@@ -183,7 +184,6 @@
     "0-Schule/Chemie/Kohlenwasserstoffe.md",
     "0-Schule/Chemie/Spektroskopie.md",
     "0-Schule/Chemie/Silberspiegelprobe.md",
-    "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
     "Projects - Demo Project",
     "IMG_0224.png",
     "Pictures/Körpereigenes immunsystem.jpg",
