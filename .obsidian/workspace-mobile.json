@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Physik/Die Newtontische Axiome.md",
+                "file": "0-Schule/Physik/Gleichförmige Kreisbewegung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Physik/Die Newtontische Axiome.md",
+            "file": "0-Schule/Physik/Gleichförmige Kreisbewegung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Physik/Die Newtontische Axiome.md",
+            "file": "0-Schule/Physik/Gleichförmige Kreisbewegung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Physik/Die Newtontische Axiome.md"
+            "file": "0-Schule/Physik/Gleichförmige Kreisbewegung.md"
           }
         }
       },
@@ -157,6 +157,12 @@
   },
   "active": "25d2c02f6bcd9fbf",
   "lastOpenFiles": [
+    "0-Schule/Physik/Formel Merksatz.md",
+    "0-Schule/Physik/Erdanziehungskraft.md",
+    "0-Schule/Physik/Die Newtontische Axiome.md",
+    "0-Schule/Physik/Der Meter.md",
+    "0-Schule/Physik/Das Wechselwirkungsprinzip.md",
+    "0-Schule/Physik/Das erste Newtonische Axiom.md",
     "0-Schule/Biologie/Konzentrationsgefällen.md",
     "0-Schule/Biologie/Osmose.md",
     "0-Schule/Biologie/Struktur der biomembran.md",
@@ -178,12 +184,6 @@
     "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
     "0-Schule/Chemie/Van der Waals kräfte.md",
     "README.md",
-    "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
-    "0-Schule/Chemie/Periodensystem.md",
-    "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
-    "0-Schule/Chemie/Kohlenwasserstoffe.md",
-    "0-Schule/Chemie/Spektroskopie.md",
-    "0-Schule/Chemie/Silberspiegelprobe.md",
     "Projects - Demo Project",
     "IMG_0224.png",
     "Pictures/Körpereigenes immunsystem.jpg",
