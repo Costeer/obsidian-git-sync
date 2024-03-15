@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Physik/Gleichförmige Kreisbewegung.md",
+                "file": "0-Schule/Physik/Radioaktivität.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Physik/Gleichförmige Kreisbewegung.md",
+            "file": "0-Schule/Physik/Radioaktivität.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Physik/Gleichförmige Kreisbewegung.md",
+            "file": "0-Schule/Physik/Radioaktivität.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Physik/Gleichförmige Kreisbewegung.md"
+            "file": "0-Schule/Physik/Radioaktivität.md"
           }
         }
       },
@@ -155,8 +155,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25d2c02f6bcd9fbf",
+  "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
+    "0-Schule/Physik/Radioaktivität.md",
+    "0-Schule/Physik/Waagerechter wurf.md",
+    "0-Schule/Physik/Steigung in Graphen berechnen.md",
+    "0-Schule/Physik/Merksatz Gravitation.md",
+    "0-Schule/Physik/Kilogramm.md",
+    "0-Schule/Physik/Gleichförmige Kreisbewegung.md",
     "0-Schule/Physik/Formel Merksatz.md",
     "0-Schule/Physik/Erdanziehungskraft.md",
     "0-Schule/Physik/Die Newtontische Axiome.md",
@@ -177,13 +183,7 @@
     "0-Schule/Mathematik/Punktsymmetrie.md",
     "0-Schule/Mathematik/Limes.md",
     "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
-    "0-Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
-    "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
     "Pictures/Wn-6.jpeg",
-    "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
-    "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
-    "0-Schule/Chemie/Van der Waals kräfte.md",
-    "README.md",
     "Projects - Demo Project",
     "IMG_0224.png",
     "Pictures/Körpereigenes immunsystem.jpg",
