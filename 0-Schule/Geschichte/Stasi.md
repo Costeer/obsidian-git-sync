@@ -9,6 +9,8 @@ Aus der DDR-Bevölkerung gerieten Menschen ins Visier des MfS, wenn Verdacht auf
 Zu den Methoden zählten teilweise unter Folter erzwungene Geständnisse und theatralisch inszenierte Schauprozesse einschließlich der Vorbereitung deren Urteile.
 ###### Inland
 Beim MfS handelte es sich vor allem um die Geheimpolizei der DDR, die ohne parlamentarische und verwaltungsjuristische Kontrolle als Überwachungs- und Repressionsorgan der SED fungierte und die DDR-Gesellschaft in allen Bereichen kontrollierte. Erst in zweiter Linie ist das MfS als ein Auslandsnachrichtendienst zu sehen.
+
+Es sind diverse Mordanschläge des MfS auf im Westen lebende Regimegegner belegt. Nach dem Mauerbau 1961 bildete die Stasi „Kämpfer“ aus, die auf einem geheimen Truppenübungsplatz das [Liquidieren](https://de.wikipedia.org/wiki/T%C3%B6tungsdelikt "Tötungsdelikt") von Menschen übten
 ###### Ausland
 Im Ausland umfassten die Aufgaben die Durchführung geheimdiensttypischer verdeckter Operationen (Aktive Maßnahmen) und von Spionage durch die Hauptverwaltung Aufklärung Ebenfalls beinhalteten sie Aufklärungsarbeit in Westdeutschland und West-Berlin mit dem Ziel, aus allen wichtigen Institutionen der Westalliierten sowie der Bonner Regierung, der Industrie und Forschung Informationen zu gewinnen.
 
