@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4580c221c697bc5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Schule/Geschichte/Helmut Kohl (Lena R.).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Geschichte/Günter Schabowski (Jannes P.).md",
+                "file": "0-Schule/Geschichte/Helmut Kohl (Lena R.).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Geschichte/Günter Schabowski (Jannes P.).md",
+                "file": "0-Schule/Geschichte/Helmut Kohl (Lena R.).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Geschichte/Günter Schabowski (Jannes P.).md"
+                "file": "0-Schule/Geschichte/Helmut Kohl (Lena R.).md"
               }
             }
           },
@@ -179,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Geschichte/Günter Schabowski (Jannes P.).md",
+                "file": "0-Schule/Geschichte/Helmut Kohl (Lena R.).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,10 +243,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f93b271a4daf7e9a",
+  "active": "4580c221c697bc5f",
   "lastOpenFiles": [
-    "0-Schule/Geschichte/Michail Gorbatschow.md",
     "0-Schule/Geschichte/Günter Schabowski (Jannes P.).md",
+    "0-Schule/Geschichte/Helmut Kohl (Lena R.).md",
+    "SED.md",
+    "0-Schule/Geschichte/Michail Gorbatschow.md",
     "0-Schule/Geschichte/Stasi.md",
     "0-Schule/Musik/Johann Sebastian Bach.md",
     "README.md",
@@ -257,8 +272,6 @@
     "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
     "0-Schule/Chemie/Silberspiegelprobe.md",
     "Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
-    "0-Schule/Physik/Das erste Newtonische Axiom.md",
-    "0-Schule/Politik Wirtschaft/Arbeitsverhältnisse.md",
     "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "Templates/Other",
     "Pictures/Emilia Galotti-26.jpg",
