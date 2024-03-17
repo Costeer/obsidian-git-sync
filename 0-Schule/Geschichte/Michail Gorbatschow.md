@@ -1,0 +1,7 @@
+
+#### Info
+Michail Gorbatschow ist ein russischer Politiker. Als Generalsekretär des Zentralkomitees der Kommunistischen Partei der Sowjetunion (1985 bis 1991) macht er mit seiner Politik der [Transparenz](https://padlet.com/redirect?url=https%3A%2F%2Fwww.hdg.de%2Flemo%2Fkapitel%2Fdeutsche-einheit%2Fwandel-im-osten%2Fglasnost-und-perestroika.html) (Glasnost) und der [Umgestaltung](https://padlet.com/redirect?url=https%3A%2F%2Fwww.hdg.de%2Flemo%2Fkapitel%2Fdeutsche-einheit%2Fwandel-im-osten%2Fglasnost-und-perestroika.html) (Perestroika) die [deutsche Einheit](https://padlet.com/redirect?url=https%3A%2F%2Fwww.hdg.de%2Flemo%2Fkapitel%2Fdeutsche-einheit.html) und die Beendigung des [[Kalten Krieges]] möglich. Während seiner Zeit als Staatspräsident der UdSSR (März 1990 bis Dezember 1991) führen die Reformen zur Auflösung der [[Sowjetunion]]. Außerhalb Russlands ist die Wertschätzung für Gorbatschows Leistungen hoch: 1990 erhält er den Friedensnobelpreis.
+
+*Auch Interessant | Tags*
+[[]] [[]]
+#geschichte 
