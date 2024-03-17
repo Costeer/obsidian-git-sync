@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a7660a93f15c4007",
+        "id": "3cbbfc6ad8faaf9a",
         "type": "tabs",
         "children": [
           {
-            "id": "a88f98ea5327211c",
+            "id": "f7e5c6179568d14d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff4db046c5337e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -152,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,8 +217,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a78b4f555a3410b",
+  "active": "ff4db046c5337e5e",
   "lastOpenFiles": [
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
+    "0-Schule/Mathematik/Gleichungen lösen.md",
+    "0-Schule/Biologie/Adenosintriphosphat (ATP).md",
     "0-Schule/Deutsch/generisches Maskulinum.md",
     "0-Schule/Chemie/Carbonylgruppe.md",
     "Excalidraw/Drawing 2024-03-13 18.06.31.excalidraw.md",
@@ -213,7 +232,6 @@
     "0-Schule/Chemie/∆EN.md",
     "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
     "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
-    "README.md",
     "Pictures/Wn-6.jpeg",
     "Excalidraw/Drawing 2024-03-13 10.26.16.excalidraw.md",
     "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
@@ -229,10 +247,6 @@
     "0-Schule/Mathematik/Definitionsbereich.md",
     "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "0-Schule/Mathematik/Funktionen.md",
-    "0-Schule/Mathematik/Die 1 und 2 Ableitung.md",
-    "0-Schule/Mathematik/Binomische formeln.md",
-    "0-Schule/Mathematik/Beweise.md",
-    "0-Schule/Mathematik/Bestimmen von steigungen.md",
     "Templates/Other",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",

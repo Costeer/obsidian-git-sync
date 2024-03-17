@@ -11,22 +11,19 @@
             "id": "39248a36819f56d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "css-editor-view",
               "state": {
-                "file": "0-Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "filename": "Iterative Rainbow Folder Titles.css"
               }
             }
           },
           {
-            "id": "1c4999f23343622a",
+            "id": "25d2c02f6bcd9fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
+                "file": "0-Schule/Physik/Radioaktivität.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
+            "file": "0-Schule/Physik/Radioaktivität.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
+            "file": "0-Schule/Physik/Radioaktivität.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md"
+            "file": "0-Schule/Physik/Radioaktivität.md"
           }
         }
       },
@@ -160,32 +157,33 @@
   },
   "active": "4e37ecacf852f9c7",
   "lastOpenFiles": [
+    "0-Schule/Physik/Radioaktivität.md",
+    "0-Schule/Physik/Waagerechter wurf.md",
+    "0-Schule/Physik/Steigung in Graphen berechnen.md",
+    "0-Schule/Physik/Merksatz Gravitation.md",
+    "0-Schule/Physik/Kilogramm.md",
+    "0-Schule/Physik/Gleichförmige Kreisbewegung.md",
+    "0-Schule/Physik/Formel Merksatz.md",
+    "0-Schule/Physik/Erdanziehungskraft.md",
+    "0-Schule/Physik/Die Newtontische Axiome.md",
+    "0-Schule/Physik/Der Meter.md",
+    "0-Schule/Physik/Das Wechselwirkungsprinzip.md",
+    "0-Schule/Physik/Das erste Newtonische Axiom.md",
+    "0-Schule/Biologie/Konzentrationsgefällen.md",
+    "0-Schule/Biologie/Osmose.md",
+    "0-Schule/Biologie/Struktur der biomembran.md",
+    "0-Schule/Biologie/Transmembranproteine.md",
+    "0-Schule/Biologie/Viren.md",
+    "0-Schule/Biologie/Adenosintriphosphat (ATP).md",
+    "0-Schule/Biologie/Aktiver Transport Zellbiologie.md",
+    "0-Schule/Mathematik/Binomische formeln.md",
+    "0-Schule/Mathematik/Gleichungen lösen.md",
+    "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
+    "0-Schule/Mathematik/Beweise.md",
+    "0-Schule/Mathematik/Punktsymmetrie.md",
+    "0-Schule/Mathematik/Limes.md",
+    "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
     "Pictures/Wn-6.jpeg",
-    "0-Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
-    "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
-    "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
-    "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
-    "0-Schule/Chemie/Van der Waals kräfte.md",
-    "README.md",
-    "1-Stuff/Obsidian Plugins/Settings/excalidraw-template.md",
-    "0-Schule/Chemie/Periodensystem.md",
-    "0-Schule/Chemie/Primäre, sekundäre und tertiäre Alkohole.md",
-    "0-Schule/Chemie/Kohlenwasserstoffe.md",
-    "0-Schule/Chemie/Spektroskopie.md",
-    "0-Schule/Chemie/Silberspiegelprobe.md",
-    "1-Stuff/Dev/Easy ways to change the background color on a particular note.md",
-    "1-Stuff/Dev/Colours.md",
-    "1-Stuff/Dev/Callouts.md",
-    "1-Stuff/Dev/banner tests.md",
-    "0-Schule/Chemie/Mol™.md",
-    "0-Schule/Chemie/Molekül.md",
-    "0-Schule/Chemie/Oxidationszahlen.md",
-    "0-Schule/Chemie/Oxidation.md",
-    "0-Schule/Chemie/Reduktion.md",
-    "0-Schule/Chemie/1.) Chemie Verzeichnis.md",
-    "0-Schule/Chemie/∆EN.md",
-    "0-Schule/Chemie/Aldehyde.md",
-    "Excalidraw/Drawing 2024-03-13 10.26.16.excalidraw.md",
     "Projects - Demo Project",
     "IMG_0224.png",
     "Pictures/Körpereigenes immunsystem.jpg",
@@ -203,7 +201,6 @@
     "Pictures/Zzzzzzz.jpg",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Pictures/IMG_0166.jpeg",
-    "Pictures/Pasted Image 20240130105112_446.jpg",
     "Praktikum",
     "Pictures/Emilia Galotti-28.pdf"
   ]
