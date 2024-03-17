@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0-Schule/Geschichte/Stasi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0-Schule/Geschichte/Stasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0-Schule/Geschichte/Stasi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0-Schule/Geschichte/Stasi.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "0-Schule/Geschichte/Stasi.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,8 +205,9 @@
   },
   "active": "f7e5c6179568d14d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "0-Schule/Musik/Johann Sebastian Bach.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
     "0-Schule/Mathematik/Gleichungen lösen.md",
     "0-Schule/Biologie/Adenosintriphosphat (ATP).md",
@@ -232,7 +233,6 @@
     "0-Schule/Politik Wirtschaft/INteresant/Kurz und knapp artikel.md",
     "0-Schule/Mathematik/Definitionsbereich.md",
     "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
-    "0-Schule/Mathematik/Funktionen.md",
     "Templates/Other",
     "Pictures/Emilia Galotti-26.jpg",
     "1-Stuff/Catppuccin/Icons-catppuccin-calc.jpg",
