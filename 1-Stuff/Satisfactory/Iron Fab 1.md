@@ -7,3 +7,5 @@
 
 30 iron -> 20 Plates
 30 iron -> 120 Schrauben
+
+160 Schrauben pM
