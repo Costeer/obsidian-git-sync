@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3cbbfc6ad8faaf9a",
+        "id": "1535eaf854b7b128",
         "type": "tabs",
         "children": [
           {
-            "id": "f7e5c6179568d14d",
+            "id": "9054772cfe100bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Schule/Geschichte/Stasi.md",
+                "file": "1-Stuff/Satisfactory/Iron Fab 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Schule/Geschichte/Stasi.md",
+                "file": "1-Stuff/Satisfactory/Iron Fab 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Schule/Geschichte/Stasi.md",
+                "file": "1-Stuff/Satisfactory/Iron Fab 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Schule/Geschichte/Stasi.md"
+                "file": "1-Stuff/Satisfactory/Iron Fab 1.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Schule/Geschichte/Stasi.md",
+                "file": "1-Stuff/Satisfactory/Iron Fab 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,8 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7e5c6179568d14d",
+  "active": "9054772cfe100bfa",
   "lastOpenFiles": [
+    "README.md",
+    "1-Stuff/Satisfactory/Iron Fab 1.md",
+    "1-Stuff/Satisfactory",
     "0-Schule/Geschichte/Michail Gorbatschow.md",
     "0-Schule/Geschichte/Günter Schabowski (Jannes P.).md",
     "0-Schule/Geschichte/Helmut Kohl (Lena R.).md",
@@ -212,7 +215,6 @@
     "0-Schule/Geschichte/SED.md",
     "0-Schule/Geschichte/Stasi.md",
     "0-Schule/Musik/Johann Sebastian Bach.md",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
     "0-Schule/Mathematik/Gleichungen lösen.md",
@@ -231,7 +233,6 @@
     "Excalidraw/Drawing 2024-03-12 23.56.18.excalidraw.md",
     "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
     "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
-    "0-Schule/Chemie/Silberspiegelprobe.md",
     "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "Templates/Other",
     "Pictures/Emilia Galotti-26.jpg",
@@ -249,7 +250,6 @@
     "Pictures/IMG_0224.png",
     "Templates",
     "0-Schule/Deutsch/Aufgaben",
-    "1-Stuff/Catppuccin/Praktikum.odt",
-    "0-Schule/Politik Wirtschaft/Praktikum"
+    "1-Stuff/Catppuccin/Praktikum.odt"
   ]
 }
