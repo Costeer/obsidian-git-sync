@@ -4,3 +4,6 @@
 - 180 Metall Ore pM
 - 180 Metall pM
 #### Fab schrit 2
+
+30 iron -> 20 Plates
+30 iron -> 120 Schrauben
