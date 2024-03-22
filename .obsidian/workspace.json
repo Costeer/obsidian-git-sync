@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1535eaf854b7b128",
+        "id": "8f0cb101f7f4b970",
         "type": "tabs",
         "children": [
           {
-            "id": "9054772cfe100bfa",
+            "id": "ac6ae1f5a6195cde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Stuff/Satisfactory/Iron Fab 1.md",
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4367f55ad0bcc9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Stuff/Satisfactory/Motor Fab 10pM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Stuff/Satisfactory/Iron Fab 1.md",
+                "file": "1-Stuff/Satisfactory/Motor Fab 10pM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Stuff/Satisfactory/Iron Fab 1.md",
+                "file": "1-Stuff/Satisfactory/Motor Fab 10pM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Stuff/Satisfactory/Iron Fab 1.md"
+                "file": "1-Stuff/Satisfactory/Motor Fab 10pM.md"
               }
             }
           },
@@ -152,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Stuff/Satisfactory/Iron Fab 1.md",
+                "file": "1-Stuff/Satisfactory/Motor Fab 10pM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +218,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9054772cfe100bfa",
+  "active": "4367f55ad0bcc9c1",
   "lastOpenFiles": [
-    "README.md",
     "1-Stuff/Satisfactory/Iron Fab 1.md",
+    "1-Stuff/Satisfactory/Motor Fab 10pM.md",
+    "README.md",
     "1-Stuff/Satisfactory",
     "0-Schule/Geschichte/Michail Gorbatschow.md",
     "0-Schule/Geschichte/Günter Schabowski (Jannes P.).md",
@@ -232,7 +248,6 @@
     "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
     "Excalidraw/Drawing 2024-03-12 23.56.18.excalidraw.md",
     "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
-    "0-Schule/Deutsch/Aufgaben/Schule mehrsprachig gestallten.md",
     "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "Templates/Other",
     "Pictures/Emilia Galotti-26.jpg",
