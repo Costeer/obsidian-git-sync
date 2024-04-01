@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4eb783f0779d9127",
+        "id": "66acce44dfc3ccf8",
         "type": "tabs",
         "children": [
           {
-            "id": "e264cd0131cf9e2b",
+            "id": "098686b3cc0180f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,7 +204,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e264cd0131cf9e2b",
+  "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
     "Templates/Default Template Table.md",
     "Templates/Default Template Aufgabe.md",
