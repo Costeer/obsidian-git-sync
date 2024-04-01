@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/2024-04-01.md",
+                "file": "06 - Daily/2024-04-01 First Daily Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/2024-04-01.md",
+                "file": "06 - Daily/2024-04-01 First Daily Note.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 - Daily/2024-04-01.md",
+                "file": "06 - Daily/2024-04-01 First Daily Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +176,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -186,13 +186,14 @@
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "b43ddabc61a06092",
   "lastOpenFiles": [
     "README.md",
-    "06 - Daily/2024-04-01.md",
+    "06 - Daily/2024-04-01 First Daily Note.md",
     "99 - Meta/00 - Templates/Daily Template.md",
     "2024-04-01.md",
     "99 - Meta/00 - Templates/Default Template Aufgabe.md",
