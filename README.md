@@ -46,8 +46,8 @@ Links von diesem fenster siehst du deine folder wo sich deine verschiedenen arte
 
 Diese unterteilungen sollen dir dabei helfen verschiedene arten von notiezen voneinander zu unterscheiden und somit das arbeiten erleichtern
 
-#### Wie benutzt man die Kategorien
-*wo kommt was rein??*
+#### Wie benutzt man die Kategorien?
+*also wo kommt was rein??*
 
 #### <span style="color:#51e1e9">Projects</span>
 In projects sammelt man notiezen für aufgaben die entweder nur eine kurze dauer haben oder einen abgabetermien
@@ -56,8 +56,10 @@ In projects sammelt man notiezen für aufgaben die entweder nur eine kurze dauer
 Areas sind meisens größer und umfangreicher als Projects und können unendlich oft erweitert und verändert werden und dienen als überkategorie für notiezen wie z.b. Mahlen; Programieren oder Kochen
 
 #### <span style="color:#437cf3">Resources</span>
-Nicht selbs verfasste Artikel zusammenfasungen oder sonstieges welche als basis oder zum unterstüzen von eigenen notiezen genutzt werden
+Nicht eigens verfasste Artikel zusammenfasungen oder sonstieges welche als basis oder zum unterstüzen von eigenen notiezen genutzt werden
 
+#### <span style="color:#e3365e">Archives</span>
+vertige projekte oder nicht mehr bearbeitet werdende Areas 
 #### Inhalt vom Vault
 - Wunderschönes theme mit custom css.
 - eigene css snipets.
