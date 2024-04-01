@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00 - Maps of Content/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00 - Maps of Content/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "00 - Maps of Content/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "00 - Maps of Content/Untitled.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "00 - Maps of Content/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,11 +204,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "10bf406a1bc86bff",
+  "active": "25caba2b27b5fe89",
   "lastOpenFiles": [
+    "README.md",
+    "00 - Maps of Content/Untitled.md",
     "03 - Resources/Pictures/Emilia Galotti-27.jpg",
     "03 - Resources/Pictures/Emilia Galotti-25.jpg",
-    "README.md",
     "02 - Areas/0 - Schule/Englisch/Media literacy of German teenagers.md",
     "02 - Areas/0 - Schule/Englisch/Comment in inglisch.md",
     "02 - Areas/Satisfactory/Iron Fab 1.md",
@@ -250,7 +251,6 @@
     "03 - Resources/Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "03 - Resources/Pictures/Emilia Galotti-26.jpg",
     "01 - Projects/Catppuccin/Icons-catppuccin-calc.jpg",
-    "01 - Projects/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
-    "01 - Projects/Catppuccin/Icons-catppuccin-[wallpaper]-l.jpg"
+    "01 - Projects/Catppuccin/Icons-catppuccin-appstore-gay.jpg"
   ]
 }
