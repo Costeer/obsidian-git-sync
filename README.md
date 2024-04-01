@@ -32,7 +32,11 @@ um den access token von deinem GitHub zu bekommen einfach googeln wie das geht.
 
 Der Vault also der platz indem sich all deine notizen befinden ist nach einer kombination von 2 bekannten systemen (Para & Zettelkasten) organisiert.
 
-Link
+Links von diesem fenster siehst du deine folder wo sich deine verschiedenen arten von notiezen drinne befinden, das ganze sollte ungefär so ausehen:
+00 - Maps of Content
+01 - Projects
+02 - Areas
+
 #### Inhalt vom Vault
 - Wunderschönes theme mit custom css.
 - eigene css snipets.
