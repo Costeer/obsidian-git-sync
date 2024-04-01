@@ -53,7 +53,7 @@ Diese unterteilungen sollen dir dabei helfen verschiedene arten von notiezen von
 In projects sammelt man notiezen für aufgaben die entweder nur eine kurze dauer haben oder einen abgabetermien
 
 #### <span style="color:#54b6f8">Areas</span>
-Areas sind meisens größer und umfangreicher als Projects und können unendlich oft erweitert 
+Areas sind meisens größer und umfangreicher als Projects und können unendlich oft erweitert und verändert werden und dienen als überkategorie für no
 #### Inhalt vom Vault
 - Wunderschönes theme mit custom css.
 - eigene css snipets.
