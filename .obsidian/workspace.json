@@ -11,12 +11,9 @@
             "id": "a133dde0dafa1945",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "css-editor-view",
               "state": {
-                "file": "02 - Areas/Satisfactory/Motor Fab 10pM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "filename": "Colored Sidebar Items.css"
               }
             }
           }
@@ -87,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/Satisfactory/Motor Fab 10pM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Satisfactory/Motor Fab 10pM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Areas/Satisfactory/Motor Fab 10pM.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,7 +145,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Satisfactory/Motor Fab 10pM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,8 +198,8 @@
   },
   "active": "a133dde0dafa1945",
   "lastOpenFiles": [
-    "02 - Areas/Satisfactory/Iron Fab 1.md",
     "02 - Areas/Satisfactory/Motor Fab 10pM.md",
+    "02 - Areas/Satisfactory/Iron Fab 1.md",
     "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Fachkraft.md",
     "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Fachkräftemangel Diagramm.md",
     "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Die Letzte Generation.md",
