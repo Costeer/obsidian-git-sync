@@ -40,7 +40,7 @@ else if (dayOfWeek == "Su")
 ## <%tp.date.now("dddd, MMMM Do, YYYY")%>
 ***
 ## Journal
-#### What did i do today
+#### What did i do today?
 
 ***
 ### Tasks

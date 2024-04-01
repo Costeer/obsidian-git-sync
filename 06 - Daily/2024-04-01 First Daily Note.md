@@ -11,7 +11,7 @@ cssclasses:
 ***
 ## Journal
 #### What did i do today?
-Heute gab es ein komplettes re 
+Heute gab es ein komplettes re-work vom vault alte plugins hab ich rausgeschmissen neue installiert und gennerelle workflow verbesserungen wurden inplementiert, morgen fahrschuhlprüfung yay
 ***
 ### Tasks
-- [ ] Task 1
+- [x] Checkbox checken
