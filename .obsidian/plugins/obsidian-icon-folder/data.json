@@ -61,6 +61,18 @@
         "icon": "CoCalendarEvent",
         "for": "everything",
         "order": 7
+      },
+      {
+        "rule": "07 -",
+        "icon": "LiArchive",
+        "for": "everything",
+        "order": 8
+      },
+      {
+        "rule": "99 -",
+        "icon": "CoOption",
+        "for": "everything",
+        "order": 9
       }
     ],
     "extraMargin": {
@@ -77,7 +89,6 @@
     "iconIdentifier": ":",
     "iconsInLinksEnabled": true
   },
-  "99 - Meta": "CoOption",
   "99 - Meta/Templates": "TiTemplate",
   "99 - Meta/Obsidian Plugins": "TiPlug",
   "07 - Archives/Mokey See": "SiMonkeytype",
