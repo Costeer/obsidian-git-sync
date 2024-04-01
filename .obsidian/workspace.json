@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fb570e4f766e303",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "99 - Meta/Templates/excalidraw-template.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Dev/banner tests.md",
+                "file": "99 - Meta/Templates/excalidraw-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Dev/banner tests.md",
+                "file": "99 - Meta/Templates/excalidraw-template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Dev/banner tests.md"
+                "file": "99 - Meta/Templates/excalidraw-template.md"
               }
             }
           },
@@ -152,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Projects/Dev/banner tests.md",
+                "file": "99 - Meta/Templates/excalidraw-template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +217,36 @@
   },
   "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
-    "README.md",
+    "03 - Resources/Excalidraw/carbonylgruppe.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-23 11.38.33.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-01 11.04.06.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-05 09.47.29.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-05 10.43.52.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-07 11.18.53.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-12 16.49.48.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-12 16.52.51.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-12 23.56.18.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
+    "03 - Resources/Excalidraw/Scripts/Downloaded/Palette loader.svg",
+    "03 - Resources/Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
+    "Resurces/Excalidraw",
+    "Resurces",
     "99 - Meta",
     "07 - Archives",
     "06 - Daily",
@@ -215,32 +255,6 @@
     "03 - Resources",
     "02 - Areas",
     "01 - Projects",
-    "00 - Maps of Content",
-    "99 - Meta/Templates/Default Template Table.md",
-    "99 - Meta/Templates/Default Template Aufgabe.md",
-    "99 - Meta/Templates/Default Template.md",
-    "1-Stuff/Random Things/Sprichsatz wörter samling.md",
-    "03 - Resources/Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
-    "02 - Areas/Satisfactory/Iron Fab 1.md",
-    "02 - Areas/Satisfactory/Motor Fab 10pM.md",
-    "02 - Areas/Satisfactory",
-    "00 - Maps of Content/0-Schule/Geschichte/Michail Gorbatschow.md",
-    "00 - Maps of Content/0-Schule/Geschichte/Günter Schabowski (Jannes P.).md",
-    "00 - Maps of Content/0-Schule/Geschichte/Helmut Kohl (Lena R.).md",
-    "00 - Maps of Content/0-Schule/Geschichte/Willy Brandt.md",
-    "00 - Maps of Content/0-Schule/Geschichte/SED.md",
-    "00 - Maps of Content/0-Schule/Geschichte/Stasi.md",
-    "00 - Maps of Content/0-Schule/Musik/Johann Sebastian Bach.md",
-    "conflict-files-obsidian-git.md",
-    "03 - Resources/Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
-    "00 - Maps of Content/0-Schule/Mathematik/Gleichungen lösen.md",
-    "00 - Maps of Content/0-Schule/Biologie/Adenosintriphosphat (ATP).md",
-    "00 - Maps of Content/0-Schule/Deutsch/generisches Maskulinum.md",
-    "00 - Maps of Content/0-Schule/Chemie/Carbonylgruppe.md",
-    "03 - Resources/Excalidraw/Drawing 2024-03-13 18.06.31.excalidraw.md",
-    "00 - Maps of Content/0-Schule/Chemie/Alkane.md",
-    "00 - Maps of Content/0-Schule/Chemie/1.) Chemie Verzeichnis.md",
-    "00 - Maps of Content/0-Schule/Chemie/∆EN.md",
     "03 - Resources/Pictures/Wn-6.jpeg",
     "03 - Resources/Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "03 - Resources/Pictures/Emilia Galotti-26.jpg",
@@ -248,8 +262,6 @@
     "01 - Projects/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
     "01 - Projects/Catppuccin/Icons-catppuccin-[wallpaper]-l.jpg",
     "01 - Projects/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
-    "01 - Projects/Catppuccin/Aufbau-eines-virus-catppucchin.jpg",
-    "03 - Resources/Pictures/Obsidian-Overall-Banner-Main.jpg",
-    "03 - Resources/Pictures/IMG_0224.png"
+    "01 - Projects/Catppuccin/Aufbau-eines-virus-catppucchin.jpg"
   ]
 }
