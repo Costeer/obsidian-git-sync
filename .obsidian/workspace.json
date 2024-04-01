@@ -11,9 +11,12 @@
             "id": "dcfd0ef97bc2ef54",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md"
+                "file": "README.md"
               }
             }
           },
@@ -149,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,6 +206,7 @@
   },
   "active": "dcfd0ef97bc2ef54",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
     "README.md",
     "1-Stuff/Satisfactory/Iron Fab 1.md",
     "1-Stuff/Satisfactory/Motor Fab 10pM.md",
@@ -230,7 +234,6 @@
     "Excalidraw/Drawing 2024-03-13 10.26.16.excalidraw.md",
     "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
     "Excalidraw/Drawing 2024-03-12 23.56.18.excalidraw.md",
-    "0-Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
     "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "Templates/Other",
     "Pictures/Emilia Galotti-26.jpg",
