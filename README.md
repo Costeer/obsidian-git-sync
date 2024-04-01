@@ -30,7 +30,10 @@ um den access token von deinem GitHub zu bekommen einfach googeln wie das geht.
 
 ## How to Obsidian
 
-##### Inhalt vom Vault
+Der Vault also der platz indem sich all deine notizen befinden ist nach einer kombination von 2 bekannten systemen (Para & Zettelkasten) organisiert.
+
+Link
+#### Inhalt vom Vault
 - Wunderschönes theme mit custom css.
 - eigene css snipets.
 - vorgefertigte templates.
