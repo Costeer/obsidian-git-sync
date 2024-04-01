@@ -11,8 +11,13 @@
             "id": "b43ddabc61a06092",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/2024-04-01.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06 - Daily/2024-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "06 - Daily/2024-04-01.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "06 - Daily/2024-04-01.md"
+              }
             }
           },
           {
@@ -143,6 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "06 - Daily/2024-04-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,12 +207,12 @@
   },
   "active": "b43ddabc61a06092",
   "lastOpenFiles": [
+    "README.md",
     "06 - Daily/2024-04-01.md",
     "99 - Meta/00 - Templates/Daily Template.md",
     "2024-04-01.md",
     "99 - Meta/00 - Templates/Default Template Aufgabe.md",
     "99 - Meta/00 - Templates/Default Template Table.md",
-    "README.md",
     "00 - Maps of Content/Untitled.md",
     "03 - Resources/Pictures/Emilia Galotti-27.jpg",
     "03 - Resources/Pictures/Emilia Galotti-25.jpg",
