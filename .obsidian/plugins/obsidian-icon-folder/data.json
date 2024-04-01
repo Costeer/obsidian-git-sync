@@ -28,9 +28,6 @@
     "iconIdentifier": ":",
     "iconsInLinksEnabled": true
   },
-  "Excalidraw": "FasPenNib",
-  "Pictures": "IbPhoto",
-  "Excalidraw/Scripts": "BoBxHash",
   "00 - Maps of Content/0-Schule": "TiSchool",
   "00 - Maps of Content/0-Schule/Biologie": "LiBiohazard",
   "00 - Maps of Content/0-Schule/Chemie": "BoBxsVial",
@@ -46,14 +43,15 @@
   "00 - Maps of Content/0-Schule/Werte und Normen": "FasPersonRays",
   "00 - Maps of Content": "BoBxGlobeAlt",
   "01 - Projects": "BoBxsFlask",
-  "Stuff": "FiBox",
-  "Stuff/Dev": "OcCommandPalette16",
-  "Stuff/Mokey See": "SiMonkeytype",
-  "Stuff/Obsidian Plugins": "TiPlug",
-  "Stuff/Random Things": "TiArrowsRandom",
-  "Stuff/Dev/XXX_Linux": "FabLinux",
   "02 - Areas": "BoBxsPackage",
   "99 - Meta": "CoOption",
   "99 - Meta/Templates": "TiTemplate",
-  "01 - Projects/Catppuccin": "FasCat"
+  "01 - Projects/Catppuccin": "FasCat",
+  "99 - Meta/Obsidian Plugins": "TiPlug",
+  "07 - Archives/Mokey See": "SiMonkeytype",
+  "01 - Projects/XXX_Linux": "FabLinux",
+  "01 - Projects/Dev": "OcCommandPalette16",
+  "03 - Resources/Pictures": "IbPhoto",
+  "03 - Resources/Excalidraw": "FasPenNib",
+  "03 - Resources/Excalidraw/Scripts": "BoBxHash"
 }

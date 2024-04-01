@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 - Projects/Dev/banner tests.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 - Projects/Dev/banner tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 - Projects/Dev/banner tests.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 - Projects/Dev/banner tests.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "01 - Projects/Dev/banner tests.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,6 +206,7 @@
   },
   "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
+    "README.md",
     "99 - Meta",
     "07 - Archives",
     "06 - Daily",
@@ -218,12 +219,11 @@
     "99 - Meta/Templates/Default Template Table.md",
     "99 - Meta/Templates/Default Template Aufgabe.md",
     "99 - Meta/Templates/Default Template.md",
-    "README.md",
     "1-Stuff/Random Things/Sprichsatz wörter samling.md",
-    "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
-    "Stuff/Satisfactory/Iron Fab 1.md",
-    "Stuff/Satisfactory/Motor Fab 10pM.md",
-    "Stuff/Satisfactory",
+    "03 - Resources/Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
+    "02 - Areas/Satisfactory/Iron Fab 1.md",
+    "02 - Areas/Satisfactory/Motor Fab 10pM.md",
+    "02 - Areas/Satisfactory",
     "00 - Maps of Content/0-Schule/Geschichte/Michail Gorbatschow.md",
     "00 - Maps of Content/0-Schule/Geschichte/Günter Schabowski (Jannes P.).md",
     "00 - Maps of Content/0-Schule/Geschichte/Helmut Kohl (Lena R.).md",
@@ -232,25 +232,24 @@
     "00 - Maps of Content/0-Schule/Geschichte/Stasi.md",
     "00 - Maps of Content/0-Schule/Musik/Johann Sebastian Bach.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-14 08.30.06.excalidraw.md",
     "00 - Maps of Content/0-Schule/Mathematik/Gleichungen lösen.md",
     "00 - Maps of Content/0-Schule/Biologie/Adenosintriphosphat (ATP).md",
     "00 - Maps of Content/0-Schule/Deutsch/generisches Maskulinum.md",
     "00 - Maps of Content/0-Schule/Chemie/Carbonylgruppe.md",
-    "Excalidraw/Drawing 2024-03-13 18.06.31.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-13 18.06.31.excalidraw.md",
     "00 - Maps of Content/0-Schule/Chemie/Alkane.md",
     "00 - Maps of Content/0-Schule/Chemie/1.) Chemie Verzeichnis.md",
     "00 - Maps of Content/0-Schule/Chemie/∆EN.md",
-    "Pictures/Wn-6.jpeg",
-    "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
-    "99 - Meta/Templates/Other",
-    "Pictures/Emilia Galotti-26.jpg",
+    "03 - Resources/Pictures/Wn-6.jpeg",
+    "03 - Resources/Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
+    "03 - Resources/Pictures/Emilia Galotti-26.jpg",
     "01 - Projects/Catppuccin/Icons-catppuccin-calc.jpg",
     "01 - Projects/Catppuccin/Icons-catppuccin-appstore-gay.jpg",
     "01 - Projects/Catppuccin/Icons-catppuccin-[wallpaper]-l.jpg",
     "01 - Projects/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
     "01 - Projects/Catppuccin/Aufbau-eines-virus-catppucchin.jpg",
-    "Pictures/Obsidian-Overall-Banner-Main.jpg",
-    "Pictures/IMG_0224.png"
+    "03 - Resources/Pictures/Obsidian-Overall-Banner-Main.jpg",
+    "03 - Resources/Pictures/IMG_0224.png"
   ]
 }
