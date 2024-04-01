@@ -49,6 +49,9 @@ Diese unterteilungen sollen dir dabei helfen verschiedene arten von notiezen von
 #### Wie benutzt man die Kategorien
 *wo kommt was rein??*
 
+#### <span style="color:#51e1e9">Projects</span>
+In projects sammelt man notiezen für aufgaben die entweder nur eine kurze 
+
 #### Inhalt vom Vault
 - Wunderschönes theme mit custom css.
 - eigene css snipets.
