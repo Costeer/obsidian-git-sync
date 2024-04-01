@@ -50,8 +50,10 @@ Diese unterteilungen sollen dir dabei helfen verschiedene arten von notiezen von
 *wo kommt was rein??*
 
 #### <span style="color:#51e1e9">Projects</span>
-In projects sammelt man notiezen für aufgaben die entweder nur eine kurze 
+In projects sammelt man notiezen für aufgaben die entweder nur eine kurze dauer haben oder einen abgabetermien
 
+#### <span style="color:#54b6f8">Areas</span>
+Areas sind meisens größer und umfangreicher als Projects und können unendlich oft erweitert 
 #### Inhalt vom Vault
 - Wunderschönes theme mit custom css.
 - eigene css snipets.
