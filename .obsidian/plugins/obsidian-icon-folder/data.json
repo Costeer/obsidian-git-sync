@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsFlask",
+      "BoBxGlobeAlt",
       "BoBxHash",
       "TiBook",
-      "FasPersonRays",
-      "FasPerson",
-      "OcLaw16"
+      "FasPersonRays"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,13 +31,6 @@
   "Excalidraw": "FasPenNib",
   "Templates": "TiTemplate",
   "Pictures": "IbPhoto",
-  "1-Stuff": "FiBox",
-  "1-Stuff/Mokey See": "SiMonkeytype",
-  "1-Stuff/Catppuccin": "FasCat",
-  "1-Stuff/Random Things": "TiArrowsRandom",
-  "1-Stuff/Obsidian Plugins": "TiPlug",
-  "1-Stuff/Dev": "OcCommandPalette16",
-  "1-Stuff/Dev/XXX_Linux": "FabLinux",
   "Excalidraw/Scripts": "BoBxHash",
   "00 - Maps of Content/0-Schule": "TiSchool",
   "00 - Maps of Content/0-Schule/Biologie": "LiBiohazard",
@@ -51,5 +44,14 @@
   "00 - Maps of Content/0-Schule/Niederländisch": "TiBook",
   "00 - Maps of Content/0-Schule/Physik": "SiProtondb",
   "00 - Maps of Content/0-Schule/Politik Wirtschaft": "OcLaw16",
-  "00 - Maps of Content/0-Schule/Werte und Normen": "FasPersonRays"
+  "00 - Maps of Content/0-Schule/Werte und Normen": "FasPersonRays",
+  "00 - Maps of Content": "BoBxGlobeAlt",
+  "01 - Projects": "BoBxsFlask",
+  "Stuff": "FiBox",
+  "Stuff/Catppuccin": "FasCat",
+  "Stuff/Dev": "OcCommandPalette16",
+  "Stuff/Mokey See": "SiMonkeytype",
+  "Stuff/Obsidian Plugins": "TiPlug",
+  "Stuff/Random Things": "TiArrowsRandom",
+  "Stuff/Dev/XXX_Linux": "FabLinux"
 }
