@@ -28,13 +28,16 @@ git clone https://<Username>:<token>@github.com/Costeer/obsidian-git-sync
 
 um den access token von deinem GitHub zu bekommen einfach googeln wie das geht.
 
-### Inhalt vom Vault
+## How to Obsidian
 
-- Wunderschönes theme mit custom css
-- eigene css snipets
-- vorgefertigte templates
-- monospace font 
-- ein organisirungskonzept nach zettelkasten 
+##### Inhalt vom Vault
+- Wunderschönes theme mit custom css.
+- eigene css snipets.
+- vorgefertigte templates.
+- monospace font.
+- ein organisirungskonzept nach zettelkasten und Para.
+
+
 ### How to Templates
 
 > [!example] Was sind Templates?
