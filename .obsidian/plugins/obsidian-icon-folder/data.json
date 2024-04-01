@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CoOption",
       "BoBxsPackage",
       "BoBxsFlask",
       "BoBxGlobeAlt",
-      "BoBxHash",
-      "TiBook"
+      "BoBxHash"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,7 +29,6 @@
     "iconsInLinksEnabled": true
   },
   "Excalidraw": "FasPenNib",
-  "Templates": "TiTemplate",
   "Pictures": "IbPhoto",
   "Excalidraw/Scripts": "BoBxHash",
   "00 - Maps of Content/0-Schule": "TiSchool",
@@ -48,11 +47,13 @@
   "00 - Maps of Content": "BoBxGlobeAlt",
   "01 - Projects": "BoBxsFlask",
   "Stuff": "FiBox",
-  "Stuff/Catppuccin": "FasCat",
   "Stuff/Dev": "OcCommandPalette16",
   "Stuff/Mokey See": "SiMonkeytype",
   "Stuff/Obsidian Plugins": "TiPlug",
   "Stuff/Random Things": "TiArrowsRandom",
   "Stuff/Dev/XXX_Linux": "FabLinux",
-  "02 - Areas": "BoBxsPackage"
+  "02 - Areas": "BoBxsPackage",
+  "99 - Meta": "CoOption",
+  "99 - Meta/Templates": "TiTemplate",
+  "01 - Projects/Catppuccin": "FasCat"
 }
