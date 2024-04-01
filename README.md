@@ -58,6 +58,8 @@ Areas sind meisens größer und umfangreicher als Projects und können unendlich
 #### <span style="color:#437cf3">Resources</span>
 Nicht eigens verfasste Artikel zusammenfasungen oder sonstieges welche als basis oder zum unterstüzen von eigenen notiezen genutzt werden
 
+#### Fleeting
+Fleting notes sind nicht sehr durchdacht schnell geschriebene notizen die "im momment" geschrieben werden und später weiter bearbeitet werden
 #### <span style="color:#e3365e">Archives</span>
 vertige projekte oder nicht mehr bearbeitet werdende Areas 
 #### Inhalt vom Vault
