@@ -1,1 +1,0 @@
-Ohne Moos nix los

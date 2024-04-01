@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Default Template Table.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Default Template Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Default Template Table.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Default Template Table.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Default Template Table.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,10 +204,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "dcfd0ef97bc2ef54",
+  "active": "10bf406a1bc86bff",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
+    "Templates/Default Template Aufgabe.md",
+    "Templates/Default Template.md",
     "README.md",
+    "1-Stuff/Random Things/Sprichsatz wörter samling.md",
+    "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
     "1-Stuff/Satisfactory/Iron Fab 1.md",
     "1-Stuff/Satisfactory/Motor Fab 10pM.md",
     "1-Stuff/Satisfactory",
@@ -231,9 +234,6 @@
     "0-Schule/Chemie/Offenkettige Strukturformel Glukose.md",
     "0-Schule/Chemie/Offenkettige Struktur der Fruktose.md",
     "Pictures/Wn-6.jpeg",
-    "Excalidraw/Drawing 2024-03-13 10.26.16.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-13 10.19.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-12 23.56.18.excalidraw.md",
     "Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "Templates/Other",
     "Pictures/Emilia Galotti-26.jpg",
