@@ -3,7 +3,7 @@
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": true,
-  "templateFilePath": "1-Stuff/Obsidian Plugins/Settings/excalidraw-template",
+  "templateFilePath": "99 - Meta/Templates/excalidraw-template",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "autosave": true,
