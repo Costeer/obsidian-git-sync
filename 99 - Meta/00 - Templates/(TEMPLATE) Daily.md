@@ -39,12 +39,9 @@ else if (dayOfWeek == "Su")
 # DAILY NOTE
 ## <%tp.date.now("dddd, MMMM Do, YYYY")%>
 ***
-### Journal
-#### TIME
-Customize this template to your liking!
-...
+## Journal
+#### What did i do today
+
 ***
 ### Tasks
 - [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
