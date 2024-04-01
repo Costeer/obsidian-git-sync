@@ -13,7 +13,26 @@
       "BoBxHash"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "00",
+        "icon": "BoBxGlobeAlt",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "01",
+        "icon": "BoBxsFlask",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "Catppuccin",
+        "icon": "LiCat",
+        "for": "everything",
+        "order": 2
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -41,16 +60,12 @@
   "00 - Maps of Content/0-Schule/Physik": "SiProtondb",
   "00 - Maps of Content/0-Schule/Politik Wirtschaft": "OcLaw16",
   "00 - Maps of Content/0-Schule/Werte und Normen": "FasPersonRays",
-  "00 - Maps of Content": "BoBxGlobeAlt",
-  "01 - Projects": "BoBxsFlask",
   "02 - Areas": "BoBxsPackage",
   "99 - Meta": "CoOption",
   "99 - Meta/Templates": "TiTemplate",
-  "01 - Projects/Catppuccin": "FasCat",
   "99 - Meta/Obsidian Plugins": "TiPlug",
   "07 - Archives/Mokey See": "SiMonkeytype",
   "01 - Projects/XXX_Linux": "FabLinux",
-  "01 - Projects/Dev": "OcCommandPalette16",
   "03 - Resources/Pictures": "IbPhoto",
   "03 - Resources/Excalidraw": "FasPenNib",
   "03 - Resources/Excalidraw/Scripts": "BoBxHash"
