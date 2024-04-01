@@ -7,7 +7,14 @@
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "colored-text:alter-color-palette",
+      "icon": "align-vertical-space-around",
+      "name": "Colored Text Color Palette",
+      "mode": "any"
+    }
+  ],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
