@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsPackage",
       "BoBxsFlask",
       "BoBxGlobeAlt",
       "BoBxHash",
-      "TiBook",
-      "FasPersonRays"
+      "TiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,6 @@
   "Stuff/Mokey See": "SiMonkeytype",
   "Stuff/Obsidian Plugins": "TiPlug",
   "Stuff/Random Things": "TiArrowsRandom",
-  "Stuff/Dev/XXX_Linux": "FabLinux"
+  "Stuff/Dev/XXX_Linux": "FabLinux",
+  "02 - Areas": "BoBxsPackage"
 }
