@@ -27,10 +27,16 @@
         "order": 1
       },
       {
+        "rule": "02",
+        "icon": "BoBxPackage",
+        "for": "everything",
+        "order": 2
+      },
+      {
         "rule": "Catppuccin",
         "icon": "LiCat",
         "for": "everything",
-        "order": 2
+        "order": 3
       }
     ],
     "extraMargin": {
