@@ -6,5 +6,7 @@
     "Notebook Backgrounds",
     "css-snipet-color-values"
   ],
-  "interfaceFontFamily": "JetBrainsMono Nerd Font"
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,JetBrainsMonoNL Nerd Font",
+  "textFontFamily": "JetBrainsMonoNL Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }
