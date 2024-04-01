@@ -49,6 +49,18 @@
         "icon": "IbDocumentText",
         "for": "everything",
         "order": 5
+      },
+      {
+        "rule": "05 -",
+        "icon": "TiPencilMinus",
+        "for": "everything",
+        "order": 6
+      },
+      {
+        "rule": "06 -",
+        "icon": "CoCalendarEvent",
+        "for": "everything",
+        "order": 7
       }
     ],
     "extraMargin": {
