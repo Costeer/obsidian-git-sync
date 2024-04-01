@@ -78,13 +78,19 @@
         "rule": "Dev",
         "icon": "FiTerminal",
         "for": "everything",
-        "order": 10
+        "order": 11
       },
       {
         "rule": "X -",
         "icon": "FabLinux",
         "for": "everything",
-        "order": 11
+        "order": 10
+      },
+      {
+        "rule": "Aufgaben",
+        "icon": "OcTasklist16",
+        "for": "everything",
+        "order": 12
       }
     ],
     "extraMargin": {
