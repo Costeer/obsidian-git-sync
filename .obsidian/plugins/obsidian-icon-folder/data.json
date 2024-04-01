@@ -15,28 +15,40 @@
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
-        "rule": "00",
-        "icon": "BoBxGlobeAlt",
+        "rule": "Catppuccin",
+        "icon": "LiCat",
         "for": "everything",
         "order": 0
       },
       {
-        "rule": "01",
-        "icon": "BoBxsFlask",
+        "rule": "00 -",
+        "icon": "BoBxGlobeAlt",
         "for": "everything",
         "order": 1
       },
       {
-        "rule": "02",
-        "icon": "BoBxPackage",
+        "rule": "01 -",
+        "icon": "BoBxsFlask",
         "for": "everything",
         "order": 2
       },
       {
-        "rule": "Catppuccin",
-        "icon": "LiCat",
+        "rule": "02 -",
+        "icon": "BoBxPackage",
         "for": "everything",
         "order": 3
+      },
+      {
+        "rule": "03 -",
+        "icon": "RiBookmarkLine",
+        "for": "everything",
+        "order": 4
+      },
+      {
+        "rule": "04 -",
+        "icon": "IbDocumentText",
+        "for": "everything",
+        "order": 5
       }
     ],
     "extraMargin": {
