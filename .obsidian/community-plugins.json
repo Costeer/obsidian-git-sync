@@ -7,16 +7,16 @@
   "cmdr",
   "obsidian-hider",
   "obsidian-projects",
-  "tag-wrangler",
   "highlightr-plugin",
   "obsidian-icons-plugin",
-  "obsidian-style-settings",
   "obsidian-advanced-slides",
   "homepage",
   "obsidian-banners",
-  "obsidian-plugin-toc",
   "css-editor",
   "colored-text",
   "obsidian-icon-folder",
-  "templater-obsidian"
+  "templater-obsidian",
+  "calendar",
+  "cmenu-plugin",
+  "obsidian-completr"
 ]

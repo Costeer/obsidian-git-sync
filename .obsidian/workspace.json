@@ -34,16 +34,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10bf406a1bc86bff",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "2b0bf9475c6b850a",
             "type": "leaf",
             "state": {
@@ -59,11 +49,13 @@
             }
           },
           {
-            "id": "e1909efcb5533744",
+            "id": "edf8306d8d260ce1",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -81,23 +73,6 @@
         "type": "tabs",
         "dimension": 67.94117647058823,
         "children": [
-          {
-            "id": "c67d5e3c970ecf7c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "06 - Daily/2024-04-01.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "071d143cf1e03290",
             "type": "leaf",
@@ -136,6 +111,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4d25b39012c4eac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }

@@ -3,7 +3,6 @@
   "global-search",
   "switcher",
   "graph",
-  "backlink",
   "canvas",
   "outgoing-link",
   "tag-pane",
@@ -13,8 +12,6 @@
   "note-composer",
   "command-palette",
   "editor-status",
-  "bookmarks",
-  "markdown-importer",
   "outline",
   "word-count",
   "file-recovery"
