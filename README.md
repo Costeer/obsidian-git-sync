@@ -50,16 +50,19 @@ Diese unterteilungen sollen dir dabei helfen verschiedene arten von notiezen von
 *also wo kommt was rein??*
 
 #### <span style="color:#51e1e9">Projects</span>
-In projects sammelt man notiezen für aufgaben die entweder nur eine kurze dauer haben oder einen abgabetermien
+In projects sammelt man notiezen für aufgaben die entweder nur eine kurze dauer haben oder einen abgabetermien.
 
 #### <span style="color:#54b6f8">Areas</span>
-Areas sind meisens größer und umfangreicher als Projects und können unendlich oft erweitert und verändert werden und dienen als überkategorie für notiezen wie z.b. Mahlen; Programieren oder Kochen
+Areas sind meisens größer und umfangreicher als Projects und können unendlich oft erweitert und verändert werden und dienen als überkategorie für notiezen wie z.b. Mahlen; Programieren oder Kochen.
 
 #### <span style="color:#437cf3">Resources</span>
-Nicht eigens verfasste Artikel zusammenfasungen oder sonstieges welche als basis oder zum unterstüzen von eigenen notiezen genutzt werden
+Nicht eigens verfasste Artikel zusammenfasungen oder sonstieges welche als basis oder zum unterstüzen von eigenen notiezen genutzt werden.
+
+#### Permanent
+Vollends durchdachte und vertig geschriebene notiezen welche präsentiert oder weitergegeben werden könnten.
 
 #### Fleeting
-Fleting notes sind nicht sehr durchdacht schnell geschriebene notizen die "im momment" geschrieben werden und später weiter bearbeitet werden
+Fleting notes sind nicht sehr durchdacht schnell geschriebene notizen die "im momment" geschrieben werden und später weiter bearbeitet werden.
 #### <span style="color:#e3365e">Archives</span>
 vertige projekte oder nicht mehr bearbeitet werdende Areas 
 #### Inhalt vom Vault
