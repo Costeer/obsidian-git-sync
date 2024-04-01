@@ -11,12 +11,9 @@
             "id": "dcfd0ef97bc2ef54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md"
               }
             }
           }
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md"
               }
             }
           },
@@ -152,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,18 +194,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
       "markdown-importer:Open format converter": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "dcfd0ef97bc2ef54",
   "lastOpenFiles": [
+    "README.md",
     "1-Stuff/Satisfactory/Iron Fab 1.md",
     "1-Stuff/Satisfactory/Motor Fab 10pM.md",
-    "README.md",
     "1-Stuff/Satisfactory",
     "0-Schule/Geschichte/Michail Gorbatschow.md",
     "0-Schule/Geschichte/Günter Schabowski (Jannes P.).md",
