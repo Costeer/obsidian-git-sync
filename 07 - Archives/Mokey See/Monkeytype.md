@@ -1,6 +1,10 @@
+---
+cssclasses: []
+---
 https://monkeytype.com/
-<span style="color:#e54f9b">Day 1</span>
+<span style="color:#e3365e">Day 1</span>
 ![[Monleytype 1.png]]
+***
 
-<mark style="background: #D2B3FFA6;">Day 3</mark>
+Day 3
 ![[Monkeytype 2.png]]
