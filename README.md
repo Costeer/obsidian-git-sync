@@ -1,10 +1,10 @@
 ---
 cssclasses: []
 ---
-## Obs
-*<span style="font-style:italic; color:#9446f8">Ein Obsidian repo mit Theme, vorgefertigten templates und  voreingestellten einfachem sync über git</span>*
+# <span style="color:#9446f8">Obsidic</span>
+*Ein Obsidian repo mit Theme, vorgefertigten templates und  voreingestellten einfachem sync über git*
 
-### Installieren
+### Installation
 Um alle nötigen Einstellungen für obsidian und git zu übernehmen und dier viel arbeit zu sparen diesen command in den terminal emulator deiner Wahl einfügen.
 *Empfohlene Terminal Emulatoren:*
 Linux
@@ -17,7 +17,7 @@ Windows
 Ipad OS
 - a-shell (git muss installiert werden [pkg install git])
 
-> [!failure] Niemals einfach so commands aus dem Internet kopieren
+> [!failure] Niemals unbekannte befehle aus dem Internet kopieren und ausführen
 
 ```
 git clone https://<Username>:<token>@github.com/Costeer/obsidian-git-sync
@@ -25,8 +25,10 @@ git clone https://<Username>:<token>@github.com/Costeer/obsidian-git-sync
 <token> mit dem access token von deinem GitHub Account tauschen 
 <username> mit deinem Benutzernamen tauschen
 ```
+
 um den access token von deinem GitHub zu bekommen einfach googeln wie das geht.
 
+### Was istz
 ### How to Templates
 
 > [!example] Was sind Templates?
