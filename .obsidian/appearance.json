@@ -4,7 +4,9 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "Notebook Backgrounds",
-    "css-snipet-color-values"
+    "css-snipet-color-values",
+    "RuneScape",
+    "Minecraft"
   ],
   "interfaceFontFamily": "JetBrainsMono Nerd Font,JetBrainsMonoNL Nerd Font",
   "textFontFamily": "JetBrainsMonoNL Nerd Font",
