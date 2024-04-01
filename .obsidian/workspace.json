@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e588769b817c7ef",
+        "id": "576602ff70a6b291",
         "type": "tabs",
         "children": [
           {
-            "id": "cff7cd1693c24947",
+            "id": "dcfd0ef97bc2ef54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cff7cd1693c24947",
+  "active": "dcfd0ef97bc2ef54",
   "lastOpenFiles": [
     "1-Stuff/Satisfactory/Iron Fab 1.md",
     "1-Stuff/Satisfactory/Motor Fab 10pM.md",

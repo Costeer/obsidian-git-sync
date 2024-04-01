@@ -1,10 +1,9 @@
 {
   "accentColor": "#c6a0f6",
-  "cssTheme": "Border",
+  "cssTheme": "Obsidianite",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "Notebook Backgrounds",
-    "css-snipet-color-values",
-    "Iterative Rainbow Folder Titles"
+    "css-snipet-color-values"
   ]
 }
