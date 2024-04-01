@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "66acce44dfc3ccf8",
+        "id": "6ab06f584e22cca4",
         "type": "tabs",
         "children": [
           {
-            "id": "098686b3cc0180f4",
+            "id": "a133dde0dafa1945",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-01 15.15.41.excalidraw.md"
+                "file": "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Fachkraft.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-01 15.15.41.excalidraw.md",
+                "file": "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Fachkraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-01 15.15.41.excalidraw.md",
+                "file": "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Fachkraft.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-01 15.15.41.excalidraw.md"
+                "file": "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Fachkraft.md"
               }
             }
           },
@@ -149,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-01 15.15.41.excalidraw.md",
+                "file": "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Fachkraft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,10 +204,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "10bf406a1bc86bff",
+  "active": "a133dde0dafa1945",
   "lastOpenFiles": [
-    "03 - Resources/Excalidraw/Drawing 2024-04-01 15.12.43.excalidraw.md",
+    "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Fachkräftemangel Diagramm.md",
+    "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Die Letzte Generation.md",
+    "00 - Maps of Content/0 - Schule/Politik Wirtschaft/Arbeitsverhältnisse.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-01 15.15.41.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-01 15.12.43.excalidraw.md",
     "01 - Projects/Dev/Gruvbox read me.md",
     "01 - Projects/Dev/Easy ways to change the background color on a particular note.md",
     "01 - Projects/Dev/Colours.md",
@@ -227,9 +233,6 @@
     "03 - Resources/Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-02-23 11.38.33.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-03-01 11.04.06.excalidraw.md",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Resurces/Excalidraw",
