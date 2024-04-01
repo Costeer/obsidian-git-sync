@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f0cb101f7f4b970",
+        "id": "4e588769b817c7ef",
         "type": "tabs",
         "children": [
           {
-            "id": "ac6ae1f5a6195cde",
+            "id": "cff7cd1693c24947",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4367f55ad0bcc9c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Stuff/Satisfactory/Motor Fab 10pM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Stuff/Satisfactory/Motor Fab 10pM.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Stuff/Satisfactory/Motor Fab 10pM.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Stuff/Satisfactory/Motor Fab 10pM.md"
+                "file": "README.md"
               }
             }
           },
@@ -166,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Stuff/Satisfactory/Motor Fab 10pM.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4367f55ad0bcc9c1",
+  "active": "cff7cd1693c24947",
   "lastOpenFiles": [
     "1-Stuff/Satisfactory/Iron Fab 1.md",
     "1-Stuff/Satisfactory/Motor Fab 10pM.md",
