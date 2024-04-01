@@ -73,6 +73,18 @@
         "icon": "CoOption",
         "for": "everything",
         "order": 9
+      },
+      {
+        "rule": "Dev",
+        "icon": "FiTerminal",
+        "for": "everything",
+        "order": 10
+      },
+      {
+        "rule": "X -",
+        "icon": "FabLinux",
+        "for": "everything",
+        "order": 11
       }
     ],
     "extraMargin": {
@@ -89,9 +101,6 @@
     "iconIdentifier": ":",
     "iconsInLinksEnabled": true
   },
-  "99 - Meta/Templates": "TiTemplate",
-  "99 - Meta/Obsidian Plugins": "TiPlug",
-  "07 - Archives/Mokey See": "SiMonkeytype",
   "03 - Resources/Pictures": "IbPhoto",
   "03 - Resources/Excalidraw": "FasPenNib",
   "03 - Resources/Excalidraw/Scripts": "BoBxHash"
