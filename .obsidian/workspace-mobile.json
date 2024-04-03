@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a98534d6b5fe77c",
+        "id": "c29b0320c382700a",
         "type": "tabs",
         "children": [
           {
-            "id": "dd49251a0bbad2ee",
+            "id": "05a9622f71c5d8ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd49251a0bbad2ee",
+  "active": "05a9622f71c5d8ec",
   "lastOpenFiles": [
     "02 - Areas/0 - Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
     "02 - Areas/0 - Schule/Werte und Normen/Werte und Normen 3. Apr.md",
