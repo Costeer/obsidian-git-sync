@@ -1,0 +1,1 @@
+## Definition von Whäk / Whack

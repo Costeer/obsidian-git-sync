@@ -2,10 +2,7 @@
   "promptDelete": false,
   "newFileLocation": "current",
   "mobileToolbarCommands": [
-    "editor:insert-wikilink",
-    "editor:insert-embed",
     "editor:attach-file",
-    "editor:set-heading",
     "editor:toggle-bold",
     "editor:toggle-italics",
     "editor:toggle-strikethrough",
@@ -20,7 +17,9 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
-    "highlightr-plugin:highlighter-plugin-menu"
+    "highlightr-plugin:highlighter-plugin-menu",
+    "colored-text:alter-color-palette",
+    "colored-text:change-highlight-mode"
   ],
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
