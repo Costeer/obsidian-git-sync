@@ -2,6 +2,7 @@
 cssclasses:
   - base
   - bio
+banner: "![[Obsidian-Overall-Banner-Main.jpg]]"
 ---
 #### Subjects
 - bio
