@@ -148,9 +148,13 @@ change or remove those font-family lines from this snippet.
 .che,
 .de,
 .en,
+.erd,
+.ge,
+.ma,
+.mu,
 .,
-.friday,
-.saturday
+.,
+  
   )
   svg {
   color: color-mix(in srgb, var(--highlight) 60%, transparent);
