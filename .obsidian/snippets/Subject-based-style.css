@@ -17,7 +17,7 @@ change or remove those font-family lines from this snippet.
   --dark: #333333;
 }
 
-.daily {
+.base {
   --dark: var(--dark);
   color: var(--highlight);
   background-color: var(--dark);
@@ -83,14 +83,14 @@ change or remove those font-family lines from this snippet.
   --dark: #100305;
 }
 
-.daily :is(h1, .HyperMD-header.HyperMD-header-1) {
+.base :is(h1, .HyperMD-header.HyperMD-header-1) {
   color: var(--primary);
   text-align: center;
   font-size: 60px;
   font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono";
   padding: 0 !important;
 }
-.daily :is(h2, .HyperMD-header.HyperMD-header-2) {
+.base :is(h2, .HyperMD-header.HyperMD-header-2) {
   color: var(--highlight);
   text-align: center;
   font-size: 30px;
@@ -98,7 +98,7 @@ change or remove those font-family lines from this snippet.
   font-style: italic;
   padding: 0 !important;
 }
-.daily :is(h3, .HyperMD-header.HyperMD-header-3) {
+.base :is(h3, .HyperMD-header.HyperMD-header-3) {
   color: var(--primary);
   text-align: center;
 
@@ -106,7 +106,7 @@ change or remove those font-family lines from this snippet.
   font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono";
   padding-top: 0;
 }
-.daily :is(h4, .HyperMD-header.HyperMD-header-4) {
+.base :is(h4, .HyperMD-header.HyperMD-header-4) {
   background-color: var(--primary);
   color: var(--dark);
   /* border-color: var(--primary); */
@@ -123,11 +123,11 @@ change or remove those font-family lines from this snippet.
   /* border-width: 2px; */
   word-wrap: normal;
 }
-.daily p {
+.base p {
   margin-top: 4px;
   margin-bottom: 4px;
 }
-.daily :is(a:link, .cm-hmd-internal-link) {
+.base :is(a:link, .cm-hmd-internal-link) {
   color: var(--primary);
 }
 .daily :is(a:hover, .cm-hmd-internal-link:hover) {
