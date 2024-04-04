@@ -85,7 +85,6 @@ change or remove those font-family lines from this snippet.
 
 .base :is(h1, .HyperMD-header.HyperMD-header-1) {
   color: var(--primary);
-  text-align: center;
   font-size: 60px;
   font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono";
   padding: 0 !important;
