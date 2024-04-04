@@ -29,9 +29,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "157c0366c35e24f9",
+            "type": "leaf",
+            "state": {
+              "type": "css-editor-view",
+              "state": {
+                "filename": "Subject-based-style.css"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +136,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 - Projects/Dev/Subject-based-color.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,10 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23aba163ce67f068",
+  "active": "157c0366c35e24f9",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled.md",
     "01 - Projects/Dev/Subject-based-color.md",
+    "README.md",
     "06 - Daily/2024-04-04.md",
     "06 - Daily/2024-04-03.md",
     "06 - Daily/2024-04-01 First Daily Note.md",
@@ -203,7 +213,6 @@
     "03 - Resources/Text",
     "0-Schule/Physik/Radioaktivität.md",
     "0-Schule/Physik/Waagerechter wurf.md",
-    "0-Schule/Physik/Steigung in Graphen berechnen.md",
     "Pictures/Wn-6.jpeg",
     "Projects - Demo Project",
     "IMG_0224.png",
