@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - base
+  - bio
 ---
 # Subjects
 
