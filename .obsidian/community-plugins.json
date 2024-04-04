@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "table-editor-obsidian",
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
@@ -17,5 +16,6 @@
   "templater-obsidian",
   "calendar",
   "cmenu-plugin",
-  "obsidian-completr"
+  "obsidian-completr",
+  "obsidian-git"
 ]
