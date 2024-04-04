@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "886bfd4236076c89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "307c02698b4db348",
             "type": "leaf",
             "state": {
@@ -31,7 +18,7 @@
             }
           },
           {
-            "id": "ec2cc633e07cbba5",
+            "id": "23aba163ce67f068",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,19 +29,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "23aba163ce67f068",
-            "type": "leaf",
-            "state": {
-              "type": "css-editor-view",
-              "state": {
-                "filename": "Subject-based-style.css"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,6 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "01 - Projects/Dev/Subject-based-color.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,8 +177,8 @@
   },
   "active": "23aba163ce67f068",
   "lastOpenFiles": [
-    "01 - Projects/Dev/Subject-based-color.md",
     "README.md",
+    "01 - Projects/Dev/Subject-based-color.md",
     "06 - Daily/2024-04-04.md",
     "06 - Daily/2024-04-03.md",
     "06 - Daily/2024-04-01 First Daily Note.md",

@@ -92,7 +92,6 @@ change or remove those font-family lines from this snippet.
 }
 .base :is(h2, .HyperMD-header.HyperMD-header-2) {
   color: var(--highlight);
-  text-align: center;
   font-size: 30px;
   font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono";
   font-style: italic;
@@ -100,7 +99,6 @@ change or remove those font-family lines from this snippet.
 }
 .base :is(h3, .HyperMD-header.HyperMD-header-3) {
   color: var(--primary);
-  text-align: center;
 
   font-size: 32px;
   font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono";
