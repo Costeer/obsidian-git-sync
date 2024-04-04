@@ -24,12 +24,24 @@
             "id": "886bfd4236076c89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "css-editor-view",
+              "state": {
+                "filename": "Subject-based-style.css"
+              }
+            }
+          },
+          {
+            "id": "307c02698b4db348",
+            "type": "leaf",
+            "state": {
+              "type": "css-editor-view",
+              "state": {
+                "filename": "Daily Note Themes.css"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +184,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "886bfd4236076c89",
+  "active": "307c02698b4db348",
   "lastOpenFiles": [
     "06 - Daily/2024-04-04.md",
     "06 - Daily/2024-04-03.md",
