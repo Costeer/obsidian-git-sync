@@ -41,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,6 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "01 - Projects/Dev/Subject-based-color.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -184,7 +185,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "157c0366c35e24f9",
+  "active": "23aba163ce67f068",
   "lastOpenFiles": [
     "Untitled.md",
     "01 - Projects/Dev/Subject-based-color.md",
