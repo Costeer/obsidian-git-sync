@@ -42,6 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23aba163ce67f068",
+            "type": "leaf",
+            "state": {
+              "type": "css-editor-view",
+              "state": {
+                "filename": "Subject-based-style.css"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -190,8 +200,8 @@
   },
   "active": "ec2cc633e07cbba5",
   "lastOpenFiles": [
-    "README.md",
     "01 - Projects/Dev/Subject-based-color.md",
+    "README.md",
     "06 - Daily/2024-04-04.md",
     "06 - Daily/2024-04-03.md",
     "06 - Daily/2024-04-01 First Daily Note.md",
