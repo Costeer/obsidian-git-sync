@@ -144,10 +144,10 @@ change or remove those font-family lines from this snippet.
   margin-right: auto !important;
 }
 
-:is(.sunday,
-.monday,
-.tuesday,
-.wednesday,
+:is(.bio,
+.che,
+.de,
+.en,
 .thursday,
 .friday,
 .saturday
