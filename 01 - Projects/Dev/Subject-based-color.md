@@ -1,6 +1,6 @@
 # Subjects
 
 - Bio
-- Ch
+- che
 - de
 - 
