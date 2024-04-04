@@ -1,6 +1,3 @@
----
-cssclasses: []
----
 # <span style="color:#9446f8">Obsidic</span>
 *Ein Obsidian repo mit Theme, vorgefertigten templates und  voreingestellten einfachem sync über git*
 

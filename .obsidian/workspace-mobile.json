@@ -11,12 +11,9 @@
             "id": "caad4af818c0402f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "css-editor-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "filename": "Daily Note Themes.css"
               }
             }
           }
@@ -115,7 +112,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -164,10 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "caad4af818c0402f",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Deutsch/In Wahrheit ist kiezdeutsch rassistisch.md",
     "README.md",
+    "02 - Areas/0 - Schule/Deutsch/In Wahrheit ist kiezdeutsch rassistisch.md",
     "02 - Areas/0 - Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
     "02 - Areas/0 - Schule/Werte und Normen/Werte und Normen 3. Apr.md",
     "02 - Areas/0 - Schule/Werte und Normen/Aufgaben/Gerechtigkeit als Fairness.md",
