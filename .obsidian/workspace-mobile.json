@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c29b0320c382700a",
+        "id": "37b7cb4c5a574028",
         "type": "tabs",
         "children": [
           {
-            "id": "05a9622f71c5d8ec",
+            "id": "caad4af818c0402f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,12 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05a9622f71c5d8ec",
+  "active": "caad4af818c0402f",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Deutsch/In Wahrheit ist kiezdeutsch rassistisch.md",
+    "README.md",
     "02 - Areas/0 - Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
     "02 - Areas/0 - Schule/Werte und Normen/Werte und Normen 3. Apr.md",
     "02 - Areas/0 - Schule/Werte und Normen/Aufgaben/Gerechtigkeit als Fairness.md",
-    "README.md",
     "02 - Areas/0 - Schule/Werte und Normen/Aufgaben/Definitionen Machen für Übung weil.md",
     "02 - Areas/0 - Schule/Werte und Normen/Aristoteles Definitionen.md",
     "02 - Areas/0 - Schule/Chemie/Radikale Chemie.md",
@@ -184,7 +185,6 @@
     "99 - Meta/00 - Templates/Daily Template.md",
     "02 - Areas/0 - Schule/Deutsch/Sprachwandel.md",
     "02 - Areas/0 - Schule/Chemie/Aldehyde.md",
-    "02 - Areas/0 - Schule/Deutsch/In Wahrheit ist kiezdeutsch rassistisch.md",
     "03 - Resources/Text/In Wahrheit ist Kiezdeutsch rassistisch.md",
     "02 - Areas/0 - Schule/Deutsch/Erörterung.md",
     "03 - Resources/Text",
