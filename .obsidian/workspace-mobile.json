@@ -11,13 +11,25 @@
             "id": "caad4af818c0402f",
             "type": "leaf",
             "state": {
-              "type": "css-editor-view",
+              "type": "markdown",
               "state": {
-                "filename": "Daily Note Themes.css"
+                "file": "06 - Daily/2024-04-04.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
+          },
+          {
+            "id": "886bfd4236076c89",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,8 +172,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "caad4af818c0402f",
+  "active": "886bfd4236076c89",
   "lastOpenFiles": [
+    "06 - Daily/2024-04-04.md",
+    "06 - Daily/2024-04-03.md",
+    "06 - Daily/2024-04-01 First Daily Note.md",
     "README.md",
     "02 - Areas/0 - Schule/Deutsch/In Wahrheit ist kiezdeutsch rassistisch.md",
     "02 - Areas/0 - Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
@@ -176,8 +191,6 @@
     "02 - Areas/0 - Schule/Chemie/Untitled.md",
     "02 - Areas/0 - Schule/Chemie/Proton.md",
     "02 - Areas/0 - Schule/Chemie/Atom.md",
-    "06 - Daily/2024-04-03.md",
-    "06 - Daily/2024-04-01 First Daily Note.md",
     "99 - Meta/00 - Templates/Daily Template.md",
     "02 - Areas/0 - Schule/Deutsch/Sprachwandel.md",
     "02 - Areas/0 - Schule/Chemie/Aldehyde.md",
@@ -188,7 +201,6 @@
     "0-Schule/Physik/Waagerechter wurf.md",
     "0-Schule/Physik/Steigung in Graphen berechnen.md",
     "0-Schule/Physik/Merksatz Gravitation.md",
-    "0-Schule/Physik/Kilogramm.md",
     "Pictures/Wn-6.jpeg",
     "Projects - Demo Project",
     "IMG_0224.png",
