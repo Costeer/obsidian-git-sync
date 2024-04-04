@@ -40,7 +40,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 - Projects/Dev/Subject-based-color.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -184,10 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "caad4af818c0402f",
+  "active": "886bfd4236076c89",
   "lastOpenFiles": [
-    "06 - Daily/2024-04-04.md",
     "01 - Projects/Dev/Subject-based-color.md",
+    "06 - Daily/2024-04-04.md",
     "06 - Daily/2024-04-03.md",
     "06 - Daily/2024-04-01 First Daily Note.md",
     "README.md",
