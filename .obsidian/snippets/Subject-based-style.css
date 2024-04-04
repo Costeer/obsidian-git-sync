@@ -130,15 +130,15 @@ change or remove those font-family lines from this snippet.
 .base :is(a:link, .cm-hmd-internal-link) {
   color: var(--primary);
 }
-.daily :is(a:hover, .cm-hmd-internal-link:hover) {
+.base :is(a:hover, .cm-hmd-internal-link:hover) {
   color: var(--highlight);
 }
-.daily hr {
+.base hr {
   margin-top: 20px !important;
   margin-bottom: 20px !important;
 }
 
-.daily img {
+.base img {
   display: block !important;
   margin-left: auto !important;
   margin-right: auto !important;
