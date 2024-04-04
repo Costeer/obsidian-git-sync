@@ -6,4 +6,9 @@
 - en
 - erd
 - ge
-- 
+- ma
+- mu
+- nl
+- ph
+- pw
+- wn
