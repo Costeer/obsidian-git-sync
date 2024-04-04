@@ -2,7 +2,7 @@
 cssclasses:
   - base
   - bio
-banner: "![[Biokatalyse]]"
+banner:
 ---
 #### Subjects
 - bio
@@ -17,4 +17,4 @@ banner: "![[Biokatalyse]]"
 - ph
 - pw
 - wn
-![]
+lyse.jpeg]]]
