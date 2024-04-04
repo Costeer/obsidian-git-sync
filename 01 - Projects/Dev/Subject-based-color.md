@@ -2,7 +2,7 @@
 cssclasses:
   - base
   - bio
-banner: "![[]]"
+banner: "![[Biokatalyse]]"
 ---
 #### Subjects
 - bio
