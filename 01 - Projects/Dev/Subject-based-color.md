@@ -17,3 +17,4 @@ banner: "![[Biokatalyse]]"
 - ph
 - pw
 - wn
+![]
