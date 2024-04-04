@@ -17,4 +17,3 @@ banner:
 - ph
 - pw
 - wn
-lyse.jpeg]]]
