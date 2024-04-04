@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/2024-04-04.md",
+                "file": "01 - Projects/Dev/Subject-based-color.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,8 +40,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,6 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "01 - Projects/Dev/Subject-based-color.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -184,9 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "307c02698b4db348",
+  "active": "caad4af818c0402f",
   "lastOpenFiles": [
     "06 - Daily/2024-04-04.md",
+    "01 - Projects/Dev/Subject-based-color.md",
     "06 - Daily/2024-04-03.md",
     "06 - Daily/2024-04-01 First Daily Note.md",
     "README.md",
@@ -212,7 +213,6 @@
     "0-Schule/Physik/Radioaktivität.md",
     "0-Schule/Physik/Waagerechter wurf.md",
     "0-Schule/Physik/Steigung in Graphen berechnen.md",
-    "0-Schule/Physik/Merksatz Gravitation.md",
     "Pictures/Wn-6.jpeg",
     "Projects - Demo Project",
     "IMG_0224.png",
