@@ -47,7 +47,7 @@ change or remove those font-family lines from this snippet.
   --pill-cover-hover: color-mix(in srgb, var(--highlight) 60%, transparent);
 }
 
-.sunday {
+.bio {
   --highlight: #f39caa;
   --primary: #f6466f;
   --dark: #2d0916;
@@ -154,7 +154,8 @@ change or remove those font-family lines from this snippet.
 .mu,
 .nl,
 .ph,
-  
+.pw,
+.wn
   )
   svg {
   color: color-mix(in srgb, var(--highlight) 60%, transparent);
