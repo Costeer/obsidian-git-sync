@@ -57,17 +57,17 @@ change or remove those font-family lines from this snippet.
   --primary: #f65848;
   --dark: #3c0e0b;
 }
-.bio {
+.ph {
   --highlight: #aedbfa;
   --primary: #3b87f0;
   --dark: #070615;
 }
-.wednesday {
+.erd {
   --highlight: #fff3c4;
   --primary: #ffd63d;
   --dark: #2c1404;
 }
-.thursday {
+.en {
   --highlight: #f7b79b;
   --primary: #ed6022;
   --dark: #210b04;
