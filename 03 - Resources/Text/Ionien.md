@@ -1,3 +1,4 @@
+
 # Karte von Ionien
 ![[IMG_0243.jpeg|330]]
 ### Was passiert in Ionien
@@ -23,7 +24,8 @@ Das Unternehmen Fossen gerat unter Druck, weil es in Folge von Stauprojekten im 
 - **Umbenennen von Ionien zu Superland**
 - Billige Krankenkassen
 - Verbot von Lobbyarbeit
-- Meinungsfreiheit
+- uneingeschränkte Meinungsfreiheit durch den staat
+- verbesserung von Lebensqualität der Bürger 
 ### Vorsetzte Genaue
 - Verstaatlichung der energieproduktion
 - Abschalten aller Kohlekraftwerke
