@@ -9,4 +9,8 @@ Die Stromnetze der einzelnen Regionen befinden sich im Besitz des jeweiligen Unt
 Diese Ausgangslage verändert sich durch folgende Entwicklungen:
 Viele Kernkraftwerke in Uranistan na-hern sich ihrem Laufzeitende. Sie meldeten in den letzten Jahren häufiger Stör-fälle und mussten zeitweise vom Netz genommen werden. Die Regierung Ioni-ens fordert die Abschaltung der ältesten Reaktoren in Grenznähe.
 
-Ventour produziert in seinen Offshore-Windparks oft Energieüberschüsse. Das Vorhaben, Strom in andere Regionen lo-niens zu liefern, scheitert bislang daran, dass die regionalen Netze nur gegen die. Entrichtung hoher Durchleitungsgebüh
+Ventour produziert in seinen Offshore-Windparks oft Energieüberschüsse. Das Vorhaben, Strom in andere Regionen lo-niens zu liefern, scheitert bislang daran, dass die regionalen Netze nur gegen die. Entrichtung hoher Durchleitungsgebühren genutzt werden können. Dadurch wird der Windstrom für den Endverbraucher teurer als der regionale Strom.
+
+Die durch einen Wirtschaftsaufschwung wachsende Stromnachfrage im Osten verändert die Bedingungen der Braun-kohleverstromung: Die Kohleförderung im Tagebau soll stärker ausgeweitet werden als bislang geplant. Dadurch werden in der dicht besiedelten Region bald Wohnsiedlungen und ganze Kleinstädte dem Braunkohleabbau weichen müssen.
+In den vor allem von einfachen Industriearbeitern bewohnten Siedlungen, aber auch bei Klimaschützern organisiert sich massiver Widerstand.
+Die dezentrale Stromproduktion durch Solaranlagen privater Haushalte wird in lonien immer wichtiger. Mit einem Anteil von ca. 9 Prozent an der gesamten Stromerzeugung ist Ionien hier international Vorreiter. Eine Grundlage hierfür
