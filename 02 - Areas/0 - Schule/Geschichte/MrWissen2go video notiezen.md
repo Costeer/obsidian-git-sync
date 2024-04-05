@@ -23,4 +23,7 @@
 - Keine gewalltenteilung
 - totale herrschaftsgewalt der SED
 - Spitze generasekretär
+#### Unterdrückung
+- Ministerium für Staatssicherheit STASI
+- Arbeiter mehr arbeiten
 - 
