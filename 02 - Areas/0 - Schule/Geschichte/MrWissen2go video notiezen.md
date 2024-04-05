@@ -12,4 +12,6 @@
 
 ### Antifaschismus
 - Nazis werden entlassen
+- Nazis dürfen nicht in hohe Ämter
+- Kapitalisten werden enteignet
 - 
