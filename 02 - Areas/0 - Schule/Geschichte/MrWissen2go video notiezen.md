@@ -9,4 +9,7 @@
 - Produktionsgenossenschaften werden eingeführt
 ### Weltannschaung
 - “Mehr macht den Arbeitern“
+
+### Antifaschismus
+- Nazis werden entlassen
 - 
