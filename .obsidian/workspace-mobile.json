@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Geschichte/Vorteile der Plahnwirtschaft.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -201,10 +200,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d11c7ff0be40c86",
+  "active": "157c0366c35e24f9",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Geschichte/MrWissen2go video notiezen.md",
     "02 - Areas/0 - Schule/Geschichte/Vorteile der Plahnwirtschaft.md",
+    "02 - Areas/0 - Schule/Geschichte/MrWissen2go video notiezen.md",
     "02 - Areas/0 - Schule/Geschichte/Joöbofuhbv.md",
     "02 - Areas/0 - Schule/Geschichte/Helmut Kohl (Lena R.).md",
     "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
