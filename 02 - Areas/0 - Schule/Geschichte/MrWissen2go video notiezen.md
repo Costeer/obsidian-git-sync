@@ -21,4 +21,6 @@
 - Verschmelzung von SPD und KPD
 - Sozieldemokraten werden rausgedrängt
 - Keine gewalltenteilung
+- totale herrschaftsgewalt der SED
+- Spitze generasekretär
 - 
