@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 - Projects/Dev/Subject-based-color.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -214,10 +213,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c3ec702ce882cf0",
+  "active": "157c0366c35e24f9",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Geschichte/MrWissen2go video notiezen.md",
     "01 - Projects/Dev/Subject-based-color.md",
+    "02 - Areas/0 - Schule/Geschichte/MrWissen2go video notiezen.md",
     "01 - Projects/Dev/Gruvbox read me.md",
     "01 - Projects/Dev/Callouts.md",
     "02 - Areas/0 - Schule/Geschichte/Vorteile der Plahnwirtschaft.md",
