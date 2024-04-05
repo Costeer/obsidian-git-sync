@@ -21,32 +21,6 @@
             }
           },
           {
-            "id": "a402dd2ff18d29b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Geschichte/MrWissen2go video notiezen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d11c7ff0be40c86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Geschichte/Vorteile der Plahnwirtschaft.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "157c0366c35e24f9",
             "type": "leaf",
             "state": {
@@ -69,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,6 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "02 - Areas/0 - Schule/Geschichte/Helmut Kohl (Lena R.).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -213,15 +187,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "157c0366c35e24f9",
+  "active": "23aba163ce67f068",
   "lastOpenFiles": [
-    "01 - Projects/Dev/Subject-based-color.md",
+    "02 - Areas/0 - Schule/Geschichte/Vorteile der Plahnwirtschaft.md",
+    "02 - Areas/0 - Schule/Geschichte/Helmut Kohl (Lena R.).md",
     "02 - Areas/0 - Schule/Geschichte/MrWissen2go video notiezen.md",
+    "01 - Projects/Dev/Subject-based-color.md",
     "01 - Projects/Dev/Gruvbox read me.md",
     "01 - Projects/Dev/Callouts.md",
-    "02 - Areas/0 - Schule/Geschichte/Vorteile der Plahnwirtschaft.md",
     "02 - Areas/0 - Schule/Geschichte/Joöbofuhbv.md",
-    "02 - Areas/0 - Schule/Geschichte/Helmut Kohl (Lena R.).md",
     "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
     "03 - Resources/Pictures/Biokatalyse.jpeg",
     "Untitled.md",
