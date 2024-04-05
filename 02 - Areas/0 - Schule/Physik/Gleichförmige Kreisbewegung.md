@@ -8,5 +8,5 @@ Für die bewegungs geschwindigkeit kilt die Formel:
 
 
 
-> [!failure] 
- > Contents
+> [!failure] Der betrag der Zentrifegalkraft ist proportonal
+> - Zur Masse des 
