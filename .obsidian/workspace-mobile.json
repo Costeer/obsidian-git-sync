@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "a402dd2ff18d29b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/0 - Schule/Geschichte/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "157c0366c35e24f9",
             "type": "leaf",
             "state": {
@@ -30,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+            "file": "02 - Areas/0 - Schule/Geschichte/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -174,10 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23aba163ce67f068",
+  "active": "a402dd2ff18d29b9",
   "lastOpenFiles": [
-    "01 - Projects/Dev/Subject-based-color.md",
     "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+    "02 - Areas/0 - Schule/Geschichte/Untitled.md",
+    "01 - Projects/Dev/Subject-based-color.md",
     "03 - Resources/Pictures/Biokatalyse.jpeg",
     "Untitled.md",
     "README.md",
@@ -203,7 +218,6 @@
     "03 - Resources/Text/In Wahrheit ist Kiezdeutsch rassistisch.md",
     "02 - Areas/0 - Schule/Deutsch/Erörterung.md",
     "03 - Resources/Text",
-    "0-Schule/Physik/Radioaktivität.md",
     "Pictures/Wn-6.jpeg",
     "Projects - Demo Project",
     "IMG_0224.png",
