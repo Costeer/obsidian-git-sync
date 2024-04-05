@@ -1,4 +1,5 @@
-### Staatsgründung
+### Staatsgründung DDR
+*umstände der staatsgründung*
 #### Wirtschaft
 - Udssr durch krieg geschädigt
 - “klaut“ Ressourcen aus der besatzungszohnen
