@@ -6,6 +6,5 @@ Für die bewegungs geschwindigkeit kilt die Formel:
 ![[Drawing 2024-03-01 10.58.39.excalidraw]]
 ![[Drawing 2024-03-05 10.43.52.excalidraw]]
 
-> [!Warning
-> ] Title
+> [!NOTE] Title
 > Contents
