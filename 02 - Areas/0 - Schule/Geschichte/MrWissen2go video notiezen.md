@@ -2,4 +2,5 @@
 #### Wirtschaft
 - Udssr durch krieg geschädigt
 - “klaut“ Ressourcen aus der besatzungszohnen
-- Infrastruktur der besatzungs
+- Infrastruktur der Besatzungszone wird geschwächt 
+- 
