@@ -26,4 +26,5 @@
 #### Unterdrückung
 - Ministerium für Staatssicherheit STASI
 - Arbeiter mehr arbeiten
+- 1.000.000. streikende Menschen 
 - 
