@@ -1,2 +1,2 @@
 - die Grundbedarfsmittel wahren vorhanden
-- 
+- tzt
