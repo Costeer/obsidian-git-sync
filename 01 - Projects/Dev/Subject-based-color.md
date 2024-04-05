@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - base
-  - bio
+  - che
 banner:
 ---
 #### Subjects

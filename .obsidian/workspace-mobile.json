@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,6 +165,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "01 - Projects/Dev/Subject-based-color.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -213,7 +214,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "157c0366c35e24f9",
+  "active": "9c3ec702ce882cf0",
   "lastOpenFiles": [
     "01 - Projects/Dev/Subject-based-color.md",
     "01 - Projects/Dev/Gruvbox read me.md",
