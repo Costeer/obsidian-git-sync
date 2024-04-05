@@ -6,12 +6,10 @@ Für die bewegungs geschwindigkeit kilt die Formel:
 ![[Drawing 2024-03-01 10.58.39.excalidraw]]
 ![[Drawing 2024-03-05 10.43.52.excalidraw]]
 
-
-
 > [!failure] Der betrag der Zentrifegalkraft ist proportonal
 > - Zur Masse des rotierenden Körpers Fz = m
 > - Zum radius der Kreisbahn Fz = r
 > - Und zu Quadrat der Winkelgeschwindigheit mit der sich der Körper längs des Kreises bewegt Fz = w^2
-> Es gilt
+> Es gilt:
 $$ Fz = m*r*w^2 = m * Vb^2/r  $$
 
