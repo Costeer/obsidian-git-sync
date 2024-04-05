@@ -18,4 +18,6 @@ Das Unternehmen Fossen gerat unter Druck, weil es in Folge von Stauprojekten im 
 # Die Super Partei (DSP)
 ### Vorsetzte
 - Verstaatlichung der energieproduktion
+- Abschalten aller Kohlekraftwerke
+- Kohlekraftwerke Zu Atomkraftwerken umwandeln
 - 
