@@ -21,7 +21,7 @@ Das Unternehmen Fossen gerat unter Druck, weil es in Folge von Stauprojekten im 
 - Sichere Arbeitsplätze
 - Naturschutzt
 - Umbenennen von Ionien zu Superland
-- 
+- Universale 
 ### Vorsetzte Genaue
 - Verstaatlichung der energieproduktion
 - Abschalten aller Kohlekraftwerke
