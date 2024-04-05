@@ -7,12 +7,6 @@ Der im Vergleich zum Landesdurchschnitt ärmere und landwirtschaftlich geprägte
 
 Die Stromnetze der einzelnen Regionen befinden sich im Besitz des jeweiligen Unternehmens. Die Preisstruktur ist aus Sicht der Kunden relativ ähnlich; etwas günstigere Preise haben Privatverbrau-cher im Süden und im Norden, wohingegen im Osten den energieintensiven Unternehmen Rabatte eingeräumt werden.
 Diese Ausgangslage verändert sich durch folgende Entwicklungen:
-Viele Kernkraftwerke in Uranistan na-hern sich ihrem Laufzeitende. Sie meldeten in den letzten Jahren häufiger Stör-fälle und mussten
+Viele Kernkraftwerke in Uranistan na-hern sich ihrem Laufzeitende. Sie meldeten in den letzten Jahren häufiger Stör-fälle und mussten zeitweise vom Netz genommen werden. Die Regierung Ioni-ens fordert die Abschaltung der ältesten Reaktoren in Grenznähe.
 
-1, zeitweise vom Netz
-
-genommen werden. Die Regierung Ioni-ens fordert die Abschaltung der ältesten Reaktoren in Grenznähe.
-
-Ventour produziert in seinen Offshore-Windparks oft Energieüberschüsse. Das Vorhaben, Strom in andere Regionen lo-niens zu liefern, scheitert bislang daran, dass die regionalen Netze nur gegen die.
-
-Entrichtung hoher Durchleitungsgebüh-
+Ventour produziert in seinen Offshore-Windparks oft Energieüberschüsse. Das Vorhaben, Strom in andere Regionen lo-niens zu liefern, scheitert bislang daran, dass die regionalen Netze nur gegen die. Entrichtung hoher Durchleitungsgebüh
