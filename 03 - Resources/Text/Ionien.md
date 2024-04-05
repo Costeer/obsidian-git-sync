@@ -23,3 +23,4 @@ Das Unternehmen Fossen gerat unter Druck, weil es in Folge von Stauprojekten im 
 - Offshore Solarenergie
 - Reduktion der Strompreise
 - Verkauf von Überschüssigen Strom
+- Unterstützung oder Kauf von solarKRAFT zur Arbeitsplatz sicherung
