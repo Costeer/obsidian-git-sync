@@ -1,2 +1,2 @@
-- die grundbedarfsmittel wahren vorhanden
+- die Grundbedarfsmittel wahren vorhanden
 - 
