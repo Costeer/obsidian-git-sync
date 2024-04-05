@@ -16,3 +16,6 @@ Die dezentrale Stromproduktion durch Solaranlagen privater Haushalte wird in lon
 Das Unternehmen Fossen gerat unter Druck, weil es in Folge von Stauprojekten im benachbarten Aquarien sowie insgesamt rückläufiger Wassermengen durch klimatische Veränderungen nicht mehr gleichmäßig Strom produzieren kann. Fossen bietet daher nun einen „Sicherheitstarif" (garantierter Strom bei 100 % Preisaufschlag) und einen „Basis-tarif" (garantierter Strom nur außerhalb der Hauptlastzeiten zum bisherigen Preis der Vollversorgung) an.
 
 # Die Super Partei (DSP)
+### Vorsetzte
+- Verstaatlichung der energieproduktion
+- 
