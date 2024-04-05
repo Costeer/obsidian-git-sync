@@ -25,7 +25,8 @@ Das Unternehmen Fossen gerat unter Druck, weil es in Folge von Stauprojekten im 
 - Billige Krankenkassen
 - Verbot von Lobbyarbeit
 - uneingeschränkte Meinungsfreiheit durch den staat
-- verbesserung von Lebensqualität der Bürger 
+- verbesserung von Lebensqualität der Bürger
+- Günstige gut ausgebaute Öfis
 ### Vorsetzte Genaue
 - Verstaatlichung der energieproduktion
 - Abschalten aller Kohlekraftwerke
