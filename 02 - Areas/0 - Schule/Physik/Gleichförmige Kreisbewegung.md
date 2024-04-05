@@ -9,4 +9,5 @@ Für die bewegungs geschwindigkeit kilt die Formel:
 
 
 > [!failure] Der betrag der Zentrifegalkraft ist proportonal
-> - Zur Masse des 
+> - Zur Masse des rotierenden Körpers Fz = m
+> - Zum radius der Kreisbahn Fz
