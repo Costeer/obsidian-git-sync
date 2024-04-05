@@ -20,4 +20,6 @@ Das Unternehmen Fossen gerat unter Druck, weil es in Folge von Stauprojekten im 
 - Verstaatlichung der energieproduktion
 - Abschalten aller Kohlekraftwerke
 - Kohlekraftwerke Zu Atomkraftwerken umwandeln
-- 
+- Offshore Solarenergie
+- Reduktion der Strompreise
+- Verkauf von Überschüssigen Strom
