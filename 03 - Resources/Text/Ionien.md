@@ -19,7 +19,7 @@ Das Unternehmen Fossen gerat unter Druck, weil es in Folge von Stauprojekten im 
 ### Grundvorsetzte
 - Günstiger Strom
 - Sichere Arbeitsplätze
-- 
+- Naturschutzt
 ### Vorsetzte Genaue
 - Verstaatlichung der energieproduktion
 - Abschalten aller Kohlekraftwerke
@@ -28,3 +28,5 @@ Das Unternehmen Fossen gerat unter Druck, weil es in Folge von Stauprojekten im 
 - Reduktion der Strompreise
 - Verkauf von Überschüssigen Strom
 - Unterstützung oder Kauf von solarKRAFT zur Arbeitsplatz sicherung
+- Ausbau und sichern von Wasserwerken
+- „
