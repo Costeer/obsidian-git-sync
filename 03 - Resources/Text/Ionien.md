@@ -20,9 +20,10 @@ Das Unternehmen Fossen gerat unter Druck, weil es in Folge von Stauprojekten im 
 - Günstiger Strom
 - Sichere Arbeitsplätze
 - Naturschutzt
-- Umbenennen von Ionien zu Superland
+- **Umbenennen von Ionien zu Superland**
 - Billige Krankenkassen
-- Verbot 
+- Verbot von Lobbyarbeit
+- Meinungsfreiheit
 ### Vorsetzte Genaue
 - Verstaatlichung der energieproduktion
 - Abschalten aller Kohlekraftwerke
