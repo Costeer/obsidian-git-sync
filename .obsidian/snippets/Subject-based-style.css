@@ -82,6 +82,31 @@ change or remove those font-family lines from this snippet.
   --primary: #e22c3c;
   --dark: #100305;
 }
+.bio {
+  --highlight: #f39caa;
+  --primary: #e22c3c;
+  --dark: #100305;
+}
+.bio {
+  --highlight: #f39caa;
+  --primary: #e22c3c;
+  --dark: #100305;
+}
+.bio {
+  --highlight: #f39caa;
+  --primary: #e22c3c;
+  --dark: #100305;
+}
+.bio {
+  --highlight: #f39caa;
+  --primary: #e22c3c;
+  --dark: #100305;
+}
+.bio {
+  --highlight: #f39caa;
+  --primary: #e22c3c;
+  --dark: #100305;
+}
 
 .base :is(h1, .HyperMD-header.HyperMD-header-1) {
   color: var(--primary);
