@@ -13,6 +13,5 @@ Für die bewegungs geschwindigkeit kilt die Formel:
 > - Zum radius der Kreisbahn Fz = r
 > - Und zu Quadrat der Winkelgeschwindigheit mit der sich der Körper längs des Kreises bewegt Fz = w^2
 > Es gilt
-$$
-> Fz = m
-$$
+$$ Fz = m*r*w^2 = m * Vb^2/r
+
