@@ -8,4 +8,5 @@
 - plahnwirtschaft wird eingeführt
 - Produktionsgenossenschaften werden eingeführt
 ### Weltannschaung
-- Kapitalistische
+- “Mehr macht den Arbeitern“
+- 
