@@ -1,1 +1,2 @@
-- die grund
+- die grundbedarfsmittel wahren vorhanden
+- 
