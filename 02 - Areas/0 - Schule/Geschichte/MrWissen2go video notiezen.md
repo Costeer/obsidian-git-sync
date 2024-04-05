@@ -19,4 +19,6 @@
 - Parteien konkurrieren nicht
 - Sind in „antifassistischen block“ zusammen gefasst
 - Verschmelzung von SPD und KPD
-- Sozieldemokraten werden aus
+- Sozieldemokraten werden rausgedrängt
+- Keine gewalltenteilung
+- 
