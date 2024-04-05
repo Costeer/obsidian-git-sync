@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+                "file": "02 - Areas/0 - Schule/Physik/Aufgaben/Hausaufgaben physik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+            "file": "02 - Areas/0 - Schule/Physik/Aufgaben/Hausaufgaben physik.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -189,6 +189,8 @@
   },
   "active": "23aba163ce67f068",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Physik/Aufgaben/Physik stationsarbeit.md",
+    "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
     "02 - Areas/0 - Schule/Physik/Kilogramm.md",
     "02 - Areas/0 - Schule/Physik/Radioaktivität.md",
     "02 - Areas/0 - Schule/Physik/Steigung in Graphen berechnen.md",
@@ -198,7 +200,6 @@
     "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
     "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
     "README.md",
-    "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
     "02 - Areas/0 - Schule/Geschichte/Helmut Kohl (Lena R.).md",
     "02 - Areas/0 - Schule/Geschichte/Vorteile der Plahnwirtschaft.md",
     "02 - Areas/0 - Schule/Geschichte/MrWissen2go video notiezen.md",
@@ -215,7 +216,6 @@
     "02 - Areas/0 - Schule/Deutsch/In Wahrheit ist kiezdeutsch rassistisch.md",
     "02 - Areas/0 - Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
     "02 - Areas/0 - Schule/Werte und Normen/Werte und Normen 3. Apr.md",
-    "02 - Areas/0 - Schule/Werte und Normen/Aufgaben/Gerechtigkeit als Fairness.md",
     "03 - Resources/Text",
     "Pictures/Wn-6.jpeg",
     "Projects - Demo Project",
