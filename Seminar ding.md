@@ -31,5 +31,10 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 	- Themenbezug 
 5. **Selbstrepräsentation:**
 	Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein?
-#### Die Kunst des Redens
+### Die Kunst des Redens
 ![[IMG_0254.jpeg|550]]
+
+
+| Nachprüfbare.  |     |
+| -------------- | --- |
+|                |     |
