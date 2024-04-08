@@ -9,25 +9,26 @@ Beziehe Dich auf veränderbare Verhaltensweisen!
 Nicht verteidigen oder rechtfertigen, nur nachfragen/ klären! 
 Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfängerin bzw. des Empfängers ab
 
-Beobachtungsbogen 
-1. optische Struktur: 
+#### Beobachtungsbogen 
+1. **Optische Struktur:**
 	- Körperhaltung 
 	- Gestik 
 	- Mimik 
 	- Blickkontakt 
 	- Manuskriptumgang 
-1. akustische Struktur: 
+2. **Akustische Struktur: 
 	- Aussprache 
 	- Betonung 
 	- Tempo 
 	- Pausen 
 	- Lautstärke 
-1. sprachliche Struktur: 
+3. sprachliche Struktur: 
 	- Verständlichkeit 
 	- Anschaulichkeit (Bilder/ Beispiele) 
-1. Aufbau der Rede: 
+4. Aufbau der Rede: 
 	- Gliederung 
 	- schlüssige Argumentation 
 	- Themenbezug 
-1. Selbstrepräsentation: 
+5. Selbstrepräsentation: 
 	Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein? 
+8ijj
