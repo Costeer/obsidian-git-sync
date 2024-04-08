@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd7b5f34660023b",
+        "id": "ba43c65733c77dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "2ef81c499b4c13e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64acede2ffa2eabc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Fleeting/1923 erstes Motor Flugzeug.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61f64f6082873b8f",
+            "id": "047c4f8fec41f76a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,15 +164,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61f64f6082873b8f",
+  "active": "047c4f8fec41f76a",
   "lastOpenFiles": [
+    "Seminar ding.md",
+    "README.md",
+    "05 - Fleeting/Haspe.md",
     "05 - Fleeting/Bauernproteste.md",
     "05 - Fleeting/1923 erstes Motor Flugzeug.md",
     "05 - Fleeting/Anti Villain.md",
-    "05 - Fleeting/Haspe.md",
     "05 - Fleeting/Legehennen.md",
-    "Seminar ding.md",
-    "README.md",
     "03 - Resources/Text/Ionien.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkräfte Bedarf.md",
     "03 - Resources/Text/In Wahrheit ist Kiezdeutsch rassistisch.md",
