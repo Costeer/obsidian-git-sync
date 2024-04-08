@@ -35,8 +35,10 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 ![[IMG_0254.jpeg|550]]
 
 
-| Nachprüfbare Fakten nennen | schwer zu widerlegen, evtl. andere Fakten dagegen halten                                                                     |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| auf Erfahrungen berufen    | bei gemeinsamen Erfahrungen schwer zu widerlegen, bei individuellen Erfahrungen deren Verallgemeinerungsfähigkeit anzweifeln |
-| auf eine Abmachung stützen | darauf hinweisen, dass sich inzwischen die Voraussetzungen geändert haben                                                    |
-|                            |                                                                                                                              |
+| Nachprüfbare Fakten nennen          | schwer zu widerlegen, evtl. andere Fakten dagegen halten                                                                                                                                                 |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| auf Erfahrungen berufen             | bei gemeinsamen Erfahrungen schwer zu widerlegen, bei individuellen Erfahrungen deren Verallgemeinerungsfähigkeit anzweifeln                                                                             |
+| auf eine Abmachung stützen          | darauf hinweisen, dass sich inzwischen die Voraussetzungen geändert haben                                                                                                                                |
+| persönliche Empfindungen einbringen | Verständnis signalisieren, aber Verallgemeinerungsfähigkeit anzweifeln; die zugrundeliegenden Normen hinterfragen; evtl. die Angemessenheit dieser Gefühle in Frage stellen                              |
+| auf Statistiken berufen             | bei Statistiken nach der Quelle fragen; die dahinterstehenden Interessen anzweifeln; Beweisfähigkeit von Statistiken grundsätzlich in Frage stellen; Gegenbeispiele aus individueller Erfahrung anführen |
+|                                     |                                                                                                                                                                                                          |
