@@ -35,6 +35,6 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 ![[IMG_0254.jpeg|550]]
 
 
-| Nachprüfbare.  |     |
-| -------------- | --- |
-|                |     |
+| Nachprüfbare Fakten nennen | schwer zu widerlegen, evtl. andere Fakten dagegen halten |
+| -------------------------- | -------------------------------------------------------- |
+| auf Erfahrungen berufen    |                                                          |
