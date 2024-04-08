@@ -30,5 +30,6 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 	- schlüssige Argumentation 
 	- Themenbezug 
 5. **Selbstrepräsentation:**
-	Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein? 
-	
+	Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein?
+
+![[IMG_0254.jpeg]]
