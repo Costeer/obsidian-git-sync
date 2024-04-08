@@ -1,2 +1,2 @@
 Antinverhaspel Therapie 
-Von profession
+Von professionellen 
