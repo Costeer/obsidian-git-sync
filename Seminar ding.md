@@ -11,5 +11,7 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 
 Beobachtungsbogen 
 1. optische Struktur: Körperhaltung Gestik Mimik Blickkontakt Manuskriptumgang 
-2. akustische Struktur: Aussprache Betonung Tempo Pausen Lautstärke 3. sprachliche Struktur: Verständlichkeit Anschaulichkeit (Bilder/ Beispiele) 4. Aufbau der Rede Gliederung schlüssige Argumentation Themenbezug 5. Selbstrepräsentation Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein? 
-
+2. akustische Struktur: Aussprache Betonung Tempo Pausen Lautstärke 
+3. sprachliche Struktur: Verständlichkeit Anschaulichkeit (Bilder/ Beispiele) 
+4. Aufbau der Rede Gliederung schlüssige Argumentation Themenbezug 
+5. Selbstrepräsentation Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein? 
