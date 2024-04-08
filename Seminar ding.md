@@ -16,19 +16,19 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 	- Mimik 
 	- Blickkontakt 
 	- Manuskriptumgang 
-2. **Akustische Struktur: 
+2. **Akustische Struktur:
 	- Aussprache 
 	- Betonung 
 	- Tempo 
 	- Pausen 
 	- Lautstärke 
-3. sprachliche Struktur: 
+3. **Sprachliche Struktur:
 	- Verständlichkeit 
 	- Anschaulichkeit (Bilder/ Beispiele) 
-4. Aufbau der Rede: 
+4. **Aufbau der Rede: 
 	- Gliederung 
 	- schlüssige Argumentation 
 	- Themenbezug 
-5. Selbstrepräsentation: 
+5. **Selbstrepräsentation:**
 	Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein? 
-8ijj
+	
