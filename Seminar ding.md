@@ -8,7 +8,7 @@ Beziehe Dich auf veränderbare Verhaltensweisen!
 #### Feedback empfangen 
 Nicht verteidigen oder rechtfertigen, nur nachfragen/ klären! 
 Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfängerin bzw. des Empfängers ab
-
+****
 #### Beobachtungsbogen 
 1. **Optische Struktur:**
 	- Körperhaltung 
@@ -31,6 +31,7 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 	- Themenbezug 
 5. **Selbstrepräsentation:**
 	Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein?
+***
 ### Die Kunst des Redens
 ![[IMG_0254.jpeg|550]]
 
@@ -46,3 +47,4 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 | mit Autoritäten argumentieren                                          | die Autorität ignorieren, nur das Argument als solches angreifen; die Autorität abwerten; eine Gegenautorität aufbauen; den Kontext der zitierten Äußerung erfragen.                                                                                                          |
 | Prognose stellen                                                       | Nach Fakten un Vorausetzungen fragen                                                                                                                                                                                                                                          |
 | Sich auf Normen und Wertvorstellungen berufen; an Vernunft appellieren | Genaue Definition der geäußert Wertvorstellungen erfragen, d.h. Sich nicht mit irgendwelchen Phrasen begnügen; Allgemeingültigkeit anzweifeln; andere Werte dagegensetzen; bei gleicher Wertvorstellung aufzeigen, dass es auch andere Wege gibt, um diesen gerecht zu werden |
+***
