@@ -25,5 +25,9 @@ Beobachtungsbogen
 1. sprachliche Struktur: 
 	- Verständlichkeit 
 	- Anschaulichkeit (Bilder/ Beispiele) 
-1. Aufbau der Rede Gliederung schlüssige Argumentation Themenbezug 
-2. Selbstrepräsentation Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein? 
+1. Aufbau der Rede: 
+	- Gliederung 
+	- schlüssige Argumentation 
+	- Themenbezug 
+1. Selbstrepräsentation: 
+	Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein? 
