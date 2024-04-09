@@ -143,20 +143,11 @@ Hinweise auf Meinungsäußerungen in einem Argument:
 - **Farben:** können wichtige Gedanken oder Absätze hervorheben.
 - **Betonungen:** (eigene) Betonungszeichen schaffen Sicherheit
 - **Stichworte** statt ganzer Sätze aufschreiben, erleichtern „Sprechdenken".
+- **Übergangsworte** notieren (also, folglich...) geben Hinweis auf folgenden Absatz
+- **Schluss** wörtlich notieren – erleichtern den Abgang
 
-**Übergangs-**
-
-**worte** notieren (also, folglich...)
-
-- geben Hinweis auf folgenden Absatz
-
-**Schluss** wörtlich notieren – erleichtern den Abgang
-
-
-```
-Arbeitsblatt 7
-```
-**Von der Behauptung zum Argument (Statement)**
+***
+## Von der Behauptung zum Argument (Statement)
 
 ich meine Behauptung
 
