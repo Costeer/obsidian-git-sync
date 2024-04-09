@@ -60,3 +60,8 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 
 ## Tipps fürs Stichwortmanuskript 
 
+
+| Einleitung   | wörtlich notieren     |
+| ------------ | --------------------- |
+| Karteikarten | einseitig beschreiben |
+|              |                       |
