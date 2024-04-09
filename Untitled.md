@@ -138,14 +138,8 @@ Hinweise auf Meinungsäußerungen in einem Argument:
 ***
 ## Tips fürs Stichwortmanuskript
 
-- Einleitung Wörtlich notieren
-- Karteikarten einseitig beschreiben nummerieren – erleichtert Übersicht
-
-```
-mindestens doppelt so groß schreiben wie sonst –
-Lesbarkeit!
-```
-**Farben** können wichtige Gedanken oder Absätze hervorheben
+- **Einleitung** Wörtlich notieren
+- **Karteikarten** einseitig beschreiben, nummerieren erleichtert Übersicht mindestens doppelt so groß schreiben wie sonst **Farben** können wichtige Gedanken oder Absätze hervorheben
 
 **Betonungen** (eigene) Betonungszeichen schaffen Sicherheit
 
