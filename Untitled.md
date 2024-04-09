@@ -72,8 +72,8 @@ Themenbezug
 
 Stimmt die Art und Weise, wie die Rede vorgetragen wird, mit dem Inhalt der Rede überein?
 
-beitsblatt 4
-```
+***
+
 **Argumentation und Gegenargumentation**
 
 nachprüfbare Fakten nennen schwer zu widerlegen, evtl. andere Fakten dagegen
@@ -87,14 +87,10 @@ auf eine Abmachung stützen darauf hinweisen, dass sich inzwischen die
 Voraussetzungen geändert haben
 
 persönliche Empfindungen
-einbringen
-
-```
-Verständnis signalisieren, aber
+einbringen Verständnis signalisieren, aber
 Verallgemeinerungsfähigkeit anzweifeln; die
 zugrundeliegenden Normen hinterfragen; evtl. die
 Angemessenheit dieser Gefühle in Frage stellen
-```
 auf Statistiken berufen bei Statistiken nach der Quelle fragen; die
 dahinterstehenden Interessen anzweifeln;
 Beweisfähigkeit von Statistiken grundsätzlich in Frage
@@ -119,14 +115,11 @@ Werte dagegensetzen; bei gleichen Wertvorstellungen
 aufzeigen, dass es auch andere Wege gibt, um diesen
 gerecht zu werden.
 ```
-
-```
-Arbeitsblatt 5
-```
+***
 **Meinung oder Fakt?**
 
 Meinung: persönliches Urteil, Einschätzung oder Bewertung
- kann der Gegenredner ganz anders sehen
+kann der Gegenredner ganz anders sehen
 (wenn er Ihnen nicht abnimmt,
 dass Sie Experte auf diesem Gebiet sind!)
 
