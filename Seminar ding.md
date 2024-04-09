@@ -72,8 +72,9 @@ ich meine dass das Spiel Helldivers 2 eine parodie des Faschismus ist, weil man 
 # Schwarze Rhetorik
 *Die Dunkle Seite der Debattenkultur*
 
-Scheinargumente
-Strohman
-Killerprhrasen 
-Ad hominem
-Whataboutism
+- Scheinargumente
+- Strohman
+- Killerprhrasen 
+- Ad hominem
+- Whataboutism
+
