@@ -65,5 +65,5 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 
 ## Statement 
 
-ich meine dass
+ich meine dass das Spiel Helldivers 2 eine Kritik am Faschismus ist 
 
