@@ -79,4 +79,4 @@ ich meine dass das Spiel Helldivers 2 eine parodie des Faschismus ist, weil man 
 - Whataboutism
 
 #### Übung Strohmanargumente AFD
-Wir sollten mehr Ausländer in Deutschland reinlassen um den deutschen arbeits
+Wir sollten mehr Ausländer in Deutschland beherbergen und  um den deutschen Arbeitsmarkt zu stärken
