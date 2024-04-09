@@ -59,4 +59,4 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 ***
 
 ## Tipps fürs Stichwortmanuskript 
-Einleitung  Karteikarten  Farben Betonungen  Stichworte Übergangs- worte Schluss wörtlich notieren einseitig beschreiben nummerieren – erleichtert Übersicht mindestens doppelt so groß schreiben wie sonst –  Lesbarkeit! können wichtige Gedanken oder Absätze hervorheben (eigene) Betonungszeichen schaffen Sicherheit statt ganzer Sätze aufschreiben – erleichtern „Sprechdenken" notieren (also, folglich…) – geben Hinweis auf folgenden Absatz wörtlich notieren – erleichtern den Abgang 
+
