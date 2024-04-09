@@ -101,4 +101,4 @@ Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften
 - Behauptungen oft Meinungen wenig Fakten 
 
 #### Schwarze Rhetorik PowerPoint
-![[IMG_0259.jpeg]]
+![[IMG_0260.jpeg]]
