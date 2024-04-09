@@ -67,4 +67,5 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 
 ![[IMG_0257.jpeg]]
 
+## Helldivers 2 eine Parodie des Faschismus 
 ich meine dass das Spiel Helldivers 2 eine parodie des Faschismus ist, weil man an Helldivers sehr gut sehenkann wie eine faschistische Regierung mit dem forward der Demokratie nach einem krieg die macht erlangen kann. nach dem großen krieg gegen unterdrücker der Menschheit vereinigte sich die Menschheit miteinander in einem „demokratischen“ sistem in welchem man nicht selber wählt sondern ein algorhytmus für einen die Entscheidung trifft Denkt an ein buzzed Quiz anstatt einen Wahlzettel (der letzte Präsident wurde mit 98% Einstimmung gewählt). In der momentan erzählten Geschichte sieht man das die Menschen unter dieser Regierung von propaganda und einem Feindbild geschützt in den krieg gegen „Faschistische“ riesigen Insekten und “kommunistische“ Roboter ziehen deshalb deshalb denke ich das Helldivers als Seuchen eine Parodie des Faschismus ist
