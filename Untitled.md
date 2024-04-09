@@ -119,9 +119,8 @@ gerecht zu werden.
 **Meinung oder Fakt?**
 
 Meinung: persönliches Urteil, Einschätzung oder Bewertung
-kann der Gegenredner ganz anders sehen
-(wenn er Ihnen nicht abnimmt,
-dass Sie Experte auf diesem Gebiet sind!)
+	—>kann der Gegenredner ganz anders sehen (wenn er Ihnen nicht abnimmt,
+	dass Sie Experte auf diesem Gebiet sind!)
 
 Fakt: belegbare Tatsachenaussage
  Was jeder Außenstehende (auch der Gegenredner) überprüfen /
