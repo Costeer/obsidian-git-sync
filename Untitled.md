@@ -158,11 +158,8 @@ ich meine Behauptung
 | Weil                           | Begründung       |
 | Dass wird daran deutlich, dass | Beleg/Beispiel   |
 | Deshalb                        | Schlussfolgerung |
+***
 
-
-```
-Arbeitsblatt 8
-```
 **Wie entstehen Missverständnisse?**
 
 ```
