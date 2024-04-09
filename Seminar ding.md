@@ -50,4 +50,5 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 | Sich auf Normen und Wertvorstellungen berufen; an Vernunft appellieren | Genaue Definition der geäußert Wertvorstellungen erfragen, d.h. Sich nicht mit irgendwelchen Phrasen begnügen; Allgemeingültigkeit anzweifeln; andere Werte dagegensetzen; bei gleicher Wertvorstellung aufzeigen, dass es auch andere Wege gibt, um diesen gerecht zu werden |
 ***
 ## Meinung oder Fakt?
-**Meinung:**persönliches Urteil, Einschätzung oder Bewertung  kann der Gegenredner ganz anders sehen (wenn er Ihnen nicht abnimmt, dass Sie Experte auf diesem Gebiet sind!) belegbare Tatsachenaussage  Was jeder Außenstehende (auch der Gegenredner) überprüfen / nachvollziehen kann 
+**Meinung:**         persönliches Urteil, Einschätzung oder Bewertung
+	-> kann der Gegenredner ganz anders sehen (wenn er Ihnen nicht abnimmt, dass Sie Experte auf diesem Gebiet sind!) belegbare Tatsachenaussage  Was jeder Außenstehende (auch der Gegenredner) überprüfen / nachvollziehen kann 
