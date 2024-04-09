@@ -85,3 +85,5 @@ Wir sollten mehr Ausländer in Deutschland aufnehmen und arbeiten lassen um den 
 *AFDler*
 Du willst also deutschen die Arbeitsplätze wegnehmen und die Bevölkerung austauschen?
 
+*Normaler Mensch2*
+Nein wir wollen deutsche bei ihrer Arbeit unterstützen durch qualifi
