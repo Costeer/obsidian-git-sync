@@ -152,9 +152,10 @@ Hinweise auf Meinungsäußerungen in einem Argument:
 
 ich meine Behauptung
 
-|     |     |
-| --- | --- |
-|     |     |
+| Wort      | Wertung    |
+| --------- | ---------- |
+| Ich meine | Behauptung |
+| Weil      | Begründung |
 
 
 weil Begründung
