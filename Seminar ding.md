@@ -99,3 +99,6 @@ Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften
 - was völlig anderes
 - 16/16 jungs spielen CS
 - Behauptungen oft Meinungen wenig Fakten 
+
+#### Schwarze Rhetorik PowerPoint
+![[IMG_0259.jpeg]]
