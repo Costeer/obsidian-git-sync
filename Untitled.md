@@ -135,12 +135,8 @@ Hinweise auf Meinungsäußerungen in einem Argument:
 - relevant/irrelevant
 - brauchen/nicht brauchen
 - (nicht) leisten können
-```
-
-```
-Arbeitsblatt 6
-```
-**Tipps fürs Stichwortmanuskript**
+***
+## Tips fürs Stichwortmanuskript
 
 **Einleitung** wörtlich notieren
 
