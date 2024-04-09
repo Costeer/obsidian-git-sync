@@ -11,9 +11,12 @@
             "id": "3f71b93e1d9af4a8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG_0260.jpeg"
+                "file": "Seminar ding.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -122,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IMG_0260.jpeg",
+            "file": "Seminar ding.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -174,8 +177,9 @@
   },
   "active": "3f71b93e1d9af4a8",
   "lastOpenFiles": [
-    "Drawing 2024-04-09 16.38.09..md",
+    "README.md",
     "IMG_0260.jpeg",
+    "Drawing 2024-04-09 16.38.09..md",
     "IMG_0259.jpeg",
     "Seminar ding.md",
     "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md",
@@ -187,7 +191,6 @@
     "03 - Resources/Pictures/IMG_0256.jpeg",
     "03 - Resources/Pictures/IMG_0255.jpeg",
     "IMG_0253.jpeg",
-    "README.md",
     "05 - Fleeting/Haspe.md",
     "05 - Fleeting/Legehennen.md",
     "05 - Fleeting/1923 erstes Motor Flugzeug.md",
