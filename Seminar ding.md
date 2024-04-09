@@ -83,7 +83,9 @@ ich meine dass das Spiel Helldivers 2 eine parodie des Faschismus ist, weil man 
 Wir sollten mehr Ausländer in Deutschland aufnehmen und arbeiten lassen um den deutschen Arbeitsmarkt zu stärken und um das bekämpfen des fachkräftemangels zu unterstützen
 
 *AFDler*
-Du willst also deutschen die Arbeitsplätze wegnehmen und die Bevölkerung austauschen?
+Du willst also deutschen die Arbeitsplätze wegnehmen und die Bevölkerung austauschen!
 
 *Normaler Mensch2*
 Nein wir wollen deutsche bei ihrer Arbeit unterstützen durch qualifizierte Fachkräfte 
+
+*AFDler*
