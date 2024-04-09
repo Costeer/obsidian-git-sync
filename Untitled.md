@@ -140,13 +140,9 @@ Hinweise auf Meinungsäußerungen in einem Argument:
 
 - **Einleitung:** Wörtlich notieren.
 - **Karteikarten:** einseitig beschreiben, nummerieren erleichtert Übersicht, mindestens doppelt so groß schreiben wie sonst.
-- **Farben:** können wichtige Gedanken oder Absätze hervorheben
-
-**Betonungen** (eigene) Betonungszeichen schaffen Sicherheit
-
-**Stichworte** statt ganzer Sätze aufschreiben
-
-- erleichtern „Sprechdenken"
+- **Farben:** können wichtige Gedanken oder Absätze hervorheben.
+- **Betonungen:** (eigene) Betonungszeichen schaffen Sicherheit
+- **Stichworte** statt ganzer Sätze aufschreiben, erleichtern „Sprechdenken".
 
 **Übergangs-**
 
