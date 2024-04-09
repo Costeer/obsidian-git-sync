@@ -129,25 +129,12 @@ nachvollziehen kann
 Hinweise auf Meinungsäußerungen in einem Argument:
 - zu teuer/billig
 - zu wenig/viel
-Ich meine/denke/finde/
-möchte...
-```
-```
-wichtiger/
-unwichtiger
-```
-```
-besser/
-schlechter
-relevant/
-irrelevant
-```
-```
-brauchen/
-nicht
-brauchen
-(nicht) leisten
-können
+- Ich meine/denke/finde/möchte...
+- wichtiger/unwichtiger
+- besser/schlechter
+- relevant/irrelevant
+- brauchen/nicht brauchen
+- (nicht) leisten können
 ```
 
 ```
