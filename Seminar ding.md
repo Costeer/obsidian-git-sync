@@ -92,3 +92,4 @@ Nein wir wollen deutsche durch qualifizierte Fachkräfte bei ihrer Arbeit unters
 Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften helfen, das kann nur schiefgehen
 
 Schwarze Rhetorik film
+![[Drawing 2024-04-09 16.38.09.]]
