@@ -152,22 +152,13 @@ Hinweise auf Meinungsäußerungen in einem Argument:
 
 ich meine Behauptung
 
-| Wort      | Wertung    |
-| --------- | ---------- |
-| Ich meine | Behauptung |
-| Weil      | Begründung |
+| Wort                           | Wertung          |
+| ------------------------------ | ---------------- |
+| Ich meine                      | Behauptung       |
+| Weil                           | Begründung       |
+| Dass wird daran deutlich, dass | Beleg/Beispiel   |
+| Deshalb                        | Schlussfolgerung |
 
-
-weil Begründung
-
-das wird daran deutlich, dass Beleg/ Beispiel
-
-deshalb Schlussfolgerung
-
-```
-Wie wird aus einer Behauptung
-ein Argument?
-```
 
 ```
 Arbeitsblatt 8
