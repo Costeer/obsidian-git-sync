@@ -86,7 +86,7 @@ Wir sollten mehr Ausländer in Deutschland aufnehmen und arbeiten lassen um den 
 Du willst also deutschen die Arbeitsplätze wegnehmen und die Bevölkerung austauschen!
 
 *Normaler Mensch2*
-Nein wir wollen deutsche bei ihrer Arbeit unterstützen durch qualifizierte Fachkräfte 
+Nein wir wollen deutsche durch qualifizierte Fachkräfte bei ihrer Arbeit unterstützen
 
 *AFDler*
-Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften helfen das kann nur schiefgehen
+Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften helfen, das kann nur schiefgehen
