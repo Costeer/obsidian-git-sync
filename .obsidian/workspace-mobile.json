@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md",
+            "file": "Seminar ding.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -176,11 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea9a26fd90f7941a",
+  "active": "3f71b93e1d9af4a8",
   "lastOpenFiles": [
+    "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md",
     "03 - Resurces",
     "Seminar ding.md",
-    "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md",
     "03 - Resurces/Excalidraw",
     "Untitled.md",
     "03 - Resources/Pictures/IMG_0257.jpeg",
@@ -222,7 +221,6 @@
     "Politik Wirtschaft/Praktikum",
     "/Politik Wirtschaft/Praktikum",
     "Catppuccin/Praktikum.odt",
-    "Musik/Aufgaben",
-    "Random Things/Untitled"
+    "Musik/Aufgaben"
   ]
 }
