@@ -98,5 +98,4 @@ Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften
 - ist geschmacksachen
 - was völlig anderes
 - 16/16 jungs spielen CS
-- Behauptungen oft Meinungen wenig 
-![[Drawing 2024-04-09 16.38.09.excalidraw]]
+- Behauptungen oft Meinungen wenig Fakten 
