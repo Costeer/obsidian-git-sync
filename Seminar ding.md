@@ -89,3 +89,4 @@ Du willst also deutschen die Arbeitsplätze wegnehmen und die Bevölkerung austa
 Nein wir wollen deutsche bei ihrer Arbeit unterstützen durch qualifizierte Fachkräfte 
 
 *AFDler*
+Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften 
