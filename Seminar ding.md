@@ -65,4 +65,4 @@ Die Wirksamkeit des Feedbacks hängt wesentlich von der Offenheit der Empfänger
 
 ## Statement 
 
-ich meine dass das Spiel Helldivers 2 eine Kritik am Faschismus ist weil man an Helldivers sehr gut sehenkann wie eine faschistische Regierung mit dem forward der Demokratie nach einem krieg die macht erlangen kann. In der momentan erzählten Geschichte sieht man das die Menschen unter dieser Regierung von propaganda und einem Feindbild geschützt in den krieg gegen „Faschistische“ riesigen Insekten und “kommunistische“ Roboter ziehen deshalb
+ich meine dass das Spiel Helldivers 2 eine Kritik am Faschismus ist, weil man an Helldivers sehr gut sehenkann wie eine faschistische Regierung mit dem forward der Demokratie nach einem krieg die macht erlangen kann nach dem großen krieg gegen unterdrücker der Menschheit erla. In der momentan erzählten Geschichte sieht man das die Menschen unter dieser Regierung von propaganda und einem Feindbild geschützt in den krieg gegen „Faschistische“ riesigen Insekten und “kommunistische“ Roboter ziehen deshalb
