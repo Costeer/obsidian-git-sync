@@ -78,4 +78,4 @@ ich meine dass das Spiel Helldivers 2 eine parodie des Faschismus ist, weil man 
 - Ad hominem
 - Whataboutism
 
-#### <span style="color:#9446f8">Strohmanargumente</span> 
+#### Übung Strohmanargumente AFD
