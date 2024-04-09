@@ -148,8 +148,14 @@ Hinweise auf Meinungsäußerungen in einem Argument:
 
 ***
 ## Von der Behauptung zum Argument (Statement)
+#### Wie wird aus einer Behauptung ein Argument?
 
 ich meine Behauptung
+
+|     |     |
+| --- | --- |
+|     |     |
+
 
 weil Begründung
 
