@@ -79,3 +79,4 @@ ich meine dass das Spiel Helldivers 2 eine parodie des Faschismus ist, weil man 
 - Whataboutism
 
 #### Übung Strohmanargumente AFD
+Wir sollten mehr Ausländer in deutschland
