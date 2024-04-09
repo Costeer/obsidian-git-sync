@@ -138,11 +138,8 @@ Hinweise auf Meinungsäußerungen in einem Argument:
 ***
 ## Tips fürs Stichwortmanuskript
 
-**Einleitung** wörtlich notieren
-
-**Karteikarten** einseitig beschreiben
-
-nummerieren – erleichtert Übersicht
+- Einleitung Wörtlich notieren
+- Karteikarten einseitig beschreiben nummerieren – erleichtert Übersicht
 
 ```
 mindestens doppelt so groß schreiben wie sonst –
