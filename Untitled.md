@@ -119,24 +119,17 @@ gerecht zu werden.
 **Meinung oder Fakt?**
 
 Meinung: persönliches Urteil, Einschätzung oder Bewertung
-	—>kann der Gegenredner ganz anders sehen (wenn er Ihnen nicht abnimmt,
-	dass Sie Experte auf diesem Gebiet sind!)
+--> kann der Gegenredner ganz anders sehen (wenn er Ihnen nicht abnimmt,
+dass Sie Experte auf diesem Gebiet sind!)
 
 Fakt: belegbare Tatsachenaussage
- Was jeder Außenstehende (auch der Gegenredner) überprüfen /
+--> Was jeder Außenstehende (auch der Gegenredner) überprüfen /
 nachvollziehen kann
 
 Hinweise auf Meinungsäußerungen in einem Argument:
-
-```
-zu
-teuer/billig
-zu wenig/viel
-```
-```
-Ich
-meine/denk
-e/finde/
+- zu teuer/billig
+- zu wenig/viel
+Ich meine/denke/finde/
 möchte...
 ```
 ```
