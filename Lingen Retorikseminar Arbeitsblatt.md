@@ -100,7 +100,9 @@ ich meine dass das Spiel Helldivers 2 eine parodie des Faschismus ist, weil man 
 
 *AFDler*
 "Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften helfen, das kann nur schiefgehen"
+***
 
+ ![[IMG_0260.jpeg]]
 #### Schwarze Rhetorik film notiezen
 *Meinung oder Fakten*
 
@@ -118,6 +120,4 @@ ich meine dass das Spiel Helldivers 2 eine parodie des Faschismus ist, weil man 
 - Killerprhrasen 
 - Ad hominem
 - Whataboutism
-
 #### Schwarze Rhetorik PowerPoint
-![[IMG_0260.jpeg]] 
