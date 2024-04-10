@@ -1,2 +1,3 @@
 Heute reden wir darüber ob Gendern in der deutschen Sprache akzeptiert und benutzt werden sollte. 
 Ich meine, dass Gendern besonders für die unter uns die sich nicht in den klassischen Rollen von Mann und Frau wiederfinden ein guter Schritt in die richtige Richtung sein könnte.
+Weil grade diese Menschen in unserer Gesellschaft nunmehr in der unterzuhaltenden sind sollte besonders auf sie Rücksicht genommen werden
