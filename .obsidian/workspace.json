@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seminar ding.md",
+                "file": "Lingen Retorikseminar Arbeitsblatt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminar ding.md",
+                "file": "Lingen Retorikseminar Arbeitsblatt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Seminar ding.md",
+                "file": "Lingen Retorikseminar Arbeitsblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,9 +192,9 @@
   },
   "active": "79b104c0d6177cce",
   "lastOpenFiles": [
+    "Seminar ding.md",
     "README.md",
     "Lingen Retorikseminar Arbeitsblatt.md",
-    "Seminar ding.md",
     "05 - Fleeting/Debatte zu gendersprache.md",
     "06 - Daily/2024-04-01 First Daily Note.md",
     "99 - Meta/00 - Templates/Daily Template.md",

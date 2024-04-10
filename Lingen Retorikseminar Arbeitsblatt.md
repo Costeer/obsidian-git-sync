@@ -80,8 +80,36 @@ ich meine Behauptung
 | Dass wird daran deutlich, dass | Beleg/Beispiel   |
 | Deshalb                        | Schlussfolgerung |
 ***
+## Statement Übung
 
-st
+![[IMG_0257.jpeg]]
+
+## Helldivers 2 eine Parodie des Faschismus 
+ich meine dass das Spiel Helldivers 2 eine parodie des Faschismus ist, weil man an Helldivers sehr gut sehenkann wie eine faschistische Regierung mit dem forward der Demokratie nach einem krieg die macht erlangen kann. nach dem großen krieg gegen unterdrücker der Menschheit vereinigte sich die Menschheit miteinander in einem „demokratischen“ sistem in welchem man nicht selber wählt sondern ein algorhytmus für einen die Entscheidung trifft Denkt an ein buzzed Quiz anstatt einen Wahlzettel (der letzte Präsident wurde mit 98% Einstimmung gewählt). In der momentan erzählten Geschichte sieht man das die Menschen unter dieser Regierung von propaganda und einem Feindbild geschützt in den krieg gegen „Faschistische“ riesigen Insekten und “kommunistische“ Roboter ziehen deshalb deshalb denke ich das Helldivers als Seuchen eine Parodie des Faschismus ist
+
+## Übung Strohmanargumente AFD
+
+*Normaler Mensch*
+Wir sollten mehr Ausländer in Deutschland aufnehmen und arbeiten lassen um den deutschen Arbeitsmarkt zu stärken und um das bekämpfen des fachkräftemangels zu unterstützen
+
+*AFDler*
+"Du willst also deutschen die Arbeitsplätze wegnehmen und die Bevölkerung austauschen!"
+
+*Normaler Mensch2*
+Nein wir wollen deutsche durch qualifizierte Fachkräfte bei ihrer Arbeit unterstützen
+
+*AFDler*
+Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften helfen, das kann nur schiefgehen
+
+#### Schwarze Rhetorik film
+*Meinung oder Fakten*
+
+- ich finde meinung
+- ist geschmacksachen
+- was völlig anderes
+- 16/16 jungs spielen CS
+- Behauptungen oft Meinungen wenig Fakten 
+
 # Schwarze Rhetorik
 *Die Dunkle Seite der Debattenkultur*
 
