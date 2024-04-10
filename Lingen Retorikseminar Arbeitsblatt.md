@@ -81,31 +81,37 @@ ich meine Behauptung
 | Deshalb                        | Schlussfolgerung |
 ***
 
-**Wie entstehen Missverständnisse?**
+st
+# Schwarze Rhetorik
+*Die Dunkle Seite der Debattenkultur*
 
-```
-Was ich denke und fühle
-Welche Störfaktoren behindern die jeweiligen
-```
-```
-Kommunikations
-```
-- Schritte (Pfeile)?
+- Scheinargumente
+- Strohman
+- Killerprhrasen 
+- Ad hominem
+- Whataboutism
 
-
+#### Übung Strohmanargumente AFD
+*Normaler Mensch*
+Wir sollten mehr Ausländer in Deutschland aufnehmen und arbeiten lassen um den deutschen Arbeitsmarkt zu stärken und um das bekämpfen des fachkräftemangels zu unterstützen
 
-```
-Was ich sage
-```
-
+*AFDler*
+Du willst also deutschen die Arbeitsplätze wegnehmen und die Bevölkerung austauschen!
 
-```
-Was der/die Empfänger/in hört
-```
-
+*Normaler Mensch2*
+Nein wir wollen deutsche durch qualifizierte Fachkräfte bei ihrer Arbeit unterstützen
 
-```
-Was er/sie glaubt, was ich meine
-
-Wie er/sie sich dazu stellt
-```
+*AFDler*
+Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften helfen, das kann nur schiefgehen
+
+#### Schwarze Rhetorik film
+*Meinung oder Fakten*
+
+- ich finde meinung
+- ist geschmacksachen
+- was völlig anderes
+- 16/16 jungs spielen CS
+- Behauptungen oft Meinungen wenig Fakten 
+
+#### Schwarze Rhetorik PowerPoint
+![[IMG_0260.jpeg]] 
