@@ -11,12 +11,9 @@
             "id": "79b104c0d6177cce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lingen Retorikseminar Arbeitsblatt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "IMG_0260.jpeg"
               }
             }
           }
@@ -80,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lingen Retorikseminar Arbeitsblatt.md",
+                "file": "IMG_0260.jpeg",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lingen Retorikseminar Arbeitsblatt.md",
+                "file": "IMG_0260.jpeg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,8 +189,8 @@
   },
   "active": "79b104c0d6177cce",
   "lastOpenFiles": [
-    "Seminar ding.md",
     "Lingen Retorikseminar Arbeitsblatt.md",
+    "Seminar ding.md",
     "IMG_0260.jpeg",
     "README.md",
     "05 - Fleeting/Debatte zu gendersprache.md",
