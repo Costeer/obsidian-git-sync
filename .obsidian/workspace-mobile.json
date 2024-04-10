@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Seminar ding.md",
+            "file": "Lingen Retorikseminar Arbeitsblatt.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -188,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f71b93e1d9af4a8",
+  "active": "a61d92188260702e",
   "lastOpenFiles": [
-    "Lingen Retorikseminar Arbeitsblatt.md",
     "Seminar ding.md",
+    "Lingen Retorikseminar Arbeitsblatt.md",
     "README.md",
     "IMG_0260.jpeg",
     "Drawing 2024-04-09 16.38.09..md",
