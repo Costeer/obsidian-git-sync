@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Seminar ding.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Seminar ding.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Seminar ding.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,8 +192,11 @@
   },
   "active": "79b104c0d6177cce",
   "lastOpenFiles": [
-    "06 - Daily/2024-04-01 First Daily Note.md",
     "README.md",
+    "Lingen Retorikseminar Arbeitsblatt.md",
+    "Seminar ding.md",
+    "05 - Fleeting/Debatte zu gendersprache.md",
+    "06 - Daily/2024-04-01 First Daily Note.md",
     "99 - Meta/00 - Templates/Daily Template.md",
     "2024-04-01.md",
     "99 - Meta/00 - Templates/Default Template Aufgabe.md",
@@ -218,9 +221,6 @@
     "01 - Projects/Dev/banner tests.md",
     "01 - Projects/Catppuccin/1-colours.md",
     "01 - Projects/Catppuccin/catppuccin-cat-dark.jpg",
-    "01 - Projects/Dev/Callouts.md",
-    "99 - Meta/00 - Templates/excalidraw-template.md",
-    "03 - Resources/Excalidraw/carbonylgruppe.excalidraw.md",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Resurces/Excalidraw",
