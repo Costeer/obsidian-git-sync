@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "749f831af18d302f",
+        "id": "28a105015208c0a3",
         "type": "tabs",
         "children": [
           {
-            "id": "b43ddabc61a06092",
+            "id": "79b104c0d6177cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/Daily Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/00 - Templates/Daily Template.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Meta/00 - Templates/Daily Template.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +190,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b43ddabc61a06092",
+  "active": "79b104c0d6177cce",
   "lastOpenFiles": [
     "06 - Daily/2024-04-01 First Daily Note.md",
     "README.md",
