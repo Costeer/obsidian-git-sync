@@ -89,19 +89,19 @@ ich meine dass das Spiel Helldivers 2 eine parodie des Faschismus ist, weil man 
 
 ## Übung Strohmanargumente AFD
 
-*Normaler Mensch*
-Wir sollten mehr Ausländer in Deutschland aufnehmen und arbeiten lassen um den deutschen Arbeitsmarkt zu stärken und um das bekämpfen des fachkräftemangels zu unterstützen
+*Normaler Mensch:*
+"Wir sollten mehr Ausländer in Deutschland aufnehmen und arbeiten lassen um den deutschen Arbeitsmarkt zu stärken und um das bekämpfen des fachkräftemangels zu unterstützen"
 
 *AFDler*
-"Du willst also deutschen die Arbeitsplätze wegnehmen und die Bevölkerung austauschen!"
+"Du willst also deutschen die Arbeitsplätze wegnehmen und die Bevölkerung austauschen!""
 
 *Normaler Mensch2*
-Nein wir wollen deutsche durch qualifizierte Fachkräfte bei ihrer Arbeit unterstützen
+"Nein wir wollen deutsche durch qualifizierte Fachkräfte bei ihrer Arbeit unterstützen"
 
 *AFDler*
-Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften helfen, das kann nur schiefgehen
+"Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften helfen, das kann nur schiefgehen"
 
-#### Schwarze Rhetorik film
+#### Schwarze Rhetorik film notiezen
 *Meinung oder Fakten*
 
 - ich finde meinung
@@ -118,28 +118,6 @@ Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften
 - Killerprhrasen 
 - Ad hominem
 - Whataboutism
-
-#### Übung Strohmanargumente AFD
-*Normaler Mensch*
-Wir sollten mehr Ausländer in Deutschland aufnehmen und arbeiten lassen um den deutschen Arbeitsmarkt zu stärken und um das bekämpfen des fachkräftemangels zu unterstützen
-
-*AFDler*
-Du willst also deutschen die Arbeitsplätze wegnehmen und die Bevölkerung austauschen!
-
-*Normaler Mensch2*
-Nein wir wollen deutsche durch qualifizierte Fachkräfte bei ihrer Arbeit unterstützen
-
-*AFDler*
-Also sollen schlecht ausgebildete Ausländer unseren qualifizierten Fachkräften helfen, das kann nur schiefgehen
-
-#### Schwarze Rhetorik film
-*Meinung oder Fakten*
-
-- ich finde meinung
-- ist geschmacksachen
-- was völlig anderes
-- 16/16 jungs spielen CS
-- Behauptungen oft Meinungen wenig Fakten 
 
 #### Schwarze Rhetorik PowerPoint
 ![[IMG_0260.jpeg]] 
