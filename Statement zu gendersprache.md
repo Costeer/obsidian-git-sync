@@ -5,4 +5,7 @@ Ich meine, dass besonders für die unter uns die sich nicht in den klassischen R
 Weil grade diese Menschen in unserer Gesellschaft nunmal in der unterzahl sind und oft vergessen werden sollte besonders auf sie Rücksicht genommen werden. 
 
 
-Welche Art des Genderns jetzt verwendet wird ob mit Stern unterstrich oder Doppelpunkt kann später festgelegt werden 
+Welche Art des Genderns jetzt verwendet wird ob mit Stern unterstrich oder Doppelpunkt kann später festgelegt werden wichtig ist es jetzt zu zeigen das auch Minderheiten von uns akzeptiert werden.
+
+
+Deshalb finde ich sollte Gendern 
