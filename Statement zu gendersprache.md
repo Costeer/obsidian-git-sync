@@ -1,1 +1,1 @@
-Heute reden wir darüber ob Gendern 
+Heute reden wir darüber ob Gendern in der deutschen Sprache akzeptiert und benutzt werden sollte 
