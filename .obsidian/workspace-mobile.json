@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f71b93e1d9af4a8",
+            "id": "d259708d3e493104",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,29 +17,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a61d92188260702e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lingen Retorikseminar Arbeitsblatt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d259708d3e493104",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Resurces/Excalidraw/Drawing 2024-04-11 08.23.14.excalidraw.md"
               }
             }
           },
@@ -54,7 +31,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resurces/Excalidraw/Drawing 2024-04-11 08.23.14.excalidraw.md",
+            "file": "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,17 +176,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d259708d3e493104",
+  "active": "ea9a26fd90f7941a",
   "lastOpenFiles": [
-    "Lingen Retorikseminar Arbeitsblatt.md",
+    "README.md",
     "03 - Resurces/Excalidraw/Drawing 2024-04-11 08.23.14.excalidraw.md",
+    "Lingen Retorikseminar Arbeitsblatt.md",
     "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md",
     "Debatte zu gendersprache.md",
     "05 - Fleeting/Debatte zu gendersprache.md",
     "/Lingen Retorikseminar Arbeitsblatt.md",
     "/05 - Fleeting/Debatte zu gendersprache.md",
     "Seminar ding.md",
-    "README.md",
     "IMG_0260.jpeg",
     "Drawing 2024-04-09 16.38.09..md",
     "IMG_0259.jpeg",
