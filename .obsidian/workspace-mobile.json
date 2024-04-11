@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02 - Areas/0 - Schule/Niederländisch/Das Atomium.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "ea9a26fd90f7941a",
+            "id": "9ae021ccf0c9121c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md"
+                "file": "02 - Areas/0 - Schule/Niederländisch/Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -126,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md",
+            "file": "02 - Areas/0 - Schule/Niederländisch/Untitled 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -176,18 +179,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea9a26fd90f7941a",
+  "active": "9ae021ccf0c9121c",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Niederländisch/Das Atomium.md",
+    "02 - Areas/0 - Schule/Niederländisch/Untitled 1.md",
+    "03 - Resources/IMG_0260.jpeg",
     "README.md",
-    "03 - Resurces/Excalidraw/Drawing 2024-04-11 08.23.14.excalidraw.md",
-    "Lingen Retorikseminar Arbeitsblatt.md",
     "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md",
+    "03 - Resurces/Excalidraw/Drawing 2024-04-11 08.23.14.excalidraw.md",
+    "07 - Archives/Lingen Retorikseminar Arbeitsblatt.md",
     "Debatte zu gendersprache.md",
     "05 - Fleeting/Debatte zu gendersprache.md",
     "/Lingen Retorikseminar Arbeitsblatt.md",
     "/05 - Fleeting/Debatte zu gendersprache.md",
     "Seminar ding.md",
-    "IMG_0260.jpeg",
     "Drawing 2024-04-09 16.38.09..md",
     "IMG_0259.jpeg",
     "03 - Resurces",
@@ -213,8 +218,6 @@
     "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
     "03 - Resources/Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
     "02 - Areas/0 - Schule/Physik/Aufgaben/Physik stationsarbeit.md",
-    "02 - Areas/0 - Schule/Physik/Kilogramm.md",
-    "02 - Areas/0 - Schule/Physik/Radioaktivität.md",
     "03 - Resources/Pictures/Biokatalyse.jpeg",
     "03 - Resources/Text",
     "Projects - Demo Project",
