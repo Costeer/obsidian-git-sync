@@ -1,2 +1,2 @@
-- 2mahl Fortran hören 
+- 2mahl Fortran hören und notiezen machen
 - 
