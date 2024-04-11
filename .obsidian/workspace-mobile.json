@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "d259708d3e493104",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resurces/Excalidraw/Drawing 2024-04-11 08.23.14.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "ea9a26fd90f7941a",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lingen Retorikseminar Arbeitsblatt.md",
+            "file": "03 - Resurces/Excalidraw/Drawing 2024-04-11 08.23.14.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -189,10 +199,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a61d92188260702e",
+  "active": "d259708d3e493104",
   "lastOpenFiles": [
-    "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md",
     "Lingen Retorikseminar Arbeitsblatt.md",
+    "03 - Resurces/Excalidraw/Drawing 2024-04-11 08.23.14.excalidraw.md",
+    "03 - Resurces/Excalidraw/Drawing 2024-04-09 16.38.09.excalidraw.md",
     "Debatte zu gendersprache.md",
     "05 - Fleeting/Debatte zu gendersprache.md",
     "/Lingen Retorikseminar Arbeitsblatt.md",
@@ -227,7 +238,6 @@
     "02 - Areas/0 - Schule/Physik/Aufgaben/Physik stationsarbeit.md",
     "02 - Areas/0 - Schule/Physik/Kilogramm.md",
     "02 - Areas/0 - Schule/Physik/Radioaktivität.md",
-    "02 - Areas/0 - Schule/Physik/Steigung in Graphen berechnen.md",
     "03 - Resources/Pictures/Biokatalyse.jpeg",
     "03 - Resources/Text",
     "Projects - Demo Project",
