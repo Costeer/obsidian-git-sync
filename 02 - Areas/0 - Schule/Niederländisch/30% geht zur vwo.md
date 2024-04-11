@@ -7,4 +7,4 @@
 - zwei Gruppen arbeiten dann zusammen jeder muss ein Diagramm vorstellen 
 - 4 Leute müssen vorstellen
 
-#### ###
+#### 
