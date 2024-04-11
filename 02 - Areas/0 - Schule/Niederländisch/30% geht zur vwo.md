@@ -1,2 +1,4 @@
 - 2mahl Fortran hören und notiezen machen
+- Alle 4 Diagramme mit satzilfen beschreiben
+- Alle wichtigen Fakten nennen
 - 
