@@ -1,5 +1,5 @@
 
-### Gleichheit
+### Gerechtigkeit
 - Zufiredenheit aller Bürger 
 
 ### Freiheit
