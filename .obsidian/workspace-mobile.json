@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+                "file": "02 - Areas/0 - Schule/Physik/Das Wechselwirkungsprinzip.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+            "file": "02 - Areas/0 - Schule/Physik/Das Wechselwirkungsprinzip.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,16 +167,17 @@
   },
   "active": "375e19185d846eb1",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
+    "02 - Areas/0 - Schule/Physik/Der Meter.md",
+    "02 - Areas/0 - Schule/Physik/Die Newtontische Axiome.md",
+    "02 - Areas/0 - Schule/Physik/Das Wechselwirkungsprinzip.md",
+    "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
     "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+    "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
     "02 - Areas/0 - Schule/Physik/Kilogramm.md",
     "02 - Areas/0 - Schule/Physik/Merksatz Gravitation.md",
     "02 - Areas/0 - Schule/Physik/Radioaktivität.md",
     "02 - Areas/0 - Schule/Physik/Steigung in Graphen berechnen.md",
     "02 - Areas/0 - Schule/Physik/Waagerechter wurf.md",
-    "02 - Areas/0 - Schule/Physik/Der Meter.md",
-    "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
-    "02 - Areas/0 - Schule/Physik/Die Newtontische Axiome.md",
     "README.md",
     "02 - Areas/0 - Schule/Englisch/Media literacy of German teenagers.md",
     "02 - Areas/0 - Schule/Niederländisch/Das Atomium.md",
@@ -201,7 +202,6 @@
     "03 - Resources/Pictures/IMG_0255.jpeg",
     "IMG_0253.jpeg",
     "05 - Fleeting/Haspe.md",
-    "05 - Fleeting/Legehennen.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/IMG_0243.jpeg",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Pasted image 20240405124356.png",
     "03 - Resources/Pictures/Biokatalyse.jpeg",
