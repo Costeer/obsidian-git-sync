@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Physik/Merksatz Gravitation.md",
+                "file": "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Physik/Merksatz Gravitation.md",
+            "file": "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,6 +167,7 @@
   },
   "active": "375e19185d846eb1",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Physik/Merksatz Gravitation.md",
     "02 - Areas/0 - Schule/Physik/Kilogramm.md",
     "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
     "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
@@ -175,7 +176,6 @@
     "02 - Areas/0 - Schule/Physik/Der Meter.md",
     "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
     "02 - Areas/0 - Schule/Physik/Das Wechselwirkungsprinzip.md",
-    "02 - Areas/0 - Schule/Physik/Merksatz Gravitation.md",
     "02 - Areas/0 - Schule/Physik/Radioaktivität.md",
     "02 - Areas/0 - Schule/Physik/Steigung in Graphen berechnen.md",
     "02 - Areas/0 - Schule/Physik/Waagerechter wurf.md",
