@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b354c05bc64d8637",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resources/Excalidraw/Drawing 2024-04-12 11.38.26.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+            "file": "03 - Resources/Excalidraw/Drawing 2024-04-12 11.38.26.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,13 +176,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "375e19185d846eb1",
+  "active": "b354c05bc64d8637",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-12 11.38.26.excalidraw.md",
     "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
     "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
     "02 - Areas/0 - Schule/Physik/Merksatz Gravitation.md",
     "02 - Areas/0 - Schule/Physik/Kilogramm.md",
-    "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
     "02 - Areas/0 - Schule/Physik/Erdanziehungskraft.md",
     "02 - Areas/0 - Schule/Physik/Die Newtontische Axiome.md",
     "02 - Areas/0 - Schule/Physik/Der Meter.md",
@@ -193,7 +205,6 @@
     "/Lingen Retorikseminar Arbeitsblatt.md",
     "/05 - Fleeting/Debatte zu gendersprache.md",
     "Seminar ding.md",
-    "Drawing 2024-04-09 16.38.09..md",
     "IMG_0259.jpeg",
     "03 - Resurces",
     "03 - Resurces/Excalidraw",
