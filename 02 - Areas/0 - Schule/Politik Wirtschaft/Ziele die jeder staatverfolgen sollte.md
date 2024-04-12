@@ -1,6 +1,8 @@
 
 ### Gleichheit
+- 
 
 ### Freiheit
 
-### 
+
+### Sicherheit
