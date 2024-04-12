@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Physik/Kilogramm.md",
+                "file": "02 - Areas/0 - Schule/Physik/Die Newtontische Axiome.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Physik/Kilogramm.md",
+            "file": "02 - Areas/0 - Schule/Physik/Die Newtontische Axiome.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,6 +167,8 @@
   },
   "active": "375e19185d846eb1",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Physik/Steigung in Graphen berechnen.md",
+    "02 - Areas/0 - Schule/Physik/Kilogramm.md",
     "README.md",
     "02 - Areas/0 - Schule/Englisch/Media literacy of German teenagers.md",
     "02 - Areas/0 - Schule/Niederländisch/Das Atomium.md",
@@ -202,8 +204,6 @@
     "02 - Areas/0 - Schule/Politik Wirtschaft/IMG_0243.jpeg",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Pasted image 20240405124356.png",
     "01 - Projects/Dev/Subject-based-color.md",
-    "02 - Areas/0 - Schule/Physik/Aufgaben/Hausaufgaben physik.md",
-    "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
     "03 - Resources/Pictures/Biokatalyse.jpeg",
     "03 - Resources/Text",
     "Projects - Demo Project",
