@@ -1,7 +1,3 @@
 ### Schöne slides
-
 ---
-
 ## IN obsidian
-
----
