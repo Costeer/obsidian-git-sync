@@ -19,3 +19,5 @@ Andererseits sind da diejenigen, die die Standardsprache durchaus beherrschen, a
 ### Kiezdeutsch ist „Turkfacing“
 
 Beide Motive spielen bestimmt tatsächlich eine Rolle. Aber zuallererst imitieren deutsche Gymnasiasten oder Studenten doch den (echten oder vermeintlichen) Jargon türkischer Altersgenossen, um sich darüber zu belustigen. Je höher die Bildung, desto eher besteht der paradoxe Trick darin, Kiezdeutsch zu sprechen und sich gleichzeitig von dessen originären Sprechern zu distanzieren. Im Grunde ist das wie „Blackfacing“. So nennt man in Amerika die lange von Weißen verübte rassistische Humorpraxis, sich das Gesicht schwarz anzumalen, um über die Schwarzen und ihre kulturellen Besonderheiten zu spotten. Wenn Deutsche, die es besser können, Kiezdeutsch reden, ist das oft „Turkfacing“ – man schminkt sich sprachlich als Türke, um unter den biodeutschen Freunden ein paar leichte Humorpunkte zu machen.
+
+#deutsch 

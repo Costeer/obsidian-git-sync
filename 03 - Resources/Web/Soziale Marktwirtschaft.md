@@ -8,4 +8,4 @@ Die Aussagekraft des Terminus Soziale Marktwirtschaft wird unterschiedlich einge
 https://de.wikipedia.org/wiki/Soziale_Marktwirtschaft
 
 *Tags:*
-#wikipedia #soziale-marktwirtschaft 
+#wikipedia #soziale-marktwirtschaft #politik 

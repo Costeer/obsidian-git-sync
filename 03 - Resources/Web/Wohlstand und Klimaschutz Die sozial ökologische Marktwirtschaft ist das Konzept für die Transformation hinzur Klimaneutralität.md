@@ -5,4 +5,4 @@ Die Soziale Marktwirtschaft ist die Grundlage unserer freiheitlichen, offenen un
 https://www.bmwk.de/Redaktion/DE/Dossier/soziale-marktwirtschaft.html
 
 *Tags:*
-#bmwk #wikipedia 
+#bmwk #wikipedia #politik 

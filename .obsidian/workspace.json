@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Text/Ionien.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Text/Ionien.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/Text/Ionien.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,6 +207,8 @@
   "active": "e80d0bcfa7fa3ca0",
   "lastOpenFiles": [
     "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
+    "03 - Resources/Text/In Wahrheit ist Kiezdeutsch rassistisch.md",
+    "03 - Resources/Text/Ionien.md",
     "03 - Resources/Web/Soziale Marktwirtschaft.md",
     "README.md",
     "03 - Resources/Web",
@@ -235,8 +237,6 @@
     "02 - Areas/Satisfactory/Iron Fab 1.md",
     "02 - Areas/Satisfactory/Motor Fab 10pM.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkraft.md",
-    "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkräftemangel Diagramm.md",
-    "02 - Areas/0 - Schule/Politik Wirtschaft/Die Letzte Generation.md",
     "01 - Projects/Catppuccin/catppuccin-cat-dark.jpg",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
