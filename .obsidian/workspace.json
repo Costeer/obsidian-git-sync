@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3196036f0a0c4ff5",
+        "id": "0fe47100871fe937",
         "type": "tabs",
         "children": [
           {
-            "id": "e80d0bcfa7fa3ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Politik Power >.<.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06f5a2c3ef3b466d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Powerpoint notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9082007c9d768dcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a41cd97993c2daf",
+            "id": "4ac250b3a68a1bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,25 +21,12 @@
             }
           },
           {
-            "id": "4081a43b3016f4d9",
+            "id": "22a1aed5a545857d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aecb579b5edd3285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft (tutoria).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -146,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Powerpoint notes.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft (tutoria).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Projects/Powerpoint notes.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft (tutoria).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,18 +204,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "06f5a2c3ef3b466d",
+  "active": "22a1aed5a545857d",
   "lastOpenFiles": [
+    "03 - Resources/Web/Soziale MArktwirtschaft (psy.lmu.de).md",
+    "03 - Resources/Web/Soziale Marktwirtschaft (tutoria).md",
+    "README.md",
     "01 - Projects/Politik Power >.<.md",
     "01 - Projects/Powerpoint notes.md",
     "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
-    "03 - Resources/Web/Soziale MArktwirtschaft (psy.lmu.de).md",
     "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
     "01 - Projects/Präsentation.md",
     "03 - Resources/Text/In Wahrheit ist Kiezdeutsch rassistisch.md",
     "03 - Resources/Text/Ionien.md",
-    "README.md",
     "03 - Resources/Web",
     "07 - Archives/Drawing 2024-04-11 08.23.14.excalidraw.md",
     "03 - Resources/Pictures/IMG_0260.jpeg",
@@ -286,7 +235,6 @@
     "2024-04-01.md",
     "99 - Meta/00 - Templates/Default Template Aufgabe.md",
     "99 - Meta/00 - Templates/Default Template Table.md",
-    "00 - Maps of Content/Untitled.md",
     "03 - Resources/Pictures/Emilia Galotti-27.jpg",
     "03 - Resources/Pictures/Emilia Galotti-25.jpg",
     "02 - Areas/Dev/Catppuccin/catppuccin-cat-dark.jpg",
