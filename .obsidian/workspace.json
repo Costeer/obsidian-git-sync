@@ -11,9 +11,12 @@
             "id": "79b104c0d6177cce",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG_0260.jpeg"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -77,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMG_0260.jpeg",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IMG_0260.jpeg",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,10 +192,11 @@
   },
   "active": "79b104c0d6177cce",
   "lastOpenFiles": [
-    "Lingen Retorikseminar Arbeitsblatt.md",
-    "Seminar ding.md",
-    "IMG_0260.jpeg",
+    "07 - Archives/Lingen Retorikseminar Arbeitsblatt.md",
+    "07 - Archives/Mokey See/Monkeytype.md",
     "README.md",
+    "03 - Resources/Pictures/IMG_0260.jpeg",
+    "Seminar ding.md",
     "05 - Fleeting/Debatte zu gendersprache.md",
     "06 - Daily/2024-04-01 First Daily Note.md",
     "99 - Meta/00 - Templates/Daily Template.md",
@@ -206,7 +210,6 @@
     "02 - Areas/0 - Schule/Englisch/Comment in inglisch.md",
     "02 - Areas/Satisfactory/Iron Fab 1.md",
     "02 - Areas/Satisfactory/Motor Fab 10pM.md",
-    "07 - Archives/Mokey See/Monkeytype.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkraft.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkräftemangel Diagramm.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Die Letzte Generation.md",
