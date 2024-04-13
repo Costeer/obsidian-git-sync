@@ -9,4 +9,6 @@ Der deutsche Politiker und WirtschaftswissenschaftlerLudwig Erhard Zusammen mit 
 Die soziale Marktwirtschaft baut auf Elementen der freien Marktwirtschaft auf, ist in der tatsächlichen Ausgestaltung jedoch durch die wirtschaftstheoretischen Vorstellungen des Neoliberalismus
 und des Link hat Vorschau-PopupInterner Ordoliberalismus vor allem vom Nationalökonomen Walter Eucken (* 1891, † 1950) und der Freiburger Schule geprägt.
 
-## Neoliba
+***
+## Neoliberalismus
+Denkrichtung des Liberalismus, die eine freiheitliche, marktwirtschaftliche Wirtschaftsordnung mit den entsprechenden Gestaltungsmerkmalen wie privates Eigentum an den Produktionsmitteln, freie Preisbildung, Wettbewerbs- und Gewerbefreiheit anstrebt, staatliche Eingriffe in die Wirtschaft jedoch nicht ganz ablehnt, sondern auf ein Minimum beschränken will.
