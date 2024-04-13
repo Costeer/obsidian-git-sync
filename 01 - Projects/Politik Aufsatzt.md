@@ -15,3 +15,4 @@ und des Link hat Vorschau-PopupInterner Ordoliberalismus vor allem vom National�
 Denkrichtung des Liberalismus, die eine freiheitliche, marktwirtschaftliche Wirtschaftsordnung mit den entsprechenden Gestaltungsmerkmalen wie privates Eigentum an den Produktionsmitteln, freie Preisbildung, Wettbewerbs- und Gewerbefreiheit anstrebt, staatliche Eingriffe in die Wirtschaft jedoch nicht ganz ablehnt, sondern auf ein Minimum beschränken will.
 
 #### Ordoliberalismus
+Der Ordoliberalismus ist ein Konzept für eine marktwirtschaftliche Wirtschaftsordnung, in der ein durch den Staat geschaffener Ordnungsrahmen den ökonomischen Wettbewerb und die Freiheit der Bürger auf dem Markt gewährleisten soll.
