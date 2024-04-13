@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
+                "file": "01 - Projects/Politik Aufsatzt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
+                "file": "01 - Projects/Politik Aufsatzt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
+                "file": "01 - Projects/Politik Aufsatzt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,9 +219,10 @@
   },
   "active": "84d9bd0741f3853a",
   "lastOpenFiles": [
+    "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
+    "01 - Projects/Politik Aufsatzt.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
     "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
-    "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
     "03 - Resources/Text/In Wahrheit ist Kiezdeutsch rassistisch.md",
     "03 - Resources/Text/Ionien.md",
     "README.md",
@@ -249,8 +250,7 @@
     "02 - Areas/0 - Schule/Englisch/Media literacy of German teenagers.md",
     "02 - Areas/0 - Schule/Englisch/Comment in inglisch.md",
     "02 - Areas/Satisfactory/Iron Fab 1.md",
-    "02 - Areas/Satisfactory/Motor Fab 10pM.md",
-    "01 - Projects/Catppuccin/catppuccin-cat-dark.jpg",
+    "02 - Areas/Dev/Catppuccin/catppuccin-cat-dark.jpg",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Resurces/Excalidraw",
