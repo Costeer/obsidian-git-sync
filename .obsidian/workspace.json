@@ -33,21 +33,6 @@
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b733fcff18ecf646",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7c13f21582d046b3",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
         ]
       }
     ],
@@ -108,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Präsentation.md",
+                "file": "01 - Projects/Politik Aufsatzt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Projects/Präsentation.md",
+                "file": "01 - Projects/Politik Aufsatzt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,10 +203,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "114ad7e74f4fb120",
+  "active": "e80d0bcfa7fa3ca0",
   "lastOpenFiles": [
-    "01 - Projects/Politik Aufsatzt.md",
     "01 - Projects/Präsentation.md",
+    "01 - Projects/Politik Aufsatzt.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
     "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
