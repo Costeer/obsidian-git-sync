@@ -30,6 +30,10 @@ Möglichkeit verhindern.
 
 ***
 ## Heute
-"Heute hat sich die soziale Marktwirtshaft in einen Neo-Liberalismus verwandelt, der sich nicht mehr dem Schutz des Arbeitnehmers verpflichtet fühlt. Sie ist nur noch freie, aber nicht mehr soziale Marktwirtschaft. Daher sind staatlich Regulierungsmaßnahmen städig notwendig" so professor der Ludwig-Maximilian Universität München
+"Heute hat sich die soziale Marktwirtshaft in einen Neo-Liberalismus verwandelt, der sich nicht mehr dem Schutz des Arbeitnehmers verpflichtet fühlt. Sie ist nur noch freie, aber nicht mehr soziale Marktwirtschaft. Daher sind staatlich Regulierungsmaßnahmen städig notwendig
+Dennoch scheint die Schere zwischen arm und reich immer weiter auseinander zu gehen.
+Aus der Gewinnoptimierung der sozialen Marktwirtschaft ist die Gewinnmaximierung des Neo-Liberalismus geworden." 
+
+so professor der Ludwig-Maximilian Universität München
 ***
 
