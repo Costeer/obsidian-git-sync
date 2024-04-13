@@ -19,8 +19,7 @@ Der Begriff Neoliberalismus wird zur Bezeichnung einer breiten, heterogenen Str�
 
 
 
-> [!] Title
-> Contents
+> [!info] # Ordoliberalismus
+> Der Ordoliberalismus ist ein Konzept für eine marktwirtschaftliche Wirtschaftsordnung, in der ein durch den Staat geschaffener Ordnungsrahmen den ökonomischen Wettbewerb und die Freiheit der Bürger auf dem Markt gewährleisten soll.
 
 #### Ordoliberalismus
-Der Ordoliberalismus ist ein Konzept für eine marktwirtschaftliche Wirtschaftsordnung, in der ein durch den Staat geschaffener Ordnungsrahmen den ökonomischen Wettbewerb und die Freiheit der Bürger auf dem Markt gewährleisten soll.
