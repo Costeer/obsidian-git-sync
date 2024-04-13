@@ -29,5 +29,7 @@ den Wettbewerb sichern und private Marktmacht (Monopole, Kartelle) nach
 Möglichkeit verhindern.
 
 ***
-### heute
-Heute hat sich die soziale Marktwirtshaft in einen Neo-Liberalismus verwandelt, der sich nicht mehr dem Schutz des Arbeitnehmers verpflichtet fühlt. Sie ist nur noch freie, aber nicht mehr soziale Marktwirtschaft. Daher sind staatlich Regulierungsmaßnahmen städig notwendig so professor der Ludwig-Maximilian Universität Müm
+## Heute
+"Heute hat sich die soziale Marktwirtshaft in einen Neo-Liberalismus verwandelt, der sich nicht mehr dem Schutz des Arbeitnehmers verpflichtet fühlt. Sie ist nur noch freie, aber nicht mehr soziale Marktwirtschaft. Daher sind staatlich Regulierungsmaßnahmen städig notwendig" so professor der Ludwig-Maximilian Universität München
+***
+
