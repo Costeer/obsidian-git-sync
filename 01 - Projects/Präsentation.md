@@ -1,6 +1,6 @@
 ---
 theme: blood
-highlightTheme: monokai
+highlightTheme: css/vs2015.css
 ---
 
 
@@ -8,5 +8,5 @@ highlightTheme: monokai
 ---
 ## IN obsidian
 ```
-dadwdasdwadww
+
 ```
