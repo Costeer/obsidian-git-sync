@@ -38,6 +38,10 @@ cmw
 cmV
 cW
 cm
+commit
+commands
+conflicted
+conflicts
 span
 style
 sync
@@ -125,6 +129,8 @@ siJ
 sp
 sOIJ
 sBi
+strongly
+simple
 Obsidic
 Obsidian
 OS
@@ -172,6 +178,7 @@ OR
 Ox
 Oh
 Of
+OPTIONS
 Ein
 Einstellungen
 Empfohlene
@@ -230,6 +237,9 @@ EC
 Ef
 EvN
 Es
+EXCALIDRAW
+Elements
+Excalidraw
 repo
 rein
 rechtfertigen
@@ -284,6 +294,9 @@ rm
 rjKo
 rkE
 rT
+resolve
+recommend
+replace
 mit
 muss
 man
@@ -363,6 +376,8 @@ mJEh
 mF
 mRM
 mwB
+mode
+menu
 Theme
 Terminal
 Templates
@@ -416,6 +431,8 @@ Txg
 Tj
 Tel
 Ti
+This
+Text
 vorgefertigten
 voreingestellten
 viel
@@ -483,6 +500,7 @@ vT
 vP
 vwk
 vS
+viewing
 templates
 terminal
 token
@@ -531,6 +549,10 @@ ts
 tIo
 tKMV
 tj
+them
+the
+text
+this
 und
 unbekannte
 um
@@ -596,6 +618,8 @@ uumuM
 umk
 uO
 uRv
+using
+use
 einfachem
 emulator
 einfügen
@@ -664,6 +688,9 @@ et
 eV
 eeq
 ey
+each
+every
+excalidraw
 über
 übernehmen
 überkategorie
@@ -786,6 +813,8 @@ ICH
 IG
 IL
 IeI
+IMG
+Instructions
 Um
 Urteile
 Urteil
@@ -896,6 +925,10 @@ ag
 ad
 ae
 aLw
+and
+automatically
+available
+above
 nötigen
 notizen
 nach
@@ -986,6 +1019,11 @@ ffr
 fa
 fm
 fh
+followed
+file
+for
+files
+following
 obsidian
 organisiert
 of
@@ -1042,6 +1080,7 @@ on
 oQK
 op
 oP
+occurrence
 zu
 zusammenfasungen
 zum
@@ -1163,6 +1202,9 @@ dO
 dux
 dCX
 dL
+deleted
+desired
+document
 in
 installiert
 indem
@@ -1373,6 +1415,7 @@ DV
 DuW
 DO
 Day
+Drawing
 Kitty
 Kategorien
 Kochen
@@ -1500,6 +1543,7 @@ AID
 As
 AX
 AP
+Additional
 Powershell
 Para
 Projects
@@ -1548,6 +1592,7 @@ Pn
 PP
 PPk
 PgS
+Please
 werden
 wie
 wo
@@ -1627,6 +1672,8 @@ wVn
 we
 wH
 wO
+will
+with
 Niemals
 Nicht
 Note
@@ -1687,6 +1734,7 @@ Ns
 NONO
 NsN
 Njm
+Not
 befehle
 bekommen
 befinden
@@ -1738,6 +1786,11 @@ bN
 bE
 bL
 bV
+by
+be
+before
+below
+blocks
 kopieren
 kombination
 kommt
@@ -1944,6 +1997,7 @@ Vw
 VZS
 Vr
 VFAZ
+VIEW
 platz
 projects
 präsentiert
@@ -1995,6 +2049,8 @@ pOA
 pq
 pFqS
 pRW
+plugin
+parsed
 Zettelkasten
 Zerstöre
 Zukunft
@@ -2119,6 +2175,7 @@ MuV
 MlE
 MW
 MO
+MORE
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -2148,6 +2205,7 @@ CV
 Cs
 CU
 Ciz
+Conflicts
 Resources
 Regeln
 Rede
@@ -2261,6 +2319,7 @@ Fz
 FjRI
 Fe
 FY
+For
 helfen
 haben
 hier
@@ -2324,6 +2383,8 @@ lR
 lo
 lV
 lQ
+list
+listed
 XX
 Xn
 Xi
@@ -2404,6 +2465,7 @@ jW
 jv
 jMl
 jb
+jpeg
 ändern
 YYYY
 YJ
@@ -2510,6 +2572,8 @@ SK
 SF
 SV
 SSyz
+Source
+Switch
 Journal
 Jetzt
 JFIF
