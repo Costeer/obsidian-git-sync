@@ -5,7 +5,6 @@
 ## Folie 3
 Definition IS A BELLL
 ***
-
 ## Folie 4-6
-Soziale marktwirtschaft ist eine mischung aus 
-
+Soziale marktwirtschaft ist eine mischung aus kapitalismus und sozialismus
+***
