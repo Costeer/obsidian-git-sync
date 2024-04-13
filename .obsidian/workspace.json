@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03 - Resources/Web/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "03 - Resources/Web/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "03 - Resources/Web/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,11 +190,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "edf8306d8d260ce1",
+  "active": "c7f7be64ae9160ee",
   "lastOpenFiles": [
+    "README.md",
+    "03 - Resources/Web/Untitled.md",
     "03 - Resources/Web",
     "07 - Archives/Drawing 2024-04-11 08.23.14.excalidraw.md",
-    "README.md",
     "03 - Resources/Pictures/IMG_0260.jpeg",
     "conflict-files-obsidian-git.md",
     "03 - Resources/IMG_0260.jpeg",
@@ -234,7 +235,6 @@
     "04 - Permanent",
     "03 - Resources",
     "02 - Areas",
-    "01 - Projects",
     "03 - Resources/Pictures/Wn-6.jpeg",
     "03 - Resources/Pictures/Drawing 2023-09-26 08.34.01.excalidraw.png",
     "03 - Resources/Pictures/Emilia Galotti-26.jpg"
