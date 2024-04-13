@@ -27,3 +27,10 @@ Die Soziale Marktwirtschaft versucht die Vorteile einer freien Marktwirtschaft, 
 Zu ihren Gestaltungselementen gehören freie Preisbildung für Güter und Leistungen am Markt, Privateigentum an Produktionsmitteln und Gewinnstreben als Leistungsanreiz. Durch die Schaffung eines rechtlichen Rahmens sollen die persönlichen Freiheitsrechte, wie Gewerbe-, Konsum-, Vertrags-, Berufs- und Koalitionsfreiheit gewährleistet werden. Zugleich soll staatliche Wettbewerbspolitik
 den Wettbewerb sichern und private Marktmacht (Monopole, Kartelle) nach
 Möglichkeit verhindern.
+
+***
+### heute
+Heute hat sich die soziale Marktwirtshaft in einen Neo-Liberalismus verwandelt,
+der sich nicht mehr dem Schutz des Arbeitnehmers verpflichtet fühlt. Sie ist nur
+noch freie, aber nicht mehr soziale Marktwirtschaft.
+Daher sind staatlich Regulierungsmaßnahmen städig notwendig
