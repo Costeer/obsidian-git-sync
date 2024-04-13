@@ -15,8 +15,8 @@
   "colored-text",
   "templater-obsidian",
   "calendar",
-  "cmenu-plugin",
   "obsidian-completr",
   "obsidian-git",
-  "callout-manager"
+  "callout-manager",
+  "cmenu-plugin"
 ]
