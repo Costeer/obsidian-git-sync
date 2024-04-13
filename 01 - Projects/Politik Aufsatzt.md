@@ -30,7 +30,4 @@ Möglichkeit verhindern.
 
 ***
 ### heute
-Heute hat sich die soziale Marktwirtshaft in einen Neo-Liberalismus verwandelt,
-der sich nicht mehr dem Schutz des Arbeitnehmers verpflichtet fühlt. Sie ist nur
-noch freie, aber nicht mehr soziale Marktwirtschaft.
-Daher sind staatlich Regulierungsmaßnahmen städig notwendig
+Heute hat sich die soziale Marktwirtshaft in einen Neo-Liberalismus verwandelt, der sich nicht mehr dem Schutz des Arbeitnehmers verpflichtet fühlt. Sie ist nur noch freie, aber nicht mehr soziale Marktwirtschaft. Daher sind staatlich Regulierungsmaßnahmen städig notwendig so professor des 
