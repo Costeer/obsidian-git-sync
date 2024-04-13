@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "06f5a2c3ef3b466d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Powerpoint notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9082007c9d768dcf",
             "type": "leaf",
             "state": {
@@ -72,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Politik Power >.<.md",
+                "file": "01 - Projects/Powerpoint notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Projects/Politik Power >.<.md",
+                "file": "01 - Projects/Powerpoint notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,13 +256,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e80d0bcfa7fa3ca0",
+  "active": "06f5a2c3ef3b466d",
   "lastOpenFiles": [
+    "01 - Projects/Politik Power >.<.md",
+    "01 - Projects/Powerpoint notes.md",
     "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
     "03 - Resources/Web/Soziale MArktwirtschaft (psy.lmu.de).md",
     "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
-    "01 - Projects/Politik Power >.<.md",
     "01 - Projects/Präsentation.md",
     "03 - Resources/Text/In Wahrheit ist Kiezdeutsch rassistisch.md",
     "03 - Resources/Text/Ionien.md",
@@ -274,7 +289,6 @@
     "00 - Maps of Content/Untitled.md",
     "03 - Resources/Pictures/Emilia Galotti-27.jpg",
     "03 - Resources/Pictures/Emilia Galotti-25.jpg",
-    "02 - Areas/0 - Schule/Englisch/Media literacy of German teenagers.md",
     "02 - Areas/Dev/Catppuccin/catppuccin-cat-dark.jpg",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
