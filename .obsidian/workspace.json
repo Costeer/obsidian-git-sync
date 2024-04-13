@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Web/WohlstandundKlimaschutzDiesozialökologischeMarktwirtschaftistdasKonzeptfürdieTransformationhinzurKlimaneutralität.md",
+                "file": "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e80d0bcfa7fa3ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Web/WohlstandundKlimaschutzDiesozialökologischeMarktwirtschaftistdasKonzeptfürdieTransformationhinzurKlimaneutralität.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/Web/WohlstandundKlimaschutzDiesozialökologischeMarktwirtschaftistdasKonzeptfürdieTransformationhinzurKlimaneutralität.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,10 +204,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c7f7be64ae9160ee",
+  "active": "e80d0bcfa7fa3ca0",
   "lastOpenFiles": [
+    "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
+    "03 - Resources/Web/Soziale Marktwirtschaft.md",
     "README.md",
-    "03 - Resources/Web/WohlstandundKlimaschutzDiesozialökologischeMarktwirtschaftistdasKonzeptfürdieTransformationhinzurKlimaneutralität.md",
     "03 - Resources/Web",
     "07 - Archives/Drawing 2024-04-11 08.23.14.excalidraw.md",
     "03 - Resources/Pictures/IMG_0260.jpeg",
@@ -222,7 +237,6 @@
     "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkraft.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkräftemangel Diagramm.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Die Letzte Generation.md",
-    "02 - Areas/0 - Schule/Politik Wirtschaft/Arbeitsverhältnisse.md",
     "01 - Projects/Catppuccin/catppuccin-cat-dark.jpg",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "03 - Resources/Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
