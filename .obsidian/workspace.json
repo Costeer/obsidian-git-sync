@@ -8,59 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7f7be64ae9160ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e80d0bcfa7fa3ca0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84d9bd0741f3853a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff3b300b34b6e1b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Web/Soziale MArktwirtschaft (psy.lmu).md",
+                "file": "01 - Projects/Politik Aufsatzt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Web/Soziale MArktwirtschaft (psy.lmu).md",
+                "file": "01 - Projects/Politik Aufsatzt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/Web/Soziale MArktwirtschaft (psy.lmu).md",
+                "file": "01 - Projects/Politik Aufsatzt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,13 +190,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ff3b300b34b6e1b3",
+  "active": "e80d0bcfa7fa3ca0",
   "lastOpenFiles": [
+    "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
+    "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
     "03 - Resources/Web/Soziale MArktwirtschaft (psy.lmu).md",
     "01 - Projects/Politik Aufsatzt.md",
-    "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
-    "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
     "03 - Resources/Text/In Wahrheit ist Kiezdeutsch rassistisch.md",
     "03 - Resources/Text/Ionien.md",
     "README.md",

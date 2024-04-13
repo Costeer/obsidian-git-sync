@@ -23,5 +23,11 @@ Der Begriff Neoliberalismus wird zur Bezeichnung einer breiten, heterogenen Str�
 ***
 
 Die Soziale Marktwirtschaft versucht die Vorteile einer freien Marktwirtschaft, insbesondere eine hohe Leistungsfähigkeit und Güterversorgung, mit dem Sozialstaat als Korrektiv zu verbinden, der mögliche negative Auswirkungen von Marktprozessen verhindern soll
-mögliche negative Auswirkungen von Marktprozessen:
-- 
+
+Zu ihren Gestaltungselementen gehören freie Preisbildung für Güter und Leistungen
+am Markt, Privateigentum an Produktionsmitteln und Gewinnstreben als
+Leistungsanreiz. Durch die Schaffung eines rechtlichen Rahmens sollen die
+persönlichen Freiheitsrechte, wie Gewerbe-, Konsum-, Vertrags-, Berufs- und
+Koalitionsfreiheit gewährleistet werden. Zugleich soll staatliche Wettbewerbspolitik
+den Wettbewerb sichern und private Marktmacht (Monopole, Kartelle) nach
+Möglichkeit verhindern.
