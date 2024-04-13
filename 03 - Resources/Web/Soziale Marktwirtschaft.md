@@ -5,3 +5,7 @@ Die Aussagekraft des Terminus Soziale Marktwirtschaft wird unterschiedlich einge
 
 - andererseits wird der Ausdruck je nach politischem Kontext, ähnlich der sozialpolitischen Idee vom Volksheim in Schweden, unterschiedlich interpretiertund somit auch als (inhaltsleeres) politisches Schlagwort betrachtet.
 
+https://de.wikipedia.org/wiki/Soziale_Marktwirtschaft
+
+*Tags:*
+#wikipedia

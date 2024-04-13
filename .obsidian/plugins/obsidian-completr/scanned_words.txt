@@ -134,6 +134,8 @@ simple
 solidarischen
 schützen
 soziale
+sozialen
+sozialpolitischen
 Obsidic
 Obsidian
 OS
@@ -244,6 +246,7 @@ Es
 EXCALIDRAW
 Elements
 Excalidraw
+Einerseits
 repo
 rein
 rechtfertigen
@@ -437,6 +440,7 @@ Tel
 Ti
 This
 Text
+Terminus
 vorgefertigten
 voreingestellten
 viel
@@ -505,6 +509,7 @@ vP
 vwk
 vS
 viewing
+verbinden
 templates
 terminal
 token
@@ -625,6 +630,7 @@ uRv
 using
 use
 unserem
+unterschiedlich
 einfachem
 emulator
 einfügen
@@ -696,6 +702,8 @@ ey
 each
 every
 excalidraw
+eingeordnet
+etablierte
 über
 übernehmen
 überkategorie
@@ -772,6 +780,10 @@ gleichzeitig
 globaler
 gewährleisten
 grundlegenden
+gesellschafts
+gerade
+gesicherten
+gilt
 Installation
 Ipad
 Internet
@@ -825,6 +837,7 @@ IeI
 IMG
 Instructions
 Idee
+Initiative
 Um
 Urteile
 Urteil
@@ -940,6 +953,7 @@ and
 automatically
 available
 above
+andererseits
 nötigen
 notizen
 nach
@@ -1038,6 +1052,7 @@ following
 freiheitlichen
 funktionierenden
 fördern
+freie
 obsidian
 organisiert
 of
@@ -1292,6 +1307,8 @@ iig
 iYv
 iO
 internationalen
+interpretiertund
+inhaltsleeres
 Wahl
 Windows
 Wie
@@ -1368,6 +1385,8 @@ Wirtschaft
 Wettbewerb
 Wohlstand
 Weiterentwicklung
+Wettbewerbswirtschaft
+Wirtschaftsordnung
 Linux
 Links
 Lautstärke
@@ -1394,6 +1413,8 @@ LRN
 LWQ
 Lr
 Land
+Leitbild
+Leistung
 DE
 Der
 Daily
@@ -1568,6 +1589,8 @@ As
 AX
 AP
 Additional
+Aussagekraft
+Ausdruck
 Powershell
 Para
 Projects
@@ -1698,6 +1721,8 @@ wH
 wO
 will
 with
+wirtschaftspolitisches
+wirtschaftliche
 Niemals
 Nicht
 Note
@@ -1817,6 +1842,7 @@ below
 blocks
 besteht
 bedarf
+betrachtet
 kopieren
 kombination
 kommt
@@ -2025,6 +2051,7 @@ VZS
 Vr
 VFAZ
 VIEW
+Volksheim
 platz
 projects
 präsentiert
@@ -2078,6 +2105,8 @@ pFqS
 pRW
 plugin
 parsed
+politischem
+politisches
 Zettelkasten
 Zerstöre
 Zukunft
@@ -2139,6 +2168,7 @@ Zb
 ZPn
 Zvv
 Zkk
+Ziel
 Maps
 Meta
 Mahlen
@@ -2289,6 +2319,7 @@ RjjI
 RT
 Rku
 RoF
+Republik
 Fleeting
 Fleting
 Feld
@@ -2349,6 +2380,7 @@ Fe
 FY
 For
 Freiheit
+Fortschritt
 helfen
 haben
 hier
@@ -2497,6 +2529,7 @@ jb
 jpeg
 jedoch
 ändern
+ähnlich
 YYYY
 YJ
 Yv
@@ -2607,6 +2640,9 @@ Switch
 Soziale
 Sozialen
 Schutz
+Schweiz
+Schweden
+Schlagwort
 Journal
 Jetzt
 JFIF
@@ -2700,6 +2736,8 @@ Bj
 Bmtm
 Bi
 Biodiversität
+Bezeichnung
+Bundesrepublik
 Quelle
 Quiz
 Qa
@@ -2869,3 +2907,4 @@ xw
 xet
 xbY
 xQw
+Österreich
