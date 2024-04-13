@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
+                "file": "03 - Resources/Text/Ionien.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
+                "file": "03 - Resources/Text/Ionien.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
+                "file": "03 - Resources/Text/Ionien.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
