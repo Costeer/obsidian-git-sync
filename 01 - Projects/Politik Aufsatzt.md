@@ -6,8 +6,7 @@ Der deutsche Politiker und WirtschaftswissenschaftlerLudwig Erhard Zusammen mit 
 
 (1949 bis 1963) unter dem Bundeskanzler Konrad Adenauer erfolgreich durchsetzte
 
-Die soziale Marktwirtschaft baut auf Elementen der freien Marktwirtschaft auf, ist in der tatsächlichen Ausgestaltung jedoch durch die wirtschaftstheoretischen Vorstellungen des [Interner Link: Neoliberalismus (siehe dort)](https://www.bpb.de/kurz-knapp/lexika/lexikon-der-wirtschaft/20176/neoliberalismus/)
+Die soziale Marktwirtschaft baut auf Elementen der freien Marktwirtschaft auf, ist in der tatsächlichen Ausgestaltung jedoch durch die wirtschaftstheoretischen Vorstellungen des Neoliberalismus
+und des Link hat Vorschau-PopupInterner Ordoliberalismus vor allem vom Nationalökonomen Walter Eucken (* 1891, † 1950) und der Freiburger Schule geprägt.
 
-und des [Link hat Vorschau-PopupInterner Link: Ordoliberalismus (siehe dort),](https://www.bpb.de/kurz-knapp/lexika/lexikon-der-wirtschaft/20234/ordoliberalismus/)
-
-vor allem vom Nationalökonomen Walter Eucken (* 1891, † 1950) und der Freiburger Schule geprägt.
+## Neoliba
