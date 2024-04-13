@@ -1,6 +1,7 @@
-___
-theme: night
 ---
+"theme:": moon
+---
+
 
 ### Schöne slides
 ---
