@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/Web/Soziale Marktwirtschaft.md",
+                "file": "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,9 +219,9 @@
   },
   "active": "84d9bd0741f3853a",
   "lastOpenFiles": [
+    "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
     "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
-    "03 - Resources/Web/Soziale Marktwirtschaft (bpw).md",
-    "03 - Resources/Web/Soziale Marktwirtschaft.md",
+    "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
     "03 - Resources/Text/In Wahrheit ist Kiezdeutsch rassistisch.md",
     "03 - Resources/Text/Ionien.md",
     "README.md",
