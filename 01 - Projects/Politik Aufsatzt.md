@@ -10,7 +10,6 @@ Die soziale Marktwirtschaft baut auf Elementen der freien Marktwirtschaft auf, i
 und des Link hat Vorschau-PopupInterner Ordoliberalismus vor allem vom Nationalökonomen Walter Eucken (* 1891, † 1950) und der Freiburger Schule geprägt.
 
 ***
-
 > [!info] #### Neoliberalismus
 > Denkrichtung des Liberalismus, die eine freiheitliche, marktwirtschaftliche Wirtschaftsordnung mit den entsprechenden Gestaltungsmerkmalen wie privates Eigentum an den Produktionsmitteln, freie Preisbildung, Wettbewerbs- und Gewerbefreiheit anstrebt, staatliche Eingriffe in die Wirtschaft jedoch nicht ganz ablehnt, sondern auf ein Minimum beschränken will.
 > *Kurz:*
@@ -21,6 +20,6 @@ Der Begriff Neoliberalismus wird zur Bezeichnung einer breiten, heterogenen Str�
 ***
 > [!quote] BPD:
 > "Eine der wichtigsten Aufgaben des Staates in der sozialen Marktwirtschaft ist die Schaffung eines rechtlichen Rahmens, innerhalb dessen sich das wirtschaftliche Handeln abspielen kann"
-
 ***
+
 
