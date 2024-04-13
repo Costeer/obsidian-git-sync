@@ -23,3 +23,5 @@ Der Begriff Neoliberalismus wird zur Bezeichnung einer breiten, heterogenen Str�
 ***
 
 Die Soziale Marktwirtschaft versucht die Vorteile einer freien Marktwirtschaft, insbesondere eine hohe Leistungsfähigkeit und Güterversorgung, mit dem Sozialstaat als Korrektiv zu verbinden, der mögliche negative Auswirkungen von Marktprozessen verhindern soll
+mögliche negative Auswirkungen von Marktprozessen:
+- 
