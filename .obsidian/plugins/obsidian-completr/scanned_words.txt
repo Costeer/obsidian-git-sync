@@ -167,6 +167,7 @@ spotten
 schminkt
 staatliche
 strittig
+seinem
 Obsidic
 Obsidian
 OS
@@ -298,6 +299,7 @@ Elementen
 Eucken
 Eigentum
 Eingriffe
+Ende
 repo
 rein
 rechtfertigen
@@ -527,6 +529,7 @@ Theorie
 Turkfacing
 Trick
 Türke
+Tod
 vorgefertigten
 voreingestellten
 viel
@@ -673,6 +676,7 @@ teilen
 tatsächlich
 türkischer
 tatsächlichen
+trat
 und
 unbekannte
 um
@@ -840,6 +844,9 @@ entwarf
 erfolgreich
 entsprechenden
 einzelner
+erklärte
+erster
+eingeleitete
 über
 übernehmen
 überkategorie
@@ -943,6 +950,7 @@ geprägt
 gegenüber
 gesellschaftspolitischen
 geschaffener
+geboren
 Installation
 Ipad
 Internet
@@ -1388,6 +1396,8 @@ zwanghaften
 zuverlässiger
 zuallererst
 zur
+zugleich
+zurück
 dier
 diesen
 den
@@ -1568,6 +1578,9 @@ ihr
 ihren
 imitieren
 innerhalb
+ihm
+ihn
+innerparteilicher
 Wahl
 Windows
 Wie
@@ -1666,6 +1679,11 @@ Wenn
 WirtschaftswissenschaftlerLudwig
 Walter
 Wettbewerbs
+Wirtschaftswissenschaftler
+Wirtschaftsverwaltung
+Wirtschaftsgebietes
+Währungsreform
+Wirtschaftswunders
 Linux
 Links
 Lautstärke
@@ -1761,6 +1779,7 @@ Defiziten
 Deutsche
 Diana
 Denkrichtung
+Direktor
 Kitty
 Kategorien
 Kochen
@@ -1846,6 +1865,7 @@ Kiez
 Konzept
 Konrad
 Kurz
+Kritik
 Alle
 Areas
 Archives
@@ -1936,6 +1956,9 @@ Adenauer
 Ausgestaltung
 Abgrenzung
 Aufgaben
+Als
+Aufschwung
+Adenauers
 Powershell
 Para
 Projects
@@ -2110,6 +2133,7 @@ wirtschaftstheoretischen
 wobei
 wirtschafts
 wichtigsten
+wählte
 Niemals
 Nicht
 Note
@@ -2182,6 +2206,7 @@ Nervenkitzel
 Nazi
 Neoliberalismus
 Nationalökonomen
+Nachfolger
 befehle
 bekommen
 befinden
@@ -2269,6 +2294,8 @@ bis
 baut
 beschränken
 breiten
+begründete
+bpw
 kopieren
 kombination
 kommt
@@ -2526,6 +2553,10 @@ Varianten
 Verdacht
 Vorstellungen
 Vorschau
+Vereinigten
+Vater
+Vizekanzler
+Vorsitzender
 platz
 projects
 präsentiert
@@ -2661,6 +2692,7 @@ Zurückgebliebenen
 Zuwanderer
 Zusammen
 Zuordnung
+Zwangswirtschaft
 Maps
 Meta
 Mahlen
@@ -2775,6 +2807,7 @@ Ciz
 Conflicts
 Code
 CD
+CDU
 Resources
 Regeln
 Rede
@@ -2840,6 +2873,7 @@ Rassisten
 Rassismus
 Rolle
 Rahmens
+Ruf
 Fleeting
 Fleting
 Feld
@@ -3288,6 +3322,7 @@ Jugendlichen
 Jahrzehnten
 Jux
 Je
+Jahr
 Beziehe
 Beobachtungsbogen
 Blickkontakt
@@ -3360,6 +3395,11 @@ Blackfacing
 Besonderheiten
 Bundeskanzler
 BPD
+Besatzungsmächte
+Bundeswirtschaftsminister
+Bundestag
+Bundestagsabgeordneter
+Bild
 Quelle
 Quiz
 Qa
