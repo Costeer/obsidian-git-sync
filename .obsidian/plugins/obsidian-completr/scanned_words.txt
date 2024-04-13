@@ -168,6 +168,10 @@ schminkt
 staatliche
 strittig
 seinem
+sichern
+staatlich
+städig
+scheint
 Obsidic
 Obsidian
 OS
@@ -367,6 +371,7 @@ rote
 restringiert
 rassistische
 rechtlichen
+reich
 mit
 muss
 man
@@ -615,6 +620,8 @@ vermeintlichen
 verübte
 versucht
 verhindern
+verwandelt
+verpflichtet
 templates
 terminal
 token
@@ -954,6 +961,10 @@ gegenüber
 gesellschaftspolitischen
 geschaffener
 geboren
+gehören
+gewährleistet
+gehen
+geworden
 Installation
 Ipad
 Internet
@@ -1059,6 +1070,7 @@ Umweltgüter
 Unternehmen
 Uranistan
 Unternehmens
+Universität
 alle
 arbeit
 anderen
@@ -1157,6 +1169,8 @@ anzumalen
 anstrebt
 ablehnt
 abspielen
+arm
+auseinander
 nötigen
 notizen
 nach
@@ -1220,6 +1234,7 @@ neuer
 nie
 nennt
 negative
+notwendig
 für
 fenster
 folder
@@ -1274,6 +1289,7 @@ führt
 freien
 freiheitliche
 feste
+fühlt
 obsidian
 organisiert
 of
@@ -1402,6 +1418,7 @@ zuallererst
 zur
 zugleich
 zurück
+zwischen
 dier
 diesen
 den
@@ -1689,6 +1706,7 @@ Wirtschaftsverwaltung
 Wirtschaftsgebietes
 Währungsreform
 Wirtschaftswunders
+Wettbewerbspolitik
 Linux
 Links
 Lautstärke
@@ -1727,6 +1745,9 @@ Laune
 Link
 Liberalismus
 Leistungsfähigkeit
+Leistungen
+Leistungsanreiz
+Ludwig
 DE
 Der
 Daily
@@ -1786,6 +1807,9 @@ Deutsche
 Diana
 Denkrichtung
 Direktor
+Durch
+Daher
+Dennoch
 Kitty
 Kategorien
 Kochen
@@ -1873,6 +1897,9 @@ Konrad
 Kurz
 Kritik
 Korrektiv
+Konsum
+Koalitionsfreiheit
+Kartelle
 Alle
 Areas
 Archives
@@ -1967,6 +1994,8 @@ Als
 Aufschwung
 Adenauers
 Auswirkungen
+Arbeitnehmers
+Aus
 Powershell
 Para
 Projects
@@ -2039,6 +2068,7 @@ PopupInterner
 Produktionsmitteln
 Preisbildung
 Personen
+Privateigentum
 werden
 wie
 wo
@@ -2215,6 +2245,7 @@ Nazi
 Neoliberalismus
 Nationalökonomen
 Nachfolger
+Neo
 befehle
 bekommen
 befinden
@@ -2446,6 +2477,12 @@ Gesicht
 Gestaltungsmerkmalen
 Gewerbefreiheit
 Güterversorgung
+Gestaltungselementen
+Güter
+Gewinnstreben
+Gewerbe
+Gewinnoptimierung
+Gewinnmaximierung
 How
 Hintergrund
 HH
@@ -2567,6 +2604,7 @@ Vater
 Vizekanzler
 Vorsitzender
 Vorteile
+Vertrags
 platz
 projects
 präsentiert
@@ -2634,6 +2672,9 @@ paradoxe
 paar
 politik
 privates
+persönlichen
+private
+professor
 Zettelkasten
 Zerstöre
 Zukunft
@@ -2703,6 +2744,7 @@ Zuwanderer
 Zusammen
 Zuordnung
 Zwangswirtschaft
+Zugleich
 Maps
 Meta
 Mahlen
@@ -2786,6 +2828,12 @@ Müller
 Minimum
 Markt
 Marktprozessen
+Marktmacht
+Monopole
+Möglichkeit
+Marktwirtshaft
+Maximilian
+München
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -2885,6 +2933,7 @@ Rassismus
 Rolle
 Rahmens
 Ruf
+Regulierungsmaßnahmen
 Fleeting
 Fleting
 Feld
@@ -2956,6 +3005,7 @@ Formulierungen
 Fatal
 Freunden
 Freiburger
+Freiheitsrechte
 helfen
 haben
 hier
@@ -3289,6 +3339,7 @@ Staat
 Staates
 Schaffung
 Sozialstaat
+Schere
 Journal
 Jetzt
 JFIF
@@ -3413,6 +3464,7 @@ Bundeswirtschaftsminister
 Bundestag
 Bundestagsabgeordneter
 Bild
+Berufs
 Quelle
 Quiz
 Qa
