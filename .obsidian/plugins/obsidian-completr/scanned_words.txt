@@ -173,6 +173,7 @@ staatlich
 städig
 scheint
 slides
+sozialismus
 Obsidic
 Obsidian
 OS
@@ -470,6 +471,7 @@ manchmal
 marktwirtschaft
 marktwirtschaftliche
 mögliche
+mischung
 Theme
 Terminal
 Templates
@@ -1027,6 +1029,7 @@ Ioni
 Industriearbeitern
 Insolvenz
 IN
+IS
 Um
 Urteile
 Urteil
@@ -1293,6 +1296,7 @@ freien
 freiheitliche
 feste
 fühlt
+folie
 obsidian
 organisiert
 of
@@ -2415,6 +2419,7 @@ klassische
 kein
 kämen
 kulturellen
+kapitalismus
 GitHub
 Gesprächs
 Gestik
@@ -3010,6 +3015,7 @@ Fatal
 Freunden
 Freiburger
 Freiheitsrechte
+Folie
 helfen
 haben
 hier
@@ -3471,6 +3477,7 @@ Bundestag
 Bundestagsabgeordneter
 Bild
 Berufs
+BELLL
 Quelle
 Quiz
 Qa
