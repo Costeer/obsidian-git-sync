@@ -7,6 +7,9 @@
 
 # 2004 abgelent 
 
+# unter Konrad Adenauer erfolgreich durchsetzte
+
+
 # <span style="color:#ff5757">Risiken</span> 
 
 + hohe personalkosten 
