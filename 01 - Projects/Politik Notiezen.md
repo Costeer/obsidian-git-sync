@@ -9,3 +9,8 @@
 
 # <span style="color:#ff5757">Risiken</span> 
 
++ hohe personalkosten 
++ hohe Lohnsätzte
++ hohe Abgabenlast
++ Nachteile der Freien Marktwirtschaft werden nicht komplett verhindert
++ 
