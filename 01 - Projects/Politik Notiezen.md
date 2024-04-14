@@ -13,4 +13,9 @@
 + hohe Lohnsätzte
 + hohe Abgabenlast
 + Nachteile der Freien Marktwirtschaft werden nicht komplett verhindert
-+ 
++ Erschwerte Gründung von Unternehmen
+
+# <span style="color:#9446f8">Zusammenfassung</span> 
+## Soziale Marktwirtschaft ist eine Mischung von Idealen
+
+# 
