@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Archives/Politik Power >.<.md",
+                "file": "01 - Projects/Politik Notiezen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Archives/Politik Power >.<.md",
+                "file": "01 - Projects/Politik Notiezen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "07 - Archives/Politik Power >.<.md",
+                "file": "01 - Projects/Politik Notiezen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,8 +192,8 @@
   },
   "active": "5a7f07fc5e5c63f5",
   "lastOpenFiles": [
-    "01 - Projects/Politik Notiezen.md",
     "07 - Archives/Politik Power >.<.md",
+    "01 - Projects/Politik Notiezen.md",
     "01 - Projects/Powerpoint notes.md",
     "01 - Projects/Präsentation.md",
     "README.md",

@@ -306,6 +306,7 @@ Eucken
 Eigentum
 Eingriffe
 Ende
+Erschwerte
 repo
 rein
 rechtfertigen
@@ -626,6 +627,8 @@ verhindern
 verwandelt
 verpflichtet
 vs
+vertrag
+verhindert
 templates
 terminal
 token
@@ -861,6 +864,7 @@ einzelner
 erklärte
 erster
 eingeleitete
+eingeführt
 über
 übernehmen
 überkategorie
@@ -1030,6 +1034,7 @@ Industriearbeitern
 Insolvenz
 IN
 IS
+Idealen
 Um
 Urteile
 Urteil
@@ -1177,6 +1182,8 @@ ablehnt
 abspielen
 arm
 auseinander
+alleirte
+abgelent
 nötigen
 notizen
 nach
@@ -1297,6 +1304,7 @@ freiheitliche
 feste
 fühlt
 folie
+ff
 obsidian
 organisiert
 of
@@ -1755,6 +1763,7 @@ Leistungsfähigkeit
 Leistungen
 Leistungsanreiz
 Ludwig
+Lohnsätzte
 DE
 Der
 Daily
@@ -1907,6 +1916,7 @@ Korrektiv
 Konsum
 Koalitionsfreiheit
 Kartelle
+Kapitalismus
 Alle
 Areas
 Archives
@@ -2003,6 +2013,7 @@ Adenauers
 Auswirkungen
 Arbeitnehmers
 Aus
+Abgabenlast
 Powershell
 Para
 Projects
@@ -2253,6 +2264,8 @@ Neoliberalismus
 Nationalökonomen
 Nachfolger
 Neo
+NSDAP
+Nachteile
 befehle
 bekommen
 befinden
@@ -2420,6 +2433,7 @@ kein
 kämen
 kulturellen
 kapitalismus
+komplett
 GitHub
 Gesprächs
 Gestik
@@ -2492,6 +2506,7 @@ Gewinnstreben
 Gewerbe
 Gewinnoptimierung
 Gewinnmaximierung
+Gründung
 How
 Hintergrund
 HH
@@ -2684,6 +2699,8 @@ privates
 persönlichen
 private
 professor
+personalkosten
+problehme
 Zettelkasten
 Zerstöre
 Zukunft
@@ -2754,6 +2771,7 @@ Zusammen
 Zuordnung
 Zwangswirtschaft
 Zugleich
+Zusammenfassung
 Maps
 Meta
 Mahlen
@@ -2843,6 +2861,7 @@ Möglichkeit
 Marktwirtshaft
 Maximilian
 München
+Mischung
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -2943,6 +2962,7 @@ Rolle
 Rahmens
 Ruf
 Regulierungsmaßnahmen
+Risiken
 Fleeting
 Fleting
 Feld
@@ -3016,6 +3036,7 @@ Freunden
 Freiburger
 Freiheitsrechte
 Folie
+Freien
 helfen
 haben
 hier
@@ -3107,6 +3128,8 @@ lustigen
 lange
 lässt
 leichte
+lissabon
+löst
 XX
 Xn
 Xi
