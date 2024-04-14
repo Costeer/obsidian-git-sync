@@ -18,4 +18,6 @@
 # <span style="color:#9446f8">Zusammenfassung</span> 
 ## Soziale Marktwirtschaft ist eine Mischung von Idealen
 
-# 
+# Kapitalismus + sozialismus
+
+löst nicht problehme der marktwirtschaft
