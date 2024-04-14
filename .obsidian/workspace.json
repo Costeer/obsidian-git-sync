@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d204523854150744",
+        "id": "20feac5d7f6931a8",
         "type": "tabs",
         "children": [
           {
-            "id": "5a7f07fc5e5c63f5",
+            "id": "39203cdc6c9a6ed6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Politik Notiezen.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Politik Notiezen.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Projects/Politik Notiezen.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +190,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5a7f07fc5e5c63f5",
+  "active": "39203cdc6c9a6ed6",
   "lastOpenFiles": [
     "07 - Archives/Politik Power >.<.md",
     "01 - Projects/Politik Notiezen.md",
