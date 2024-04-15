@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Politik Wirtschaft/Ziele die jeder staatverfolgen sollte.md",
+                "file": "01 - Projects/Politik Notiezen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Politik Wirtschaft/Ziele die jeder staatverfolgen sollte.md",
+            "file": "01 - Projects/Politik Notiezen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,6 +191,7 @@
   },
   "active": "74466d685d0526c6",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Politik Wirtschaft/Ziele die jeder staatverfolgen sollte.md",
     "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/round-left-red.ini.md",
     "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/wired.ini.md",
     "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/config.ini.md",
@@ -223,7 +224,6 @@
     "02 - Areas/X - Linux/Rofi/launchers/type-2/style-8.rasi.md",
     "02 - Areas/X - Linux/Rofi/launchers/type-2/style-12.rasi.md",
     "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/space-round-right.ini.md",
-    "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/dnd.ini.md",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-music.jpg",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-nobara.jpg",
     "02 - Areas/X - Linux/Rofi/images/gradient.png",
