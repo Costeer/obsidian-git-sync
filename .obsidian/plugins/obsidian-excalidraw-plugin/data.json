@@ -5075,7 +5075,7 @@
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "2.1.0",
+  "previousRelease": "2.1.4",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
