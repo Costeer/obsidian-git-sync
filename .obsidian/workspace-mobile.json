@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resources/Excalidraw/Drawing 2024-04-16 09.09.26.excalidraw.md",
+            "file": "02 - Areas/0 - Schule/Musik/Fuge Musik.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +198,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b3e9d14228137e1",
+  "active": "b354c05bc64d8637",
   "lastOpenFiles": [
     "02 - Areas/0 - Schule/Musik/Dur Tohnleiter.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-16 09.09.26.excalidraw.md",
