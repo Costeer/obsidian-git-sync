@@ -10,3 +10,6 @@ Sind für den transport von Sauerstoff durch den in sich befindenden Stoff Hämo
 
 ##### - Weiße Blutkörperchen
 Sie sind für die immunabwehr zuständig 
+
+##### - Blutplätchen
+Sie sind für das „reparieren“ des Körpers zuständig 
