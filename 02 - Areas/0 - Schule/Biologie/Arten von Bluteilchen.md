@@ -9,4 +9,4 @@
 Sind für den transport von Sauerstoff durch den in sich befindenden Stoff Hämoglobin Verantwortlich
 
 ##### - Weiße Blutkörperchen
-Sie sind für di
+Sie sind für die immunabwehr zuständig 
