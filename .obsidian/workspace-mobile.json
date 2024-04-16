@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02 - Areas/0 - Schule/Musik/Fuge Musik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "02 - Areas/0 - Schule/Musik/Fuge Musik.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,6 +167,7 @@
   },
   "active": "b354c05bc64d8637",
   "lastOpenFiles": [
+    "README.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-12 11.38.26.excalidraw.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Ziele die jeder staatverfolgen sollte.md",
     "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/round-left-red.ini.md",
@@ -199,7 +200,6 @@
     "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/memory.ini.md",
     "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/corner-left-bg.ini.md",
     "02 - Areas/X - Linux/Rofi/launchers/type-2/style-8.rasi.md",
-    "02 - Areas/X - Linux/Rofi/launchers/type-2/style-12.rasi.md",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-music.jpg",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-nobara.jpg",
     "02 - Areas/X - Linux/Rofi/images/gradient.png",
