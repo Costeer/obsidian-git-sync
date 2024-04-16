@@ -6,3 +6,4 @@
 #### Welche aufgaben haben die verschiedenen Arten?
 
 ##### - Rote Blutkörperchen
+Sind für den transport von Sauerstoff durch den in sich befindenden Stoff Hömoglo
