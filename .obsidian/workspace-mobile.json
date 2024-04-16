@@ -39,9 +39,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dac25a9a54fe8b3a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resources/Excalidraw/Drawing 2024-04-16 12.43.16.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Mathematik/Bestimmen von steigungen.md",
+            "file": "03 - Resources/Excalidraw/Drawing 2024-04-16 12.43.16.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -186,8 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c36352486fcfdee2",
+  "active": "dac25a9a54fe8b3a",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Mathematik/Bestimmen von steigungen.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-16 12.43.16.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-03-13 10.26.16.excalidraw.md",
     "02 - Areas/0 - Schule/Mathematik/Binomische formeln.md",
     "07 - Archives/Drawing 2024-04-11 08.23.14.excalidraw.md",
@@ -213,8 +225,6 @@
     "02 - Areas/0 - Schule/Biologie/Struktur der biomembran.md",
     "02 - Areas/0 - Schule/Musik/Fuge Musik.md",
     "02 - Areas/0 - Schule/Musik/Dur Tohnleiter.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-12 11.38.26.excalidraw.md",
-    "02 - Areas/0 - Schule/Politik Wirtschaft/Ziele die jeder staatverfolgen sollte.md",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/paper.png",
