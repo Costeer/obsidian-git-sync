@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "3bdbaa971076c23e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resources/Excalidraw/Drawing 2024-04-16 12.32.38.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "0314f3213a28cdf9",
             "type": "leaf",
             "state": {
@@ -152,7 +162,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resources/Excalidraw/Drawing 2024-04-16 11.48.12.excalidraw.md",
+            "file": "03 - Resources/Excalidraw/Drawing 2024-04-16 12.32.38.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -202,9 +212,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0314f3213a28cdf9",
+  "active": "3bdbaa971076c23e",
   "lastOpenFiles": [
     "02 - Areas/0 - Schule/Mathematik/Ckselcjse.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-16 12.32.38.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-16 11.48.12.excalidraw.md",
     "02 - Areas/0 - Schule/Mathematik/Beweise.md",
     "02 - Areas/0 - Schule/Biologie/Arten von Bluteilchen.md",
@@ -230,7 +241,6 @@
     "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox/modules/round-left-red.ini.md",
     "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox/modules/wired.ini.md",
     "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox/config.ini.md",
-    "02 - Areas/Dev/X - Linux/Rofi/powermenu/type-2/style-1.rasi.md",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/paper.png",
