@@ -6,4 +6,7 @@
 #### Welche aufgaben haben die verschiedenen Arten?
 
 ##### - Rote Blutkörperchen
-Sind für den transport von Sauerstoff durch den in sich befindenden Stoff Hömoglo
+Sind für den transport von Sauerstoff durch den in sich befindenden Stoff Hämoglobin Verantwortlich
+
+##### - Weiße Blutkörperchen
+Sie sind für di
