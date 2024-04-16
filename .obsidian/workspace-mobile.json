@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02 - Areas/0 - Schule/Biologie/Blutkreislauf Aufgabe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "443d1ba011103845",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-16 08.38.51.excalidraw.md"
               }
             }
           }
@@ -125,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "02 - Areas/0 - Schule/Biologie/Blutkreislauf Aufgabe.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -177,51 +167,51 @@
   },
   "active": "2b3e9d14228137e1",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Biologie/Blut.md",
+    "05 - Fleeting/Debatte zu gendersprache.md",
+    "05 - Fleeting/Bauernproteste.md",
+    "05 - Fleeting/1923 erstes Motor Flugzeug.md",
+    "06 - Daily/2024-04-04.md",
+    "06 - Daily/2024-04-03.md",
+    "06 - Daily/2024-04-01 First Daily Note.md",
+    "07 - Archives/Lingen Retorikseminar Arbeitsblatt.md",
+    "07 - Archives/Politik Powerpoint/Politik Notiezen.md",
+    "07 - Archives/Politik Powerpoint",
+    "README.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-16 08.38.51.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-16 09.09.26.excalidraw.md",
     "02 - Areas/0 - Schule/Biologie/Struktur der biomembran.md",
-    "02 - Areas/0 - Schule/Biologie/Untitled.md",
+    "02 - Areas/0 - Schule/Biologie/Blutkreislauf Aufgabe.md",
     "02 - Areas/0 - Schule/Musik/Fuge Musik.md",
     "02 - Areas/0 - Schule/Musik/Dur Tohnleiter.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-16 08.38.51.excalidraw.md",
-    "README.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-12 11.38.26.excalidraw.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Ziele die jeder staatverfolgen sollte.md",
-    "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/round-left-red.ini.md",
-    "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/wired.ini.md",
-    "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/config.ini.md",
-    "02 - Areas/X - Linux/Rofi/powermenu/type-2/style-1.rasi.md",
-    "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/include-modules.ini.md",
-    "02 - Areas/X - Linux/Rofi/launchers/type-2/shared/fonts.rasi.md",
+    "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox/modules/round-left-red.ini.md",
+    "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox/modules/wired.ini.md",
+    "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox/config.ini.md",
+    "02 - Areas/Dev/X - Linux/Rofi/powermenu/type-2/style-1.rasi.md",
+    "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox/include-modules.ini.md",
+    "02 - Areas/Dev/X - Linux/Rofi/launchers/type-2/shared/fonts.rasi.md",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
-    "02 - Areas/X - Linux/Rofi/powermenu/type-2/style-8.rasi.md",
-    "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/corner-left-darker.ini.md",
-    "02 - Areas/X - Linux/Rofi/images/i.jpg",
-    "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/bspwm.ini.md",
-    "02 - Areas/X - Linux/Rofi/launchers/type-2/style-6.rasi.md",
-    "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/date.ini.md",
-    "02 - Areas/Dev/Catppuccin/1-colours.md",
-    "02 - Areas/X - Linux/Rofi/launchers/type-2/style-14.rasi.md",
-    "02 - Areas/X - Linux/polybar-collection/scripts/weather/main.py.md",
-    "02 - Areas/X - Linux/Rofi/powermenu/type-2/style-3.rasi.md",
-    "02 - Areas/X - Linux/Rofi/launchers/type-2/style-1.rasi.md",
-    "02 - Areas/X - Linux/Rofi/images/paper.png",
-    "02 - Areas/X - Linux/Rofi/applets/shared/fonts.rasi.md",
+    "02 - Areas/Dev/X - Linux/Rofi/powermenu/type-2/style-8.rasi.md",
+    "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox/modules/corner-left-darker.ini.md",
+    "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
+    "02 - Areas/Dev/X - Linux/Rofi/images/paper.png",
     "02 - Areas/Dev/Catppuccin/Untitled - 19 January 2024 11.04.jpg",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-[wallpaper].jpg",
-    "02 - Areas/X - Linux/Rofi/images/j.jpg",
+    "02 - Areas/Dev/X - Linux/Rofi/images/j.jpg",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-books.jpg",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-music.jpg",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-nobara.jpg",
-    "02 - Areas/X - Linux/Rofi/images/gradient.png",
+    "02 - Areas/Dev/X - Linux/Rofi/images/gradient.png",
     "02 - Areas/Dev/Catppuccin/Praktikum.odt",
     "/02 - Areas/Dev/Catppuccin/Praktikum.odt",
-    "02 - Areas/X - Linux/kitty",
-    "02 - Areas/X - Linux/Rofi",
-    "02 - Areas/X - Linux",
-    "02 - Areas/X - Linux/picom",
-    "02 - Areas/X - Linux/polybar-collection/scripts/weather",
-    "02 - Areas/X - Linux/polybar-collection/scripts",
-    "02 - Areas/X - Linux/polybar-collection",
-    "02 - Areas/X - Linux/Rofi/applets"
+    "02 - Areas/Dev/X - Linux/kitty",
+    "02 - Areas/Dev/X - Linux/Rofi",
+    "02 - Areas/Dev/X - Linux",
+    "02 - Areas/Dev/X - Linux/picom",
+    "02 - Areas/Dev/X - Linux/polybar-collection/scripts/weather",
+    "02 - Areas/Dev/X - Linux/polybar-collection/scripts",
+    "02 - Areas/Dev/X - Linux/polybar-collection"
   ]
 }
