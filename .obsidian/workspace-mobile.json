@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "443d1ba011103845",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resources/Excalidraw/Drawing 2024-04-16 08.38.51.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Musik/Fuge Musik.md",
+            "file": "03 - Resources/Excalidraw/Drawing 2024-04-16 08.38.51.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,8 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b354c05bc64d8637",
+  "active": "443d1ba011103845",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Musik/Fuge Musik.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-16 08.38.51.excalidraw.md",
     "README.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-12 11.38.26.excalidraw.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Ziele die jeder staatverfolgen sollte.md",
@@ -198,8 +211,6 @@
     "02 - Areas/X - Linux/starship.toml.md",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-books.jpg",
     "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/memory.ini.md",
-    "02 - Areas/X - Linux/polybar-collection/themes/gruvbox/modules/corner-left-bg.ini.md",
-    "02 - Areas/X - Linux/Rofi/launchers/type-2/style-8.rasi.md",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-music.jpg",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-nobara.jpg",
     "02 - Areas/X - Linux/Rofi/images/gradient.png",
