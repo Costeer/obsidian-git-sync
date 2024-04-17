@@ -7,7 +7,7 @@
 #### Konzentrationsangaben 
 Molarität -> Wie viel Mol (n) eines Stoffes sind in einem Leiter Flüssigkeit gelöst 
 
-
+![[Drawing 2024-04-17 11.09.37.excalidraw|5000]]
 
 
 
