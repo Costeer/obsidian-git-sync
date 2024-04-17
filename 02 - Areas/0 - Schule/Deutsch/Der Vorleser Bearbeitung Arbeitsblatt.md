@@ -24,3 +24,5 @@
 **Der Erzähler nimmt eine Haltung gegenüber dem erzählten ein die…** Distanziert wirkt und so als hätte er er mit dem erzählten zwar nicht abgeschlossen aber als würdet er es hinter sich lassen wollen
 
 **Der Erzählimpuls des Erzählers ergibt sich offensichtlich aus…** 
+
+#### 
