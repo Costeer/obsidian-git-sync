@@ -10,3 +10,4 @@ Massenzahl: 22,990
 **m=1
 
 Die molars Masse von Stoffen ergibt sich, wenn die molare Masse der einzelnen Elemente(Atommasse)
+
