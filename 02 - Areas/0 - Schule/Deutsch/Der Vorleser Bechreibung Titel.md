@@ -17,4 +17,6 @@
 - Roman
 
 #### Aufgabe 2
-*Karakterisieren s*
+*Karakterisieren sie ihre eindrücke indem sie die Sätze weiterführen*
+
+**Der Ich Erzähler ist ge**
