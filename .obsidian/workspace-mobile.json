@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resources/Excalidraw/Drawing 2024-04-17 10.45.00.excalidraw.md",
+            "file": "02 - Areas/0 - Schule/Chemie/Aufgaben/Rechnen In Chemie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -176,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b20e11c11f93e394",
+  "active": "52723d4e229a4e7b",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Chemie/Aufgaben/Rechnen In Chemie.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.45.00.excalidraw.md",
+    "02 - Areas/0 - Schule/Chemie/Aufgaben/Rechnen In Chemie.md",
     "02 - Areas/0 - Schule/Chemie/Aufgaben/Oxidationszahlen ermitteln.md",
     "README.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.18.51.excalidraw.md",
