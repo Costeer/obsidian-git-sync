@@ -9,4 +9,4 @@ Massenzahl: 22,990
 1mol Natrium entspricht 22,990g 
 **m=1
 
-Die molars Masse von Stoffen ergibt sich, wenn die molars Masse der einzelnen Elemente 
+Die molars Masse von Stoffen ergibt sich, wenn die molare Masse der einzelnen Elemente(Atommasse)
