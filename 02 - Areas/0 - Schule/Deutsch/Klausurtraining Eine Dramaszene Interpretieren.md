@@ -12,4 +12,3 @@ Zudem ist die Kenntnis des gesamten Dramas gefragt, wenn Sie die Szene in den Ge
  - Teilaufgaben und untersuchungsaspekte beachten
 
 2. Text aspektorientiert analysieren
-- 
