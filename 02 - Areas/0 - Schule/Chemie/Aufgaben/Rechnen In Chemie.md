@@ -9,8 +9,6 @@ Molarität -> Wie viel Mol (n) eines Stoffes sind in einem Leiter Flüssigkeit g
 
 ![[Drawing 2024-04-17 11.09.37.excalidraw|5000]]
 
-
-
 ## Beispiel: Natrium
 Massenzahl: 22,990
 1mol Natrium entspricht 22,990g 
@@ -22,3 +20,5 @@ Die molars Masse von Stoffen ergibt sich, wenn die molare Masse der einzelnen El
 
 ## Beispielaufgaben
 ![[Drawing 2024-04-17 10.49.34.excalidraw]]
+
+### Beispiele molarelösung
