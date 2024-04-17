@@ -4,7 +4,13 @@
 ![[Drawing 2024-04-17 10.18.51.excalidraw|5000]]
 ![[Mol™]]
 
-*Beispiel: Natrium*
+#### Konzentrationsangaben 
+*molarität*
+
+
+
+
+## Beispiel: Natrium
 Massenzahl: 22,990
 1mol Natrium entspricht 22,990g 
 **m=1
