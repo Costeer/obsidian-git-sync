@@ -12,6 +12,5 @@
 - Jurist
 ##### Titel
 - Eine Person erzählt über ihr leben
-- 
 ##### Gattungsbeziehungen
-
+- Roman
