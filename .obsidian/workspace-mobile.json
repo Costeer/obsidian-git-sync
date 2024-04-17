@@ -60,8 +60,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resources/Excalidraw/Drawing 2024-04-17 11.15.36.excalidraw.md",
+            "file": "02 - Areas/0 - Schule/Chemie/Aufgaben/Rechnen In Chemie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -206,10 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf856b8a8a718fe0",
+  "active": "52723d4e229a4e7b",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Chemie/Aufgaben/Rechnen In Chemie.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 11.15.36.excalidraw.md",
+    "02 - Areas/0 - Schule/Chemie/Aufgaben/Rechnen In Chemie.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 11.09.37.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.49.34.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.45.00.excalidraw.md",
