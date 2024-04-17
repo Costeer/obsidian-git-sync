@@ -8,33 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c36352486fcfdee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7ee9e9d5bccacd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Aufgaben/Alkohole zeichnen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3983f98687c7d3b8",
+            "id": "52723d4e229a4e7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52723d4e229a4e7b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-17 10.18.51.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resources/Excalidraw/Drawing 2024-04-17 10.18.51.excalidraw.md",
+            "file": "02 - Areas/0 - Schule/Chemie/Aufgaben/Rechnen In Chemie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -204,8 +167,10 @@
   },
   "active": "52723d4e229a4e7b",
   "lastOpenFiles": [
-    "03 - Resources/Excalidraw/Drawing 2024-04-17 10.26.48.excalidraw.md",
+    "02 - Areas/0 - Schule/Chemie/Aufgaben/Oxidationszahlen ermitteln.md",
+    "README.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.18.51.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-17 10.26.48.excalidraw.md",
     "02 - Areas/0 - Schule/Chemie/Aufgaben/Rechnen In Chemie.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.19.01.excalidraw.md",
     "02 - Areas/0 - Schule/Chemie/Aufgaben/Alkohole zeichnen.md",
@@ -218,7 +183,6 @@
     "02 - Areas/0 - Schule/Mathematik/Ckselcjse.md",
     "02 - Areas/0 - Schule/Mathematik/Bestimmen von steigungen.md",
     "02 - Areas/0 - Schule/Mathematik/Binomische formeln.md",
-    "README.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-16 11.48.12.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-16 12.32.38.excalidraw.md",
     "02 - Areas/0 - Schule/Mathematik/Beweise.md",
@@ -229,7 +193,6 @@
     "05 - Fleeting/Bauernproteste.md",
     "05 - Fleeting/1923 erstes Motor Flugzeug.md",
     "06 - Daily/2024-04-04.md",
-    "06 - Daily/2024-04-03.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
