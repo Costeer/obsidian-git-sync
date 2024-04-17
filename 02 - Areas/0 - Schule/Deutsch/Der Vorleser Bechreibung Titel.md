@@ -21,4 +21,6 @@
 
 **Der Ich Erzähler ist geprägt von…** frustration und Schwarm wenn er über seine Krankheit spricht 
 
-**Der Erzähler nimmt eine Haltung gegenüber dem erzählten ein die…** Distanziert wirkt und so als hätter er mit dem erzählten zwar nicht abgeschlossen aber als würdet er es hinter
+**Der Erzähler nimmt eine Haltung gegenüber dem erzählten ein die…** Distanziert wirkt und so als hätter er mit dem erzählten zwar nicht abgeschlossen aber als würdet er es hinter sich lassen wollen
+
+**Der**
