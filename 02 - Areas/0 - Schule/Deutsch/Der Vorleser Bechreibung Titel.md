@@ -3,7 +3,12 @@
 
 ##### Titelbild:
 - Gelb
-
+- Person schaut nach mittelpunkt
+- Ölgemälde
+- 
 ##### Autor
 
-##### 
+##### Titel
+
+##### Gattungsbeziehungen
+
