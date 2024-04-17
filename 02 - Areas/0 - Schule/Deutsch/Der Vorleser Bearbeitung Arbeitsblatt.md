@@ -19,8 +19,8 @@
 #### Aufgabe 2
 *Karakterisieren sie ihre eindrücke indem sie die Sätze weiterführen*
 
-**Der Ich Erzähler ist geprägt von…** frustration und Schwarm wenn er über seine Krankheit spricht 
+**Der Ich Erzähler ist geprägt von…** frustration und Scharm wenn er über seine Krankheit spricht 
 
 **Der Erzähler nimmt eine Haltung gegenüber dem erzählten ein die…** Distanziert wirkt und so als hätter er mit dem erzählten zwar nicht abgeschlossen aber als würdet er es hinter sich lassen wollen
 
-**Der Erzählimpuls des Erz**
+**Der Erzählimpuls des Erzählers ergibt sich offensichtlich aus…** 
