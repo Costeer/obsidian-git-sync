@@ -5,9 +5,11 @@
 - Gelb
 - Person schaut nach mittelpunkt
 - Ölgemälde
-- 
 ##### Autor
-
+- keine ahnung
+- Alt
+- Deutsch
+- 
 ##### Titel
 
 ##### Gattungsbeziehungen
