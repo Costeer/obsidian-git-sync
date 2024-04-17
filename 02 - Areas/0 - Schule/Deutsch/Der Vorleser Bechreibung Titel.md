@@ -19,4 +19,4 @@
 #### Aufgabe 2
 *Karakterisieren sie ihre eindrücke indem sie die Sätze weiterführen*
 
-**Der Ich Erzähler ist ge**
+**Der Ich Erzähler ist geprägt von…** fr
