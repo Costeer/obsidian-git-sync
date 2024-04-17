@@ -19,4 +19,6 @@
 #### Aufgabe 2
 *Karakterisieren sie ihre eindrücke indem sie die Sätze weiterführen*
 
-**Der Ich Erzähler ist geprägt von…** fr
+**Der Ich Erzähler ist geprägt von…** frustration und Schwarm wenn er über seine Krankheit spricht 
+
+**Der Erzäh**
