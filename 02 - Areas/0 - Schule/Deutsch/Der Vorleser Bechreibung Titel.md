@@ -1,5 +1,5 @@
 
-#### Aufgabe 1
+#### <span style="color:#9446f8">Aufgabe 1</span>
 *Betrachten sie das Titelblatt der ihnen vorliegenden Ausgabe Notieren Sei Ihre Assoziationen. Vorkenntnisse und Erwartungen Titelbild, Autor, Titel und Gattungsbezeichnung*
 
 ##### Titelbild:
