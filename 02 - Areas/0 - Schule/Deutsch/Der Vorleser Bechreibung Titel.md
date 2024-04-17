@@ -9,8 +9,9 @@
 - keine ahnung
 - Alt
 - Deutsch
-- 
+- Jurist
 ##### Titel
-
+- Eine Person erzählt über ihr leben
+- 
 ##### Gattungsbeziehungen
 
