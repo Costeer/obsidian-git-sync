@@ -5,7 +5,7 @@
 ![[Mol™]]
 
 #### Konzentrationsangaben 
-Molarität -> Wie viel Mol (n) eines Stoffes sind in einem Leiter Flüssigkeit gelös
+Molarität -> Wie viel Mol (n) eines Stoffes sind in einem Leiter Flüssigkeit gelöst 
 
 
 
