@@ -13,3 +13,5 @@ Die molars Masse von Stoffen ergibt sich, wenn die molare Masse der einzelnen El
 
 ![[Drawing 2024-04-17 10.45.00.excalidraw|500]]
 
+## Beispielaufgaben
+
