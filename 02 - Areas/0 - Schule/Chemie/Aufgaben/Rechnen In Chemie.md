@@ -9,6 +9,8 @@ Molarität -> Wie viel Mol (n) eines Stoffes sind in einem Leiter Flüssigkeit g
 
 
 
+
+
 ## Beispiel: Natrium
 Massenzahl: 22,990
 1mol Natrium entspricht 22,990g 
