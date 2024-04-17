@@ -15,3 +15,6 @@
 - Eine Person erzählt über ihr leben
 ##### Gattungsbeziehungen
 - Roman
+
+#### Aufgabe 2
+*Karakterisieren s*
