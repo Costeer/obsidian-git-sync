@@ -1,20 +1,4 @@
-## Bernhard
-
-## Schlink
-
-# Der Vorleser
-
-##### Roman ∙ Diogenes
-
-
 Diogenes Taschenbuch 22953
-
-###### de
-
-###### te
-
-###### be
-
 ```
 Scan & Layout: gnophilea
 Korrektur: homebrew
@@ -24,12 +8,6 @@ Korrektur: homebrew
 
 ## Der Vorleser
 
-```
-Roman
-```
-### Φ
-
-
 Die Erstausgabe erschien 1995
 im Diogenes Verlag
 Umschlagillustration: Ernst Ludwig Kirchner,
@@ -37,13 +15,6 @@ Umschlagillustration: Ernst Ludwig Kirchner,
 Copyright © by Dr. Wolfgang & Ingeborg
 Henze-Kletterer, Wichtrach/Bern
 
-```
-Alle Rechte vorbehalten
-Copyright © 1995
-Diogenes Verlag AG Zürich
-http://www.diogenes.ch
-ISBN 3 257 22953 4
-```
 
 Als ich fünfzehn war, hatte ich Gelbsucht. Die Krankheit
 begann im Herbst und endete im Frühjahr. Je kälter und
