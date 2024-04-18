@@ -1,5 +1,7 @@
 Diogenes Taschenbuch 22953
+
 ```
+Source: https://archive.org/details/DerVorleser/mode/2up
 Scan & Layout: gnophilea
 Korrektur: homebrew
 ```

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Niederländisch/30% geht zur vwo.md",
+                "file": "03 - Resources/Text/Der Vorleser.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -142,7 +142,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Niederländisch/30% geht zur vwo.md",
+            "file": "03 - Resources/Text/Der Vorleser.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -194,8 +194,8 @@
   },
   "active": "f21b7acbef6e43f4",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Deutsch/Der Vorleser.md",
     "02 - Areas/0 - Schule/Niederländisch/30% geht zur vwo.md",
+    "03 - Resources/Text/Der Vorleser.md",
     "README.md",
     "02 - Areas/0 - Schule/Deutsch/Der Vorleser Bearbeitung Arbeitsblatt.md",
     "07 - Archives/Lingen Retorikseminar Arbeitsblatt.md",
