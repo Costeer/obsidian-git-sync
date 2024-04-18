@@ -1113,7 +1113,9 @@ den Farben der Dinge in der Küche nur noch hellere
 und dunklere Grautöne blieben, war ich vollkommen
 glücklich.
 
-
+***
+# 10
+***
 
 Am ersten Tag der Osterferien stand ich um vier auf.
 Hanna hatte Frühschicht. Sie fuhr um Viertel nach vier
@@ -1137,8 +1139,6 @@ leer. Die Sonne war noch nicht aufgegangen, und unter
 weißem Himmel lag alles blaß in blassem Licht: Häuser,
 parkende Autos, frisch grünende Bäume und blühende
 Sträucher, der Gaskessel und in der Ferne die Berge. Die
-
-
 Bahn fuhr langsam; vermutlich war der Fahrplan auf
 Fahr- und Haltezeiten angelegt und mußten die Fahrzeiten
 gestreckt werden, weil die Haltezeiten entfielen. Ich war
@@ -1170,8 +1170,6 @@ Straße, ringsum waren Felder, Obstbäume und weiter
 weg ein Gärtnereibetrieb mit Gewächshäusern. Die Luft
 war frisch. Sie war erfüllt vom Zwitschern der Vögel. Über
 den Bergen leuchtete der weiße Himmel rosa.
-
-
 Die Fahrt in der Bahn war wie ein böser Traum gewesen.
 Wenn ich das Nachspiel nicht in so deutlicher Erinnerung
 hätte, wäre ich versucht, sie tatsächlich für einen bösen
@@ -1234,8 +1232,6 @@ Hatte ich sie verletzt, ohne meine Absicht, gegen meine
 Absicht, aber eben doch verletzt?
 »Es tut mir leid, Hanna. Alles ist schiefgelaufen. Ich
 habe dich nicht kränken wollen, aber es scheint...«
-
-
 »Es scheint? Du meinst, es scheint, du hast mich ge-
 kränkt? Du kannst mich nicht kränken, du nicht. Und
 gehst du jetzt endlich? Ich habe gearbeitet, ich will baden,
@@ -1267,8 +1263,6 @@ sie nur ein Machtspiel hatte gewinnen wollen. Als
 wir uns geliebt hatten und beieinander lagen und
 ich ihr erzählte, warum ich in den zweiten statt den
 ersten Wagen gestiegen war, neckte sie mich. »Sogar
-
-
 in der Straßenbahn willst du’s mit mir machen?
 Jungchen, Jungchen!« Es war, als sei der Anlaß unseres
 Streits eigentlich ohne Bedeutung.
@@ -1294,9 +1288,7 @@ reagierte nicht, und als ich nachfragte, fragte sie zurück:
 »Fängst du schon wieder an?«
 
 
-```
-11
-```
+
 Nicht daß Hanna und ich nach dem ersten Tag der
 Osterferien nicht mehr glücklich gewesen wären. Wir
 waren nie glücklicher als in jenen Aprilwochen. So
