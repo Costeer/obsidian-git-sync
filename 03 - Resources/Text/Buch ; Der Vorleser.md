@@ -633,7 +633,7 @@ zu beherrschen versuchte und dann so laut schrie, daß sie
 den Schrei mit ihrer Hand auf meinem Mund erstickte.
 
 ***
-# 1
+# 7
 ***
 
 In der folgenden Nacht habe ich mich in sie verliebt. Ich
@@ -719,10 +719,8 @@ zurück und faltete die Hände im Schoß. Er schwieg und
 schaute nachdenklich, wie jedesmal, wenn meine Mutter
 ihn der Kinder oder des Haushalts wegen ansprach. Wie
 jedesmal fragte ich mich, ob er tatsächlich über die Frage
-meiner Mutter nachdachte oder über seine Arbeit. Viel-
-
-
-leicht versuchte er auch, über die Frage meiner Mutter
+meiner Mutter nachdachte oder über seine Arbeit. 
+Vielleicht versuchte er auch, über die Frage meiner Mutter
 nachzudenken, konnte aber, einmal ins Nachdenken
 verfallen, nicht anders als an seine Arbeit denken. Er war
 Professor für Philosophie, und Denken war sein Leben,
@@ -753,8 +751,6 @@ und aus dem Haus.
 Mir war, als säßen wir das letzte Mal gemeinsam um
 den runden Tisch unter dem fünfarmigen, fünfkerzigen
 Leuchter aus Messing, als äßen wir das letzte Mal von den
-
-
 alten Tellern mit den grünen Ranken am Rand, als
 redeten wir das letzte Mal so vertraut miteinander. Ich
 fühlte mich wie bei einem Abschied. Ich war noch da und
@@ -771,10 +767,10 @@ dir zuviel wird, bleibst du eben wieder zu Hause.«
 Ich war froh. Zugleich hatte ich das Gefühl, jetzt sei der
 Abschied vollzogen.
 
+***
+# 8
+***
 
-```
-8
-```
 In den nächsten Tagen hatte die Frau Frühschicht. Sie
 kam um zwölf nach Hause, und ich schwänzte Tag auf
 Tag die letzte Stunde, um sie auf dem Treppenabsatz vor
