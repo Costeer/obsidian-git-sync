@@ -915,10 +915,10 @@ nichts. Dann war ich angezogen, und sie stand immer
 noch nackt, und als ich sie zum Abschied umarmte,
 reagierte sie nicht.
 
+***
+# 9
+***
 
-```
-9
-```
 Warum macht es mich so traurig, wenn ich an damals
 denke? Ist es die Sehnsucht nach vergangenem Glück –
 und glücklich war ich in den nächsten Wochen, in denen
@@ -1095,8 +1095,8 @@ und lebendig werden, verlangt einige Konzentration.
 Unter der Dusche wuchs die Lust wieder. Vorlesen,
 duschen, lieben und noch ein bißchen beieinanderliegen
 
-- das wurde das Ritual unserer Treffen.
-    Sie war eine aufmerksame Zuhörerin. Ihr Lachen, ihr
+das wurde das Ritual unserer Treffen.
+Sie war eine aufmerksame Zuhörerin. Ihr Lachen, ihr
 verächtliches Schnauben und ihre empörten oder bei-
 fälligen Ausrufe ließen keinen Zweifel, daß sie der Handlung
 gespannt folgte und daß sie Emilia wie Luise für dumme
@@ -1114,9 +1114,7 @@ und dunklere Grautöne blieben, war ich vollkommen
 glücklich.
 
 
-```
-10
-```
+
 Am ersten Tag der Osterferien stand ich um vier auf.
 Hanna hatte Frühschicht. Sie fuhr um Viertel nach vier
 mit dem Fahrrad zum Straßenbahndepot und um halb
