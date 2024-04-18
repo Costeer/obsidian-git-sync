@@ -7,7 +7,7 @@
 - zwei Gruppen arbeiten dann zusammen jeder muss ein Diagramm vorstellen 
 - 4 Leute müssen vorstellen
 
-#### 
+## Diagramm Beschreibung
 
 Het eerste diagram laat zien hoe veel Leerlingen in het middelbaar beroepsonderwijs of in het hoger onderwijs zijn. Wat opvalt is, hoe hoger het beropesonderwijs is, hoe minder mensen nemen eraan deel. 42 % van de leerlingen zijn op de middelbaar beropesonderwijs, ongeveer een deerde van de leerlingen gaan naar het hoger beroepsonderwijs. En minder dan een kwart gaat naar het wetenschappenlijk onderwijs
 
