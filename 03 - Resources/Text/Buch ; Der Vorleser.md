@@ -1287,7 +1287,9 @@ zweimal habe ich ihr lange Briefe geschrieben. Aber sie
 reagierte nicht, und als ich nachfragte, fragte sie zurück:
 »Fängst du schon wieder an?«
 
-
+***
+# 11
+***
 
 Nicht daß Hanna und ich nach dem ersten Tag der
 Osterferien nicht mehr glücklich gewesen wären. Wir
@@ -1490,24 +1492,20 @@ und für Benn geschwärmt, und ich erkenne, daß ich
 beiden zugleich nacheifern wollte. Aber ich erkenne auch
 wieder, wie nah wir einander damals waren. Hier ist das
 Gedicht:
-
-```
 Wenn wir uns öffnen
 du dich mir und ich dir mich,
 wenn wir versinken
 in mich du und ich in dich,
 wenn wir vergehen
 du mir in und dir in ich.
-```
-```
 Dann
 bin ich ich
 und bist du du.
-```
 
-```
-12
-```
+***
+# 12
+***
+
 Während ich keine Erinnerungen an die Lügen habe,
 die ich meinen Eltern zur Fahrt mit Hanna präsentierte,
 erinnere ich mich an den Preis, den ich zahlen mußte,
