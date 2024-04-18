@@ -37,8 +37,13 @@
             "id": "f21b7acbef6e43f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/0 - Schule/Deutsch/Der Vorleser.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -137,6 +142,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "02 - Areas/0 - Schule/Deutsch/Der Vorleser.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -186,7 +192,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "f21b7acbef6e43f4",
   "lastOpenFiles": [
     "02 - Areas/0 - Schule/Niederländisch/30% geht zur vwo.md",
     "02 - Areas/0 - Schule/Deutsch/Der Vorleser.md",
