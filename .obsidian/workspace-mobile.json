@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de3522c09ca5a864",
+        "id": "913b80e8d4d11002",
         "type": "tabs",
         "children": [
           {
-            "id": "e73034bc824a357f",
+            "id": "6c1dac716eac43f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Deutsch/Der Vorleser Bearbeitung Arbeitsblatt.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "1e07428ee9667073",
+            "id": "587128a703661fc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,13 +179,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e07428ee9667073",
+  "active": "587128a703661fc9",
   "lastOpenFiles": [
+    "README.md",
     "02 - Areas/0 - Schule/Deutsch/Der Vorleser Bearbeitung Arbeitsblatt.md",
     "02 - Areas/0 - Schule/Deutsch/Der Vorleser.md",
     "07 - Archives/Lingen Retorikseminar Arbeitsblatt.md",
     "07 - Archives/Drawing 2024-04-11 08.23.14.excalidraw.md",
-    "README.md",
     "02 - Areas/0 - Schule/Deutsch/Diversität.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.45.00.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.49.34.excalidraw.md",
