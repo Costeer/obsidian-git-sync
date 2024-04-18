@@ -488,8 +488,9 @@ ist auf ebenso eigenständige Weise mein Handeln, wie
 mein Denken mein Denken ist und mein Entscheiden
 mein Entscheiden.
 
-
-
+***
+# 6
+***
 
 Sie war nicht zu Hause. Die Eingangstür des Hauses
 war angelehnt, ich stieg die Treppe hoch, klingelte und
