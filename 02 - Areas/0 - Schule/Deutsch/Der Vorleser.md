@@ -5631,14 +5631,9 @@ Geschichte doch geschrieben, weil ich sie loswerden will,
 auch wenn ich es nicht kann.
 Hannas Geld habe ich gleich nach der Rückkehr aus
 New York unter ihrem Namen der Jewish League Against
-
-
 Illiteracy überwiesen. Ich bekam einen kurzen
 computergeschriebenen Brief, in dem die Jewish League
 Ms. Hanna Schmitz für ihre Spende dankt. Mit dem Brief
 in der Tasche bin ich auf den Friedhof zu Hannas Grab
 gefahren. Es war das erste und einzige Mal, daß ich an
 ihrem Grab stand.
-
-```
-Zweiter TeilErster TeilDritter Teil
