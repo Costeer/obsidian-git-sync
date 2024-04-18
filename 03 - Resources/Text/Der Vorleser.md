@@ -1,5 +1,8 @@
 ```
 Diogenes Taschenbuch 22953
+Von: Bernhard Schlink
+Erstausgabe: 1995
+
 Source: https://archive.org/details/DerVorleser/mode/2up
 Scan & Layout: gnophilea
 Korrektur: homebrew
@@ -8,12 +11,7 @@ Korrektur: homebrew
 
 ## Der Vorleser
 
-Die Erstausgabe erschien 1995
-im Diogenes Verlag
-Umschlagillustration: Ernst Ludwig Kirchner,
-›Nollendorfplatz‹, 1912 (Ausschnitt)
-Copyright © by Dr. Wolfgang & Ingeborg
-Henze-Kletterer, Wichtrach/Bern
+, Wichtrach/Bern
 ***
 Als ich fünfzehn war, hatte ich Gelbsucht. Die Krankheit
 begann im Herbst und endete im Frühjahr. Je kälter und
