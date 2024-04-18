@@ -268,9 +268,9 @@ herbes, frauliches Gesicht. Ich weiß, daß ich es schön
 fand. Aber ich sehe seine Schönheit nicht vor mir.
 
 
-```
-4
-```
+***
+# 4
+***
 
 »Wart noch«, sagte sie, als ich aufstand und gehen wollte,
 »ich muß auch los und komm ein Stück mit.«
@@ -376,9 +376,10 @@ gemacht hatte, löste sich auf. Ich sah alles wieder vor mir
 und konnte wieder die Augen nicht davon lassen.
 
 
-```
-5
-```
+***
+# 5
+***
+
 Eine Woche später stand ich wieder bei ihr vor der Tür.
 Eine Woche lang hatte ich versucht, nicht an sie zu
 denken. Aber da war nichts, was mich ausgefüllt und
@@ -488,9 +489,8 @@ mein Denken mein Denken ist und mein Entscheiden
 mein Entscheiden.
 
 
-```
-6
-```
+
+
 Sie war nicht zu Hause. Die Eingangstür des Hauses
 war angelehnt, ich stieg die Treppe hoch, klingelte und
 wartete. Ich klingelte noch mal. In der Wohnung standen
