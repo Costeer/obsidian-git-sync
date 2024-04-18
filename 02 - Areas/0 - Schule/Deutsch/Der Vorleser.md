@@ -4896,7 +4896,7 @@ fern, daß ich den Zustand hätte fort- und fortdauern
 lassen können. Das war bequem und egoistisch, ich weiß.
 Dann kam der Brief der Leiterin des Gefängnisses.
 
-```
+
 »Seit Jahren stehen Frau Schmitz und Sie in brieflichem
 Austausch. Es ist der einzige Kontakt, den Frau Schmitz
 nach draußen hat, und so wende ich mich an Sie,
@@ -4911,6 +4911,7 @@ bzw. zu besorgen versuchen; mit Arbeit wird es in ihrem
 Alter schwierig werden, auch wenn sie noch völlig
 gesund ist und in unserer Näherei großes Geschick zeigt.
 Aber besser, als wenn wir uns darum kümmern, ist es,
+
 
 ```
 7
