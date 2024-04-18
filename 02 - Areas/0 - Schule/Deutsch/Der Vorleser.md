@@ -3159,7 +3159,7 @@ Feuerschein war, was ab und zu hell hinter den Fenstern
 zuckte, daß der Schlag, den es über ihren Köpfen tat, das
 Übergreifen des Feuers vom Turm aufs Dach bedeutete
 
-- die Frauen begriffen es erst, als der Dachstuhl sichtbar
+die Frauen begriffen es erst, als der Dachstuhl sichtbar
 
 
 brannte. Sie begriffen es und schrien auf, schrien in
@@ -3586,15 +3586,15 @@ hatte, und Hanna würde zwar bestraft, aber geringer
 bestraft werden. Sie würde zwar ins Gefängnis müssen,
 aber früher wieder rauskönnen, früher wieder frei sein
 
-- war es nicht das, worum sie kämpfte?
-    Ja, sie kämpfte darum, war aber nicht willens, für den
+war es nicht das, worum sie kämpfte?
+Ja, sie kämpfte darum, war aber nicht willens, für den
 Erfolg den Preis ihrer Bloßstellung als Analphabetin
 zu zahlen. Sie würde auch nicht wollen, daß ich ihre
 Selbstdarstellung für ein paar Gefängnisjahre verkaufen
 würde. Sie konnte solchen Handel selbst machen, sie
 machte ihn nicht, also wollte sie ihn nicht. Ihr war ihre
 Selbstdarstellung die Gefängnisjahre wert.
-    Aber war sie’s wirklich wert? Was hatte sie von dieser
+Aber war sie’s wirklich wert? Was hatte sie von dieser
 verlogenen Selbstdarstellung, die sie fesselte, lähmte,
 nicht sich entfalten ließ? Mit der Energie, mit der sie ihre
 Lebenslüge aufrechterhielt, hätte sie längst lesen und
