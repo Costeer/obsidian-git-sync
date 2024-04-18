@@ -110,9 +110,9 @@ Seiten von Mauern gefaßt, die eiserne Geländer trugen
 und unten schneckenförmig ausliefen. Die Tür war von
 Säulen flankiert, und von den Ecken des Architravs
 
-```
-2
-```
+***
+# 2
+***
 
 blickte ein Löwe die Bahnhofstraße hinauf, einer sie
 hinunter. Der Hauseingang, durch den die Frau mich
@@ -209,9 +209,9 @@ Hauses lernte ich nie mehr kennen als diese Gerüche,
 die Fußabtritte vor den Wohnungstüren und die
 Namensschilder unter den Klingelknöpfen. Ich erinnere
 
-```
-3
-```
+***
+# 3
+***
 
 mich nicht, im Treppenhaus jemals einem anderen
 Bewohner begegnet zu sein.
@@ -271,6 +271,7 @@ fand. Aber ich sehe seine Schönheit nicht vor mir.
 ```
 4
 ```
+
 »Wart noch«, sagte sie, als ich aufstand und gehen wollte,
 »ich muß auch los und komm ein Stück mit.«
 Ich wartete im Flur. Sie zog sich in der Küche um. Die
