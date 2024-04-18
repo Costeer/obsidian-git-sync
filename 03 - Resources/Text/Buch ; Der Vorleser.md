@@ -516,11 +516,10 @@ schweren Schritts die Treppe hinaufkam. Ich hoffte, er
 
 
 würde im zweiten Stock wohnen. Wenn er mich sähe
-
-- wie sollte ich erklären, was ich hier machte? Aber
+wie sollte ich erklären, was ich hier machte? Aber
 die Schritte hielten auf dem zweiten Stock nicht an. Sie
 stiegen weiter. Ich stand auf.
-    Es war Frau Schmitz. In der einen Hand trug sie eine
+Es war Frau Schmitz. In der einen Hand trug sie eine
 Koksschütte, in der anderen einen Brikettbehälter. Sie
 hatte eine Uniform an, Jacke und Rock, und ich erkannte,
 daß sie Straßenbahnschaffnerin war. Sie bemerkte mich
@@ -530,9 +529,9 @@ von dem, was ich befürchtet hatte. Sie sah müde aus. Als
 sie die Kohlen abgestellt hatte und in der Jackentasche
 nach dem Schlüssel suchte, klirrten Münzen auf dem
 Boden. Ich hob sie auf und gab sie ihr.
-    »Unten im Keller stehen noch zwei Schütten. Machst
+Unten im Keller stehen noch zwei Schütten. Machst
 du sie voll und bringst sie hoch? Die Tür ist auf.«
-    Ich rannte die Treppen hinunter. Die Tür zum
+Ich rannte die Treppen hinunter. Die Tür zum
 Kellergeschoß stand auf, das Kellerlicht war an,
 und am Fuß der langen Kellertreppe fand ich einen
 Bretterverschlag, bei dem die Tür nur angelehnt war
@@ -542,7 +541,7 @@ der Decke, durch die er von der Straße in den Keller
 geschüttet worden war. Neben der Tür waren auf der
 einen Seite die Briketts ordentlich geschichtet und
 standen auf der anderen die Koksschütten.
-    Ich weiß nicht, was ich falsch gemacht habe. Zu Hause
+Ich weiß nicht, was ich falsch gemacht habe. Zu Hause
 holte ich auch Kohlen aus dem Keller und hatte damit nie
 Probleme. Allerdings lagerte der Koks zu Hause nicht so
 hoch gehäuft. Das Füllen der ersten Schütte ging gut. Als
@@ -580,8 +579,6 @@ wieder. Das Wasser stieg schnell, und die Wanne war fast
 voll.
 »Willst du mit Schuhen und Hose baden? Jungchen, ich
 schau nicht hin.« Aber als ich den Hahn zugedreht und
-
-
 auch die Unterhose ausgezogen hatte, musterte sie mich
 ruhig. Ich wurde rot, stieg in die Wanne und tauchte unter.
 Als ich auftauchte, war sie mit meinen Sachen auf dem
@@ -601,6 +598,7 @@ die kühle Luft, die durch die spaltoffene Küchentür kam,
 und am Körper das warme Wasser. Mir war behaglich. Es
 war ein erregendes Behagen, und mein Geschlecht wurde
 steif.
+
 Ich sah nicht auf, als sie in die Küche kam, erst als sie
 vor der Wanne stand. Mit ausgebreiteten Armen hielt sie
 ein großes Tuch. »Komm!« Ich wandte ihr den Rücken
@@ -635,9 +633,7 @@ zu beherrschen versuchte und dann so laut schrie, daß sie
 den Schrei mit ihrer Hand auf meinem Mund erstickte.
 
 
-```
-7
-```
+
 In der folgenden Nacht habe ich mich in sie verliebt. Ich
 schlief nicht tief, sehnte mich nach ihr, träumte von ihr,
 meinte, sie zu spüren, bis ich merkte, daß ich das Kissen
