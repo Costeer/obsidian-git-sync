@@ -3,7 +3,6 @@ Diogenes Taschenbuch 22953
 Scan & Layout: gnophilea
 Korrektur: homebrew
 ```
-
 #### Bernhard Schlink
 
 ## Der Vorleser
@@ -14,8 +13,7 @@ Umschlagillustration: Ernst Ludwig Kirchner,
 ›Nollendorfplatz‹, 1912 (Ausschnitt)
 Copyright © by Dr. Wolfgang & Ingeborg
 Henze-Kletterer, Wichtrach/Bern
-
-
+***
 Als ich fünfzehn war, hatte ich Gelbsucht. Die Krankheit
 begann im Herbst und endete im Frühjahr. Je kälter und
 dunkler das alte Jahr wurde, desto schwächer wurde ich.
