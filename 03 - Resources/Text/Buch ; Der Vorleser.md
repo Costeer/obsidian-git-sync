@@ -632,7 +632,9 @@ mir kam und ich die Augen fest schloß und zunächst mich
 zu beherrschen versuchte und dann so laut schrie, daß sie
 den Schrei mit ihrer Hand auf meinem Mund erstickte.
 
-
+***
+# 1
+***
 
 In der folgenden Nacht habe ich mich in sie verliebt. Ich
 schlief nicht tief, sehnte mich nach ihr, träumte von ihr,
@@ -655,10 +657,8 @@ es oft sehr kalt. Ich erinnere mich an die warme
 Küche und den heißen Herd, ein schweres, eisernes
 Gerät, in dem man das Feuer sah, wenn man mit
 einem Haken die Platten und Ringe der Herdstellen
-wegzog, und in dem ein Becken stets warmes Was-
-
-
-ser bereithielt. Vor den Herd hatte meine Mutter einen
+wegzog, und in dem ein Becken stets warmes Wasser
+bereithielt. Vor den Herd hatte meine Mutter einen
 Stuhl gerückt, auf dem ich stand, während sie mich wusch
 und ankleidete. Ich erinnere mich an das wohlige Gefühl
 der Wärme und an den Genuß, den es mir bereitete, in
@@ -689,8 +689,6 @@ dich gemacht.« Mein Vater klang mehr ärgerlich als
 besorgt.
 Ich sagte, ich hätte mich verirrt; ich hätte einen Spa-
 ziergang über den Ehrenfriedhof zur Molkenkur geplant,
-
-
 sei aber lange nirgendwo und schließlich in Nußloch
 angekommen. »Ich hatte kein Geld und mußte von
 Nußloch nach Hause laufen.«
