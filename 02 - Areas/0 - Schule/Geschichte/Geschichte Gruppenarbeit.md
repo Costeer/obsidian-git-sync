@@ -10,4 +10,4 @@ Addressat: Bürger der BRD
 Quelle
 Quellenwert: hoch?
 
-In dieser Textquelle 
+In dieser Textquelle von Detlef Herrmann, Gruppenleiter der Abteilung Ideologie am 
