@@ -14,4 +14,4 @@ Für die bewegungs geschwindigkeit kilt die Formel:
 $$ Fz = m*r*w^2 = m * Vb^2/r  $$
 
 > [!failure] Zusammenfassung Zentripetalbeschleunigung
-> Bei einer Ständigen zum Kreismittelpunkt 
+> Bei einer gleichförmigen Kreisbewegung wird der Körper Ständig zum Kreismittelpunkt hin beschleunigt 
