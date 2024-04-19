@@ -1,1 +1,1 @@
-In dieser Textquele von Andreas Malycha 
+In dieser Textquele von Andreas Malycha aus „Aufdeckung weg in den Zusammenbruch“ von 1982 - 1990 handelt von d
