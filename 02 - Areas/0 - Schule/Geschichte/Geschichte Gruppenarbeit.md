@@ -10,4 +10,4 @@ Addressat: Bürger der BRD
 Quelle
 Quellenwert: hoch?
 
-In dieser Textquelle von Detlef Herrmann, Gruppenleiter der Abteilung Ideologie am Institut für Internationale Politik und Wirtschaft in Ost-Berlin aus d
+In dieser Textquelle von Detlef Herrmann, Gruppenleiter der Abteilung Ideologie am Institut für Internationale Politik und Wirtschaft in Ost-Berlin aus der ZEIT um 1975 geht um die Politische situation der DD
