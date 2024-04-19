@@ -17,5 +17,5 @@ $$ Fz = m*r*w^2 = m * Vb^2/r  $$
 > Bei einer gleichförmigen Kreisbewegung wird der Körper Ständig zum Kreismittelpunkt hin beschleunigt. Diese Bechleunigung wird Zentripetalbeschleunigung genannt.
 >  
 > Es gilt (mit 2. Newtonischen Gesetz)
-> $$ az = vb^2 = r * w^2 = Fz/m $$
+> $$ az = vb^2/r = r * w^2 = Fz/m $$
 
