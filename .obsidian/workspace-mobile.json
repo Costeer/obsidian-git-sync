@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1681aebfd5125556",
+        "id": "85f020501bf702b0",
         "type": "tabs",
         "children": [
           {
-            "id": "95e8f9757225a5d9",
+            "id": "7ee6a68b1fe9f8e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,11 +165,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95e8f9757225a5d9",
+  "active": "7ee6a68b1fe9f8e2",
   "lastOpenFiles": [
     "README.md",
-    "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
     "02 - Areas/0 - Schule/Geschichte/Geschichte Gruppenarbeit.md",
+    "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
     "99 - Meta/00 - Templates/Page-Devide.md",
     "99 - Meta/00 - Templates/Daily Template.md",
     "03 - Resources/Text/Buch ; Der Vorleser.md",
