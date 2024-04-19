@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "fb9df63fb48c203c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "b3bace2b41963937",
             "type": "leaf",
             "state": {
@@ -47,16 +57,6 @@
             }
           },
           {
-            "id": "fb9df63fb48c203c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "37f205cf2c316892",
             "type": "leaf",
             "state": {
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md",
+            "file": "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -212,13 +211,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb9df63fb48c203c",
+  "active": "829581b860cb4e3e",
   "lastOpenFiles": [
+    "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-19 10.31.17.excalidraw.md",
     "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
     "02 - Areas/0 - Schule/Physik/Aufgaben/Das Flüge(.de)zeug.md",
     "02 - Areas/0 - Schule/Physik/Aufgaben/Beispielaufgabe zur Zentripetalbeschleunigung.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md",
     "02 - Areas/0 - Schule/Physik/Herleitung der Zentripetalbeschleunigung.md",
     "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkraft.md",
