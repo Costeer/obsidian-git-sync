@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +162,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+            "file": "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,13 +212,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "829581b860cb4e3e",
+  "active": "fb9df63fb48c203c",
   "lastOpenFiles": [
-    "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md",
+    "02 - Areas/0 - Schule/Physik/Aufgaben/Beispielaufgabe zur Zentripetalbeschleunigung.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-19 10.31.17.excalidraw.md",
     "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md",
     "02 - Areas/0 - Schule/Physik/Aufgaben/Das Flüge(.de)zeug.md",
-    "02 - Areas/0 - Schule/Physik/Aufgaben/Beispielaufgabe zur Zentripetalbeschleunigung.md",
     "02 - Areas/0 - Schule/Physik/Herleitung der Zentripetalbeschleunigung.md",
     "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkraft.md",
