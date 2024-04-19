@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "913b80e8d4d11002",
+        "id": "4ccb4f54a7227c21",
         "type": "tabs",
         "children": [
           {
-            "id": "6c1dac716eac43f1",
+            "id": "7c5b2384e46339af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "587128a703661fc9",
+            "id": "5539a0aee8ad65f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Niederländisch/30% geht zur vwo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f21b7acbef6e43f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Meta/00 - Templates/Daily Template.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d781a2b5ef7bdd42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Text/Buch ; Der Vorleser.md",
+                "file": "02 - Areas/0 - Schule/Geschichte/Quellenkritische einleitung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resources/Text/Buch ; Der Vorleser.md",
+            "file": "02 - Areas/0 - Schule/Geschichte/Quellenkritische einleitung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -205,13 +179,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d781a2b5ef7bdd42",
+  "active": "5539a0aee8ad65f7",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
+    "02 - Areas/0 - Schule/Geschichte/Quellenkritische einleitung.md",
+    "README.md",
     "99 - Meta/00 - Templates/Page-Devide.md",
     "99 - Meta/00 - Templates/Daily Template.md",
     "03 - Resources/Text/Buch ; Der Vorleser.md",
     "02 - Areas/0 - Schule/Niederländisch/30% geht zur vwo.md",
-    "README.md",
     "02 - Areas/0 - Schule/Deutsch/Der Vorleser Bearbeitung Arbeitsblatt.md",
     "07 - Archives/Lingen Retorikseminar Arbeitsblatt.md",
     "07 - Archives/Drawing 2024-04-11 08.23.14.excalidraw.md",
@@ -231,8 +207,6 @@
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.19.01.excalidraw.md",
     "02 - Areas/0 - Schule/Chemie/Aufgaben/Alkohole zeichnen.md",
     "02 - Areas/0 - Schule/Chemie/Mol™.md",
-    "02 - Areas/0 - Schule/Deutsch/Klausurtraining Eine Dramaszene Interpretieren.md",
-    "03 - Resources/Excalidraw/Drawing 2024-03-13 10.26.16.excalidraw.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
