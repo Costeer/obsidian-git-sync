@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Politik Wirtschaft/1.) Wirtschaftssektoren.md",
+                "file": "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3bace2b41963937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/0 - Schule/Physik/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Politik Wirtschaft/1.) Wirtschaftssektoren.md",
+            "file": "02 - Areas/0 - Schule/Physik/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,8 +179,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "829581b860cb4e3e",
+  "active": "b3bace2b41963937",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
+    "02 - Areas/0 - Schule/Physik/Untitled.md",
+    "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkraft.md",
+    "02 - Areas/0 - Schule/Politik Wirtschaft/Die Letzte Generation.md",
+    "02 - Areas/0 - Schule/Politik Wirtschaft/Arbeitsverhältnisse.md",
+    "02 - Areas/0 - Schule/Politik Wirtschaft/Atypische Arbeit.md",
+    "02 - Areas/0 - Schule/Politik Wirtschaft/1.) Wirtschaftssektoren.md",
     "README.md",
     "02 - Areas/0 - Schule/Geschichte/Geschichte Gruppenarbeit.md",
     "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
@@ -186,13 +207,6 @@
     "02 - Areas/0 - Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
     "02 - Areas/0 - Schule/Werte und Normen/Aufgaben/Knast und Schule im vergelich.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 11.15.36.excalidraw.md",
-    "02 - Areas/0 - Schule/Chemie/Aufgaben/Rechnen In Chemie.md",
-    "02 - Areas/0 - Schule/Chemie/Aufgaben/Oxidationszahlen ermitteln.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-17 10.18.51.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-17 10.26.48.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-17 10.19.01.excalidraw.md",
-    "02 - Areas/0 - Schule/Chemie/Aufgaben/Alkohole zeichnen.md",
-    "02 - Areas/0 - Schule/Chemie/Mol™.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
