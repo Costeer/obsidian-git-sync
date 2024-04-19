@@ -1,1 +1,1 @@
-In dieser Textquele von Andreas Malycha aus „Aufdeckung weg in den Zusammenbruch“ von 1982 - 1990 handelt von der wachsenden Unzufriedenheit der DDR Bevölkerung. 
+In dieser Textquele von Andreas Malycha aus „Auf dem weg in den Zusammenbruch“ von 1982 - 1990 handelt von der wachsenden Unzufriedenheit der DDR Bevölkerung. 
