@@ -23,5 +23,6 @@
   ],
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "03 - Resources",
-  "trashOption": "none"
+  "trashOption": "none",
+  "foldHeading": false
 }
