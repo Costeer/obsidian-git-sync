@@ -174,6 +174,13 @@ städig
 scheint
 slides
 sozialismus
+sowohl
+schönen
+schlechten
+schwerpunkt
+setzen
+solve
+system
 Obsidic
 Obsidian
 OS
@@ -230,6 +237,7 @@ Onkel
 Ostdeutschland
 Ordoliberalismus
 Ordnungsrahmen
+Oberbegriff
 Ein
 Einstellungen
 Empfohlene
@@ -307,6 +315,11 @@ Eigentum
 Eingriffe
 Ende
 Erschwerte
+Erläutern
+Einheit
+Exponenten
+Einführung
+Eindeutige
 repo
 rein
 rechtfertigen
@@ -473,6 +486,8 @@ marktwirtschaft
 marktwirtschaftliche
 mögliche
 mischung
+missbraucht
+mathematisch
 Theme
 Terminal
 Templates
@@ -540,6 +555,7 @@ Turkfacing
 Trick
 Türke
 Tod
+Taschenrechner
 vorgefertigten
 voreingestellten
 viel
@@ -629,6 +645,7 @@ verpflichtet
 vs
 vertrag
 verhindert
+variable
 templates
 terminal
 token
@@ -694,6 +711,7 @@ tatsächlich
 türkischer
 tatsächlichen
 trat
+taschenrechner
 und
 unbekannte
 um
@@ -768,6 +786,9 @@ umfasst
 ups
 ursprüngliche
 umgeht
+uniforme
+ungerade
+unsauber
 einfachem
 emulator
 einfügen
@@ -865,6 +886,12 @@ erklärte
 erster
 eingeleitete
 eingeführt
+einiger
+einführung
+einsetzen
+einsetzten
+eingeschränkten
+erste
 über
 übernehmen
 überkategorie
@@ -973,6 +1000,9 @@ gehören
 gewährleistet
 gehen
 geworden
+graue
+ganzrationale
+graphen
 Installation
 Ipad
 Internet
@@ -1082,6 +1112,7 @@ Unternehmen
 Uranistan
 Unternehmens
 Universität
+Ungerade
 alle
 arbeit
 anderen
@@ -1184,6 +1215,12 @@ arm
 auseinander
 alleirte
 abgelent
+anführt
+altags
+aberauch
+achsensymmetrisch
+ausrechnen
+anwenden
 nötigen
 notizen
 nach
@@ -1248,6 +1285,9 @@ nie
 nennt
 negative
 notwendig
+naaa
+nc
+null
 für
 fenster
 folder
@@ -1305,6 +1345,9 @@ feste
 fühlt
 folie
 ff
+funktionieren
+formel
+faktorisieren
 obsidian
 organisiert
 of
@@ -1434,6 +1477,8 @@ zur
 zugleich
 zurück
 zwischen
+zeichnen
+zwar
 dier
 diesen
 den
@@ -1527,6 +1572,9 @@ doch
 desto
 distanzieren
 durchsetzte
+definiert
+differenz
+definitionsbereich
 in
 installiert
 indem
@@ -1764,6 +1812,7 @@ Leistungen
 Leistungsanreiz
 Ludwig
 Lohnsätzte
+Lim
 DE
 Der
 Daily
@@ -1826,6 +1875,7 @@ Direktor
 Durch
 Daher
 Dennoch
+Definitionen
 Kitty
 Kategorien
 Kochen
@@ -1917,6 +1967,7 @@ Konsum
 Koalitionsfreiheit
 Kartelle
 Kapitalismus
+Kirche
 Alle
 Areas
 Archives
@@ -2014,6 +2065,14 @@ Auswirkungen
 Arbeitnehmers
 Aus
 Abgabenlast
+Aristoteles
+Angabe
+Aufgabe
+Aspekte
+Allgemeine
+Allgmeine
+Abstand
+Ableitung
 Powershell
 Para
 Projects
@@ -2087,6 +2146,7 @@ Produktionsmitteln
 Preisbildung
 Personen
 Privateigentum
+Punktes
 werden
 wie
 wo
@@ -2356,6 +2416,7 @@ breiten
 begründete
 bpw
 blood
+brudi
 kopieren
 kombination
 kommt
@@ -2434,6 +2495,9 @@ kämen
 kulturellen
 kapitalismus
 komplett
+klar
+kirchengläser
+kürzen
 GitHub
 Gesprächs
 Gestik
@@ -2507,6 +2571,10 @@ Gewerbe
 Gewinnoptimierung
 Gewinnmaximierung
 Gründung
+Gebote
+Gerade
+Gleichung
+Gesucht
 How
 Hintergrund
 HH
@@ -2701,6 +2769,7 @@ private
 professor
 personalkosten
 problehme
+punktsymmetrisch
 Zettelkasten
 Zerstöre
 Zukunft
@@ -2862,6 +2931,9 @@ Marktwirtshaft
 Maximilian
 München
 Mischung
+Mercier
+Merksatz
+Methode
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -2963,6 +3035,7 @@ Rahmens
 Ruf
 Regulierungsmaßnahmen
 Risiken
+Religion
 Fleeting
 Fleting
 Feld
@@ -3037,6 +3110,10 @@ Freiburger
 Freiheitsrechte
 Folie
 Freien
+Funktion
+Funktionen
+Falls
+Formel
 helfen
 haben
 hier
@@ -3088,6 +3165,8 @@ höher
 heterogenen
 hohe
 highlightTheme
+hi
+hast
 lediglich
 lassen
 letzte
@@ -3130,6 +3209,10 @@ lässt
 leichte
 lissabon
 löst
+limes
+laufen
+löse
+linSolve
 XX
 Xn
 Xi
@@ -3375,6 +3458,13 @@ Schaffung
 Sozialstaat
 Schere
 Schöne
+Sache
+Spezifischer
+Stellen
+Schaubild
+Seiten
+Schnittpunkt
+Steigung
 Journal
 Jetzt
 JFIF
@@ -3422,6 +3512,7 @@ Jahrzehnten
 Jux
 Je
 Jahr
+Ja
 Beziehe
 Beobachtungsbogen
 Blickkontakt
@@ -3501,6 +3592,8 @@ Bundestagsabgeordneter
 Bild
 Berufs
 BELLL
+Bedeutung
+Binomische
 Quelle
 Quiz
 Qa
