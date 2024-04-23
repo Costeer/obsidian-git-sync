@@ -320,6 +320,7 @@ Einheit
 Exponenten
 Einführung
 Eindeutige
+Erklärung
 repo
 rein
 rechtfertigen
@@ -892,6 +893,7 @@ einsetzen
 einsetzten
 eingeschränkten
 erste
+eindeutig
 über
 übernehmen
 überkategorie
@@ -1479,6 +1481,8 @@ zurück
 zwischen
 zeichnen
 zwar
+zuordbar
+zugeordnet
 dier
 diesen
 den
@@ -1575,6 +1579,7 @@ durchsetzte
 definiert
 differenz
 definitionsbereich
+darf
 in
 installiert
 indem
@@ -1770,6 +1775,9 @@ Wirtschaftsgebietes
 Währungsreform
 Wirtschaftswunders
 Wettbewerbspolitik
+Werten
+Wertbereich
+WF
 Linux
 Links
 Lautstärke
@@ -1876,6 +1884,8 @@ Durch
 Daher
 Dennoch
 Definitionen
+Definitionsbereich
+Df
 Kitty
 Kategorien
 Kochen
@@ -2326,6 +2336,7 @@ Nachfolger
 Neo
 NSDAP
 Nachteile
+Normalerweise
 befehle
 bekommen
 befinden
@@ -2575,6 +2586,9 @@ Gebote
 Gerade
 Gleichung
 Gesucht
+Grundmenge
+Gipts
+Gibt
 How
 Hintergrund
 HH
@@ -2697,6 +2711,7 @@ Vizekanzler
 Vorsitzender
 Vorteile
 Vertrags
+Vereinfacht
 platz
 projects
 präsentiert
@@ -2841,6 +2856,7 @@ Zuordnung
 Zwangswirtschaft
 Zugleich
 Zusammenfassung
+Zahlen
 Maps
 Meta
 Mahlen
@@ -2934,6 +2950,7 @@ Mischung
 Mercier
 Merksatz
 Methode
+Menge
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
