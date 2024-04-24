@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Allgemeine Geundlagen.md",
+                "file": "02 - Areas/0 - Schule/Chemie/Allgemeine Grundlagen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -129,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Chemie/Allgemeine Geundlagen.md",
+            "file": "02 - Areas/0 - Schule/Chemie/Allgemeine Grundlagen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
