@@ -1,4 +1,4 @@
-**Sie ist deutlich älter als er - und sie ist glücklich. Warum immer mehr Frauen die Liebe mit einem jüngeren Mann genießen.**
+**Sie ist deutlich älter als er und sie ist glücklich. Warum immer mehr Frauen die Liebe mit einem jüngeren Mann genießen.**
 
 Wenn sich ein Mann und eine wesentlich ältere Frau ineinander verlieben, ticken beide nicht richtig. Aus Sicht der Evolutionsbiologen ist da einiges komplett schief gelaufen. Nach ihren Erkenntnissen drängt es die Herren der Schöpfung, sich zeitlebens mit jüngeren Frauen zu paaren, weil die hohe Fruchtbarkeit versprechen oder zumindest danach aussehen. Umgekehrt gibt das weibliche Geschlecht, scheinbar ebenfalls der Natur der Dinge folgend, einem mindestens drei bis acht Jahre älteren Partner den Vorzug. Bei ihm sind die Chancen größer, dass er über den Status und die Ressourcen verfügt, um den Nachwuchs sicher und sorglos aufzuziehen. Soviel zur biologischen Mission von Mann und Frau.
 
