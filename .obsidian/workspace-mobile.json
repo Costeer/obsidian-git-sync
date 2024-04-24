@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "829581b860cb4e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fb9df63fb48c203c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b3bace2b41963937",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Physik/Aufgaben/Das Flüge(.de)zeug.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23ba275e8e13d585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Physik/Aufgaben/Beispielaufgabe zur Zentripetalbeschleunigung.md",
+                "file": "03 - Resources/Text/Buch ; Der Vorleser.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -161,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
+            "file": "03 - Resources/Text/Buch ; Der Vorleser.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,10 +175,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "829581b860cb4e3e",
+  "active": "fb9df63fb48c203c",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+    "03 - Resources/Text/In Wahrheit ist Kiezdeutsch rassistisch.md",
+    "03 - Resources/Text/Buch ; Der Vorleser.md",
+    "README.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md",
+    "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
+    "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
     "02 - Areas/0 - Schule/Physik/Aufgaben/Beispielaufgabe zur Zentripetalbeschleunigung.md",
     "02 - Areas/0 - Schule/Physik/Aufgaben/Das Flüge(.de)zeug.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-19 10.31.17.excalidraw.md",
@@ -225,20 +193,16 @@
     "02 - Areas/0 - Schule/Politik Wirtschaft/Arbeitsverhältnisse.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Atypische Arbeit.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/1.) Wirtschaftssektoren.md",
-    "README.md",
     "02 - Areas/0 - Schule/Geschichte/Geschichte Gruppenarbeit.md",
     "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
     "99 - Meta/00 - Templates/Page-Devide.md",
     "99 - Meta/00 - Templates/Daily Template.md",
-    "03 - Resources/Text/Buch ; Der Vorleser.md",
     "02 - Areas/0 - Schule/Niederländisch/30% geht zur vwo.md",
     "02 - Areas/0 - Schule/Deutsch/Der Vorleser Bearbeitung Arbeitsblatt.md",
     "07 - Archives/Lingen Retorikseminar Arbeitsblatt.md",
     "07 - Archives/Drawing 2024-04-11 08.23.14.excalidraw.md",
     "02 - Areas/0 - Schule/Deutsch/Diversität.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.45.00.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-17 10.49.34.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-17 11.09.37.excalidraw.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
