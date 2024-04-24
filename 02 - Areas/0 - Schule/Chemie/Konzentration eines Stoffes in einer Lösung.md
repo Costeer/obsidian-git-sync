@@ -1,3 +1,3 @@
 #### Molzahl : n
 
-$$ n = m (Mohlmasse in /M $$
+$$ n = m (MohlmasseEinesStoffes)/M(Mohlmasse) $$
