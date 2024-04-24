@@ -58,29 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3e35f58e203dff34",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-24 10.51.39.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "87d15a1bfded1e09",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-24 10.37.58.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes.md",
+            "file": "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -225,12 +205,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25d631f48b8cd03d",
+  "active": "79cb31057595f850",
   "lastOpenFiles": [
-    "03 - Resources/Excalidraw/Drawing 2024-04-24 10.51.39.excalidraw.md",
     "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes.md",
-    "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-24 10.37.58.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-24 10.51.39.excalidraw.md",
+    "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
     "02 - Areas/0 - Schule/Chemie/Allgemeine Grundlagen.md",
     "03 - Resources/Text/Buch ; Der Vorleser.md",
     "03 - Resources/Text/Text ; Eine Starke Verbindung.md",
