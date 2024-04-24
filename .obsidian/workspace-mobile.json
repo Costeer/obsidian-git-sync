@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79cb31057595f850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Chemie/Allgemeine Grundlagen.md",
+            "file": "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -179,8 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fad42689c2e5fa4",
+  "active": "79cb31057595f850",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Chemie/Allgemeine Grundlagen.md",
+    "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
     "03 - Resources/Text/Buch ; Der Vorleser.md",
     "03 - Resources/Text/Text ; Eine Starke Verbindung.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-19 10.31.17.excalidraw.md",
@@ -205,8 +220,6 @@
     "02 - Areas/0 - Schule/Niederländisch/30% geht zur vwo.md",
     "02 - Areas/0 - Schule/Deutsch/Der Vorleser Bearbeitung Arbeitsblatt.md",
     "07 - Archives/Lingen Retorikseminar Arbeitsblatt.md",
-    "07 - Archives/Drawing 2024-04-11 08.23.14.excalidraw.md",
-    "02 - Areas/0 - Schule/Deutsch/Diversität.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
