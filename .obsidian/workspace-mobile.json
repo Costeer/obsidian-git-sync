@@ -47,6 +47,29 @@
             }
           },
           {
+            "id": "25d631f48b8cd03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e35f58e203dff34",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resources/Excalidraw/Drawing 2024-04-24 10.51.39.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "87d15a1bfded1e09",
             "type": "leaf",
             "state": {
@@ -57,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +175,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
+            "file": "03 - Resources/Excalidraw/Drawing 2024-04-24 10.51.39.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -202,10 +225,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79cb31057595f850",
+  "active": "3e35f58e203dff34",
   "lastOpenFiles": [
-    "03 - Resources/Excalidraw/Drawing 2024-04-24 10.37.58.excalidraw.md",
+    "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-24 10.51.39.excalidraw.md",
     "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-24 10.37.58.excalidraw.md",
     "02 - Areas/0 - Schule/Chemie/Allgemeine Grundlagen.md",
     "03 - Resources/Text/Buch ; Der Vorleser.md",
     "03 - Resources/Text/Text ; Eine Starke Verbindung.md",
@@ -228,8 +253,6 @@
     "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
     "99 - Meta/00 - Templates/Page-Devide.md",
     "99 - Meta/00 - Templates/Daily Template.md",
-    "02 - Areas/0 - Schule/Niederländisch/30% geht zur vwo.md",
-    "02 - Areas/0 - Schule/Deutsch/Der Vorleser Bearbeitung Arbeitsblatt.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
