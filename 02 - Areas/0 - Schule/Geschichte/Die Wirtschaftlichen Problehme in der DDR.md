@@ -8,3 +8,5 @@
 ##### Maßnamen Honecker:
 - Beratungen im kleinen kreis (z. 15)
 - Zurückweisung von Einwänden/vorschlägen (z. 9-10)
+
+![[Drawing 2024-04-26 09.38.54.excalidraw|200]]
