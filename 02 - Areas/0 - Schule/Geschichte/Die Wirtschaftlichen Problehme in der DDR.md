@@ -4,4 +4,5 @@ Warnungen Schührer
 - masnamen sind nur kosmetisch (z. 17-19)
 Maßnamen Honecker
 - Beratungen im kleinen kreis (z. 15)
-- Zurückweisung von Einwänden/vorschlägen (z)
+- Zurückweisung von Einwänden/vorschlägen (z. 9-10)
+- 
