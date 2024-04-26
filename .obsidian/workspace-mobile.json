@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "479ad58cac03a7a9",
+        "id": "3cc4a18a3b542948",
         "type": "tabs",
         "children": [
           {
-            "id": "46af742cc54daebf",
+            "id": "af3ce4a41c1cbb7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,7 +165,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46af742cc54daebf",
+  "active": "af3ce4a41c1cbb7a",
   "lastOpenFiles": [
     "02 - Areas/0 - Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
     "02 - Areas/0 - Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
