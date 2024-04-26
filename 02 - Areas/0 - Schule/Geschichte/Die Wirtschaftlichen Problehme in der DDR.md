@@ -1,3 +1,3 @@
 - Wirtschaft wächst zu wenig
 - Nötige kredite
-- masnamen sind nur kosmetisch
+- masnamen sind nur ~~kosmetisch~~
