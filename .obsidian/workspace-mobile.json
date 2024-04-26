@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Biologie/Verlauf einer Infektionskrankheit.md",
+                "file": "02 - Areas/0 - Schule/Biologie/Aufgaben/Bio korektur.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "131467bd654f7c32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/0 - Schule/Biologie/Aufgaben/NDR film dingsi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Biologie/Verlauf einer Infektionskrankheit.md",
+            "file": "02 - Areas/0 - Schule/Biologie/Aufgaben/NDR film dingsi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,8 +179,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9bbe9899dd999c36",
+  "active": "131467bd654f7c32",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Biologie/Aufgaben/Bio korektur.md",
+    "02 - Areas/0 - Schule/Biologie/Aufgaben/NDR film dingsi.md",
+    "02 - Areas/0 - Schule/Biologie/Verlauf einer Infektionskrankheit.md",
     "02 - Areas/0 - Schule/Biologie/Viren.md",
     "02 - Areas/0 - Schule/Biologie/Bakterien.md",
     "02 - Areas/0 - Schule/Biologie/Adenosintriphosphat (ATP).md",
@@ -190,9 +207,6 @@
     "02 - Areas/0 - Schule/Chemie/Allgemeine Grundlagen.md",
     "03 - Resources/Text/Buch ; Der Vorleser.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-24 10.37.58.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-24 10.51.39.excalidraw.md",
-    "03 - Resources/Text/Text ; Eine Starke Verbindung.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-19 10.31.17.excalidraw.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
