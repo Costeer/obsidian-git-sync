@@ -7254,6 +7254,16 @@ async function checkSnippetExists(app, fileName) {
 async function deleteSnippetFile(app, fileName) {
   await app.vault.adapter.remove(`${getSnippetDirectory(app)}${fileName}`);
 }
+function toggleSnippetFileState(app, fileName) {
+  var _a;
+  const snippetName = fileName.replace(".css", "");
+  if (!((_a = app.customCss) == null ? void 0 : _a.enabledSnippets) || !app.customCss.setCssEnabledStatus) {
+    throw new Error("Failed to enable/disable CSS snippet.");
+  }
+  const isEnabled = app.customCss.enabledSnippets.has(snippetName);
+  app.customCss.setCssEnabledStatus(snippetName, !isEnabled);
+  return !isEnabled;
+}
 async function _createSnippetDirectoryIfNotExists(app) {
   if (!await app.vault.adapter.exists(getSnippetDirectory(app))) {
     await app.vault.adapter.mkdir(getSnippetDirectory(app));
@@ -10059,9 +10069,42 @@ var CssSnippetFuzzySuggestModal = class extends import_obsidian3.FuzzySuggestMod
         return false;
       }
     });
+    this.scope.register([], "Tab", (evt) => {
+      if (this.chooser) {
+        const selItem = this.chooser.selectedItem;
+        const selSnippet = this.chooser.values[selItem].item;
+        const isEnabled = toggleSnippetFileState(this.app, selSnippet);
+        const selEl = this.chooser.suggestions[selItem].querySelector(
+          ".css-editor-status"
+        );
+        selEl == null ? void 0 : selEl.setText(isEnabled ? "enabled" : "disabled");
+        selEl == null ? void 0 : selEl.removeClass(isEnabled ? "disabled" : "enabled");
+        selEl == null ? void 0 : selEl.addClass(isEnabled ? "enabled" : "disabled");
+      }
+      return false;
+    });
     this.containerEl.addClass("css-editor-quick-switcher-modal");
     this.setPlaceholder("Find or create a CSS snippet...");
-    this.renderPromptInstructions();
+    this.setInstructions([
+      { command: "\u2191\u2193", purpose: "to navigate" },
+      {
+        command: import_obsidian3.Platform.isMacOS ? "\u2318 \u21B5" : "ctrl \u21B5",
+        purpose: "to open in new tab"
+      },
+      { command: "shift \u21B5", purpose: "to create" },
+      {
+        command: import_obsidian3.Platform.isMacOS ? "\u2318 del" : "ctrl del",
+        purpose: "to delete"
+      },
+      { command: "tab", purpose: "to enable/disable" },
+      { command: "esc", purpose: "to dismiss" }
+    ]);
+  }
+  isEnabled(item) {
+    var _a, _b;
+    const snippetName = item.replace(".css", "");
+    const currentState = (_b = (_a = this.app.customCss) == null ? void 0 : _a.enabledSnippets) == null ? void 0 : _b.has(snippetName);
+    return currentState || false;
   }
   getItems() {
     var _a;
@@ -10103,6 +10146,22 @@ var CssSnippetFuzzySuggestModal = class extends import_obsidian3.FuzzySuggestMod
           }
         )
       );
+      const isEnabled = this.isEnabled(item.item);
+      const isNewElement = this.inputEl.value.trim().length > 0 && item.match.score === 0;
+      if (!isNewElement) {
+        el.appendChild(
+          createDiv(
+            {
+              cls: [
+                "suggestion-aux",
+                "css-editor-status",
+                isEnabled ? "enabled" : "disabled"
+              ]
+            },
+            (el2) => el2.appendText(isEnabled ? "enabled" : "disabled")
+          )
+        );
+      }
     }
     if (this.inputEl.value.trim().length > 0 && item.match.score === 0) {
       el.appendChild(
@@ -10191,45 +10250,6 @@ var CssSnippetFuzzySuggestModal = class extends import_obsidian3.FuzzySuggestMod
       filename
     });
   }
-  renderPromptInstructions() {
-    this.modalEl.appendChild(
-      createDiv({ cls: "prompt-instructions" }, (el) => {
-        el.appendChild(
-          this.createPromptInstruction("\u2191\u2193", "to navigate")
-        );
-        el.appendChild(this.createPromptInstruction("\u21B5", "to open"));
-        el.appendChild(
-          this.createPromptInstruction(
-            import_obsidian3.Platform.isMacOS ? "\u2318 \u21B5" : "ctrl \u21B5",
-            "to open in new tab"
-          )
-        );
-        el.appendChild(
-          this.createPromptInstruction("shift \u21B5", "to create")
-        );
-        el.appendChild(
-          this.createPromptInstruction(
-            import_obsidian3.Platform.isMacOS ? "\u2318 del" : "ctrl del",
-            "to delete"
-          )
-        );
-        el.appendChild(
-          this.createPromptInstruction("esc", "to dismiss")
-        );
-      })
-    );
-  }
-  createPromptInstruction(command, title) {
-    return createDiv({ cls: "prompt-instruction" }, (el) => {
-      el.appendChild(
-        createDiv(
-          { cls: "prompt-instruction-command" },
-          (el2) => el2.appendText(command)
-        )
-      );
-      el.appendChild(createSpan({}, (el2) => el2.appendText(title)));
-    });
-  }
 };
 
 // node_modules/monkey-around/mjs/index.js
@@ -10314,8 +10334,24 @@ var CssEditorPlugin = class extends import_obsidian4.Plugin {
             VIEW_TYPE_CSS,
             filename
           );
-          new InfoNotice(`${filename} was deleted.`);
+          new InfoNotice(`"${filename}" was deleted.`);
         });
+      }
+    });
+    this.addCommand({
+      id: "toggle-css-snippet-enabled-status",
+      name: "Toggle the enabled/disabled state of current CSS snippet",
+      checkCallback: (checking) => {
+        const activeCssEditorView = this.app.workspace.getActiveViewOfType(CssEditorView);
+        if (!activeCssEditorView)
+          return false;
+        if (checking)
+          return true;
+        const { filename } = activeCssEditorView.getState();
+        const isEnabled = toggleSnippetFileState(this.app, filename);
+        new InfoNotice(
+          `"${filename}" is now ${isEnabled ? "enabled" : "disabled"}.`
+        );
       }
     });
     this.register(

@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3be66ff357dea8b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resources/Excalidraw/Drawing 2024-04-26 09.32.43.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Geschichte/Die Wirtschaftlichen Problehme in der DDR.md",
+            "file": "03 - Resources/Excalidraw/Drawing 2024-04-26 09.32.43.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -179,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f63f4522894feb3",
+  "active": "3be66ff357dea8b7",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Geschichte/Geschichte Gruppenarbeit.md",
     "02 - Areas/0 - Schule/Geschichte/Die Wirtschaftlichen Problehme in der DDR.md",
+    "03 - Resources/Excalidraw/Drawing 2024-04-26 09.32.43.excalidraw.md",
+    "02 - Areas/0 - Schule/Geschichte/Geschichte Gruppenarbeit.md",
     "README.md",
     "02 - Areas/0 - Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
     "02 - Areas/0 - Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
@@ -206,7 +217,6 @@
     "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Fachkraft.md",
     "02 - Areas/0 - Schule/Politik Wirtschaft/Die Letzte Generation.md",
-    "02 - Areas/0 - Schule/Politik Wirtschaft/Arbeitsverhältnisse.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
