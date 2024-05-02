@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c56b9bbd19dfe462",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +124,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d831bcf256e9fcd8",
+  "active": "c56b9bbd19dfe462",
   "lastOpenFiles": [
+    "README.md",
     "02 - Areas/0 - Schule/Biologie/Aufgaben/NDR film dingsi.md",
     "02 - Areas/0 - Schule/Biologie/Aufgaben/Bio korektur.md",
     "02 - Areas/0 - Schule/Biologie/Verlauf einer Infektionskrankheit.md",
@@ -177,7 +186,6 @@
     "02 - Areas/0 - Schule/Biologie/Blut.md",
     "02 - Areas/0 - Schule/Biologie/Blutkreislauf Aufgabe.md",
     "02 - Areas/0 - Schule/Biologie/Aminosäure Bestimmen.md",
-    "README.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-26 09.38.54.excalidraw.md",
     "02 - Areas/0 - Schule/Geschichte/Die Wirtschaftlichen Problehme in der DDR.md",
     "02 - Areas/0 - Schule/Geschichte/Geschichte Gruppenarbeit.md",
