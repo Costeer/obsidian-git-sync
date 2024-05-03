@@ -1,10 +1,10 @@
 #### Aufgabe 2
 - Digitalisierung
 - Automatisierung
-
-
+- Engenieering
+- 
 #### Aufgabe 3
-**Chancen**
+**Chancen:**
 - Große Reichweite an Kunden durch großes angebot
 - Kundennähe durch viele fillialen
 
