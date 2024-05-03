@@ -7,5 +7,6 @@
 **Chancen**
 Große Reichweite an Kunden durch großes angebot
 Kundennähe
+
 **Risiken**
-wenig Spezialisierung
+wenig Spezialisierung hohe chance durch kleinere spezialisierte Firmen ausgeboten werden
