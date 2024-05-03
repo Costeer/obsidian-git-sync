@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3c699b9c082c9d99",
+        "id": "5d7241f28bde86fc",
         "type": "tabs",
         "children": [
           {
-            "id": "c56b9bbd19dfe462",
+            "id": "81d9a6e51f682475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Geschichte/Michail Gorbatschow.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12a9ae6189fd796d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Geschichte/Sachurteil.md",
+                "file": "02 - Areas/0 - Schule/Politik Wirtschaft/Atypische Arbeit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Geschichte/Sachurteil.md",
+            "file": "02 - Areas/0 - Schule/Politik Wirtschaft/Atypische Arbeit.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -179,11 +165,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12a9ae6189fd796d",
+  "active": "81d9a6e51f682475",
   "lastOpenFiles": [
+    "README.md",
     "02 - Areas/0 - Schule/Geschichte/Michail Gorbatschow.md",
     "02 - Areas/0 - Schule/Geschichte/Sachurteil.md",
-    "README.md",
     "02 - Areas/0 - Schule/Geschichte/Die Wirtschaftlichen Problehme in der DDR.md",
     "02 - Areas/0 - Schule/Geschichte/Das Sytem der Encomienda und seine usetztung.md",
     "02 - Areas/0 - Schule/Geschichte/Eurozentrisches denken.md",
