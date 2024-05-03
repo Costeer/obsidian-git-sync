@@ -10,4 +10,4 @@
 - Kundennähe durch viele fillialen
 
 **Risiken:**
-- wenig Spezialisierung —> hohe chance durch spezialisierte Firmen ausgeboten werden
+- wenig Spezialisierung —> hohe chance durch spezialisierte Firmen ausgeboten yesyesyeyesyeyesyeysesyeyseysesyesyeyesyesyesyeyesyesyesyesyesyesyyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyyessyesyesyesyesyeesyesyyswerden
