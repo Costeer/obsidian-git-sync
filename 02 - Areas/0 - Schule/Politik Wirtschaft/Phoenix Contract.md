@@ -2,6 +2,8 @@
 - Digitalisierung
 - Automatisierung
 - Engenieering
+- Ausbau/Vernetzung Infrastruktur
+- 
 - Tertiärer / Sekundärer Wirtschaftsektor 
 #### Aufgabe 3
 **Chancen:**
