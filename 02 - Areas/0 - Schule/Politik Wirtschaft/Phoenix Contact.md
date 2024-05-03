@@ -11,5 +11,3 @@
 
 **Risiken:**
 - wenig Spezialisierung —> hohe chance durch spezialisierte Firmen ausgebotenwerden
-
-Yesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyesyes
