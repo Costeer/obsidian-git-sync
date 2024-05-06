@@ -17,7 +17,11 @@
 
 **Beschaffung:**
 - International aufgestellte Rohstoffbeschaffung
-- Unabhängigkeit Von ausländischen Lieferanten schaffen 
+- Unabhängigkeit Von ausländischen Lieferanten schaffen
+- Komplikationen:
+	- Russlandkrieg 
+	- Pandemie 
+	- Erschwerung der Rohstoffbeschaffung
 
 **Produktion:**
 - Hohe Produktionstiefe in Deutschland 
