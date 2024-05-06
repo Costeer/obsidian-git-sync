@@ -14,3 +14,10 @@
 
 
 #### Eigenschaften
+
+**Beschaffung:**
+- Unabhängigkeit
+
+**Produktion:**
+
+
