@@ -16,8 +16,9 @@
 #### Eigenschaften
 
 **Beschaffung:**
-- Unabhängigkeit
+- Unabhängigkeit Von ausländischen Lieferanten schaffen 
 
 **Produktion:**
+- Hohe 
 
-
+****
