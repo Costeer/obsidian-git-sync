@@ -16,10 +16,11 @@
 #### Eigenschaften
 
 **Beschaffung:**
-- International aufgestellte Rohstoffbeschas
+- International aufgestellte Rohstoffbeschaffung
 - Unabhängigkeit Von ausländischen Lieferanten schaffen 
 
 **Produktion:**
 - Hohe Produktionstiefe in Deutschland 
 
-****
+**Absatz:**
+- tu
