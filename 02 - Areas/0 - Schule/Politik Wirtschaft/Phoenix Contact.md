@@ -22,6 +22,7 @@
 	- Russlandkrieg 
 	- Pandemie 
 	- Erschwerung der Rohstoffbeschaffung
+- 
 
 **Produktion:**
 - Hohe Produktionstiefe in Deutschland 
