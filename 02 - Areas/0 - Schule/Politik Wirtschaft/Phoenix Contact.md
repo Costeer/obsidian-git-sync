@@ -23,4 +23,4 @@
 - Hohe Produktionstiefe in Deutschland 
 
 **Absatz:**
-- tu
+- Hauptabsatztmärkte: Deutschland ; Europa ; Asien 
