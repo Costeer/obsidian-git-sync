@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ea58f20c56910fd",
+        "id": "d007d1b65ca4c682",
         "type": "tabs",
         "children": [
           {
-            "id": "1da2e1388013a32b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f7e21f52bebc9c0",
+            "id": "f574610abfe05c27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "f1521ce244338e04",
+            "id": "de995d4ef353df00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Biologie/Aufgaben/Arbeit.md",
+                "file": "02 - Areas/0 - Schule/Biologie/Aufgaben/Lehrnzettel Lymphsystem.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Biologie/Aufgaben/Arbeit.md",
+            "file": "02 - Areas/0 - Schule/Biologie/Aufgaben/Lehrnzettel Lymphsystem.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -192,13 +179,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1521ce244338e04",
+  "active": "de995d4ef353df00",
   "lastOpenFiles": [
     "02 - Areas/0 - Schule/Biologie/Aufgaben/Bakterien vermehrung.md",
+    "02 - Areas/0 - Schule/Biologie/Aufgaben/Lehrnzettel Lymphsystem.md",
+    "README.md",
     "02 - Areas/0 - Schule/Biologie/Aufgaben/Arbeit.md",
     "02 - Areas/0 - Schule/Biologie/Allosterische Hemmstoffe.md",
     "02 - Areas/0 - Schule/Musik/Barock.md",
-    "README.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-26 09.36.02.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-05-07 08.19.39.excalidraw.md",
     "02 - Areas/0 - Schule/Musik/Fuge Musik.md",
@@ -220,7 +208,6 @@
     "02 - Areas/0 - Schule/Geschichte/Willy Brandt.md",
     "Untitled.md",
     "03 - Resources/Excalidraw/Drawing 2024-05-02 12.47.06.excalidraw.md",
-    "02 - Areas/0 - Schule/Biologie/Aufgaben/NDR film dingsi.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
