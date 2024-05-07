@@ -3,4 +3,5 @@ S. 84 - 91 Strukturwirkung enzyme
 S. 94 / 95 RGT Regel 
 S. 98/99 Hemmung für Enzymreaktionen
 S. 110 Barrieren für krankheitsereger
-S. 112 - 115 
+S. 112 - 115 Angeborene / Erworbene Immunität 
+S. 116 / 117 Lymphsystem
