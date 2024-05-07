@@ -9,4 +9,8 @@ etwa 90% der Flüssigkeit aus dem Blutkreislauf welche aus Nährstoffen und Blut
 #### 1. Immunabwehr:
 **Das lymphatische System ist Teil des Immunsystems und dient der Abwehr und Entsorgung von Erregern und Fremdstoffen.
 
-#### 2. R
+#### 2. Regulation von Flüssigkeit im Gewebe
+**Das Lymphsystem reguliert den Wasserhaushalt im Gewebe und sorgt für den Abtransport von überschüssiger Flüssigkeit.
+
+### Transport von Fetten  
+    In der Lymphflüssigkeit werden Nahrungsfette vom Darm zu den Körperzellen transportiert.
