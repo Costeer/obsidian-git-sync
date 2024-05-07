@@ -1,5 +1,5 @@
-https://selpers.com/wp-content/uploads/2016/12/LymphatischeSystem-Lymphgefaesse.jpg
-<img src="https://path/to/your/image.png">
+
+<img src="https://www.ardalpha.de/wissen/gesundheit/gesund-leben/lymphsystem-geschwollene-lymphknoten-koerper-mensch-lymphdrainage-102~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=6d602">
 ### Übersicht: was ist das Lymphsystem?
 Das Lymphsystem ist das 2. Größte Kreislaufsystem im Körper neben dem Blutkreislauf es dient als **Filterstationen für die Lymphe einer Körperregion, Regulieren den Wasserhaushalt im Gewebe, sorgt für den Abtransport von überschüssiger Flüssigkeit und produzieren und lagern Zellen, die Infektionen im Körper bekämpfen**.
 #### Der Lymphkreislauf
