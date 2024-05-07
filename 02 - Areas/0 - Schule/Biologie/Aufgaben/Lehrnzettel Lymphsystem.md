@@ -1,4 +1,5 @@
-![[https://selpers.com/wp-content/uploads/2016/12/LymphatischeSystem-Lymphgefaesse.jpg]]
+https://selpers.com/wp-content/uploads/2016/12/LymphatischeSystem-Lymphgefaesse.jpg
+<img src="https://path/to/your/image.png">
 ### Übersicht: was ist das Lymphsystem?
 Das Lymphsystem ist das 2. Größte Kreislaufsystem im Körper neben dem Blutkreislauf es dient als **Filterstationen für die Lymphe einer Körperregion, Regulieren den Wasserhaushalt im Gewebe, sorgt für den Abtransport von überschüssiger Flüssigkeit und produzieren und lagern Zellen, die Infektionen im Körper bekämpfen**.
 #### Der Lymphkreislauf
