@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "eda95e4dc8c23324",
+            "id": "3f7e21f52bebc9c0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2024-04-26 09.36.02.excalidraw.md"
+                "file": "02 - Areas/0 - Schule/Biologie/Aufgaben/Bakterien vermehrung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -126,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Resources/Excalidraw/Drawing 2024-04-26 09.36.02.excalidraw.md",
+            "file": "02 - Areas/0 - Schule/Biologie/Aufgaben/Bakterien vermehrung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -176,8 +179,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eda95e4dc8c23324",
+  "active": "3f7e21f52bebc9c0",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Biologie/Allosterische Hemmstoffe.md",
+    "02 - Areas/0 - Schule/Musik/Barock.md",
     "README.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-26 09.36.02.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-05-07 08.19.39.excalidraw.md",
@@ -203,8 +208,6 @@
     "02 - Areas/0 - Schule/Biologie/Aufgaben/NDR film dingsi.md",
     "02 - Areas/0 - Schule/Biologie/Aufgaben/Bio korektur.md",
     "02 - Areas/0 - Schule/Biologie/Verlauf einer Infektionskrankheit.md",
-    "02 - Areas/0 - Schule/Biologie/Viren.md",
-    "02 - Areas/0 - Schule/Biologie/Bakterien.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
