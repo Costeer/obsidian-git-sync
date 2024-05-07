@@ -7,3 +7,4 @@ etwa 90% der Flüssigkeit aus dem Blutkreislauf welche aus Nährstoffen und Blut
 ## Aufgaben des lymphatischen Systems
 
 #### Immunabwehr
+Das lymphatische System ist Teil des Immunsystems und dient der Abwehr und Entsorgung von Erregern und Fremdstoffen.
