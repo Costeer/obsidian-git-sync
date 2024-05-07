@@ -6,7 +6,7 @@ Das Lymphsystem ist das 2. Größte Kreislaufsystem im Körper neben dem Blutkre
 #### <span style="color:#52eea3">Der Lymphkreislauf</span>
 etwa 90% der Flüssigkeit aus dem Blutkreislauf welche aus Nährstoffen und Blutplasma besteht wird von Blutgefäsen aufgenommen. Die restlichen 10 Prozent bleiben als Lymphe (Lymphflüssigkeit) in den Zwischenräumen rund um die Körperzellen. In den Zellzwischenräumen beginnt das Lymphsystem mit blind endenden feinen Lymphgefäßen, den Lymphkapillaren. Sie nehmen Lymphflüssigkeit auf und vereinigen sich zu immer größeren Lymphgefäßen. Diese verlaufen meistens parallel zu den großen Venen des Blutkreislaufs.
 
-## Aufgaben des lymphatischen Systems:
+## <span style="color:#52eea3">Der Aufgaben des lymphatischen Systems:</span>
 
 #### 1. Immunabwehr:
 **Das lymphatische System ist Teil des Immunsystems und dient der Abwehr und Entsorgung von Erregern und Fremdstoffen.
