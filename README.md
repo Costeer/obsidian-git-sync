@@ -31,7 +31,7 @@ Der Vault also der platz indem sich all deine notizen befinden ist nach einer ko
 
 Links von diesem fenster siehst du deine folder wo sich deine verschiedenen arten von notiezen drinne befinden, das ganze sollte ungefär so ausehen:
 
-<span style="color:#52eea3">00 - Maps of Content</span>
+<span style="font-style:bold; color:#52eea3">00 - Maps of Content</span>
 <span style="color:#51e1e9">01 - Projects</span>
 <span style="color:#54b6f8">02 - Areas</span>
 <span style="color:#437cf3">03 - Resources</span>
