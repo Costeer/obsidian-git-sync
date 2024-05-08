@@ -1,1 +1,1 @@
-Das Streitgespräch zwischen Michael und Hannah brach durch eine Begegnung im Zug aus wo beide behaupten das der jeweils andere so tat als werde sie sich nicht kennen. Das Streitgespräch findet nach
+Das Streitgespräch zwischen Michael und Hannah brach durch eine Begegnung im Zug aus wo beide behaupten das der jeweils andere so tat als werde sie sich nicht kennen. Das Streitgespräch findet nach dieser situation auf der Treppe vor Hannah‘s Wohnung
