@@ -1,5 +1,5 @@
 # <span style="color:#9446f8">Obsidic</span>
-*Ein Obsidian repo mit Theme, vorgefertigten templates und  voreingestellten einfachem sync über git*
+*Ein Obsidian repo mit Theme, vorgefertigten templates und voreingestellten einfachem sync über git*
 
 ### Installation
 Um alle nötigen Einstellungen für obsidian und git zu übernehmen und dier viel arbeit zu sparen diesen command in den terminal emulator deiner Wahl einfügen.
