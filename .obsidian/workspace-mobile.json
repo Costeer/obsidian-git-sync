@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "602386f43764b13d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/0 - Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1dec5a1288bba50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/0 - Schule/Deutsch/Aufgaben/AnalysireSteitgespräch.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +142,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "02 - Areas/0 - Schule/Deutsch/Aufgaben/AnalysireSteitgespräch.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,10 +192,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e37ecacf852f9c7",
+  "active": "c1dec5a1288bba50",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Biologie/Aufgaben/Bakterien vermehrung.md",
+    "02 - Areas/0 - Schule/Deutsch/Aufgaben/Beispiel Klausur Aufgabe 1.md",
+    "02 - Areas/0 - Schule/Deutsch/Aufgaben/AnalysireSteitgespräch.md",
     "README.md",
+    "02 - Areas/0 - Schule/Biologie/Aufgaben/Bakterien vermehrung.md",
     "_config.yml",
     "/_config.yml",
     "02 - Areas/0 - Schule/Biologie/Aufgaben/Lehrnzettel Lymphsystem.md",
@@ -194,7 +223,6 @@
     "02 - Areas/0 - Schule/Geschichte/Imperialismus.md",
     "02 - Areas/0 - Schule/Geschichte/Joöbofuhbv.md",
     "02 - Areas/0 - Schule/Geschichte/Willy Brandt.md",
-    "Untitled.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
