@@ -31,15 +31,15 @@ Der Vault also der platz indem sich all deine notizen befinden ist nach einer ko
 
 Links von diesem fenster siehst du deine folder wo sich deine verschiedenen arten von notiezen drinne befinden, das ganze sollte ungefär so ausehen:
 
-<span style="font-style:bold; color:#52eea3">00 - Maps of Content</span>
-<span style="color:#51e1e9">01 - Projects</span>
-<span style="color:#54b6f8">02 - Areas</span>
-<span style="color:#437cf3">03 - Resources</span>
-<span style="color:#9446f8">04 - Permanent</span>
-<span style="color:#c952ed">05 - Fleeting</span>
-<span style="color:#e54f9b">06 - Daily</span>
-<span style="color:#e3365e">07 - Archives</span>
-99 - Meta
+###### <span style="font-style:bold; color:#52eea3">00 - Maps of Content</span>
+###### <span style="color:#51e1e9">01 - Projects</span>
+###### <span style="color:#54b6f8">02 - Areas</span>
+###### <span style="color:#437cf3">03 - Resources</span>
+###### <span style="color:#9446f8">04 - Permanent</span>
+###### <span style="color:#c952ed">05 - Fleeting</span>
+###### <span style="color:#e54f9b">06 - Daily</span>
+###### <span style="color:#e3365e">07 - Archives</span>
+###### 99 - Meta
 
 Diese unterteilungen sollen dir dabei helfen verschiedene arten von notiezen voneinander zu unterscheiden und somit das arbeiten erleichtern
 
