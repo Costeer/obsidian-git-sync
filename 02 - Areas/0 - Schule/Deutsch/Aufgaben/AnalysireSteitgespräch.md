@@ -1,0 +1,1 @@
+Das Streitgespräch zwischen Michael und Hannah brach durch eine Begegnung im Zug aus in 
