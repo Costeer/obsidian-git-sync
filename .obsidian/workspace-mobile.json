@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea6474afee281d3",
+        "id": "ecfdbc34426bdbd8",
         "type": "tabs",
         "children": [
           {
-            "id": "c1a7d88a80c8fe54",
+            "id": "1537d14ca3d48e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,48 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b8c3c87fddc2d869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Englisch/Comment in inglisch.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7e224e783c0e24d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Englisch/Age of Envy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "029c7e2059632c4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Englisch/Untitled 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 - Areas/0 - Schule/Englisch/Age of Envy.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -205,8 +165,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7e224e783c0e24d",
+  "active": "1537d14ca3d48e66",
   "lastOpenFiles": [
+    "03 - Resources/Text/Buch ; One of us is Lying.md",
     "02 - Areas/0 - Schule/Englisch/Untitled 1.md",
     "02 - Areas/0 - Schule/Englisch/Age of Envy.md",
     "02 - Areas/0 - Schule/Englisch/Comment in inglisch.md",
@@ -236,7 +197,6 @@
     "02 - Areas/0 - Schule/Geschichte/Eurozentrisches denken.md",
     "02 - Areas/0 - Schule/Geschichte/Geschichte Gruppenarbeit.md",
     "02 - Areas/0 - Schule/Geschichte/Günter Schabowski (Jannes P.).md",
-    "02 - Areas/0 - Schule/Geschichte/Hegemonie.md",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/Catppuccin/Icons-catppuccin-cat.jpg",
     "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
