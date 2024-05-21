@@ -6,7 +6,7 @@ Sie sind der Grundsatz des Liberalismus, nach dem der Wohlstand aller Länder am
 Der weltweite Austausch von Gütern und Dienstleistungen ist frei von Zöllen, nicht tarifären Handelshemmnissen und [[Devisenbewirtschaftung]]. Nach dem Grundgedanken des Liberalismus hemmt jeder von außen kommende Eingriff den Wirtschaftsablauf;
 
 
-> [!NOTE] Title
+> [!tldr] tldr
 > Idee hinter freihandel Eingriff in wirtschaft = schlecht. zoll = eingriff in Wirtschaft = schlecht
 
 
