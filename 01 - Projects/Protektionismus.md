@@ -14,4 +14,4 @@ Protektionistische Maßnahmen werden von Fachleuten unterschiedlich bewertet. Ma
 Sorce:
 https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320977/protektionismus/#:~:text=Protektionismus%20ist%20es%2C%20wenn%20ein,steht%20im%20Gegensatz%20zum%20Freihandel.
 
-_Gerd Schneider / Christiane Toyka-Seid: Das junge Politik-Lexikon von [www.hanisauland.de](https://www.hanisauland.de/wissen/lexikon/grosses-lexikon/p/protektionismus.html), Bonn: Bundeszentrale für politische Bildung 2024._
+*Gerd Schneider / Christiane Toyka-Seid: Das junge Politik-Lexikon von [www.hanisauland.de](https://www.hanisauland.de/wissen/lexikon/grosses-lexikon/p/protektionismus.html)
