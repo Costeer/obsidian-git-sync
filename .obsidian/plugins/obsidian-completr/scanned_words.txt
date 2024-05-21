@@ -181,6 +181,7 @@ schwerpunkt
 setzen
 solve
 system
+staatlicher
 Obsidic
 Obsidian
 OS
@@ -560,6 +561,7 @@ Türke
 Tod
 Taschenrechner
 Title
+Transaktionen
 vorgefertigten
 voreingestellten
 viel
@@ -650,6 +652,7 @@ vs
 vertrag
 verhindert
 variable
+verwendung
 templates
 terminal
 token
@@ -795,6 +798,8 @@ uniforme
 ungerade
 unsauber
 unbehinderter
+unmittelbar
+unterliegen
 einfachem
 emulator
 einfügen
@@ -900,6 +905,9 @@ eingeschränkten
 erste
 eindeutig
 entgleitet
+eingeschränkt
+erlaubt
+engeren
 über
 übernehmen
 überkategorie
@@ -907,6 +915,7 @@ entgleitet
 überprüfen
 übrigen
 überflüssiges
+übertragen
 git
 googeln
 geht
@@ -1082,6 +1091,7 @@ Idealen
 Integration
 Institut
 Investitionen
+Internationaler
 Um
 Urteile
 Urteil
@@ -1241,6 +1251,9 @@ anwenden
 aller
 außen
 abtragen
+anderer
+außenwirtschaftliche
+abschließen
 nötigen
 notizen
 nach
@@ -1603,6 +1616,7 @@ definiert
 differenz
 definitionsbereich
 darf
+dürfen
 in
 installiert
 indem
@@ -1694,6 +1708,7 @@ ihm
 ihn
 innerparteilicher
 insbesondere
+inländische
 Wahl
 Windows
 Wie
@@ -1807,6 +1822,10 @@ Wirtschafts
 Währungsunion
 Weiterhin
 Wirtschaftsentwicklung
+Wirtschaftssubjekt
+Wirtschaftssubjekte
+Währungsreserve
+Wechselkurs
 Linux
 Links
 Lautstärke
@@ -1920,6 +1939,12 @@ Df
 Dienstleistungen
 Devisenbewirtschaftung
 Duden
+Devisenverkehrsbeschränkungen
+Devisen
+Dirigismus
+Deviseninländer
+Devisenausländern
+Devisenerwerb
 Kitty
 Kategorien
 Kochen
@@ -2122,6 +2147,7 @@ Arbeitsteilung
 Alltag
 Aufl
 Ausland
+Außenwirtschaftliches
 Powershell
 Para
 Projects
@@ -2200,6 +2226,7 @@ Praxis
 Protektionismus
 Probleme
 Problem
+Privatpersonen
 werden
 wie
 wo
@@ -2479,6 +2506,7 @@ beseitigt
 bedeutet
 beteiligten
 belastet
+beschaffung
 kopieren
 kombination
 kommt
@@ -2562,6 +2590,7 @@ kirchengläser
 kürzen
 kommende
 könne
+knappen
 GitHub
 Gesprächs
 Gestik
@@ -2649,6 +2678,7 @@ Grundgedanken
 Grundlagenwissen
 Generationen
 Globalisierung
+Gleichgewicht
 How
 Hintergrund
 HH
@@ -2689,6 +2719,7 @@ Handels
 Handelshemmnissen
 Handelsverkehr
 Haushalt
+Herbeiführung
 Vault
 Vollends
 Verlinkungen
@@ -2777,6 +2808,8 @@ Vorteile
 Vertrags
 Vereinfacht
 Volkswirtschaften
+Verbot
+Verhinderung
 platz
 projects
 präsentiert
@@ -2925,6 +2958,8 @@ Zusammenfassung
 Zahlen
 Zöllen
 Zollunion
+Zahlungsverkehr
+Zahlungsbilanz
 Maps
 Meta
 Mahlen
@@ -3020,6 +3055,7 @@ Merksatz
 Methode
 Menge
 Mannheim
+Maßnahmen
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -3123,6 +3159,7 @@ Ruf
 Regulierungsmaßnahmen
 Risiken
 Religion
+Rationierung
 Fleeting
 Fleting
 Feld
@@ -3260,6 +3297,7 @@ hi
 hast
 hemmt
 heutigen
+handelt
 lediglich
 lassen
 letzte
@@ -3306,6 +3344,7 @@ limes
 laufen
 löse
 linSolve
+liegt
 XX
 Xn
 Xi
@@ -3562,6 +3601,10 @@ Staaten
 Studium
 Staatsverschuldung
 Schulden
+Stabilisierung
+Spekulation
+Sinne
+Sorce
 Journal
 Jetzt
 JFIF
@@ -3697,6 +3740,7 @@ Bibliographisches
 Bonn
 Bundeszentrale
 Billiglohnländer
+Bewirtschaftung
 Quelle
 Quiz
 Qa
@@ -3743,6 +3787,7 @@ Qualität
 Übersicht
 Übergangsworte
 Übung
+Überprüfung
 qualifizierte
 qualifizierten
 qOu

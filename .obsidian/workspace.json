@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Devisenbewirtschaftung.md",
+                "file": "01 - Projects/Freihandel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Devisenbewirtschaftung.md",
+                "file": "01 - Projects/Freihandel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Projects/Devisenbewirtschaftung.md",
+                "file": "01 - Projects/Freihandel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,6 +218,7 @@
   },
   "active": "024c5f82dccc9c4f",
   "lastOpenFiles": [
+    "01 - Projects/Protektionismus.md",
     "01 - Projects/Freihandel.md",
     "01 - Projects/Devisenbewirtschaftung.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
@@ -228,7 +229,6 @@
     "03 - Resources/Web/Wohlstand und Klimaschutz Die sozial ökologische Marktwirtschaft ist das Konzept für die Transformation hinzur Klimaneutralität.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (tutoria).md",
     "README.md",
-    "01 - Projects/Protektionismus.md",
     "01 - Projects/-Placeholder-.md",
     "0.md",
     "01 - Projects",
