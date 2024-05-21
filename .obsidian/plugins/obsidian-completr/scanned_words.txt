@@ -720,6 +720,7 @@ tatsächlichen
 trat
 taschenrechner
 tarifären
+tldr
 und
 unbekannte
 um
@@ -908,6 +909,7 @@ entgleitet
 eingeschränkt
 erlaubt
 engeren
+eingriff
 über
 übernehmen
 überkategorie
@@ -1384,6 +1386,7 @@ faktorisieren
 frei
 freier
 führen
+freihandel
 obsidian
 organisiert
 of
@@ -1519,6 +1522,7 @@ zeichnen
 zwar
 zuordbar
 zugeordnet
+zoll
 dier
 diesen
 den
@@ -2333,6 +2337,7 @@ wählte
 weltweite
 weitere
 wirtschaftlichen
+wirtschaft
 Niemals
 Nicht
 Note
@@ -3298,6 +3303,7 @@ hast
 hemmt
 heutigen
 handelt
+hinter
 lediglich
 lassen
 letzte
