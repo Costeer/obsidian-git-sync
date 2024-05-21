@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21bd064009138dcf",
+        "id": "22a01d0de7521990",
         "type": "tabs",
         "children": [
           {
-            "id": "061ae7154fccf779",
+            "id": "5ee9784bdeab38d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Mathematik/Limes.md",
+                "file": "01 - Projects/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/0 - Schule/Mathematik/Limes.md",
+                "file": "01 - Projects/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/0 - Schule/Mathematik/Limes.md",
+                "file": "01 - Projects/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,16 +182,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "061ae7154fccf779",
+  "active": "5ee9784bdeab38d0",
   "lastOpenFiles": [
+    "0.md",
+    "01 - Projects/Untitled.md",
+    "01 - Projects",
+    "README.md",
+    "02 - Areas/0 - Schule/Mathematik/Limes.md",
+    "02 - Areas/0 - Schule/Mathematik/Drawing 2024-05-21 13.24.06.excalidraw.md",
     "02 - Areas/0 - Schule/Mathematik/Punktsymmetrie.md",
     "02 - Areas/0 - Schule/Mathematik/Steigungswechsel.md",
     "02 - Areas/0 - Schule/Mathematik/Taschenrechner.md",
     "02 - Areas/0 - Schule/Mathematik/UnGrade Zahlen.md",
-    "02 - Areas/0 - Schule/Mathematik/Limes.md",
     "02 - Areas/0 - Schule/Mathematik/Die 1 und 2 Ableitung.md",
     "02 - Areas/0 - Schule/Mathematik/Gebrochen rationale Funktionen.md",
     "02 - Areas/0 - Schule/Mathematik/Gleichungen lösen.md",
@@ -206,15 +215,11 @@
     "02 - Areas/0 - Schule/Werte und Normen/Die sechs Dimensionen der Religion.md",
     "02 - Areas/0 - Schule/Werte und Normen/Darf ich meine eigene religion gründen?.md",
     "02 - Areas/0 - Schule/Werte und Normen/Aristoteles Definitionen.md",
-    "README.md",
     "99 - Meta/00 - Templates/Page-Devide.md",
     "07 - Archives/Satisfactory/Motor Fab 10pM.md",
     "07 - Archives/Satisfactory/Iron Fab 1.md",
     "07 - Archives/Satisfactory",
-    "07 - Archives/Politik Powerpoint/Politik Power >.<.md",
-    "07 - Archives/Politik Powerpoint/Politik Notiezen.md",
     "07 - Archives/Politik Powerpoint",
-    "03 - Resources/Text/Buch ; Der Vorleser.md",
     "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox/modules",
     "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox",
     "02 - Areas/Dev/X - Linux/polybar-collection/scripts/weather",
@@ -222,7 +227,6 @@
     "02 - Areas/Dev/X - Linux/polybar-collection/scripts",
     "02 - Areas/Dev/X - Linux/polybar-collection",
     "02 - Areas/Dev/X - Linux/picom",
-    "02 - Areas/Dev/X - Linux/kitty",
     "02 - Areas/Dev/X - Linux/Rofi/images/user.jpeg",
     "02 - Areas/Dev/X - Linux/Rofi/images/paper.png",
     "02 - Areas/Dev/X - Linux/Rofi/images/j.jpg",
