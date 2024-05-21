@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Freihandel.md",
-                "mode": "source",
+                "file": "01 - Projects/Devisenbewirtschaftung.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Freihandel.md",
+                "file": "01 - Projects/Devisenbewirtschaftung.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Projects/Freihandel.md",
+                "file": "01 - Projects/Devisenbewirtschaftung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,9 +218,9 @@
   },
   "active": "024c5f82dccc9c4f",
   "lastOpenFiles": [
+    "01 - Projects/Freihandel.md",
     "01 - Projects/Devisenbewirtschaftung.md",
     "01 - Projects/Protektionismus.md",
-    "01 - Projects/Freihandel.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
     "02 - Areas/Dev/Callouts.md",
     "03 - Resources/Web/Freihandel und Freihandelsabkommen (bpb).md",
