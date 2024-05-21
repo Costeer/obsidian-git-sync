@@ -1,0 +1,1 @@
+**Devisenbewirtschaftung** im engeren Sinne liegt vor, wenn Deviseninländer (also inländische Unternehmen und Privatpersonen) zwar unmittelbar mit Devisenausländern außenwirtschaftliche Transaktionen abschließen dürfen, aber Devisenerwerb, -beschaffung oder -verwendung staatlicher Überprüfung unterliegen.
