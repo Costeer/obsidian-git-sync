@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Freihandel.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Freihandel.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Projects/Freihandel.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,8 +191,8 @@
   },
   "active": "823a2c959fe3b940",
   "lastOpenFiles": [
-    "01 - Projects/Protektionismus.md",
     "01 - Projects/Freihandel.md",
+    "01 - Projects/Protektionismus.md",
     "README.md",
     "01 - Projects/-Placeholder-.md",
     "0.md",
