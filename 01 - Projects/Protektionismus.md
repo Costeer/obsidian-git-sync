@@ -1,0 +1,2 @@
+## Was ist Protektionismus?
+Häufig wird der Begriff im Handel und in der Wirtschaft verwendet. Protektionismus ist es, wenn ein Staat versucht, die Warenproduktion im eigenen Land vor zu viel Waren aus dem Ausland zu schützen. Der Protektionismus steht im Gegensatz zum Freihandel.
