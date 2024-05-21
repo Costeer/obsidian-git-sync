@@ -7,7 +7,7 @@ Der weltweite Austausch von Gütern und Dienstleistungen ist frei von Zöllen, n
 
 
 > [!NOTE] Title
-> Eingriff in wi
+> Idee hinter freihandel Eingriff in wirtschaft = schlecht. zoll = eingriff in Wirtschaft = schlecht
 
 
 nur ein völlig unbehinderter Handelsverkehr und ein freier Wettbewerb könne zu einer optimalen Arbeitsteilung zwischen den einzelnen Volkswirtschaften mit optimaler Produktion und größtmöglichem Wohlstand für alle beteiligten Länder führen. In der Praxis werden zwischen Staaten auch _**Freihandelsabkommen**_ geschlossen oder weitere Formen der wirtschaftlichen Integration gebildet (z. B. Freihandelszone, Zollunion, Wirtschafts- und Währungsunion).
