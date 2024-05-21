@@ -182,6 +182,7 @@ setzen
 solve
 system
 staatlicher
+schwächere
 Obsidic
 Obsidian
 OS
@@ -324,6 +325,8 @@ Eindeutige
 Erklärung
 Eingriff
 Einfluss
+Einfuhr
+Export
 repo
 rein
 rechtfertigen
@@ -492,6 +495,7 @@ mögliche
 mischung
 missbraucht
 mathematisch
+möchte
 Theme
 Terminal
 Templates
@@ -562,6 +566,7 @@ Tod
 Taschenrechner
 Title
 Transaktionen
+Toyka
 vorgefertigten
 voreingestellten
 viel
@@ -653,6 +658,7 @@ vertrag
 verhindert
 variable
 verwendung
+voranzutreiben
 templates
 terminal
 token
@@ -721,6 +727,7 @@ trat
 taschenrechner
 tarifären
 tldr
+technische
 und
 unbekannte
 um
@@ -801,6 +808,7 @@ unsauber
 unbehinderter
 unmittelbar
 unterliegen
+unverhältnismäßig
 einfachem
 emulator
 einfügen
@@ -910,6 +918,9 @@ eingeschränkt
 erlaubt
 engeren
 eingriff
+erschweren
+erhalten
+erobern
 über
 übernehmen
 überkategorie
@@ -1028,6 +1039,7 @@ geschlossen
 gebildet
 großes
 großer
+gezahlt
 Installation
 Ipad
 Internet
@@ -1094,6 +1106,7 @@ Integration
 Institut
 Investitionen
 Internationaler
+Industrie
 Um
 Urteile
 Urteil
@@ -1256,6 +1269,8 @@ abtragen
 anderer
 außenwirtschaftliche
 abschließen
+ausländischen
+abhängig
 nötigen
 notizen
 nach
@@ -1387,6 +1402,7 @@ frei
 freier
 führen
 freihandel
+fortschrittliche
 obsidian
 organisiert
 of
@@ -1621,6 +1637,7 @@ differenz
 definitionsbereich
 darf
 dürfen
+darunter
 in
 installiert
 indem
@@ -1830,6 +1847,10 @@ Wirtschaftssubjekt
 Wirtschaftssubjekte
 Währungsreserve
 Wechselkurs
+Warenproduktion
+Waren
+Ware
+WHYYYYYYY
 Linux
 Links
 Lautstärke
@@ -1875,6 +1896,7 @@ Lohnsätzte
 Lim
 Länder
 Lizenzausgabe
+Lexikon
 DE
 Der
 Daily
@@ -2041,6 +2063,7 @@ Koalitionsfreiheit
 Kartelle
 Kapitalismus
 Kirche
+Konkurrenz
 Alle
 Areas
 Archives
@@ -2152,6 +2175,7 @@ Alltag
 Aufl
 Ausland
 Außenwirtschaftliches
+Andere
 Powershell
 Para
 Projects
@@ -2231,6 +2255,10 @@ Protektionismus
 Probleme
 Problem
 Privatpersonen
+Protektionistische
+Protektionistisch
+Produkte
+Politik
 werden
 wie
 wo
@@ -2338,6 +2366,7 @@ weltweite
 weitere
 wirtschaftlichen
 wirtschaft
+wirtschaftlich
 Niemals
 Nicht
 Note
@@ -2512,6 +2541,13 @@ bedeutet
 beteiligten
 belastet
 beschaffung
+begrenzt
+billiger
+bestimmte
+bevor
+bewertet
+betonen
+behindern
 kopieren
 kombination
 kommt
@@ -2684,6 +2720,11 @@ Grundlagenwissen
 Generationen
 Globalisierung
 Gleichgewicht
+Gegensatz
+Geld
+Gründe
+Grund
+Gerd
 How
 Hintergrund
 HH
@@ -2725,6 +2766,8 @@ Handelshemmnissen
 Handelsverkehr
 Haushalt
 Herbeiführung
+Häufig
+Handel
 Vault
 Vollends
 Verlinkungen
@@ -2965,6 +3008,7 @@ Zöllen
 Zollunion
 Zahlungsverkehr
 Zahlungsbilanz
+Zölle
 Maps
 Meta
 Mahlen
@@ -3061,6 +3105,8 @@ Methode
 Menge
 Mannheim
 Maßnahmen
+Maßnamen
+Manche
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -3095,6 +3141,7 @@ Code
 CD
 CDU
 Contents
+Christiane
 Resources
 Regeln
 Rede
@@ -3247,6 +3294,7 @@ Freihandel
 Freihandelsabkommen
 Formen
 Freihandelszone
+Fachleuten
 helfen
 haben
 hier
@@ -3304,6 +3352,7 @@ hemmt
 heutigen
 handelt
 hinter
+hochentwickelte
 lediglich
 lassen
 letzte
@@ -3351,6 +3400,7 @@ laufen
 löse
 linSolve
 liegt
+leiden
 XX
 Xn
 Xi
@@ -3436,6 +3486,7 @@ jpeg
 jedoch
 jeweiligen
 ja
+junge
 ändern
 ähnlich
 ärmere
@@ -3611,6 +3662,9 @@ Stabilisierung
 Spekulation
 Sinne
 Sorce
+Schutzzölle
+Schneider
+Seid
 Journal
 Jetzt
 JFIF
