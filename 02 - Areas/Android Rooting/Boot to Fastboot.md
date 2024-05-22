@@ -1,1 +1,3 @@
-''''
+```
+sudo adb reboot bootloader
+```
