@@ -1,0 +1,4 @@
+
+```
+fastboot reboot
+```

@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7335838ca2c55d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Android Rooting/Reboot in Fastboot.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e8fab911b146518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Android Rooting/Boot to Fastboot.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Android Rooting/Flash Magisk.md",
+                "file": "02 - Areas/Android Rooting/Boot to Fastboot.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Android Rooting/Flash Magisk.md",
+                "file": "02 - Areas/Android Rooting/Boot to Fastboot.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,10 +216,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad62baad0a3d8c61",
+  "active": "8e8fab911b146518",
   "lastOpenFiles": [
-    "README.md",
+    "02 - Areas/Android Rooting/Reboot in Fastboot.md",
+    "02 - Areas/Android Rooting/Boot to Fastboot.md",
     "02 - Areas/Android Rooting/Flash Magisk.md",
+    "README.md",
     "02 - Areas/Android Rooting",
     "02 - Areas/Dev/Untitled.md",
     "01 - Projects/Freihandel.md",
@@ -217,8 +246,6 @@
     "02 - Areas/0 - Schule/Mathematik/Die 1 und 2 Ableitung.md",
     "02 - Areas/0 - Schule/Mathematik/Gebrochen rationale Funktionen.md",
     "02 - Areas/0 - Schule/Mathematik/Gleichungen lösen.md",
-    "02 - Areas/0 - Schule/Mathematik/Funktionen.md",
-    "02 - Areas/0 - Schule/Mathematik/Definitionsbereich.md",
     "07 - Archives/Satisfactory",
     "07 - Archives/Politik Powerpoint",
     "02 - Areas/Dev/X - Linux/polybar-collection/themes/gruvbox/modules",
