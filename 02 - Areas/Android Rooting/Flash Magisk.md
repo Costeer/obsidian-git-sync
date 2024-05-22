@@ -1,5 +1,10 @@
 
 
+```
+sudo fastboot flash boot
+```
+
+#### Beispiele:
 
 ```
 sudo fastboot flash boot [Directory]
