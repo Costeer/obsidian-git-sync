@@ -183,6 +183,11 @@ solve
 system
 staatlicher
 schwächere
+stehen
+sofern
+seines
+stößt
+seit
 Obsidic
 Obsidian
 OS
@@ -327,6 +332,7 @@ Eingriff
 Einfluss
 Einfuhr
 Export
+Eis
 repo
 rein
 rechtfertigen
@@ -567,6 +573,11 @@ Taschenrechner
 Title
 Transaktionen
 Toyka
+Trägheit
+Tisch
+Tischdecke
+Träge
+Tuch
 vorgefertigten
 voreingestellten
 viel
@@ -659,6 +670,7 @@ verhindert
 variable
 verwendung
 voranzutreiben
+verharrt
 templates
 terminal
 token
@@ -1040,6 +1052,9 @@ gebildet
 großes
 großer
 gezahlt
+gezogen
+gleichförmigen
+gezwungen
 Installation
 Ipad
 Internet
@@ -1271,6 +1286,7 @@ außenwirtschaftliche
 abschließen
 ausländischen
 abhängig
+aud
 nötigen
 notizen
 nach
@@ -1467,6 +1483,7 @@ offensichtlich
 originären
 optimalen
 optimaler
+obwohl
 zu
 zusammenfasungen
 zum
@@ -1539,6 +1556,7 @@ zwar
 zuordbar
 zugeordnet
 zoll
+zurücklegt
 dier
 diesen
 den
@@ -1897,6 +1915,7 @@ Lim
 Länder
 Lizenzausgabe
 Lexikon
+Licht
 DE
 Der
 Daily
@@ -2064,6 +2083,8 @@ Kartelle
 Kapitalismus
 Kirche
 Konkurrenz
+Körper
+Kräfte
 Alle
 Areas
 Archives
@@ -2176,6 +2197,8 @@ Aufl
 Ausland
 Außenwirtschaftliches
 Andere
+Axiom
+Antwort
 Powershell
 Para
 Projects
@@ -2367,6 +2390,8 @@ weitere
 wirtschaftlichen
 wirtschaft
 wirtschaftlich
+warum
+weck
 Niemals
 Nicht
 Note
@@ -2444,6 +2469,7 @@ Neo
 NSDAP
 Nachteile
 Normalerweise
+Newtonische
 befehle
 bekommen
 befinden
@@ -2548,6 +2574,9 @@ bevor
 bewertet
 betonen
 behindern
+bleiben
+bleibt
+beschleunigten
 kopieren
 kombination
 kommt
@@ -2632,6 +2661,7 @@ kürzen
 kommende
 könne
 knappen
+kraft
 GitHub
 Gesprächs
 Gestik
@@ -2725,6 +2755,9 @@ Geld
 Gründe
 Grund
 Gerd
+Gläser
+Geshirr
+Geschwindigkeit
 How
 Hintergrund
 HH
@@ -2858,6 +2891,7 @@ Vereinfacht
 Volkswirtschaften
 Verbot
 Verhinderung
+Vakuum
 platz
 projects
 präsentiert
@@ -3009,6 +3043,9 @@ Zollunion
 Zahlungsverkehr
 Zahlungsbilanz
 Zölle
+Zustand
+Zustandes
+Zeit
 Maps
 Meta
 Mahlen
@@ -3107,6 +3144,8 @@ Mannheim
 Maßnahmen
 Maßnamen
 Manche
+Masse
+Meter
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -3142,6 +3181,7 @@ CD
 CDU
 Contents
 Christiane
+CGPM
 Resources
 Regeln
 Rede
@@ -3212,6 +3252,8 @@ Regulierungsmaßnahmen
 Risiken
 Religion
 Rationierung
+Ruhe
+Reibung
 Fleeting
 Fleting
 Feld
@@ -3295,6 +3337,7 @@ Freihandelsabkommen
 Formen
 Freihandelszone
 Fachleuten
+Fragestellung
 helfen
 haben
 hier
@@ -3401,6 +3444,7 @@ löse
 linSolve
 liegt
 leiden
+lang
 XX
 Xn
 Xi
@@ -3665,6 +3709,10 @@ Sorce
 Schutzzölle
 Schneider
 Seid
+Sachen
+Schlittschuhläufer
+Strecke
+Sekunden
 Journal
 Jetzt
 JFIF
@@ -3713,6 +3761,7 @@ Jux
 Je
 Jahr
 Ja
+Jeder
 Beziehe
 Beobachtungsbogen
 Blickkontakt
@@ -3801,6 +3850,8 @@ Bonn
 Bundeszentrale
 Billiglohnländer
 Bewirtschaftung
+Bewegung
+Berechne
 Quelle
 Quiz
 Qa
@@ -3844,6 +3895,7 @@ QAS
 Qh
 Qualität
 Äußerung
+Änderung
 Übersicht
 Übergangsworte
 Übung
