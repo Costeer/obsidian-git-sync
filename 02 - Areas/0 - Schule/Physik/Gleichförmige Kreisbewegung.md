@@ -1,3 +1,4 @@
+
 Bei einer gleichförmigen Kreisbewegung bewegt sich ein Körper mit einer konstanten bahngeschwindigkeit vb auf einem kreis mit einem radius r.  Die umlaufdauer T bzw. Die Drehfrequenz  
 ![[Drawing 2024-02-23 11.38.33.excalidraw]]
 sind für diese Bewegung ebenfalls konstant

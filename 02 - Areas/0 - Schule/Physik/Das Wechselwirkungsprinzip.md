@@ -1,3 +1,4 @@
+
 #### Aufgabe 
 Zwei Schlittschuhläufer mit der Masse 100kg stehen auf  aud Eis.
 S1 stößt S2 eine Sekunde lang mit einer kraft von 200N an.

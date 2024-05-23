@@ -1,3 +1,4 @@
+
 Ergebnisse können nur so genau angegeben werden, wie die ungenauste gegebene größe
 
 Wenn also Zeit t=2.1s und eine Strecke von 7.03m gegeben sind, so kann das Ergebnis auch nur mit maximal einer Nachkommastelle angegeben werden.

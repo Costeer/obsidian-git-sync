@@ -1,3 +1,4 @@
+
 ## Was ist Radioaktivität
 **Radioaktivität** bezeichnet die **Eigenschaft instabiler Atomkerne, spontan radioaktive Strahlung auszusenden.** Der Atomkern wandelt sich dabei in einen anderen Atomkern um oder ändert seinen energetischen Zustand.
 
