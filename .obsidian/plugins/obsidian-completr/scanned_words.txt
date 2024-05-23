@@ -333,6 +333,8 @@ Einfluss
 Einfuhr
 Export
 Eis
+Ergebnisse
+Ergebnis
 repo
 rein
 rechtfertigen
@@ -401,6 +403,8 @@ restringiert
 rassistische
 rechtlichen
 reich
+radius
+rotierenden
 mit
 muss
 man
@@ -502,6 +506,9 @@ mischung
 missbraucht
 mathematisch
 möchte
+masse
+ms
+maximal
 Theme
 Terminal
 Templates
@@ -671,6 +678,7 @@ variable
 verwendung
 voranzutreiben
 verharrt
+vb
 templates
 terminal
 token
@@ -821,6 +829,8 @@ unbehinderter
 unmittelbar
 unterliegen
 unverhältnismäßig
+ungenauste
+umlaufdauer
 einfachem
 emulator
 einfügen
@@ -933,6 +943,7 @@ eingriff
 erschweren
 erhalten
 erobern
+ebenfalls
 über
 übernehmen
 überkategorie
@@ -1055,6 +1066,13 @@ gezahlt
 gezogen
 gleichförmigen
 gezwungen
+genau
+gegebene
+größe
+gegeben
+gleimä
+geschwindigkeit
+genannt
 Installation
 Ipad
 Internet
@@ -1170,6 +1188,7 @@ Uranistan
 Unternehmens
 Universität
 Ungerade
+Ursprungsgeraden
 alle
 arbeit
 anderen
@@ -1287,6 +1306,9 @@ abschließen
 ausländischen
 abhängig
 aud
+ausgeübte
+ausgeübt
+angegeben
 nötigen
 notizen
 nach
@@ -1354,6 +1376,7 @@ notwendig
 naaa
 nc
 null
+new
 für
 fenster
 folder
@@ -1869,6 +1892,7 @@ Warenproduktion
 Waren
 Ware
 WHYYYYYYY
+Winkelgeschwindigheit
 Linux
 Links
 Lautstärke
@@ -1916,6 +1940,7 @@ Länder
 Lizenzausgabe
 Lexikon
 Licht
+Liegen
 DE
 Der
 Daily
@@ -1990,6 +2015,8 @@ Dirigismus
 Deviseninländer
 Devisenausländern
 Devisenerwerb
+Diagramm
+Drehfrequenz
 Kitty
 Kategorien
 Kochen
@@ -2085,6 +2112,12 @@ Kirche
 Konkurrenz
 Körper
 Kräfte
+Kraft
+Kreisbewegung
+Körpers
+Kreisbahn
+Kreises
+Kreismittelpunkt
 Alle
 Areas
 Archives
@@ -2392,6 +2425,7 @@ wirtschaft
 wirtschaftlich
 warum
 weck
+wirken
 Niemals
 Nicht
 Note
@@ -2470,6 +2504,9 @@ NSDAP
 Nachteile
 Normalerweise
 Newtonische
+Newton
+Nachkommastelle
+Newtonischen
 befehle
 bekommen
 befinden
@@ -2577,6 +2614,15 @@ behindern
 bleiben
 bleibt
 beschleunigten
+bewegen
+beschleunigende
+beschleunigte
+beweg
+bewegt
+bahngeschwindigkeit
+bewegungs
+betrag
+beschleunigt
 kopieren
 kombination
 kommt
@@ -2662,6 +2708,12 @@ kommende
 könne
 knappen
 kraft
+körpern
+kleiner
+konstant
+konstanten
+kreis
+kilt
 GitHub
 Gesprächs
 Gestik
@@ -2758,6 +2810,9 @@ Gerd
 Gläser
 Geshirr
 Geschwindigkeit
+Gravitation
+Gleichför
+Gesetz
 How
 Hintergrund
 HH
@@ -2966,6 +3021,7 @@ personalkosten
 problehme
 punktsymmetrisch
 politische
+proportonal
 Zettelkasten
 Zerstöre
 Zukunft
@@ -3046,6 +3102,10 @@ Zölle
 Zustand
 Zustandes
 Zeit
+Zentrifegalkraft
+Zur
+Zum
+Zentripetalbeschleunigung
 Maps
 Meta
 Mahlen
@@ -3146,6 +3206,7 @@ Maßnamen
 Manche
 Masse
 Meter
+Mechanik
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -3396,6 +3457,7 @@ heutigen
 handelt
 hinter
 hochentwickelte
+hin
 lediglich
 lassen
 letzte
@@ -3445,6 +3507,8 @@ linSolve
 liegt
 leiden
 lang
+länger
+längs
 XX
 Xn
 Xi
@@ -3713,6 +3777,7 @@ Sachen
 Schlittschuhläufer
 Strecke
 Sekunden
+Ständig
 Journal
 Jetzt
 JFIF
@@ -3852,6 +3917,10 @@ Billiglohnländer
 Bewirtschaftung
 Bewegung
 Berechne
+Beschleunigung
+Besch
+Bei
+Bechleunigung
 Quelle
 Quiz
 Qa
@@ -3894,6 +3963,7 @@ QKk
 QAS
 Qh
 Qualität
+Quadrat
 Äußerung
 Änderung
 Übersicht
