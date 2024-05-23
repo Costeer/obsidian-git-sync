@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "749c93f3cdb7f8ed",
+        "id": "fdadcafae8733e10",
         "type": "tabs",
         "children": [
           {
-            "id": "ad62baad0a3d8c61",
+            "id": "2ae2af7ec2423550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Android Rooting/Flash Magisk.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7335838ca2c55d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Android Rooting/Reboot in Fastboot.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e8fab911b146518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Android Rooting/Boot to Fastboot.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Android Rooting/Boot to Fastboot.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Android Rooting/Boot to Fastboot.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e8fab911b146518",
+  "active": "2ae2af7ec2423550",
   "lastOpenFiles": [
     "02 - Areas/Android Rooting/Reboot in Fastboot.md",
     "02 - Areas/Android Rooting/Boot to Fastboot.md",
