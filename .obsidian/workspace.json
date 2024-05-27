@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fdadcafae8733e10",
+        "id": "96ed95c6e27cf475",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae2af7ec2423550",
+            "id": "a9f4d7f4cf368c0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+                "file": "01 - Projects/Freihandel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+                "file": "01 - Projects/Freihandel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
+                "file": "01 - Projects/Freihandel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,8 +189,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ae2af7ec2423550",
+  "active": "a9f4d7f4cf368c0c",
   "lastOpenFiles": [
+    "03 - Resources/Web/Freihandel und Freihandelsabkommen (bpb).md",
+    "01 - Projects/Freihandel.md",
+    "01 - Projects/Devisenbewirtschaftung.md",
+    "01 - Projects/Protektionismus.md",
+    "README.md",
     "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
     "02 - Areas/0 - Schule/Physik/Erdanziehungskraft.md",
     "02 - Areas/0 - Schule/Physik/Die Newtontische Axiome.md",
@@ -205,18 +210,13 @@
     "02 - Areas/0 - Schule/Physik/Merksatz Gravitation.md",
     "02 - Areas/0 - Schule/Physik/Mathe in Politik!!???.md",
     "02 - Areas/0 - Schule/Physik/Kilogramm.md",
-    "README.md",
     "02 - Areas/Android Rooting/Reboot in Fastboot.md",
     "02 - Areas/Android Rooting/Boot to Fastboot.md",
     "02 - Areas/Android Rooting/Flash Magisk.md",
     "02 - Areas/Android Rooting",
     "02 - Areas/Dev/Untitled.md",
-    "01 - Projects/Freihandel.md",
-    "01 - Projects/Protektionismus.md",
-    "01 - Projects/Devisenbewirtschaftung.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
     "02 - Areas/Dev/Callouts.md",
-    "03 - Resources/Web/Freihandel und Freihandelsabkommen (bpb).md",
     "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
     "01 - Projects",
     "07 - Archives/Satisfactory",
