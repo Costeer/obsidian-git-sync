@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "96ed95c6e27cf475",
+        "id": "df0a16cb2833a5ba",
         "type": "tabs",
         "children": [
           {
-            "id": "a9f4d7f4cf368c0c",
+            "id": "e306f0114560087f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Freihandel.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Freihandel.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Projects/Freihandel.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,13 +189,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a9f4d7f4cf368c0c",
+  "active": "e306f0114560087f",
   "lastOpenFiles": [
     "03 - Resources/Web/Freihandel und Freihandelsabkommen (bpb).md",
+    "02 - Areas/Android Rooting/Reboot in Fastboot.md",
+    "02 - Areas/Android Rooting/Flash Magisk.md",
+    "02 - Areas/Android Rooting/Boot to Fastboot.md",
+    "README.md",
     "01 - Projects/Freihandel.md",
     "01 - Projects/Devisenbewirtschaftung.md",
     "01 - Projects/Protektionismus.md",
-    "README.md",
     "02 - Areas/0 - Schule/Physik/Formel Merksatz.md",
     "02 - Areas/0 - Schule/Physik/Erdanziehungskraft.md",
     "02 - Areas/0 - Schule/Physik/Die Newtontische Axiome.md",
@@ -210,9 +213,6 @@
     "02 - Areas/0 - Schule/Physik/Merksatz Gravitation.md",
     "02 - Areas/0 - Schule/Physik/Mathe in Politik!!???.md",
     "02 - Areas/0 - Schule/Physik/Kilogramm.md",
-    "02 - Areas/Android Rooting/Reboot in Fastboot.md",
-    "02 - Areas/Android Rooting/Boot to Fastboot.md",
-    "02 - Areas/Android Rooting/Flash Magisk.md",
     "02 - Areas/Android Rooting",
     "02 - Areas/Dev/Untitled.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
