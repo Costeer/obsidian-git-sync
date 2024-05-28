@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Android Rooting/Reboot in Fastboot.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Android Rooting/Reboot in Fastboot.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Android Rooting/Reboot in Fastboot.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,8 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edf8306d8d260ce1",
+  "active": "e306f0114560087f",
   "lastOpenFiles": [
+    "03 - Resources/Text/Buch ; Der Vorleser.md",
+    "02 - Areas/Android Rooting/Reboot in Fastboot.md",
     "02 - Areas/Android Rooting/Boot to Fastboot.md",
     "02 - Areas/Android Rooting/Flash Magisk.md",
     "03 - Resources/Excalidraw/Silber-Elekronenkonfiguration.excalidraw.md",
@@ -215,8 +217,6 @@
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.18.51.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-16 12.43.16.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-16 12.32.38.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-16 11.48.12.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-16 09.09.26.excalidraw.md",
     "03 - Resources/Pictures/Zzzzzzz.jpg",
     "03 - Resources/Pictures/Wn-6.jpeg",
     "03 - Resources/Pictures/Steigung Grafik.jpg",
