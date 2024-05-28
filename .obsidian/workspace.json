@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2023-12-20 10.58.32.excalidraw.md"
+                "file": "03 - Resources/Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md"
               }
             }
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2023-12-20 10.58.32.excalidraw.md",
+                "file": "03 - Resources/Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/Excalidraw/Drawing 2023-12-20 10.58.32.excalidraw.md",
+                "file": "03 - Resources/Excalidraw/Drawing 2024-03-05 09.38.08.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,14 +186,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edf8306d8d260ce1",
+  "active": "e306f0114560087f",
   "lastOpenFiles": [
-    "03 - Resources/Excalidraw/Drawing 2023-12-20 10.20.54.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2023-12-20 10.58.32.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2023-12-20 10.38.35.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2023-12-19 13.10.11.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2023-09-26 08.34.01.excalidraw.md",
-    "03 - Resources/Excalidraw/carbonylgruppe.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-01 11.20.29.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-01 11.04.06.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-03-01 10.58.39.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-29 08.49.11.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-27 13.05.14.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-27 12.05.48.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-23 11.38.33.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-23 11.36.26.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-21 10.50.54.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-21 10.35.44.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-20 13.21.12.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-20 12.15.34.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-07 11.39.31.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-05 13.38.39.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-05 13.35.48.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-02-05 13.23.45.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-31 10.59.57.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-31 09.14.35.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-30 13.07.54.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-30 11.17.46.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-30 10.49.12.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-30 10.23.29.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-29 20.57.48.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-23 14.44.18.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-18 09.06.00.excalidraw.md",
+    "03 - Resources/Excalidraw/Drawing 2024-01-17 11.31.44.excalidraw.md",
     "03 - Resources/Pictures/Zzzzzzz.jpg",
     "03 - Resources/Pictures/Wn-6.jpeg",
     "03 - Resources/Pictures/Steigung Grafik.jpg",
@@ -204,26 +224,6 @@
     "03 - Resources/Pictures/Pasted Image 20240130105112_446.jpg",
     "03 - Resources/Pictures/Obsidian-Overall-Banner-Main.jpg",
     "03 - Resources/Pictures/Monleytype 1.png",
-    "README.md",
-    "03 - Resources/Text/Buch ; Der Vorleser.md",
-    "03 - Resources/Text/Text ; In Wahrheit ist Kiezdeutsch rassistisch.md",
-    "03 - Resources/Text/Text ; Ionien.md",
-    "03 - Resources/Text/Buch ; One of us is Lying.md",
-    "03 - Resources/Text/Text ; Eine Starke Verbindung.md",
-    "02 - Areas/Dev/Gruvbox read me.md",
-    "02 - Areas/Dev/Gruvbox Read Me v2.md",
-    "02 - Areas/Dev/Someones stolen colors.md",
-    "02 - Areas/Dev/Subject-based-color.md",
-    "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
-    "02 - Areas/Dev/Colours.md",
-    "02 - Areas/Dev/Callouts.md",
-    "02 - Areas/Android Rooting/Reboot in Fastboot.md",
-    "02 - Areas/Android Rooting/Flash Magisk.md",
-    "02 - Areas/Android Rooting/Boot to Fastboot.md",
-    "02 - Areas/0 - Schule/Englisch/Age of Envy.md",
-    "02 - Areas/0 - Schule/Deutsch/Der Vorleser Bearbeitung Arbeitsblatt.md",
-    "02 - Areas/Dev/banner tests.md",
-    "02 - Areas/Dev/X - Linux/Rofi/colors/gruvbox.rasi.md",
     "02 - Areas/Android Rooting",
     "01 - Projects",
     "07 - Archives/Satisfactory",
