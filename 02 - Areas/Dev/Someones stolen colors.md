@@ -117,7 +117,7 @@
 | Pink                 | FFC0CB | 255,192,203 | <font color=FFC0CB>Example</font> |
 | Plum                 | DDA0DD | 221,160,221 | <font color=DDA0DD>Example</font> |
 | PowderBlue           | B0E0E6 | 176,224,230 | <font color=B0E0E6>Example</font> |
-| Purple               | 800080 | 128,0,128   | <font color=800080>Example</font> |
+| <sub>Purpl</sub>e               | 800080 | 128,0,128   | <font color=800080>Example</font> |
 | RebeccaPurple        | 663399 | 102,51,153  | <font color=663399>Example</font> |
 | Red                  | FF0000 | 255,0,0     | <font color=FF0000>Example</font> |
 | RosyBrown            | BC8F8F | 188,143,143 | <font color=BC8F8F>Example</font> |
