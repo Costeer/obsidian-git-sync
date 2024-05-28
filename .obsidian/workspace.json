@@ -11,12 +11,9 @@
             "id": "e306f0114560087f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "03 - Resources/Text/Buch ; One of us is Lying.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "03 - Resources/Pictures/Zzzzzzz.jpg"
               }
             }
           }
@@ -80,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/Text/Buch ; One of us is Lying.md",
+                "file": "03 - Resources/Pictures/Zzzzzzz.jpg",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/Text/Buch ; One of us is Lying.md",
+                "file": "03 - Resources/Pictures/Zzzzzzz.jpg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,11 +188,23 @@
   },
   "active": "e306f0114560087f",
   "lastOpenFiles": [
-    "03 - Resources/Text/Text ; Eine Starke Verbindung.md",
+    "03 - Resources/Pictures/Wn-6.jpeg",
+    "03 - Resources/Pictures/Steigung Grafik.jpg",
+    "03 - Resources/Pictures/Plattentektonik Transformstörung.jpg",
+    "03 - Resources/Pictures/Plattentektonik Konvergenz.jpg",
+    "03 - Resources/Pictures/Plattentektonik Divergenz.jpg",
+    "03 - Resources/Pictures/Pasted Image 20240131110300_484.jpg",
+    "03 - Resources/Pictures/Pasted Image 20240130105112_446.jpg",
+    "03 - Resources/Pictures/Obsidian-Overall-Banner-Main.jpg",
+    "03 - Resources/Pictures/Monleytype 1.png",
+    "03 - Resources/Pictures/Monkeytype 2.png",
+    "03 - Resources/Pictures/Körpereigenes immunsystem.jpg",
+    "README.md",
     "03 - Resources/Text/Buch ; Der Vorleser.md",
-    "03 - Resources/Text/Text ; Ionien.md",
     "03 - Resources/Text/Text ; In Wahrheit ist Kiezdeutsch rassistisch.md",
+    "03 - Resources/Text/Text ; Ionien.md",
     "03 - Resources/Text/Buch ; One of us is Lying.md",
+    "03 - Resources/Text/Text ; Eine Starke Verbindung.md",
     "02 - Areas/Dev/Gruvbox read me.md",
     "02 - Areas/Dev/Gruvbox Read Me v2.md",
     "02 - Areas/Dev/Someones stolen colors.md",
@@ -207,7 +216,6 @@
     "02 - Areas/Android Rooting/Flash Magisk.md",
     "02 - Areas/Android Rooting/Boot to Fastboot.md",
     "02 - Areas/0 - Schule/Englisch/Age of Envy.md",
-    "README.md",
     "02 - Areas/0 - Schule/Deutsch/Der Vorleser Bearbeitung Arbeitsblatt.md",
     "02 - Areas/Dev/banner tests.md",
     "02 - Areas/Dev/X - Linux/Rofi/colors/gruvbox.rasi.md",
@@ -216,7 +224,6 @@
     "00 - Maps of Content/Untitled.md",
     "03 - Resources/Excalidraw/Drawing 2024-05-28 16.54.50.excalidraw.md",
     "03 - Resources/Web/Freihandel und Freihandelsabkommen (bpb).md",
-    "01 - Projects/Freihandel.md",
     "02 - Areas/Android Rooting",
     "01 - Projects",
     "07 - Archives/Satisfactory",
@@ -226,16 +233,6 @@
     "02 - Areas/Dev/X - Linux/polybar-collection/scripts/weather",
     "02 - Areas/Dev/X - Linux/polybar-collection/themes",
     "02 - Areas/Dev/X - Linux/polybar-collection/scripts",
-    "02 - Areas/Dev/X - Linux/polybar-collection",
-    "02 - Areas/Dev/X - Linux/Rofi/images/user.jpeg",
-    "02 - Areas/Dev/X - Linux/Rofi/images/paper.png",
-    "02 - Areas/Dev/X - Linux/Rofi/images/j.jpg",
-    "02 - Areas/Dev/X - Linux/Rofi/images/i.jpg",
-    "02 - Areas/Dev/X - Linux/Rofi/images/h.jpg",
-    "02 - Areas/Dev/X - Linux/Rofi/images/gradient.png",
-    "02 - Areas/Dev/X - Linux/Rofi/images/g.png",
-    "02 - Areas/Dev/X - Linux/Rofi/images/flowers-3.png",
-    "02 - Areas/Dev/X - Linux/Rofi/images/flowers-2.png",
-    "02 - Areas/Dev/X - Linux/Rofi/images/flowers-1.png"
+    "02 - Areas/Dev/X - Linux/polybar-collection"
   ]
 }
