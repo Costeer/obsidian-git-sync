@@ -264,6 +264,10 @@ snippet
 screen
 sub
 sup
+schaut
+schwächer
+sah
+singen
 Obsidic
 Obsidian
 OS
@@ -333,6 +337,7 @@ OrangeRed
 Orchid
 OneNote
 Or
+Oktober
 Ein
 Einstellungen
 Empfohlene
@@ -440,6 +445,13 @@ Example
 EA
 ED
 EEE
+Erwartungen
+Erzähler
+Erzählimpuls
+Erzählers
+EBA
+Erst
+Eines
 repo
 rein
 rechtfertigen
@@ -530,6 +542,8 @@ required
 raffia
 replaced
 re
+runeitughu
+richtete
 mit
 muss
 man
@@ -654,6 +668,10 @@ most
 matter
 must
 ma
+mittelpunkt
+mark
+mir
+mich
 Theme
 Terminal
 Templates
@@ -742,6 +760,9 @@ Teal
 Thistle
 Tomato
 Turquoise
+Titelblatt
+Titelbild
+Tagebucheintrag
 vorgefertigten
 voreingestellten
 viel
@@ -849,6 +870,7 @@ video
 valuable
 variation
 ve
+vorliegenden
 templates
 terminal
 token
@@ -1161,6 +1183,10 @@ example
 effects
 encoded
 erd
+erzählt
+eindrücke
+ergibt
+endete
 über
 übernehmen
 überkategorie
@@ -1314,6 +1340,8 @@ get
 give
 gradient
 ge
+ging
+gebauten
 Installation
 Ipad
 Internet
@@ -1397,6 +1425,7 @@ IndianRed
 Indigo
 Ivory
 Interessant
+Ihre
 Um
 Urteile
 Urteil
@@ -1451,6 +1480,7 @@ Uran
 UNIMPORTANT
 Ubuntu
 URL
+UwU
 alle
 arbeit
 anderen
@@ -1600,6 +1630,9 @@ added
 after
 along
 address
+ahnung
+abgeschlossen
+aufwärts
 nötigen
 notizen
 nach
@@ -1682,6 +1715,8 @@ names
 note
 named
 nl
+nimmt
+neuen
 für
 fenster
 folder
@@ -1764,6 +1799,10 @@ fonts
 field
 front
 fancy
+frustration
+fünfzehn
+frühen
+führte
 obsidian
 organisiert
 of
@@ -1916,6 +1955,7 @@ zoll
 zurücklegt
 zerfallen
 zeit
+zweiten
 dier
 diesen
 den
@@ -2048,6 +2088,7 @@ dragging
 does
 defined
 dev
+dunkler
 in
 installiert
 indem
@@ -2157,6 +2198,7 @@ import
 icons
 image
 internet
+ihnen
 Wahl
 Windows
 Wie
@@ -2285,6 +2327,8 @@ Where
 Wheat
 White
 WhiteSmoke
+Wolken
+Weg
 Linux
 Links
 Lautstärke
@@ -2475,6 +2519,8 @@ DCDCDC
 DAA
 DB
 DDA
+Distanziert
+Dort
 Kitty
 Kategorien
 Kochen
@@ -2588,6 +2634,9 @@ Krita
 Keybord
 Korpsvart
 Khaki
+Karakterisieren
+Krankheit
+Kinder
 Alle
 Areas
 Archives
@@ -2737,6 +2786,12 @@ ADD
 AFEEEE
 ACD
 Auch
+Ausgabe
+Assoziationen
+Autor
+Alt
+Abends
+Amsel
 Powershell
 Para
 Projects
@@ -2847,6 +2902,7 @@ Plum
 PowderBlue
 Purple
 Purpl
+Person
 werden
 wie
 wo
@@ -2977,6 +3033,12 @@ www
 wont
 write
 wn
+weiterführen
+wirkt
+würdet
+warm
+wuchtigen
+wohnten
 Niemals
 Nicht
 Note
@@ -3071,6 +3133,7 @@ Navigate
 Nerd
 NavajoWhite
 Navy
+Notieren
 befehle
 bekommen
 befinden
@@ -3208,6 +3271,7 @@ bottom
 base
 banner
 bio
+begann
 kopieren
 kombination
 kommt
@@ -3308,6 +3372,7 @@ know
 krita
 korpsvart
 keyboard
+kälter
 GitHub
 Gesprächs
 Gestik
@@ -3425,6 +3490,10 @@ Gray
 Grey
 Green
 GreenYellow
+Gattungsbezeichnung
+Gelb
+Gattungsbeziehungen
+Gelbsucht
 How
 Hintergrund
 HH
@@ -3475,6 +3544,11 @@ HEX
 HoneyDew
 HotPink
 Here
+Haltung
+Herbst
+Himmel
+Hof
+Hauses
 Vault
 Vollends
 Verlinkungen
@@ -3570,6 +3644,7 @@ Vorgänge
 Vertikal
 VERY
 Violet
+Vorkenntnisse
 platz
 projects
 präsentiert
@@ -3882,6 +3957,9 @@ MidnightBlue
 MintCream
 MistyRose
 Moccasin
+Mutter
+Mein
+Montag
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -4025,6 +4103,7 @@ RebeccaPurple
 Red
 RosyBrown
 RoyalBlue
+Roman
 Fleeting
 Fleting
 Feld
@@ -4152,6 +4231,8 @@ FFDAB
 FFC
 FFFAFA
 FFFFFF
+Frühjahr
+Februar
 helfen
 haben
 hier
@@ -4223,6 +4304,10 @@ here
 https
 hexadecimal
 his
+hätte
+hatte
+hörte
+hate
 lediglich
 lassen
 letzte
@@ -4285,6 +4370,7 @@ looking
 launch
 lines
 local
+leben
 XX
 Xn
 Xi
@@ -4598,6 +4684,10 @@ SpringGreen
 SteelBlue
 SOURCE
 Subjects
+Sei
+Scharm
+Sonne
+Stock
 Journal
 Jetzt
 JFIF
@@ -4647,6 +4737,9 @@ Je
 Jahr
 Ja
 Jeder
+Jurist
+Januar
+Jahrhundertwende
 Beziehe
 Beobachtungsbogen
 Blickkontakt
@@ -4766,6 +4859,11 @@ BFFF
 BA
 BC
 BFD
+Betrachten
+Bet
+Balkon
+Blumenstraße
+Bahnhofstraße
 Quelle
 Quiz
 Qa
@@ -4945,3 +5043,4 @@ xet
 xbY
 xQw
 Österreich
+Ölgemälde
