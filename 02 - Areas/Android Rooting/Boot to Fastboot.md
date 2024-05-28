@@ -1,3 +1,4 @@
+
 ```
 sudo adb reboot bootloader
 ```

@@ -1,3 +1,4 @@
+
 ![gruv-ascii-art](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/66b3a070-8b73-4e3a-8b48-ddb2009c39c2)
 
 
