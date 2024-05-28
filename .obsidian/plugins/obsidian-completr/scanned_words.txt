@@ -76,6 +76,7 @@ colors
 code
 copy
 che
+comparison
 span
 style
 sync
@@ -268,6 +269,8 @@ schaut
 schwächer
 sah
 singen
+societal
+social
 Obsidic
 Obsidian
 OS
@@ -452,6 +455,7 @@ Erzählers
 EBA
 Erst
 Eines
+Envy
 repo
 rein
 rechtfertigen
@@ -544,6 +548,7 @@ replaced
 re
 runeitughu
 richtete
+refers
 mit
 muss
 man
@@ -672,6 +677,8 @@ mittelpunkt
 mark
 mir
 mich
+media
+measuring
 Theme
 Terminal
 Templates
@@ -959,6 +966,8 @@ tartarus
 typing
 then
 tutorial
+technology
+teens
 und
 unbekannte
 um
@@ -1187,6 +1196,9 @@ erzählt
 eindrücke
 ergibt
 endete
+envy
+exposure
+especially
 über
 übernehmen
 überkategorie
@@ -1633,6 +1645,8 @@ address
 ahnung
 abgeschlossen
 aufwärts
+adults
+against
 nötigen
 notizen
 nach
@@ -1803,6 +1817,8 @@ frustration
 fünfzehn
 frühen
 führte
+facilitated
+feelings
 obsidian
 organisiert
 of
@@ -1880,6 +1896,7 @@ out
 override
 own
 once
+often
 zu
 zusammenfasungen
 zum
@@ -2089,6 +2106,7 @@ does
 defined
 dev
 dunkler
+due
 in
 installiert
 indem
@@ -2199,6 +2217,7 @@ icons
 image
 internet
 ihnen
+inadequacy
 Wahl
 Windows
 Wie
@@ -2329,6 +2348,7 @@ White
 WhiteSmoke
 Wolken
 Weg
+Witch
 Linux
 Links
 Lautstärke
@@ -2792,6 +2812,7 @@ Autor
 Alt
 Abends
 Amsel
+Age
 Powershell
 Para
 Projects
@@ -3039,6 +3060,8 @@ würdet
 warm
 wuchtigen
 wohnten
+where
+widespread
 Niemals
 Nicht
 Note
@@ -3743,6 +3766,9 @@ paste
 path
 ph
 pw
+phenomenon
+prevalent
+possessions
 Zettelkasten
 Zerstöre
 Zukunft
@@ -4308,6 +4334,7 @@ hätte
 hatte
 hörte
 hate
+happiness
 lediglich
 lassen
 letzte
@@ -4371,6 +4398,9 @@ launch
 lines
 local
 leben
+lives
+leads
+leading
 XX
 Xn
 Xi
@@ -4461,6 +4491,7 @@ java
 just
 json
 jsom
+jealousy
 ändern
 ähnlich
 ärmere
@@ -5002,6 +5033,7 @@ you
 your
 youtube
 yourColorName
+young
 xUG
 xl
 xq

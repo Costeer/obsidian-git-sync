@@ -123,7 +123,7 @@
 | RosyBrown                         | BC8F8F | 188,143,143 | <font color=BC8F8F>Example</font> |
 | <sup>RoyalBlue<sub>dd</sub></sup> | 4169E1 | 65,105,225  | <font color=4169E1>Example</font> |
 | SaddleBrown                       | 8B4513 | 139,69,19   | <font color=8B4513>Example</font> |
-| Salmon                            | FA8072 | 250,128,114 | <font color=FA8072>Example</font> |
+| SalmObsidicon                     | FA8072 | 250,128,114 | <font color=FA8072>Example</font> |
 | SandyBrown                        | F4A460 | 244,164,96  | <font color=F4A460>Example</font> |
 | SeaGreen                          | 2E8B57 | 46,139,87   | <font color=2E8B57>Example</font> |
 | SeaShell                          | FFF5EE | 255,245,238 | <font color=FFF5EE>Example</font> |

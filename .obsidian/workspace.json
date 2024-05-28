@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Dev/Someones stolen colors.md",
+                "file": "02 - Areas/0 - Schule/Englisch/Age of Envy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "8b8c1e9cf7c57d08",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,6 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Areas/0 - Schule/Englisch/Age of Envy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Areas/0 - Schule/Englisch/Age of Envy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,8 +189,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b8c1e9cf7c57d08",
+  "active": "edf8306d8d260ce1",
   "lastOpenFiles": [
+    "02 - Areas/Dev/Someones stolen colors.md",
     "README.md",
     "02 - Areas/0 - Schule/Deutsch/Der Vorleser Bearbeitung Arbeitsblatt.md",
     "02 - Areas/Dev/Callouts.md",
@@ -207,7 +201,6 @@
     "02 - Areas/Dev/Gruvbox read me.md",
     "02 - Areas/Dev/Gruvbox Read Me v2.md",
     "02 - Areas/Dev/Subject-based-color.md",
-    "02 - Areas/Dev/Someones stolen colors.md",
     "02 - Areas/Dev/X - Linux/Rofi/colors/gruvbox.rasi.md",
     "02 - Areas/Dev/X - Linux/starship.toml.md",
     "01 - Projects/Devisenbewirtschaftung.md",
