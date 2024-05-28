@@ -16,7 +16,7 @@ Ag ^n4gKM69w
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.6",
 	"elements": [
 		{
 			"type": "ellipse",
@@ -226,8 +226,7 @@ Ag ^n4gKM69w
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Ag",
-			"lineHeight": 1.25,
-			"baseline": 62
+			"lineHeight": 1.25
 		},
 		{
 			"type": "ellipse",
@@ -1015,7 +1014,7 @@ Ag ^n4gKM69w
 	],
 	"appState": {
 		"theme": "light",
-		"viewBackgroundColor": "#281a1b",
+		"viewBackgroundColor": "#000000",
 		"currentItemStrokeColor": "#9c36b5",
 		"currentItemBackgroundColor": "#da77f2",
 		"currentItemFillStyle": "hachure",
@@ -1028,16 +1027,16 @@ Ag ^n4gKM69w
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 633.2855955851498,
-		"scrollY": 485.30350426988986,
+		"scrollX": 592.3837746502882,
+		"scrollY": 375.4137524525065,
 		"zoom": {
-			"value": 1.028489245890733
+			"value": 1.2000000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
 		"gridColor": {
-			"Bold": "#694447FF",
-			"Regular": "#3E282AFF"
+			"Bold": "#363636FF",
+			"Regular": "#121212FF"
 		},
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
@@ -1046,7 +1045,8 @@ Ag ^n4gKM69w
 			"clip": true,
 			"name": true,
 			"outline": true
-		}
+		},
+		"objectsSnapModeEnabled": false
 	},
 	"files": {}
 }
