@@ -27,9 +27,19 @@
               "type": "obsidian-projects",
               "state": {}
             }
+          },
+          {
+            "id": "bef775236100ea42",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Resources/Excalidraw/Drawing 2024-05-28 16.54.50.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 - Resources/Excalidraw/Drawing 2024-05-28 16.54.50.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "03 - Resources/Excalidraw/Drawing 2024-05-28 16.54.50.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,8 +208,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c3e2c57828bb729",
+  "active": "bef775236100ea42",
   "lastOpenFiles": [
+    "03 - Resources/Excalidraw/Drawing 2024-05-28 16.54.50.excalidraw.md",
     "README.md",
     "03 - Resources/Web/Freihandel und Freihandelsabkommen (bpb).md",
     "02 - Areas/Android Rooting/Reboot in Fastboot.md",
@@ -224,7 +237,6 @@
     "02 - Areas/Dev/Untitled.md",
     "03 - Resources/Web/Soziale Marktwirtschaft (WIKI).md",
     "02 - Areas/Dev/Callouts.md",
-    "03 - Resources/Web/Soziale Marktwirtschaft (BPW).md",
     "01 - Projects",
     "07 - Archives/Satisfactory",
     "07 - Archives/Politik Powerpoint",
