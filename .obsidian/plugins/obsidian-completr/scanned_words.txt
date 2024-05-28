@@ -1341,6 +1341,8 @@ ctG
 ctT
 cjTEu
 cpXd
+cbJuqmKA
+cGdtJ
 span
 style
 sync
@@ -3366,6 +3368,7 @@ sIMJ
 sSP
 sSU
 sSHSR
+sqp
 Obsidic
 Obsidian
 OS
@@ -5152,6 +5155,8 @@ Egjz
 Eukp
 ELV
 EML
+Edyp
+Ester
 repo
 rein
 rechtfertigen
@@ -9483,6 +9488,7 @@ vqk
 vuY
 vppB
 vVr
+vgtul
 templates
 terminal
 token
@@ -10477,6 +10483,7 @@ tBG
 tvQ
 tTT
 tHiij
+tZgpFN
 und
 unbekannte
 um
@@ -18143,6 +18150,8 @@ nltY
 nRxI
 nmdh
 nhW
+nFS
+nyeBk
 für
 fenster
 folder
@@ -27050,6 +27059,7 @@ Kgy
 KupU
 KKd
 Kwom
+Ketone
 Alle
 Areas
 Archives
@@ -28019,6 +28029,8 @@ Ahl
 Ahlu
 AYd
 Aan
+Alkanole
+Aldehyde
 Powershell
 Para
 Projects
@@ -30836,6 +30848,7 @@ Nyy
 NJE
 NFq
 NfR
+NWl
 befehle
 bekommen
 befinden
@@ -32206,6 +32219,7 @@ bTUl
 bFIUup
 bhd
 bEeJ
+bZd
 kopieren
 kombination
 kommt
@@ -35152,6 +35166,8 @@ HPX
 Hfu
 HmU
 HdIa
+Hydroxygrupper
+Hydroxygruppe
 Vault
 Vollends
 Verlinkungen
@@ -39809,6 +39825,7 @@ CIc
 CUC
 CUIG
 Coo
+Carbongruppe
 Resources
 Regeln
 Rede
@@ -52111,6 +52128,7 @@ xJTy
 xWT
 xWC
 xJj
+xRqj
 Österreich
 Ölgemälde
 Ölfarbe
