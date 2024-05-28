@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - base
-  - wn
+  - de
 banner:
 ---
 ####  Subjects 

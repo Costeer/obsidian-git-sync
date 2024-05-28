@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Dev/Subject-based-color.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Dev/Subject-based-color.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Dev/Subject-based-color.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,13 +205,15 @@
   },
   "active": "8b8c1e9cf7c57d08",
   "lastOpenFiles": [
+    "02 - Areas/Dev/Callouts.md",
+    "02 - Areas/Dev/banner tests.md",
+    "02 - Areas/Dev/Colours.md",
+    "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
+    "02 - Areas/Dev/Gruvbox read me.md",
     "02 - Areas/Dev/Gruvbox Read Me v2.md",
     "02 - Areas/Dev/Subject-based-color.md",
     "02 - Areas/Dev/Someones stolen colors.md",
-    "02 - Areas/Dev/Gruvbox read me.md",
-    "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
     "README.md",
-    "02 - Areas/Dev/Colours.md",
     "02 - Areas/Dev/X - Linux/Rofi/colors/gruvbox.rasi.md",
     "02 - Areas/Dev/X - Linux/starship.toml.md",
     "01 - Projects/Devisenbewirtschaftung.md",
@@ -229,8 +231,6 @@
     "02 - Areas/0 - Schule/Physik/Das erste Newtonische Axiom.md",
     "02 - Areas/0 - Schule/Physik/Das Wechselwirkungsprinzip.md",
     "02 - Areas/0 - Schule/Physik/Der Meter.md",
-    "02 - Areas/0 - Schule/Physik/Gleichförmige Kreisbewegung.md",
-    "02 - Areas/0 - Schule/Physik/Herleitung der Zentripetalbeschleunigung.md",
     "02 - Areas/Android Rooting",
     "01 - Projects",
     "07 - Archives/Satisfactory",
