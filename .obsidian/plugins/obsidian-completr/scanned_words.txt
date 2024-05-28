@@ -70,6 +70,12 @@ choose
 creative
 coming
 costeer
+change
+cssclass
+colors
+code
+copy
+che
 span
 style
 sync
@@ -254,6 +260,10 @@ startpage
 see
 should
 soon
+snippet
+screen
+sub
+sup
 Obsidic
 Obsidian
 OS
@@ -321,6 +331,8 @@ OliveDrab
 Orange
 OrangeRed
 Orchid
+OneNote
+Or
 Ein
 Einstellungen
 Empfohlene
@@ -639,6 +651,9 @@ manage
 match
 making
 most
+matter
+must
+ma
 Theme
 Terminal
 Templates
@@ -1142,6 +1157,10 @@ extensions
 extension
 executed
 either
+example
+effects
+encoded
+erd
 über
 übernehmen
 überkategorie
@@ -1293,6 +1312,8 @@ gnome
 gtk
 get
 give
+gradient
+ge
 Installation
 Ipad
 Internet
@@ -1375,6 +1396,7 @@ Iosevka
 IndianRed
 Indigo
 Ivory
+Interessant
 Um
 Urteile
 Urteil
@@ -1428,6 +1450,7 @@ Ungleichgewicht
 Uran
 UNIMPORTANT
 Ubuntu
+URL
 alle
 arbeit
 anderen
@@ -1576,6 +1599,7 @@ appearance
 added
 after
 along
+address
 nötigen
 notizen
 nach
@@ -1655,6 +1679,9 @@ nice
 nerdfonts
 name
 names
+note
+named
+nl
 für
 fenster
 folder
@@ -1735,6 +1762,8 @@ full
 few
 fonts
 field
+front
+fancy
 obsidian
 organisiert
 of
@@ -1811,6 +1840,7 @@ or
 out
 override
 own
+once
 zu
 zusammenfasungen
 zum
@@ -2015,6 +2045,9 @@ distros
 distro
 downloads
 dragging
+does
+defined
+dev
 in
 installiert
 indem
@@ -2122,6 +2155,8 @@ icon
 into
 import
 icons
+image
+internet
 Wahl
 Windows
 Wie
@@ -2701,6 +2736,7 @@ ADFF
 ADD
 AFEEEE
 ACD
+Auch
 Powershell
 Para
 Projects
@@ -2810,6 +2846,7 @@ Pink
 Plum
 PowderBlue
 Purple
+Purpl
 werden
 wie
 wo
@@ -2938,6 +2975,8 @@ which
 what
 www
 wont
+write
+wn
 Niemals
 Nicht
 Note
@@ -3166,6 +3205,9 @@ based
 bit
 build
 bottom
+base
+banner
+bio
 kopieren
 kombination
 kommt
@@ -3432,6 +3474,7 @@ Horizontal
 HEX
 HoneyDew
 HotPink
+Here
 Vault
 Vollends
 Verlinkungen
@@ -3620,6 +3663,11 @@ properly
 probably
 press
 put
+particular
+paste
+path
+ph
+pw
 Zettelkasten
 Zerstöre
 Zukunft
@@ -4173,6 +4221,8 @@ hope
 has
 here
 https
+hexadecimal
+his
 lediglich
 lassen
 letzte
@@ -4234,6 +4284,7 @@ link
 looking
 launch
 lines
+local
 XX
 Xn
 Xi
@@ -4545,6 +4596,8 @@ SlateGrey
 Snow
 SpringGreen
 SteelBlue
+SOURCE
+Subjects
 Journal
 Jetzt
 JFIF
@@ -4850,6 +4903,7 @@ yellow
 you
 your
 youtube
+yourColorName
 xUG
 xl
 xq
