@@ -34,7 +34,8 @@ Build summary:
 
 
 ## Multiclass 
-- L1: Fighter 1 - Fighting Style: Defence 
+#### L1: Fighter 1 
+- Fighting Style: Defence 
 - AP: 8/14/16 (15+1)/8/10/17 (15+2) 
 - L2: Fighter 2 
 - L3: Warlock 1 
@@ -54,4 +55,17 @@ Build summary:
 - L10: Sorc 6 
 - L11: Sorc 7 
 - L12: Sorc 8 
-- Feat: Spell Sniper - Spells: **Fireball, Scorching Ray, Wall of Fire**, Chromatic Orb, Magic Missiles, Hex, Armour of Agathys, Cloud of Daggers, Hold Person > Hold Monster, Blindness, Counterspell, Banishment, Blight, Polymorph, Misty Step (from gear), Spells from subclass - Gear: - https://bg3.wiki/wiki/The_Spellsparkler - https://bg3.wiki/wiki/Knife_of_the_Undermountain_King - https://bg3.wiki/wiki/Risky_Ring - https://bg3.wiki/wiki/Killer%27s_Sweetheart - https://bg3.wiki/wiki/Spellmight_Gloves - https://bg3.wiki/wiki/Spellcrux_Amulet - https://bg3.wiki/wiki/Potent_Robe - https://bg3.wiki/wiki/Birthright - https://bg3.wiki/wiki/Cloak_of_the_Weave - https://bg3.wiki/wiki/Amulet_of_Misty_Step - https://bg3.wiki/wiki/Darkfire_Shortbow
+- Feat: Spell Sniper 
+- Spells: **Fireball, Scorching Ray, Wall of Fire**, Chromatic Orb, Magic Missiles, Hex, Armour of Agathys, Cloud of Daggers, Hold Person > Hold Monster, Blindness, Counterspell, Banishment, Blight, Polymorph, Misty Step (from gear), Spells from subclass 
+- Gear: 
+- https://bg3.wiki/wiki/The_Spellsparkler 
+- https://bg3.wiki/wiki/Knife_of_the_Undermountain_King 
+- https://bg3.wiki/wiki/Risky_Ring 
+- https://bg3.wiki/wiki/Killer%27s_Sweetheart 
+- https://bg3.wiki/wiki/Spellmight_Gloves 
+- https://bg3.wiki/wiki/Spellcrux_Amulet 
+- https://bg3.wiki/wiki/Potent_Robe 
+- https://bg3.wiki/wiki/Birthright 
+- https://bg3.wiki/wiki/Cloak_of_the_Weave 
+- https://bg3.wiki/wiki/Amulet_of_Misty_Step 
+- https://bg3.wiki/wiki/Darkfire_Shortbow
