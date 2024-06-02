@@ -37,24 +37,24 @@ Build summary:
 #### L1: Fighter 1 
 - Fighting Style: Defence 
 - AP: 8/14/16 (15+1)/8/10/17 (15+2) 
-- L2: Fighter 2 
-- L3: Warlock 1 
+#### L2: Fighter 2 
+#### L3: Warlock 1 
 - Spell: Armour of Agathys, Hex 
 - Cantrip: Eldritch Blast, Blade Ward 
 - Subclass: The Great Old One 
-- L4: Warlock 2 
+#### L4: Warlock 2 
 - Eldritch Invocations: Repelling Blast, Agonising Blast 
-- L5: Sorc 1 
+#### L5: Sorc 1 
 - Draconic Ancestry: Red (Fire) 
-- L6: Sorc 2 
-- L7: Sorc 3 
+#### L6: Sorc 2 
+#### L7: Sorc 3 
 - Spell: Wall of Fire 
-- L8: Sorc 4 
+#### L8: Sorc 4 
 - Feat: Dual Wielder 
-- L9: Sorc 5 
-- L10: Sorc 6 
-- L11: Sorc 7 
-- L12: Sorc 8 
+#### L9: Sorc 5 
+#### L10: Sorc 6 
+#### L11: Sorc 7 
+#### L12: Sorc 8 
 - Feat: Spell Sniper 
 - Spells: **Fireball, Scorching Ray, Wall of Fire**, Chromatic Orb, Magic Missiles, Hex, Armour of Agathys, Cloud of Daggers, Hold Person > Hold Monster, Blindness, Counterspell, Banishment, Blight, Polymorph, Misty Step (from gear), Spells from subclass 
 - Gear: 
