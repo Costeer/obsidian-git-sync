@@ -1,3 +1,7 @@
+Source:
+https://www.youtube.com/watch?v=DsGBczoAN04&t=332s
+https://www.youtube.com/watch?v=DsGBczoAN04&t=332s
+
 Build summary: 
 
 ## Singleclass Warlock:
