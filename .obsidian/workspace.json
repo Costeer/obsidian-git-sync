@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d45945f3a2dfecb",
+        "id": "51e1ce2dc5445cdc",
         "type": "tabs",
         "children": [
           {
-            "id": "be36cd386598a6f1",
+            "id": "ae0483845ac9244f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02 - Areas/Games/BDG3/Warlock Build.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "02 - Areas/Games/BDG3/Warlock Build.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "02 - Areas/Games/BDG3/Warlock Build.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be36cd386598a6f1",
+  "active": "ae0483845ac9244f",
   "lastOpenFiles": [
     "README.md",
     "02 - Areas/Games/BDG3/Warlock Build.md",
