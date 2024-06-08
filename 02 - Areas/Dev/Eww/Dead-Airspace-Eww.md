@@ -274,7 +274,6 @@ Learn more about other widgets and their properties from the
 [docs](https://elkowar.github.io/eww/widgets.html#widgets).
 
 #### Defining Variables And Dynamic Data
-
 Take a look at [Showcase]({{< ref "#showcase" >}}) section. Notice that 
 there are Network, Time and Battery information. Those are not interactive
 widgets but they are dynamic. Rather, they display dynamic data. Like,

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
+                "file": "02 - Areas/Dev/Eww/{{<.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
+                "file": "02 - Areas/Dev/Eww/{{<.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
+                "file": "02 - Areas/Dev/Eww/{{<.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,6 +206,8 @@
   "active": "3019d4a446662acb",
   "lastOpenFiles": [
     "README.md",
+    "02 - Areas/Dev/Eww/{{<.md",
+    "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
     "02 - Areas/Games/BDG3/Warlock Build.md",
     "02 - Areas/Games/BDG3",
     "02 - Areas/Games/Untitled.md",
@@ -231,8 +233,6 @@
     "03 - Resources/Excalidraw/Drawing 2024-04-17 11.09.37.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.49.34.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-17 10.45.00.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-17 10.26.48.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-17 10.19.01.excalidraw.md",
     "03 - Resources/Pictures/Zzzzzzz.jpg",
     "03 - Resources/Pictures/Wn-6.jpeg",
     "03 - Resources/Pictures/Steigung Grafik.jpg",
