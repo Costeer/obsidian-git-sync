@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a087fd7da38d9954",
+        "id": "eef178b082e0bd77",
         "type": "tabs",
         "children": [
           {
-            "id": "478beaae77b08009",
+            "id": "9e5cc48120d2be27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "478beaae77b08009",
+  "active": "9e5cc48120d2be27",
   "lastOpenFiles": [
     "README.md",
     "02 - Areas/Games/BDG3/Warlock Build.md",
