@@ -23,11 +23,8 @@ work on, what languages you'd need to know, etc.
   need to translate some commands. But, for the most part equivalent commands
   will be provided.
 - A bit of programming experience will be preferred.
-- A [xorg](https://www.x.org) based
-  [window manager](https://wiki.archlinux.org/title/Window_manager).
-  Like [bspwm](https://github.com/baskerville/bspwm), [qtile](http://www.qtile.org/),
-  [xmonad](https://xmonad.org/), etc. A [display environment](https://itsfoss.com/what-is-desktop-environment)
-  will work as well.
+- A [xorg](https://www.x.org) based [window manager](https://wiki.archlinux.org/title/Window_manager).
+  Like [bspwm](https://github.com/baskerville/bspwm), [qtile](http://www.qtile.org/), [xmonad](https://xmonad.org/), etc. A [display environment](https://itsfoss.com/what-is-desktop-environment) will work as well.
 
   {{< admonition note "Does EWW work on Wayland?" >}}
   This tutorial is designed for running EWW on a xorg-based
