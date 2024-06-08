@@ -324,11 +324,9 @@ There are numerous magic variables which you will find in the
 ### SCSS Syntax
 
 EWW widgets are styled using [SCSS](https://sass-lang.com) which compiles to CSS.
-Since it is a well known language I won't be teaching you SCSS/CSS; quite
-frankly, there are numerous sites and videos that will explain this better.
+Since it is a well known language I won't be teaching you SCSS/CSS; quite frankly, there are numerous sites and videos that will explain this better.
 
-Here are a few links. Keep in mind that you just need to learn CSS and then
-gloss over them to get the differences between CSS and SCSS.
+Here are a few links. Keep in mind that you just need to learn CSS and then gloss over them to get the differences between CSS and SCSS.
 
 - [Official Documentation &#8212; sass-lang.com](https://sass-lang.com/documentation/syntax)
 - [Beginner's Guide to Using SCSS &#8212; code-boost.com](https://www.code-boost.com/beginners-guide-to-scss)
