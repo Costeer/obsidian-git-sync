@@ -265,8 +265,7 @@ Out of those we will only need a few for this project, which are pretty basic.
         "Hello")))
   ```
 
-  Note, **vertical** orientation will place the widgets in a top to bottom flow and
-  **horizontal**, left to right.
+  Note, **vertical** orientation will place the widgets in a top to bottom flow and **horizontal**, left to right.
 
 > **Exercise**: Try to build a widget that will show "Hi there." and will
   consume the left half of the screen.
