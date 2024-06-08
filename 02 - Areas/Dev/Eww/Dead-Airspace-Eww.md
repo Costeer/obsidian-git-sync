@@ -155,13 +155,13 @@ For now, take a look at the following yuck snippet.
 This is a window definition in yuck syntax. Take a guess of what each of the
 properties mean and crosscheck them from the following table.
 
-|   Property         |   Description                                                                                                                                                                                                                                            |
-|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   width            |   Width of the window. Values may be provided in px or %.                                                                                                                                                                                                |
-|   height           |   Height of the window. Values may be provided in px or %.                                                                                                                                                                                               |
-|   stacking         |   Where the window should appear in the stack. Possible values: fg, bg.                                                                                                                                                                                  |
-|   wm-ignore        |   Whether the window manager should ignore this window. This is useful for dashboard-style widgets that don't need to interact with other windows at all. Note that this makes some of the other properties not have any effect. Either true or false.   |
-|   windowtype       |   Specify what type of window this is. This will be used by your window manager to determine how it should handle your window. Possible values: normal, dock, toolbar, dialog, desktop. Default: dock if reserve is specified, normal otherwise.         |
+| Property   | Description                                                                                                                                                                                                                                          |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| width      | Width of the window. Values may be provided in px or %.                                                                                                                                                                                              |
+| height     | Height of the window. Values may be provided in px or %.                                                                                                                                                                                             |
+| stacking   | Where the window should appear in the stack. Possible values: fg, bg.                                                                                                                                                                                |
+| wm-ignore  | Whether the window manager should ignore this window. This is useful for dashboard-style widgets that don't need to interact with other windows at all. Note that this makes some of the other properties not have any effect. Either true or false. |
+| windowtype | Specify what type of window this is. This will be used by your window manager to determine how it should handle your window. Possible values: normal, dock, toolbar, dialog, desktop. Default: dock if reserve is specified, normal otherwise.       |
 
 {{< admonition note "DO NOT hardcode dimensions!" >}}
 Always use `%` for widths and heights.
