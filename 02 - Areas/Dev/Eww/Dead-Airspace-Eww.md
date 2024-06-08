@@ -343,8 +343,7 @@ seems like a great place to start.
 - This is also nice to have [GTK3 CSS Overview](https://docs.gtk.org/gtk3/css-overview.html).
 
 I hate to do this to you but, most of the things that SCSS provides
-(like the [`use`](https://sass-lang.com/documentation/at-rules/use#configuration)
-keyword) aren't supported in the EWW SCSS.
+(like the [`use`](https://sass-lang.com/documentation/at-rules/use#configuration) keyword) aren't supported in the EWW SCSS.
 
 This may seem overwhelming... because you might be thinking of digesting all the
 above links. This is wrong. Just get a general idea of CSS and use the links as mere
