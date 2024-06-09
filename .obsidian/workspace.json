@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6f0e67b967581874",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,6 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f0e67b967581874",
+  "active": "73b375a4fd04fa9b",
   "lastOpenFiles": [
     "README.md",
     "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
