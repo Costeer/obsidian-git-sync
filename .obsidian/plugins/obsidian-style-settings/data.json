@@ -1,22 +1,5 @@
 {
-  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
-  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-mauve",
-  "catppuccin-icon-styles@@ctp-icon-hide": true,
-  "catppuccin-interface-styles@@ctp-bold-folder-title": false,
-<<<<<<< HEAD
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
-  "Appearance-dark@@accent-dark": "#8400FF",
-  "Appearance-dark@@accent-color-override-dark": false,
-  "Appearance-dark@@card-layout-open-dark": true
-=======
-  "Components@@CTA-BTN-enable": false,
-  "Components@@folder-font-bold": true,
-  "Components@@vault-name-display-select": "vault-name-hide",
-  "Components@@colorful-folder": false,
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
-  "Mobile@@card-layout-pad-open": false,
-  "Editor@@codeblock-style-select": "codeblock-style-customize",
-  "Editor@@callout-border-opacity": 0.25,
-  "Plugin@@colorful-checkbox": false
->>>>>>> origin/main
+  "vauxhall@@main-color": "vauxhall-indigo",
+  "vauxhall@@color-intensity": "intensity-nebula",
+  "vauxhall@@h1-accent": true
 }
