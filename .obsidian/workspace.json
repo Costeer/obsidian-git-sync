@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "129a58226aba7227",
+        "id": "970e98141f9322cc",
         "type": "tabs",
         "children": [
           {
-            "id": "73b375a4fd04fa9b",
+            "id": "8d7c4fb8255b0c66",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -82,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +190,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "73b375a4fd04fa9b",
+  "active": "8d7c4fb8255b0c66",
   "lastOpenFiles": [
     "Untitled.canvas",
     "README.md",
