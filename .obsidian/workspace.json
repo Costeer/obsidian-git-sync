@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Dev/Colours.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Dev/Colours.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Dev/Colours.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,6 +192,7 @@
   },
   "active": "73b375a4fd04fa9b",
   "lastOpenFiles": [
+    "02 - Areas/Dev/Colours.md",
     "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
     "02 - Areas/Dev/Callouts.md",
     "02 - Areas/Dev/banner tests.md",
@@ -219,7 +220,6 @@
     "03 - Resources/Excalidraw/Drawing 2024-04-24 10.51.39.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-24 10.37.58.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-19 10.53.41.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-19 10.31.17.excalidraw.md",
     "03 - Resources/Pictures/Zzzzzzz.jpg",
     "03 - Resources/Pictures/Wn-6.jpeg",
     "03 - Resources/Pictures/Steigung Grafik.jpg",
