@@ -27,7 +27,7 @@ __export(main_exports, {
   default: () => CssEditorPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian4 = require("obsidian");
+var import_obsidian5 = require("obsidian");
 
 // src/views/CssEditorView.ts
 var import_obsidian = require("obsidian");
@@ -10048,9 +10048,10 @@ var ErrorNotice = class extends import_obsidian2.Notice {
 
 // src/modals/CssSnippetFuzzySuggestModal.ts
 var CssSnippetFuzzySuggestModal = class extends import_obsidian3.FuzzySuggestModal {
-  constructor(app) {
+  constructor(app, plugin) {
     super(app);
-    this.scope.register(["Meta"], "Enter", (evt) => {
+    this.plugin = plugin;
+    this.scope.register(["Mod"], "Enter", (evt) => {
       var _a, _b;
       if (!evt.isComposing && ((_b = (_a = this.chooser) == null ? void 0 : _a.useSelectedItem) == null ? void 0 : _b.call(_a, evt))) {
         return false;
@@ -10063,7 +10064,7 @@ var CssSnippetFuzzySuggestModal = class extends import_obsidian3.FuzzySuggestMod
       );
       return false;
     });
-    this.scope.register(["Meta"], "Delete", (evt) => {
+    this.scope.register(["Mod"], "Delete", (evt) => {
       var _a, _b;
       if (!evt.isComposing && ((_b = (_a = this.chooser) == null ? void 0 : _a.useSelectedItem) == null ? void 0 : _b.call(_a, evt))) {
         return false;
@@ -10191,22 +10192,29 @@ var CssSnippetFuzzySuggestModal = class extends import_obsidian3.FuzzySuggestMod
     const isCreateNewDueToNoSuggestion = this.inputEl.value.trim().length > 0 && item.match.score === 0;
     if (isCreateNewDueToNoSuggestion && item.item) {
       const openInNewTab = evt.metaKey;
-      await this.createAndOpenSnippet(item.item, openInNewTab);
+      await this.plugin.createAndOpenSnippet(item.item, openInNewTab);
     } else {
       await this.onChooseItem(item.item, evt);
     }
   }
   onNoSuggestion() {
-    var _a, _b, _c, _d;
-    super.onNoSuggestion();
+    var _a, _b, _c, _d, _e, _f, _g, _h;
     const item = this.inputEl.value.trim();
-    (_b = (_a = this.chooser) == null ? void 0 : _a.setSuggestions) == null ? void 0 : _b.call(_a, [
-      { item, match: { score: 0, matches: [] } }
-    ]);
-    (_d = (_c = this.chooser) == null ? void 0 : _c.addMessage) == null ? void 0 : _d.call(
-      _c,
-      "No CSS snippets found. Enter to create a new one."
-    );
+    if (item.length > 0) {
+      (_b = (_a = this.chooser) == null ? void 0 : _a.setSuggestions) == null ? void 0 : _b.call(_a, [
+        { item, match: { score: 0, matches: [] } }
+      ]);
+      (_d = (_c = this.chooser) == null ? void 0 : _c.addMessage) == null ? void 0 : _d.call(
+        _c,
+        "No CSS snippets found. Enter to create a new one."
+      );
+    } else {
+      (_f = (_e = this.chooser) == null ? void 0 : _e.setSuggestions) == null ? void 0 : _f.call(_e, []);
+      (_h = (_g = this.chooser) == null ? void 0 : _g.addMessage) == null ? void 0 : _h.call(
+        _g,
+        "No CSS snippets found. Type to search..."
+      );
+    }
   }
   async onChooseItem(item, evt) {
     if (!item)
@@ -10215,7 +10223,7 @@ var CssSnippetFuzzySuggestModal = class extends import_obsidian3.FuzzySuggestMod
       if (evt.key === "Enter") {
         const openInNewTab = evt.metaKey;
         if (evt.shiftKey) {
-          await this.createAndOpenSnippet(item, openInNewTab);
+          await this.plugin.createAndOpenSnippet(item, openInNewTab);
         } else {
           openView(this.app.workspace, VIEW_TYPE_CSS, openInNewTab, {
             filename: item
@@ -10236,19 +10244,6 @@ var CssSnippetFuzzySuggestModal = class extends import_obsidian3.FuzzySuggestMod
         filename: item
       });
     }
-  }
-  async createAndOpenSnippet(filename, openInNewTab) {
-    var _a, _b;
-    await createSnippetFile(this.app, filename, "");
-    (_b = (_a = this.app.customCss) == null ? void 0 : _a.setCssEnabledStatus) == null ? void 0 : _b.call(
-      _a,
-      filename.replace(".css", ""),
-      true
-    );
-    new InfoNotice(`${filename} was created.`);
-    openView(this.app.workspace, VIEW_TYPE_CSS, openInNewTab, {
-      filename
-    });
   }
 };
 
@@ -10306,16 +10301,67 @@ function isKeymapInfo(hotkey) {
   return !!hotkey && typeof hotkey === "object" && "key" in hotkey && typeof hotkey.key === "string" && "modifiers" in hotkey;
 }
 
+// src/modals/CssSnippetCreateModal.ts
+var import_obsidian4 = require("obsidian");
+var CssSnippetCreateModal = class extends import_obsidian4.Modal {
+  constructor(app, plugin) {
+    super(app);
+    this.value = "";
+    this.plugin = plugin;
+  }
+  onOpen() {
+    super.onOpen();
+    this.titleEl.setText("Create CSS Snippet");
+    this.containerEl.addClass("css-editor-create-modal");
+    this.buildForm();
+  }
+  buildForm() {
+    const textInput = new import_obsidian4.TextComponent(this.contentEl);
+    textInput.setPlaceholder("CSS snippet file name (ex: snippet.css)");
+    textInput.onChange((val) => this.value = val);
+    textInput.inputEl.addEventListener("keydown", (evt) => {
+      this.handleKeydown(evt);
+    });
+  }
+  async handleKeydown(evt) {
+    if (evt.key === "Escape") {
+      this.close();
+    } else if (evt.key === "Enter") {
+      try {
+        const openInNewTab = evt.metaKey;
+        await this.plugin.createAndOpenSnippet(
+          this.value,
+          openInNewTab
+        );
+        this.close();
+      } catch (err) {
+        if (err instanceof Error) {
+          new ErrorNotice(err.message);
+        } else {
+          new ErrorNotice("Failed to create file. Reason unknown.");
+        }
+      }
+    }
+  }
+};
+
 // src/main.ts
 var DEFAULT_SETTINGS = {};
-var CssEditorPlugin = class extends import_obsidian4.Plugin {
+var CssEditorPlugin = class extends import_obsidian5.Plugin {
   async onload() {
     await this.loadSettings();
+    this.addCommand({
+      id: "create-css-snippet",
+      name: "Create CSS Snippet",
+      callback: async () => {
+        new CssSnippetCreateModal(this.app, this).open();
+      }
+    });
     this.addCommand({
       id: "open-quick-switcher",
       name: "Open quick switcher",
       callback: async () => {
-        new CssSnippetFuzzySuggestModal(this.app).open();
+        new CssSnippetFuzzySuggestModal(this.app, this).open();
       }
     });
     this.addCommand({
@@ -10373,5 +10419,18 @@ var CssEditorPlugin = class extends import_obsidian4.Plugin {
   }
   async saveSettings() {
     await this.saveData(this.settings);
+  }
+  async createAndOpenSnippet(filename, openInNewTab) {
+    var _a, _b;
+    await createSnippetFile(this.app, filename, "");
+    (_b = (_a = this.app.customCss) == null ? void 0 : _a.setCssEnabledStatus) == null ? void 0 : _b.call(
+      _a,
+      filename.replace(".css", ""),
+      true
+    );
+    new InfoNotice(`${filename} was created.`);
+    openView(this.app.workspace, VIEW_TYPE_CSS, openInNewTab, {
+      filename
+    });
   }
 };
