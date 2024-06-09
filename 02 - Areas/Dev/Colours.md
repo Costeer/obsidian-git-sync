@@ -1,4 +1,4 @@
-#excalidraw --h1-color:                      var(--neutral-red);
+# --h1-color:                      var(--neutral-red);
 ## --h2-color:                      var(--neutral-aqua);
 ### --h3-color:                        var(--neutral-green);
 #### --h4-color:                     var(--neutral-yellow);

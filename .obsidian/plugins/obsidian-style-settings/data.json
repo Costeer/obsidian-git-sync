@@ -1,5 +1,6 @@
 {
   "vauxhall@@main-color": "vauxhall-indigo",
   "vauxhall@@color-intensity": "intensity-nebula",
-  "vauxhall@@h1-accent": true
+  "vauxhall@@h1-accent": false,
+  "vauxhall@@header-color-type": "headers-colorful"
 }
