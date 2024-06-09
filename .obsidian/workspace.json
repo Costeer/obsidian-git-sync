@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d9e016a25a4a549",
+        "id": "129a58226aba7227",
         "type": "tabs",
         "children": [
           {
-            "id": "e55d3740fcaf5246",
+            "id": "73b375a4fd04fa9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,15 +21,12 @@
             }
           },
           {
-            "id": "3019d4a446662acb",
+            "id": "6f0e67b967581874",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "currentVersion": "1.6.3"
               }
             }
           }
@@ -94,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +148,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,11 +198,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3019d4a446662acb",
+  "active": "6f0e67b967581874",
   "lastOpenFiles": [
-    "02 - Areas/Dev/Eww/{{<.md",
-    "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
     "README.md",
+    "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
+    "02 - Areas/Dev/Eww/{{<.md",
     "02 - Areas/Games/BDG3/Warlock Build.md",
     "02 - Areas/Games/BDG3",
     "02 - Areas/Games/Untitled.md",
