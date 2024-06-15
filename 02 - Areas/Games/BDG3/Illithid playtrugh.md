@@ -8,7 +8,8 @@ https://www.nexusmods.com/baldursgate3/mods/3956
 https://www.nexusmods.com/baldursgate3/mods/6045?tab=files&file_id=60468
 ###### Native Camera Tweaks
 https://www.nexusmods.com/baldursgate3/mods/945?
-######
+###### Half-Face Illithid Veins
+https://www.nexusmods.com/baldursgate3/mods/3295?tab=description
 
 #### Maybe:
 
