@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +189,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "4c168097e1047b51",
+  "active": "edf8306d8d260ce1",
   "lastOpenFiles": [
     "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
     "README.md",
