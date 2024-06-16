@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0247b674621967e0",
+        "id": "8ae4e9b4bd325efd",
         "type": "tabs",
         "children": [
           {
-            "id": "4c168097e1047b51",
+            "id": "3c9a503307f45fe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,11 +189,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "4c168097e1047b51",
+  "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
     "02 - Areas/Games/BDG3/Warlock Build.md",
-    "02 - Areas/Games/BDG3/Illithid playtrugh.md",
     "README.md",
+    "02 - Areas/Games/BDG3/Illithid playtrugh.md",
     "99 - Meta/00 - Templates/Default Template.md",
     "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
     "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",

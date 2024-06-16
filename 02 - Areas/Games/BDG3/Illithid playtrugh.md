@@ -11,6 +11,8 @@ https://www.nexusmods.com/baldursgate3/mods/945?
 ###### Half-Face Illithid Veins
 https://www.nexusmods.com/baldursgate3/mods/3295?tab=description
 
+##### Succubus class
+https://www.nexusmods.com/baldursgate3/mods/7235?tab=description
 #### Maybe:
 
 https://www.nexusmods.com/baldursgate3/mods/2538
