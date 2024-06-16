@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,15 +188,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "2b0bf9475c6b850a",
+  "active": "4c168097e1047b51",
   "lastOpenFiles": [
-    "02 - Areas/Games/BDG3/Illithid playtrugh.md",
+    "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
     "README.md",
+    "02 - Areas/Games/BDG3/Illithid playtrugh.md",
     "02 - Areas/Games/BDG3/Warlock Build.md",
     "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
     "Untitled.canvas",
     "02 - Areas/Dev/Colours.md",
-    "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
     "02 - Areas/Dev/Callouts.md",
     "02 - Areas/Dev/banner tests.md",
     "02 - Areas/Dev/Gruvbox read me.md",
