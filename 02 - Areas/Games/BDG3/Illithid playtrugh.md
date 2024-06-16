@@ -13,6 +13,9 @@ https://www.nexusmods.com/baldursgate3/mods/3295?tab=description
 
 ##### Succubus class
 https://www.nexusmods.com/baldursgate3/mods/7235?tab=description
+
+##### Script extender config 
+https://www.nexusmods.com/baldursgate3/mods/7283?tab=files&file_id=47064
 #### Maybe:
 
 https://www.nexusmods.com/baldursgate3/mods/2538
