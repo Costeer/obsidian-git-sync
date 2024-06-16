@@ -20,6 +20,9 @@ https://www.nexusmods.com/baldursgate3/mods/7283?tab=files&file_id=47064
 ##### Tav's hair
 https://www.nexusmods.com/baldursgate3/mods/213
 
+##### Scantily Camp Outfit 
+https://www.nexusmods.com/baldursgate3/mods/2617
+
 
 #### Maybe:
 
