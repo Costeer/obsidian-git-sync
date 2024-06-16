@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "4c168097e1047b51",
+  "active": "2b0bf9475c6b850a",
   "lastOpenFiles": [
     "02 - Areas/Games/BDG3/Illithid playtrugh.md",
     "README.md",
