@@ -24,6 +24,7 @@ https://www.nexusmods.com/baldursgate3/mods/213
 https://www.nexusmods.com/baldursgate3/mods/2617
 
 
+##### polyamory
 https://www.nexusmods.com/baldursgate3/mods/1529?tab=files
 
 #### Maybe:
