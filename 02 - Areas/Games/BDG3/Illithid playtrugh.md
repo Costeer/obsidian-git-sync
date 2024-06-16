@@ -16,6 +16,11 @@ https://www.nexusmods.com/baldursgate3/mods/7235?tab=description
 
 ##### Script extender config 
 https://www.nexusmods.com/baldursgate3/mods/7283?tab=files&file_id=47064
+
+##### Tav's hair
+https://www.nexusmods.com/baldursgate3/mods/213
+
+
 #### Maybe:
 
 https://www.nexusmods.com/baldursgate3/mods/2538
