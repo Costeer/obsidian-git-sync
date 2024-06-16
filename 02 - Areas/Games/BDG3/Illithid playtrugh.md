@@ -14,3 +14,13 @@ https://www.nexusmods.com/baldursgate3/mods/3295?tab=description
 #### Maybe:
 
 https://www.nexusmods.com/baldursgate3/mods/2538
+
+https://www.nexusmods.com/baldursgate3/mods/7030
+
+https://www.nexusmods.com/baldursgate3/mods/8396
+
+https://www.nexusmods.com/baldursgate3/mods/1226
+
+https://www.nexusmods.com/baldursgate3/mods/6589
+
+https://www.nexusmods.com/baldursgate3/mods/5763?tab=files
