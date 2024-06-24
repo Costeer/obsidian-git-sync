@@ -43,6 +43,8 @@ else if (dayOfWeek == "Su")
 ## Journal
 #### What did i do today?
 
+
+
 ***
 ### Tasks
 - [ ] Task 1
