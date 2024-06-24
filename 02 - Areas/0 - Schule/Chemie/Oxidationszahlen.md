@@ -3,3 +3,5 @@ Oxidationszahlen geben die Anzahl von e- an welche von einem Atom innerhalb eine
 
 **Ähnlich**:
 [[Oxidation]] 
+
+#chemie

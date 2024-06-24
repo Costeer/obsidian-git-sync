@@ -1364,6 +1364,7 @@ correctiv
 campact
 chemie
 chemischer
+crust
 span
 style
 sync
@@ -3430,6 +3431,8 @@ stabiles
 sodass
 subatomare
 starken
+steigender
+sekundären
 Obsidic
 Obsidian
 OS
@@ -4270,6 +4273,8 @@ OneDark
 Overhaul
 Osmose
 Orbit
+Ordnungszahl
+Oxidation
 Ein
 Einstellungen
 Empfohlene
@@ -5256,6 +5261,7 @@ Ethan
 Ethen
 Ethin
 Einmolare
+Elektronenabgabe
 repo
 rein
 rechtfertigen
@@ -6504,6 +6510,8 @@ rohöl
 rohre
 reie
 ringe
+radikale
+reaktionsbereitschaft
 mit
 muss
 man
@@ -10660,6 +10668,7 @@ ternary
 transition
 toggle
 tag
+tertiären
 und
 unbekannte
 um
@@ -11496,6 +11505,7 @@ unset
 unterteilt
 unpolar
 unterschiedliche
+unverzweigte
 einfachem
 emulator
 einfügen
@@ -12831,6 +12841,7 @@ erlangt
 extrem
 ermöglichen
 elektrisch
+endständiger
 über
 übernehmen
 überkategorie
@@ -14215,6 +14226,7 @@ gaß
 gegensatzt
 gewichtseinheiten
 gewicht
+gesättigte
 Installation
 Ipad
 Internet
@@ -16127,6 +16139,8 @@ Use
 Unterstützt
 Unterschiedlichen
 Untergruppen
+Unterscheiden
+Unterscheidung
 alle
 arbeit
 anderen
@@ -17525,6 +17539,7 @@ auftreten
 alkan
 aufweisen
 ausenvorlassen
+abgegeben
 nötigen
 notizen
 nach
@@ -20421,6 +20436,8 @@ onrightclick
 origin
 ocular
 organischen
+oxidiert
+oxidation
 zu
 zusammenfasungen
 zum
@@ -21308,6 +21325,7 @@ zentriepetahlkraft
 zeitgleich
 zweier
 zusammengehalten
+zusammengesetzt
 dier
 diesen
 den
@@ -23755,6 +23773,7 @@ input
 italic
 internal
 info
+interesant
 Wahl
 Windows
 Wie
@@ -24739,6 +24758,10 @@ Wasserstoff
 Wird
 Wesentlichen
 Weiß
+Wasserstoffatome
+Wasserstoffatom
+Wachsalkohole
+Wofür
 Linux
 Links
 Lautstärke
@@ -27483,6 +27506,9 @@ Kettengliedes
 Kation
 Kohlenstoffketten
 Kombinationen
+Kernladung
+Kohlenstoffatom
+Kohlenstoffatomen
 Alle
 Areas
 Archives
@@ -28489,6 +28515,9 @@ Alkine
 Aromaten
 Atommasse
 Anziehungskraft
+Abgabe
+Alkohole
+Aufname
 Powershell
 Para
 Projects
@@ -29350,6 +29379,10 @@ Physik
 Plasma
 Petrochemie
 Propen
+Periodensystem
+PSE
+Perioden
+Passiert
 werden
 wie
 wo
@@ -32739,6 +32772,7 @@ beweglichen
 beruht
 böden
 bekanntesten
+besitzt
 kopieren
 kombination
 kommt
@@ -33672,6 +33706,7 @@ kühlt
 kondensieren
 konventionellen
 konventioneller
+konventionelle
 GitHub
 Gesprächs
 Gestik
@@ -34756,6 +34791,8 @@ Gear
 Grundwissen
 Gleiche
 Gase
+Glucose
+Gluconsäure
 How
 Hintergrund
 HH
@@ -37955,6 +37992,8 @@ protestierten
 physikalischer
 polare
 präzision
+primären
+primärer
 Zettelkasten
 Zerstöre
 Zukunft
@@ -39774,6 +39813,7 @@ Molzahl
 Molekühle
 Messungen
 Molmasse
+Moleküls
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -40481,6 +40521,7 @@ CaCo
 Cracking
 Chemie
 Chemische
+COH
 Resources
 Regeln
 Rede
@@ -41468,6 +41509,7 @@ Resouces
 References
 Reaktionen
 Rohöl
+Radikale
 Fleeting
 Fleting
 Feld
@@ -42571,6 +42613,10 @@ FasBold
 Forgang
 Fraktionierte
 Formelzeichen
+Fettalkohole
+Fettsäuren
+Fructosen
+Fructose
 helfen
 haben
 hier
@@ -48251,6 +48297,7 @@ Synthese
 Stoffmenge
 Salzwasser
 Stoffmengenkonzentration
+Silberspiegelproben
 Journal
 Jetzt
 JFIF
@@ -49969,6 +50016,9 @@ Blau
 Bestandteil
 Brennstoffe
 Benzol
+Bindungspartner
+Beschrieben
+Bausteinen
 Quelle
 Quiz
 Qa
