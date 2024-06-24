@@ -1355,6 +1355,10 @@ conjunction
 consume
 configure
 checken
+customize
+checklist
+checkbox
+caa
 span
 style
 sync
@@ -3408,6 +3412,9 @@ sep
 scss
 surface
 siduck
+swamp
+srgb
+svg
 Obsidic
 Obsidian
 OS
@@ -6453,6 +6460,8 @@ reload
 rxyhn
 requests
 rausgeschmissen
+relies
+root
 mit
 muss
 man
@@ -7609,6 +7618,10 @@ musss
 mol
 minimal
 min
+metadata
+marker
+modifier
+margin
 Theme
 Terminal
 Templates
@@ -10584,6 +10597,7 @@ tooltip
 ternary
 transition
 toggle
+tag
 und
 unbekannte
 um
@@ -17399,6 +17413,9 @@ advise
 allows
 awk
 avg
+aaaaaa
+aedbfa
+align
 nötigen
 notizen
 nach
@@ -19498,6 +19515,10 @@ foremost
 fennel
 fields
 fahrschuhlprüfung
+ffffff
+fcadaa
+fff
+ffd
 obsidian
 organisiert
 of
@@ -23601,6 +23622,9 @@ images
 iSparsh
 involving
 inplementiert
+input
+italic
+internal
 Wahl
 Windows
 Wie
@@ -32507,6 +32531,7 @@ baseline
 bool
 btns
 battery
+blockquote
 kopieren
 kombination
 kommt
@@ -35473,6 +35498,7 @@ Head
 Height
 However
 Hence
+HyperMD
 Vault
 Vollends
 Verlinkungen
@@ -37691,6 +37717,8 @@ powermenu
 poweroff
 padding
 png
+primary
+pill
 Zettelkasten
 Zerstöre
 Zukunft
@@ -39490,6 +39518,7 @@ Morning
 Midday
 Midnight
 Modlist
+Mono
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -40190,6 +40219,8 @@ Cheers
 Ceremorphosis
 Camera
 Checkbox
+CyanVoxel
+CSS
 Resources
 Regeln
 Rede
@@ -43326,6 +43357,9 @@ heights
 horizontal
 halign
 hexpand
+highlight
+header
+hmd
 lediglich
 lassen
 letzte
@@ -48670,6 +48704,8 @@ JjR
 JEKA
 JZl
 JSON
+Jamjuree
+JetBrainsMono
 Beziehe
 Beobachtungsbogen
 Blickkontakt
@@ -49607,6 +49643,7 @@ BATTERY
 BAT
 Behold
 Battlesquid
+Bai
 Quelle
 Quiz
 Qa

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/2024-06-24.md",
+                "file": "99 - Meta/00 - Templates/Daily Note Themes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/2024-06-24.md",
+                "file": "99 - Meta/00 - Templates/Daily Note Themes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 - Daily/2024-06-24.md",
+                "file": "99 - Meta/00 - Templates/Daily Note Themes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
   },
   "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
-    "06 - Daily/2024-04-01 First Daily Note.md",
+    "99 - Meta/00 - Templates/Daily Template.md",
+    "99 - Meta/00 - Templates/Daily Note Themes.md",
     "06 - Daily/2024-06-24.md",
+    "06 - Daily/2024-04-01 First Daily Note.md",
     "06 - Daily/2024-04-04.md",
     "06 - Daily/2024-04-03.md",
-    "99 - Meta/00 - Templates/Daily Note Themes.md",
-    "99 - Meta/00 - Templates/Daily Template.md",
     "README.md",
     "02 - Areas/Games/BDG3/Illithid playtrugh.md",
     "02 - Areas/Games/BDG3/Warlock Build.md",
