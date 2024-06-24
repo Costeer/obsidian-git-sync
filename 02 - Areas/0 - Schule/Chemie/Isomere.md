@@ -4,3 +4,5 @@
 - Diese Stoffe haben unterschiedliche Eigenschaften und reagieren deshalb auch unterschiedlich.
 
 ![[Isomere Isomeriearten.png]]
+
+#chemie

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Elektronenhülle.md",
+                "file": "02 - Areas/0 - Schule/Chemie/Neutron.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Elektronenhülle.md",
+                "file": "02 - Areas/0 - Schule/Chemie/Neutron.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Elektronenhülle.md",
+                "file": "02 - Areas/0 - Schule/Chemie/Neutron.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,6 +191,17 @@
   },
   "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Chemie/Mol™.md",
+    "02 - Areas/0 - Schule/Chemie/Molekül.md",
+    "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
+    "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes.md",
+    "02 - Areas/0 - Schule/Chemie/Kohlenwasserstoffe.md",
+    "02 - Areas/0 - Schule/Chemie/Isomere.md",
+    "02 - Areas/0 - Schule/Chemie/Ion.md",
+    "02 - Areas/0 - Schule/Chemie/Homogene reie.md",
+    "02 - Areas/0 - Schule/Chemie/Hadron.md",
+    "02 - Areas/0 - Schule/Chemie/Fraktionierte Destillation.md",
+    "02 - Areas/0 - Schule/Chemie/Elektronenhülle.md",
     "02 - Areas/0 - Schule/Chemie/Elektronegativität.md",
     "02 - Areas/0 - Schule/Chemie/Elektron.md",
     "02 - Areas/0 - Schule/Chemie/Dipolar.md",
@@ -206,17 +217,6 @@
     "02 - Areas/0 - Schule/Biologie/Diffusion.md",
     "02 - Areas/0 - Schule/Biologie/Osmose.md",
     "README.md",
-    "04 - Permanent/Protektionismus.md",
-    "04 - Permanent/Kjnvfjnv.md",
-    "05 - Fleeting/Legehennen.md",
-    "05 - Fleeting/Haspe.md",
-    "05 - Fleeting/Debatte zu gendersprache.md",
-    "05 - Fleeting/Bauernproteste.md",
-    "05 - Fleeting/Anti Villain.md",
-    "05 - Fleeting/1923 erstes Motor Flugzeug.md",
-    "04 - Permanent/Freihandel.md",
-    "04 - Permanent/Devisenbewirtschaftung.md",
-    "99 - Meta/00 - Templates/Daily Template.md",
     "Untitled.canvas",
     "02 - Areas/Games/BDG3",
     "02 - Areas/Games",

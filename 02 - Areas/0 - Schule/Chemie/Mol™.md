@@ -11,3 +11,5 @@ Wenn ein Liter Salzwasser genau ein Mol Salz enthält, haben wir eine **Einmolar
 
 #### Einmolare Gase
 Bei einem gaß ohne Anziehungskraft unter den Teilchen nimmt **1mol 22.4 lieter** ein
+
+#chemie

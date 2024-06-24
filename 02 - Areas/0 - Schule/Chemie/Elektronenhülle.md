@@ -4,3 +4,4 @@ Eine Art Orbit auf dem die [[Elektron]]en die sich in einem [[Atom]] befinden be
 Elektronenhüllen hier Weiß
 ![[Silber-Elekronenkonfiguration.excalidraw]]
 *Silber Atom*
+#chemie

@@ -5,3 +5,5 @@ Erdöhl enthält viele verschiedene [[Kohlenwasserstoffe]] um diese zu verarbeit
 
 **2.) Trennung**
 Auf den unteren böden kondensieren die [[Kohlenwasserstoffe]] mit höheren Siedetemperaturen (da wo die zu gaß werden duh) weiter oben die mit niedrigeren 
+
+#chemie
