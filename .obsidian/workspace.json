@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "99 - Meta/00 - Templates/Daily Template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "99 - Meta/00 - Templates/Daily Template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "99 - Meta/00 - Templates/Daily Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,9 +191,12 @@
   },
   "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
+    "06 - Daily/2024-04-04.md",
+    "06 - Daily/2024-04-03.md",
+    "06 - Daily/2024-04-01 First Daily Note.md",
+    "README.md",
     "02 - Areas/Games/BDG3/Illithid playtrugh.md",
     "02 - Areas/Games/BDG3/Warlock Build.md",
-    "README.md",
     "99 - Meta/00 - Templates/Default Template.md",
     "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
     "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
@@ -217,9 +220,6 @@
     "03 - Resources/Excalidraw/Drawing 2024-05-07 08.19.39.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-04-26 09.36.02.excalidraw.md",
     "03 - Resources/Excalidraw/Drawing 2024-05-02 12.47.06.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-26 09.38.54.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-26 09.32.43.excalidraw.md",
-    "03 - Resources/Excalidraw/Drawing 2024-04-24 10.51.39.excalidraw.md",
     "03 - Resources/Pictures/Zzzzzzz.jpg",
     "03 - Resources/Pictures/Wn-6.jpeg",
     "03 - Resources/Pictures/Steigung Grafik.jpg",

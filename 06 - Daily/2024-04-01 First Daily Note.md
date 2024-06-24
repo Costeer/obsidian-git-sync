@@ -6,6 +6,7 @@ cssclasses:
   - daily
   - monday
 ---
+
 # DAILY NOTE
 ## Monday, April 1st, 2024
 ***

@@ -36,6 +36,7 @@ else if (dayOfWeek == "Su")
 }
 %>
 ---
+
 # DAILY NOTE
 ## <%tp.date.now("dddd, MMMM Do, YYYY")%>
 ***
