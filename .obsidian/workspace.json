@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Silberspiegelprobe.md",
+                "file": "02 - Areas/0 - Schule/Chemie/Zucker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Silberspiegelprobe.md",
+                "file": "02 - Areas/0 - Schule/Chemie/Zucker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Silberspiegelprobe.md",
+                "file": "02 - Areas/0 - Schule/Chemie/Zucker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,6 +191,13 @@
   },
   "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Chemie/Van der Waals kräfte.md",
+    "02 - Areas/0 - Schule/Chemie/Unpolare Moleküle.md",
+    "02 - Areas/0 - Schule/Chemie/Untitled.md",
+    "02 - Areas/0 - Schule/Chemie/Temporäre Dipole.md",
+    "02 - Areas/0 - Schule/Chemie/Strahlung.md",
+    "02 - Areas/0 - Schule/Chemie/Spektroskopie.md",
+    "02 - Areas/0 - Schule/Chemie/Silberspiegelprobe.md",
     "02 - Areas/0 - Schule/Chemie/Sauerstoff Verbindungen oder Kohlenwasserstoffe.md",
     "02 - Areas/0 - Schule/Chemie/Sauerstoffverbindungen RedoxReaktionen.md",
     "02 - Areas/0 - Schule/Chemie/Reduktion.md",
@@ -210,13 +217,6 @@
     "02 - Areas/0 - Schule/Chemie/Kohlenwasserstoffe.md",
     "02 - Areas/0 - Schule/Chemie/Isomere.md",
     "02 - Areas/0 - Schule/Chemie/Ion.md",
-    "02 - Areas/0 - Schule/Chemie/Homogene reie.md",
-    "02 - Areas/0 - Schule/Chemie/Hadron.md",
-    "02 - Areas/0 - Schule/Chemie/Fraktionierte Destillation.md",
-    "02 - Areas/0 - Schule/Chemie/Elektronenhülle.md",
-    "02 - Areas/0 - Schule/Chemie/Elektronegativität.md",
-    "02 - Areas/0 - Schule/Chemie/Elektron.md",
-    "02 - Areas/0 - Schule/Chemie/Dipolar.md",
     "Untitled.canvas",
     "02 - Areas/Games/BDG3",
     "02 - Areas/Games",

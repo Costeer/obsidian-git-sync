@@ -6,3 +6,6 @@ Van-der-Waals-Kräfte (Van-der-Waals-Wechselwirkungen), benannt nach dem niederl
 - Debye-Wechselwirkung zwischen einem Dipol und einem polarisierbaren Molekül (Dipol-induzierter-Dipol-Kräfte)
 
 - Londonsche Dispersionswechselwirkung (London-Kräfte) zwischen zwei polarisierbaren Molekülen (Induzierter-Dipol-induzierter-Dipol-Kräfte). Die London-Kräfte werden oft auch als Van-der-Waals-Kraft im engeren Sinne bezeichnet.
+
+
+#chemie

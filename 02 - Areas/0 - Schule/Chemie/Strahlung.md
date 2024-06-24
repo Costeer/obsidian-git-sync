@@ -5,3 +5,5 @@ Die Unterscheidung zwischen Teilchen und Wellen ist historisch und hat als ansch
 
 ## Grundlagen
 Trifft strahlung auf ein hindernis, wird sie entweder absorbiert (aufgenommen und umgewandelt) hindurgelassen (transmittiert) Gebeugt,gebrochen,gestreut oder reflektiert. 
+
+#chemie
