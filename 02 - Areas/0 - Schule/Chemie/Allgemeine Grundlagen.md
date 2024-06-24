@@ -20,3 +20,5 @@ Gleiche Molare Mengen an Lauge und säure ergeben eine "neutrale" lösung, d.h. 
 Hcl + NaOH --> Nacl (gelöst) + H2O
 
 H2CO3 + Ca(OH)2 --> CaCo3(kalk) + H2O
+
+#chemie

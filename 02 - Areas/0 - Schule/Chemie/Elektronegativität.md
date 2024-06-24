@@ -16,3 +16,5 @@ Bindungen mit einer [[∆EN]] von **über 0,5** und **unter 1.7** sind polare At
 
 ###### Unter 0,5
 Bindungen mit einer [[∆EN]] **von 0-0,5** sind unpolar
+
+#chemie

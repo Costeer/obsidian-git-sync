@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/1.) Chemie Verzeichnis.md",
+                "file": "02 - Areas/0 - Schule/Chemie/Elektronenhülle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/1.) Chemie Verzeichnis.md",
+                "file": "02 - Areas/0 - Schule/Chemie/Elektronenhülle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/1.) Chemie Verzeichnis.md",
+                "file": "02 - Areas/0 - Schule/Chemie/Elektronenhülle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,8 +191,18 @@
   },
   "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
-    "02 - Areas/0 - Schule/Chemie/∆EN.md",
+    "02 - Areas/0 - Schule/Chemie/Elektronegativität.md",
+    "02 - Areas/0 - Schule/Chemie/Elektron.md",
+    "02 - Areas/0 - Schule/Chemie/Dipolar.md",
+    "02 - Areas/0 - Schule/Chemie/Cracking Chemie.md",
+    "02 - Areas/0 - Schule/Chemie/Carbonylgruppe.md",
+    "02 - Areas/0 - Schule/Chemie/Außenelektronen.md",
     "02 - Areas/0 - Schule/Chemie/Atom.md",
+    "02 - Areas/0 - Schule/Chemie/Allgemeine Grundlagen.md",
+    "02 - Areas/0 - Schule/Chemie/Alkane.md",
+    "02 - Areas/0 - Schule/Chemie/Aldehyde.md",
+    "02 - Areas/0 - Schule/Chemie/1.) Chemie Verzeichnis.md",
+    "02 - Areas/0 - Schule/Chemie/∆EN.md",
     "02 - Areas/0 - Schule/Biologie/Diffusion.md",
     "02 - Areas/0 - Schule/Biologie/Osmose.md",
     "README.md",
@@ -207,16 +217,6 @@
     "04 - Permanent/Freihandel.md",
     "04 - Permanent/Devisenbewirtschaftung.md",
     "99 - Meta/00 - Templates/Daily Template.md",
-    "06 - Daily/2024-06-24.md",
-    "06 - Daily/2024-04-04.md",
-    "06 - Daily/2024-04-01 First Daily Note.md",
-    "02 - Areas/Dev/Daily Note Themes.md",
-    "02 - Areas/Dev/Colours.md",
-    "06 - Daily/2024-04-03.md",
-    "02 - Areas/Games/BDG3/Illithid playtrugh.md",
-    "02 - Areas/Games/BDG3/Warlock Build.md",
-    "99 - Meta/00 - Templates/Default Template.md",
-    "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
     "Untitled.canvas",
     "02 - Areas/Games/BDG3",
     "02 - Areas/Games",

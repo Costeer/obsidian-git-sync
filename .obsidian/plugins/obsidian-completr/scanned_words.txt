@@ -3424,6 +3424,8 @@ streiken
 stoppen
 sogenannten
 standard
+säure
+stabiles
 Obsidic
 Obsidian
 OS
@@ -4263,6 +4265,7 @@ Objektes
 OneDark
 Overhaul
 Osmose
+Orbit
 Ein
 Einstellungen
 Empfohlene
@@ -5239,6 +5242,9 @@ Einwirkung
 Eigenbewegung
 Entropie
 Elektronegativität
+Elementarteilchen
+Erklährung
+Elektronenhüllen
 repo
 rein
 rechtfertigen
@@ -7646,6 +7652,7 @@ margin
 menschliche
 mahle
 mehrerer
+mittelkettige
 Theme
 Terminal
 Templates
@@ -9618,6 +9625,8 @@ vertigo
 vault
 verbesserungen
 vollständigen
+valenzelektronen
+vorhandenen
 templates
 terminal
 token
@@ -11458,6 +11467,7 @@ users
 underdeveloped
 unset
 unterteilt
+unpolar
 einfachem
 emulator
 einfügen
@@ -12783,6 +12793,9 @@ elkowar
 echt
 eintretende
 erhöht
+ergeben
+entspringt
+elektronegativität
 über
 übernehmen
 überkategorie
@@ -14157,6 +14170,12 @@ geflogen
 gasförmigen
 gleichmäßige
 gelösten
+gesättigter
+gelöst
+geladenes
+gewöhnlicher
+gesamte
+gebundenen
 Installation
 Ipad
 Internet
@@ -15064,6 +15083,7 @@ Illithid
 Imperatus
 Ipki
 Intervention
+Ionen
 Um
 Urteile
 Urteil
@@ -16065,6 +16085,7 @@ UOK
 UDP
 Use
 Unterstützt
+Unterschiedlichen
 alle
 arbeit
 anderen
@@ -17456,6 +17477,10 @@ align
 ablaufender
 aufgrund
 ausgerechnet
+aldehyde
+alkane
+atomen
+auftreten
 nötigen
 notizen
 nach
@@ -18364,6 +18389,9 @@ nesting
 nmcli
 network
 nzz
+nichtmetalloxid
+neutrale
+negativ
 für
 fenster
 folder
@@ -22620,6 +22648,7 @@ darkgrey
 dharmx
 druskus
 diffundieren
+doppelbindung
 in
 installiert
 indem
@@ -24654,6 +24683,9 @@ Widgets
 Wehrhafte
 WeAct
 Wasserstoff
+Wird
+Wesentlichen
+Weiß
 Linux
 Links
 Lautstärke
@@ -25531,6 +25563,8 @@ Landtagswahl
 Legehennen
 Ladungsträger
 Lösungsmittel
+Lauge
+Lila
 DE
 Der
 Daily
@@ -26416,6 +26450,7 @@ Deutschlandfunk
 Diffusion
 Durchmischung
 Differenz
+Diesel
 Kitty
 Kategorien
 Kochen
@@ -27387,6 +27422,8 @@ Kfz
 Kapazität
 Kohlenstoff
 Konzentrationsgefälles
+Katalüsator
+Kohlenwasserstoffe
 Alle
 Areas
 Archives
@@ -28383,6 +28420,10 @@ Arome
 Atoms
 Ausgleich
 Atmosphären
+Außenelektronen
+Ausenelektron
+Anziehungskräfte
+Atombindungen
 Powershell
 Para
 Projects
@@ -29242,6 +29283,7 @@ Proteste
 POLITIK
 Physik
 Plasma
+Petrochemie
 werden
 wie
 wo
@@ -30383,6 +30425,7 @@ windowtype
 widths
 wifi
 workflow
+wichtg
 Niemals
 Nicht
 Note
@@ -31236,6 +31279,12 @@ NOT
 Notice
 Native
 Nebengruppen
+Nichtmetalle
+Nichtmetall
+Nichtmetalloxid
+NaOH
+Nacl
+Natrium
 befehle
 bekommen
 befinden
@@ -32620,6 +32669,7 @@ bauernprottest
 bpb
 basierend
 beweglichen
+beruht
 kopieren
 kombination
 kommt
@@ -33546,6 +33596,9 @@ kreismittelpunkt
 konstante
 konzentration
 komplettes
+kalk
+kurzkettige
+klassifiziert
 GitHub
 Gesprächs
 Gestik
@@ -34628,6 +34681,7 @@ Gilt
 Gesamte
 Gear
 Grundwissen
+Gleiche
 How
 Hintergrund
 HH
@@ -35594,6 +35648,8 @@ Höcke
 Hurensöhne
 Haspe
 Haupt
+Hcl
+Heizöl
 Vault
 Vollends
 Verlinkungen
@@ -37818,6 +37874,7 @@ primary
 pill
 protestierten
 physikalischer
+polare
 Zettelkasten
 Zerstöre
 Zukunft
@@ -39623,6 +39680,14 @@ Medien
 Maut
 Materialeigenschaften
 Membran
+Mehrfachbindungen
+Metalle
+Metalloxide
+Metalloxid
+Molare
+Mengen
+Materie
+Moleküle
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -40325,6 +40390,10 @@ Camera
 Checkbox
 CyanVoxel
 CSS
+Carbonylgruppe
+CaCo
+Cracking
+Chemie
 Resources
 Regeln
 Rede
@@ -42410,6 +42479,7 @@ Flugverkehr
 Freies
 Feststoffe
 Fachbegriffe
+FasBold
 helfen
 haben
 hier
@@ -43473,6 +43543,7 @@ header
 hmd
 hPa
 hektoPascal
+hinzugezogen
 lediglich
 lassen
 letzte
@@ -44503,6 +44574,7 @@ lightgrey
 logs
 lumin
 lol
+lösung
 XX
 Xn
 Xi
@@ -45984,6 +46056,7 @@ janleigh
 äF
 äK
 äN
+äußersten
 YYYY
 YJ
 Yv
@@ -48067,6 +48140,16 @@ Sauerstoff
 Stoffgemischen
 Systems
 Stoff
+Stoffgruppe
+Säure
+Schwefelsäure
+Säuren
+Salz
+Schale
+SIlber
+Stoffumwandlung
+Schweröl
+Symbol
 Journal
 Jetzt
 JFIF
@@ -49776,6 +49859,12 @@ Bauernprotesten
 Bundestagswahl
 Boing
 Bausteine
+Bindung
+BIld
+Benzin
+Bindungen
+Bestandteile
+Blau
 Quelle
 Quiz
 Qa
