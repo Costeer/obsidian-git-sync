@@ -11,13 +11,8 @@
             "id": "3c9a503307f45fe9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -80,7 +75,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +132,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +155,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.4444444444444444,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -191,6 +184,7 @@
   },
   "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
+    "README.md",
     "04 - Permanent/Protektionismus.md",
     "04 - Permanent/Kjnvfjnv.md",
     "05 - Fleeting/Legehennen.md",
@@ -208,7 +202,6 @@
     "02 - Areas/Dev/Daily Note Themes.md",
     "02 - Areas/Dev/Colours.md",
     "06 - Daily/2024-04-03.md",
-    "README.md",
     "02 - Areas/Games/BDG3/Illithid playtrugh.md",
     "02 - Areas/Games/BDG3/Warlock Build.md",
     "99 - Meta/00 - Templates/Default Template.md",
