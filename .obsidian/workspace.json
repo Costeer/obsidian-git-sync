@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Games/BDG3/Illithid playtrugh.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/Games/BDG3/Illithid playtrugh.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Games/BDG3/Illithid playtrugh.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,18 +182,18 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
+    "02 - Areas/Games/BDG3/Illithid playtrugh.md",
     "02 - Areas/Games/BDG3/Warlock Build.md",
     "README.md",
-    "02 - Areas/Games/BDG3/Illithid playtrugh.md",
     "99 - Meta/00 - Templates/Default Template.md",
     "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
     "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
