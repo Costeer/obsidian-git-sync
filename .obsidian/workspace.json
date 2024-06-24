@@ -34,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,6 +183,7 @@
   },
   "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
+    "03 - Resources/Excalidraw/carbonylgruppe.excalidraw.md",
     "02 - Areas/0 - Schule/Chemie/Zucker.md",
     "02 - Areas/0 - Schule/Chemie/Van der Waals kräfte.md",
     "02 - Areas/0 - Schule/Chemie/Unpolare Moleküle.md",
@@ -209,7 +209,6 @@
     "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
     "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes.md",
     "02 - Areas/0 - Schule/Chemie/Kohlenwasserstoffe.md",
-    "02 - Areas/0 - Schule/Chemie/Isomere.md",
     "Untitled.canvas",
     "02 - Areas/Games/BDG3",
     "02 - Areas/Games",
