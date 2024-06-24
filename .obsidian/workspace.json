@@ -11,13 +11,8 @@
             "id": "3c9a503307f45fe9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Zucker.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -80,7 +75,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Zucker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +132,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/0 - Schule/Chemie/Zucker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,6 +184,7 @@
   },
   "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Chemie/Zucker.md",
     "02 - Areas/0 - Schule/Chemie/Van der Waals kräfte.md",
     "02 - Areas/0 - Schule/Chemie/Unpolare Moleküle.md",
     "02 - Areas/0 - Schule/Chemie/Untitled.md",
@@ -216,7 +210,6 @@
     "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes.md",
     "02 - Areas/0 - Schule/Chemie/Kohlenwasserstoffe.md",
     "02 - Areas/0 - Schule/Chemie/Isomere.md",
-    "02 - Areas/0 - Schule/Chemie/Ion.md",
     "Untitled.canvas",
     "02 - Areas/Games/BDG3",
     "02 - Areas/Games",
