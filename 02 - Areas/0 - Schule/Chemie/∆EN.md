@@ -1,1 +1,3 @@
 ∆ [[Elektronegativität]] die ausgerechnet Differenz der Elektronegativität der Atome
+
+#chemie

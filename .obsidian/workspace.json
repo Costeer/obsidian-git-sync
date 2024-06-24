@@ -11,8 +11,13 @@
             "id": "3c9a503307f45fe9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/0 - Schule/Chemie/1.) Chemie Verzeichnis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Areas/0 - Schule/Chemie/1.) Chemie Verzeichnis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,6 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 - Areas/0 - Schule/Chemie/1.) Chemie Verzeichnis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +162,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.4444444444444444,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -184,6 +191,10 @@
   },
   "active": "3c9a503307f45fe9",
   "lastOpenFiles": [
+    "02 - Areas/0 - Schule/Chemie/∆EN.md",
+    "02 - Areas/0 - Schule/Chemie/Atom.md",
+    "02 - Areas/0 - Schule/Biologie/Diffusion.md",
+    "02 - Areas/0 - Schule/Biologie/Osmose.md",
     "README.md",
     "04 - Permanent/Protektionismus.md",
     "04 - Permanent/Kjnvfjnv.md",
@@ -206,11 +217,7 @@
     "02 - Areas/Games/BDG3/Warlock Build.md",
     "99 - Meta/00 - Templates/Default Template.md",
     "02 - Areas/Dev/Easy ways to change the background color on a particular note.md",
-    "02 - Areas/Dev/Eww/Dead-Airspace-Eww.md",
     "Untitled.canvas",
-    "02 - Areas/Dev/Callouts.md",
-    "02 - Areas/Dev/banner tests.md",
-    "02 - Areas/Dev/Gruvbox read me.md",
     "02 - Areas/Games/BDG3",
     "02 - Areas/Games",
     "03 - Resources/Pictures/Zzzzzzz.jpg",
