@@ -1359,6 +1359,9 @@ customize
 checklist
 checkbox
 caa
+commonly
+correctiv
+campact
 span
 style
 sync
@@ -3415,6 +3418,9 @@ siduck
 swamp
 srgb
 svg
+streichen
+streiken
+stoppen
 Obsidic
 Obsidian
 OS
@@ -5220,6 +5226,9 @@ Efficiently
 Exercise
 Early
 Ending
+Extrastunde
+Erhöhung
+Eier
 repo
 rein
 rechtfertigen
@@ -6462,6 +6471,7 @@ requests
 rausgeschmissen
 relies
 root
+revolutionieren
 mit
 muss
 man
@@ -7622,6 +7632,8 @@ metadata
 marker
 modifier
 margin
+menschliche
+mahle
 Theme
 Terminal
 Templates
@@ -12753,6 +12765,7 @@ excessively
 eventboxes
 evenly
 elkowar
+echt
 über
 übernehmen
 überkategorie
@@ -14123,6 +14136,7 @@ gear
 geometry
 grey
 gennerelle
+geflogen
 Installation
 Ipad
 Internet
@@ -15028,6 +15042,8 @@ Improvement
 Introduction
 Illithid
 Imperatus
+Ipki
+Intervention
 Um
 Urteile
 Urteil
@@ -16028,6 +16044,7 @@ Umll
 UOK
 UDP
 Use
+Unterstützt
 alle
 arbeit
 anderen
@@ -18323,6 +18340,7 @@ notify
 nesting
 nmcli
 network
+nzz
 für
 fenster
 folder
@@ -19519,6 +19537,8 @@ ffffff
 fcadaa
 fff
 ffd
+forstwirtschaftliche
+funk
 obsidian
 organisiert
 of
@@ -21185,6 +21205,7 @@ zEo
 zfks
 zLe
 zentriepetahlkraft
+zeitgleich
 dier
 diesen
 den
@@ -23625,6 +23646,7 @@ inplementiert
 input
 italic
 internal
+info
 Wahl
 Windows
 Wie
@@ -24603,6 +24625,8 @@ Window
 Width
 Widget
 Widgets
+Wehrhafte
+WeAct
 Linux
 Links
 Lautstärke
@@ -25474,6 +25498,10 @@ Lua
 Learn
 Labels
 Left
+Landwirte
+Lkw
+Landtagswahl
+Legehennen
 DE
 Der
 Daily
@@ -26354,6 +26382,8 @@ Dynamic
 Data
 Dawn
 Dusk
+Durchforste
+Deutschlandfunk
 Kitty
 Kategorien
 Kochen
@@ -27321,6 +27351,8 @@ Kwom
 Ketone
 Kreisbewegungen
 Koulen
+Kfz
+Kapazität
 Alle
 Areas
 Archives
@@ -28307,6 +28339,9 @@ ACTIVE
 Afternoon
 AlphaTechnolog
 Animation
+Arbeitsblatt
+Agrardiesel
+Autonome
 Powershell
 Para
 Projects
@@ -29160,6 +29195,10 @@ Property
 Possible
 Phosphor
 Poiret
+Protest
+Partei
+Proteste
+POLITIK
 werden
 wie
 wo
@@ -32532,6 +32571,9 @@ bool
 btns
 battery
 blockquote
+bauerndemo
+bauernprottest
+bpb
 kopieren
 kombination
 kommt
@@ -35500,6 +35542,10 @@ However
 Hence
 HyperMD
 Headder
+Handwerk
+Höcke
+Hurensöhne
+Haspe
 Vault
 Vollends
 Verlinkungen
@@ -36449,6 +36495,7 @@ Values
 Variables
 Vermoot
 Veins
+Villain
 platz
 projects
 präsentiert
@@ -37720,6 +37767,7 @@ padding
 png
 primary
 pill
+protestierten
 Zettelkasten
 Zerstöre
 Zukunft
@@ -38563,6 +38611,7 @@ ZwiICg
 ZSWuShYv
 Zentriepetalkraft
 ZNDfeldg
+Zuge
 Maps
 Meta
 Mahlen
@@ -39520,6 +39569,8 @@ Midday
 Midnight
 Modlist
 Mono
+Medien
+Maut
 Content
 CS
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -42300,6 +42351,9 @@ Feast
 Flayer
 Framework
 Face
+Flugzeug
+Flugroute
+Flugverkehr
 helfen
 haben
 hier
@@ -47944,6 +47998,12 @@ SIGNAL
 Showcase
 Saimoomedits
 Syndrizzle
+Sparmaßnahmen
+Subventionierungen
+Steuer
+Spediteure
+Speditionen
+Spiegelmagazin
 Journal
 Jetzt
 JFIF
@@ -49646,6 +49706,12 @@ BAT
 Behold
 Battlesquid
 Bai
+Bauernproteste
+Bundesregierung
+Bsp
+Bauernprotesten
+Bundestagswahl
+Boing
 Quelle
 Quiz
 Qa
@@ -50286,6 +50352,7 @@ QWR
 QxR
 QIM
 QVSH
+Qual
 Äußerung
 Änderung
 Ängste
