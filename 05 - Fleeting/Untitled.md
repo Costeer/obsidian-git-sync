@@ -6,4 +6,4 @@ I hope to find a place full of democracy loving Helldivers like myself that
 
 no this is the first time 
 
-I am as ready a
+I am as ready as a
