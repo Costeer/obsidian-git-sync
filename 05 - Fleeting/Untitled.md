@@ -2,6 +2,8 @@ I would say that i am mostly skilled at exploring the undersides of resupply dro
 
 I hope to be available as often as i can (witch may not be as often as i would like)
 
-I hope to find a place full of democracy loving Helldivers like myself that maybe 
+I hope to find a place full of democracy loving Helldivers like myself that 
 
 no this is the first time 
+
+I am as ready a
