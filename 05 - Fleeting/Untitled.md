@@ -1,1 +1,1 @@
-I would say that i am most skilled at exploring the undersides of resupply drops as well as bumping my teammates with my hellpod but my specialety has to be my at testing the explosive capabilities of cluster bombs 
+I would say that i am most skilled at exploring the undersides of resupply drops as well as lightly bumping my teammates with my hellpod but my specialty has to be my ability to test the explosive capabilities of cluster bombs witch i think makes me an engineer 
