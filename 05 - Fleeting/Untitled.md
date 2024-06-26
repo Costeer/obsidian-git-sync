@@ -9,3 +9,5 @@ no this is the first time
 I ready to blindly follow the orders of high command just like i learned at helldiver training
 
 I hope to help super earth in defeating the enemy's of managed democracy (hi i hope my English is not to bad i am dyslexic and English is not my native language :3)
+
+Hi and thanks for the Introduction. I'm looking forward to my deployment as well and just to clarify English isn't my native language so please excuse some mistakes
