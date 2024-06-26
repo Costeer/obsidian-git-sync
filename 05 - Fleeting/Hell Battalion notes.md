@@ -5,4 +5,7 @@
 ##### Leo Platoon
 
 
-# 
+# Next event
+
+Freitag 26.6
+
