@@ -8,4 +8,4 @@ no this is the first time
 
 I ready to blindly follow the orders of high command just like i learned at helldiver training
 
-I hope to help superearth 
+I hope to help super earth in defeating the enemy's of democracy
