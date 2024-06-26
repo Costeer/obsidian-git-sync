@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "11021fd501a54c4e",
+        "id": "3dd899efae145298",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4bb304d61bc8c7",
+            "id": "a5081af327d23ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94ca8b049ccb1064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Fleeting/Untitled.md",
+                "file": "05 - Fleeting/Hell Battalion notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Fleeting/Untitled.md",
+                "file": "05 - Fleeting/Hell Battalion notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "05 - Fleeting/Untitled.md",
+                "file": "05 - Fleeting/Hell Battalion notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94ca8b049ccb1064",
+  "active": "a5081af327d23ebc",
   "lastOpenFiles": [
-    "README.md",
     "05 - Fleeting/Untitled.md",
+    "05 - Fleeting/Hell Battalion notes.md",
+    "README.md",
     "03 - Resources/Excalidraw/carbonylgruppe.excalidraw.md",
     "02 - Areas/0 - Schule/Chemie/Zucker.md",
     "02 - Areas/0 - Schule/Chemie/Van der Waals kräfte.md",
@@ -230,7 +217,6 @@
     "02 - Areas/0 - Schule/Chemie/Neutron.md",
     "02 - Areas/0 - Schule/Chemie/Mol™.md",
     "02 - Areas/0 - Schule/Chemie/Molekül.md",
-    "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
     "Untitled.canvas",
     "02 - Areas/Games/BDG3",
     "02 - Areas/Games",
