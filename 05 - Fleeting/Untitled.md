@@ -8,4 +8,4 @@ no this is the first time
 
 I ready to blindly follow the orders of high command just like i learned at helldiver training
 
-I hope to help super earth in defeating the enemy's of managed democracy (hi i hope my English is not to bad i am dyslexic and )
+I hope to help super earth in defeating the enemy's of managed democracy (hi i hope my English is not to bad i am dyslexic and English is not my native language :3)
