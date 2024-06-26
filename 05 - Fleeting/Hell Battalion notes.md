@@ -11,4 +11,7 @@ Freitag 26.6
 
 ### Important people
 
-Ain and 
+Company 
+gale
+Platoon
+Ain and Stells
