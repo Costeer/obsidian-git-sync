@@ -4,4 +4,4 @@ I hope to be available as often as i can (witch may not be as often as i would l
 
 I hope to find a friendly democratic 
 
-No this is my firs venture into 
+No this is my firs venture 
