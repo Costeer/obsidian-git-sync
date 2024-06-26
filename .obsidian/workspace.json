@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae4e9b4bd325efd",
+        "id": "86471f1ecea1ec7a",
         "type": "tabs",
         "children": [
           {
-            "id": "3c9a503307f45fe9",
+            "id": "b8d5509bcee7f542",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "05 - Fleeting/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,6 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "05 - Fleeting/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,6 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "05 - Fleeting/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,8 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c9a503307f45fe9",
+  "active": "b8d5509bcee7f542",
   "lastOpenFiles": [
+    "README.md",
+    "05 - Fleeting/Untitled.md",
     "03 - Resources/Excalidraw/carbonylgruppe.excalidraw.md",
     "02 - Areas/0 - Schule/Chemie/Zucker.md",
     "02 - Areas/0 - Schule/Chemie/Van der Waals kräfte.md",
@@ -207,8 +217,6 @@
     "02 - Areas/0 - Schule/Chemie/Mol™.md",
     "02 - Areas/0 - Schule/Chemie/Molekül.md",
     "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes in einer Lösung.md",
-    "02 - Areas/0 - Schule/Chemie/Konzentration eines Stoffes.md",
-    "02 - Areas/0 - Schule/Chemie/Kohlenwasserstoffe.md",
     "Untitled.canvas",
     "02 - Areas/Games/BDG3",
     "02 - Areas/Games",

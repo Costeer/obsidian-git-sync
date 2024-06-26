@@ -1,0 +1,1 @@
+I would say that i am most skilled at discovering the undersides of resupply drops as well as hitting my teammates with my hellpod and at testing the explosive capabilities of cluster bombs 
