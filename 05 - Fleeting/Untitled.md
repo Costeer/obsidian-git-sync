@@ -6,4 +6,6 @@ I hope to find a place full of democracy loving Helldivers like myself that
 
 no this is the first time 
 
-I ready to blindly follow the orders of high command just like i learnd 
+I ready to blindly follow the orders of high command just like i learned at helldiver training
+
+I hope to help superearth 
