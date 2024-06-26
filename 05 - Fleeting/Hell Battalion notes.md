@@ -17,4 +17,4 @@ Platoon
 Ain and Stells
 
 
-#### Acryny
+#### Acronyms
